@@ -17,11 +17,15 @@ try:
 except Exception:
     pass
 
+import glob
+
 BASE = os.path.dirname(__file__)
-DB_DIR = os.path.join(BASE, "chroma_db")
+PAPERS_DIR = os.path.join(BASE, "papers")
 COLLECTION = "usagi_papers"
 MODEL = "claude-sonnet-4-6"
 TOP_K = 6
+CHUNK_SIZE = 1200
+CHUNK_OVERLAP = 200
 
 # Streamlit Cloud の Secrets か環境変数からキーを取得
 API_KEY = os.getenv("ANTHROPIC_API_KEY") or st.secrets.get("ANTHROPIC_API_KEY", "")
@@ -31,10 +35,47 @@ st.title("🐰 うさぎ論文AI")
 st.caption("世界中のオープンアクセスのうさぎ論文に基づいて回答します / Answers grounded in open-access rabbit research papers")
 
 
-@st.cache_resource
+def _parse_header(text):
+    meta, body_start = {}, 0
+    lines = text.splitlines()
+    for i, line in enumerate(lines):
+        if line.strip() == "":
+            body_start = i + 1
+            break
+        if ":" in line:
+            k, v = line.split(":", 1)
+            meta[k.strip().lower()] = v.strip()
+    return meta, "\n".join(lines[body_start:])
+
+
+def _chunk(text):
+    out, start = [], 0
+    while start < len(text):
+        out.append(text[start:start + CHUNK_SIZE])
+        start += CHUNK_SIZE - CHUNK_OVERLAP
+    return out
+
+
+@st.cache_resource(show_spinner="論文データベースを構築中...（初回のみ少し時間がかかります）")
 def get_collection():
-    client = chromadb.PersistentClient(path=DB_DIR)
-    return client.get_collection(COLLECTION)
+    # HNSWバイナリはOS/CPU依存で移植できないため、起動時にテキストから構築する
+    client = chromadb.EphemeralClient()
+    col = client.create_collection(COLLECTION)
+    docs, metas, ids = [], [], []
+    for fpath in sorted(glob.glob(os.path.join(PAPERS_DIR, "*.txt"))):
+        fname = os.path.basename(fpath)
+        with open(fpath, encoding="utf-8") as f:
+            header, body = _parse_header(f.read())
+        title = header.get("title", fname)
+        for j, ch in enumerate(_chunk(body)):
+            if len(ch.strip()) < 50:
+                continue
+            docs.append(ch)
+            metas.append({"title": title, "year": header.get("year", "")})
+            ids.append(f"{fname}_{j}")
+    for i in range(0, len(docs), 200):
+        col.add(documents=docs[i:i + 200], metadatas=metas[i:i + 200], ids=ids[i:i + 200])
+    return col
 
 
 @st.cache_resource
@@ -84,8 +125,8 @@ if not API_KEY:
     st.error("APIキーが設定されていません。Streamlit Cloud の Secrets に ANTHROPIC_API_KEY を設定してください。")
     st.stop()
 
-if not os.path.exists(DB_DIR):
-    st.error("論文インデックスが見つかりません。先に ingest.py と build_index.py を実行してください。")
+if not glob.glob(os.path.join(PAPERS_DIR, "*.txt")):
+    st.error("論文データが見つかりません。先に ingest.py を実行してください。")
     st.stop()
 
 if "messages" not in st.session_state:
