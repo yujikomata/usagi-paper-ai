@@ -4,6 +4,9 @@
 """
 import os
 
+# protobuf の C実装とランタイムの不整合を回避（chromadb import前に設定）
+os.environ.setdefault("PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION", "python")
+
 import chromadb
 import streamlit as st
 from anthropic import Anthropic
