@@ -1,0 +1,7 @@
+TITLE: Micro-computed Tomography-Based Collagen Orientation and Anisotropy Analysis of Rabbit Articular Cartilage.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1007/s10439-023-03183-4
+SOURCE: EuropePMC/MED/37005948
+
+The collagen network is the highly organized backbone of articular cartilage providing tissue tensile stiffness and restricting proteoglycan bleaching out of the tissue. Osteoarthritis (OA) diminishes proper collagen network adaptation. Our aim was to provide quantitative three-dimensional (3D) information of the cartilage collagen network adaptation in early osteoarthritis using high resolution micro-computed tomography (µCT)-imaging. Osteochondral samples from the femoral condyles were collected from healthy (N = 8, both legs) and experimental OA rabbit model with anterior cruciate ligament transection (N = 14, single leg). Samples were processed for cartilage µCT-imaging and histological evaluation with polarized light microscopy (PLM). Structure tensor analysis was used to analyse the collagen fibre orientation and anisotropy of the µCT-images, and PLM was used as a validation for structural changes. Depth-wise comparison of collagen fibre orientation acquired with µCT-imaging and PLM correlated well, but the values obtained with PLM were systematically greater than those measured with µCT-imaging. Structure tensor analysis allowed for 3D quantification of collagen network anisotropy. Finally, µCT-imaging revealed only minor differences between the control and experimental groups.

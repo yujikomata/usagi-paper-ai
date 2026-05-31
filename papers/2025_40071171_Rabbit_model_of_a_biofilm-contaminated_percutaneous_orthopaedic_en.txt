@@ -1,0 +1,7 @@
+TITLE: Rabbit model of a biofilm-contaminated, percutaneous orthopaedic endoprosthesis.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1097/oi9.0000000000000384
+SOURCE: EuropePMC/MED/40071171
+
+Preclinical models of osseointegrated orthopaedic implants tend to focus on implant stability, surface modifications to enhance integration with host tissue, and reduction in iatrogenic contamination through antibiotic-eluting/bacteria-resistant coatings. While these studies are imperative to early success in osseointegration, continued success of percutaneous devices throughout the lifespan of the patient is also critically important. A perpetual challenge to the implant is formation of bacterial biofilm on the abutment. Once adhered, biofilm-based bacteria are recalcitrant and readily contaminate the subcutaneous soft tissue of the stoma. To this end, the rabbit model reported herein replicates the clinical scenario of a patient with a biofilm-contaminated abutment. This model enables preclinical testing of advanced therapeutics beyond the traditional antibiotic-based approach, potentially increasing the longevity of the device.

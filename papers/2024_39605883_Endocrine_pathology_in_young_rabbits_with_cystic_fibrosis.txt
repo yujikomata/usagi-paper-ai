@@ -1,0 +1,7 @@
+TITLE: Endocrine pathology in young rabbits with cystic fibrosis.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1136/egastro-2024-100102
+SOURCE: EuropePMC/MED/39605883
+
+BackgroundCystic fibrosis (CF) is an autosomal recessive genetic disorder caused by loss-of-function mutations in the CF transmembrane conductance regulator gene. CF-related pancreatic lesions are known to cause exocrine dysfunctions such as pancreatic insufficiency, and endocrine dysfunctions, including CF related diabetes. In a previous study, we generated CF rabbits using CRISPR/Cas9-mediated gene editing.MethodsCF rabbits were subjected to histological analysis with a focus on CF associated pancreatic lesions. Endocrine function related assays were conducted to evaluate CF related pancreatic endocrine disorders in these animals.ResultsWe report that CF rabbits develop spontaneous pancreatic lesions at a young age, characterised by pancreatic inflammation and fibrosis, vacuolar degeneration, epithelium mucus-secretory cell metaplasia, and pancreatic duct dilation. The size of the pancreatic islets in the CF rabbits is significantly smaller than that of the wild type animals. Consistent with these pathological findings, young CF rabbits exhibited signs of pancreatic endocrine related disorders such as lower insulin levels and impaired glucose metabolism.ConclusionsOur results suggest that the CF rabbit could serve as a valuable model for translational research on CF related pancreatic endocrine dysfunction.

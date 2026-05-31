@@ -1,0 +1,7 @@
+TITLE: McHDV VP60 Virus-like Particles Elicit Protective Immunity Against <i>Moschus chrysogaster</i> Hemorrhagic Disease in Rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/pathogens13110925
+SOURCE: EuropePMC/MED/39599478
+
+Moschus chrysogaster viral hemorrhagic disease (McVHD), caused by the Moschus chrysogaster hemorrhagic disease virus (McHDV), is an acute and highly fatal infectious disease of musk deer. At present, there is no prevention or treatment for this disease. In this study, we constructed a recombinant bacmid containing the McHDV VP60 gene and obtained the recombinant baculovirus rBac-McHDV VP60 by transfection into Sf9 (Spodoptera frugiperda) insect cells. The McHDV VP60 protein was successfully expressed in the insect cell-baculovirus expression system; furthermore, it was released in the supernatant of infected insect cells and spontaneously assembled to form virus-like particles (VLPs), which were structurally and immunologically indistinguishable from the Moschus chrysogaster viral hemorrhagic disease virion. Hypodermic vaccination of rabbits with the VLPs conferred complete protection in 14 days; this protection was found to be effective from the seventh day after VLP injection and was accompanied by a strong humoral response. This study is the first attempt to express the VP60 gene of McHDV using an insect baculovirus system, which provides an experimental basis for the virus-like particle vaccine of McVHD.

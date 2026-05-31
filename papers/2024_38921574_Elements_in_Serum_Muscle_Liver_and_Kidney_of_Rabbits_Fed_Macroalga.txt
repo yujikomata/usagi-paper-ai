@@ -1,0 +1,7 @@
+TITLE: Elements in Serum, Muscle, Liver, and Kidney of Rabbits Fed Macroalgae-Supplemented Diets.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/md22060263
+SOURCE: EuropePMC/MED/38921574
+
+The addition of marine macroalgae to animal feed has garnered interest due to the demonstrated benefits of gut health in many livestock species. Most macroalgae have a higher mineral content than terrestrial vegetables, making them an attractive, sustainable source of minerals. However, some macroalgae contain elevated concentrations of iodine and arsenic, which may be transferred to the meat of livestock fed with macroalgae. This study evaluated the mineral profile of rabbit serum, muscle, liver, and kidney of rabbits fed diets supplemented with different marine macroalgae, with the goal of improving post-weaning gut health and reducing reliance on antibiotics. We found increased deposition of iodine in muscle, liver, and kidney due to macroalgae supplementation, which is particularly promising for regions with low iodine endemicity. Higher, though relatively low arsenic concentrations, compared to those in other animal meats and food sources, were also detected in the muscle, liver, and kidney of macroalgae-fed rabbits. The absence of apparent interactions with other micronutrients, particularly selenium, suggests that the inclusion of macroalgae in rabbit diets will not affect the overall mineral content. Enhanced bioavailability of elements such as phosphorus and iron may provide additional benefits, potentially reducing the need for mineral supplementation.

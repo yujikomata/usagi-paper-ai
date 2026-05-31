@@ -1,0 +1,7 @@
+TITLE: A multi-omics dataset of the response to early plant polysaccharide ingestion in rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1038/s41597-024-03471-1
+SOURCE: EuropePMC/MED/38918405
+
+The transition from a milk-based diet to exclusive solid feeding deeply modifies microbiota-host crosstalk. Specifically, early ingestion of plant polysaccharides would be one of the main nutritional components to drive host-microbiota-interaction. To capture the effects of polysaccharides early-life nutrition (starch vs rapidly fermentable fiber) on the holobiont development, we investigated on the one hand the gut bacteriome and metabolome and on the other hand the transcriptome of two host gut tissues. Rabbit model was used to study post-natal co-development of the gut microbiota and its host around weaning transition. The assessment of the microbial composition of the gut appendix together with the caecum was provided for the first time. Gene expression signatures were analyzed along the gut (ileum and caecum) through high-throughput qPCR. The data collected were completed by the analysis of animal growth changes and time-series assessment of blood biomarkers. Those accessible and reusable data could help highlight the gut development dynamics as well as biological adaptation processes at the onset of solid feeding.

@@ -1,0 +1,7 @@
+TITLE: CoPoP liposomes displaying stabilized clade C HIV-1 Env elicit tier 2 multiclade neutralization in rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1038/s41467-024-47492-1
+SOURCE: EuropePMC/MED/38605096
+
+One of the strategies towards an effective HIV-1 vaccine is to elicit broadly neutralizing antibody responses that target the high HIV-1 Env diversity. Here, we present an HIV-1 vaccine candidate that consists of cobalt porphyrin-phospholipid (CoPoP) liposomes decorated with repaired and stabilized clade C HIV-1 Env trimers in a prefusion conformation. These particles exhibit high HIV-1 Env trimer decoration, serum stability and bind broadly neutralizing antibodies. Three sequential immunizations of female rabbits with CoPoP liposomes displaying a different clade C HIV-1 gp140 trimer at each dosing generate high HIV-1 Env-specific antibody responses. Additionally, serum neutralization is detectable against 18 of 20 multiclade tier 2 HIV-1 strains. Furthermore, the peak antibody titers induced by CoPoP liposomes can be recalled by subsequent heterologous immunization with Ad26-encoded membrane-bound stabilized Env antigens. Hence, a CoPoP liposome-based HIV-1 vaccine that can generate cross-clade neutralizing antibody immunity could potentially be a component of an efficacious HIV-1 vaccine.

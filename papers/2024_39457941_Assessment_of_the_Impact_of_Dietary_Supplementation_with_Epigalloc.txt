@@ -1,0 +1,7 @@
+TITLE: Assessment of the Impact of Dietary Supplementation with Epigallocatechin Gallate (EGCG) on Antioxidant Status, Immune Response, and Intestinal Microbiota in Post-Weaning Rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/ani14203011
+SOURCE: EuropePMC/MED/39457941
+
+This study was conducted to investigate the impact of EGCG on antioxidant stress, immune response, and intestinal microbiota flora in post-weaning rabbits. A total of 144 40 d Ira rabbits (equally divided by sex), were randomly allocated to six treatments. with five groups receiving doses of 200, 400, 600, 800, and 1000 mg/kg of EGCG, while one group served as a control without EGCG. Over 48 days, this study the assessed growth performance, antioxidant capacity, immune system, intestinal morphology, and cecal microbiota in the rabbits. The results showed that EGCG did not affect growth performance; however, significant linear and quadratic correlations were observed between the MDA, T-AOC, and GSH-Px activities in the liver and jejunum (p p < 0.05). Additionally, positive linear and quadratic effects were found on the ileal villus height and the villus height/crypt depth ratio. The relative abundances of Euryarchaeota, Patescibacteria, and Synergistota were significantly enriched in rabbits fed with high dosages (600-1000 mg/kg) of EGCG. Conclusively, the addition of large doses of EGCG (400-800 mg/kg) can effectively suppress oxidative stress and alleviate weaning stress, thereby contributing to the protection of post-weaning rabbits.

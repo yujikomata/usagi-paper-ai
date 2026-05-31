@@ -1,0 +1,7 @@
+TITLE: Chitosan/PEG-mediated spinal cord fusion after complete dorsal transection in rabbits - functional results at 30 days.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.25259/sni_927_2023
+SOURCE: EuropePMC/MED/38213432
+
+BackgroundThe aim was to study functional recovery in experimental animals (rabbits) with transected spinal cords treated with a combination of photo-cross-linked chitosan in a homogeneous mixture with polyethylene glycol (PEG-chitosan).Methods20 rabbits (n = 10 experimental and n = 10 controls) were submitted to complete spinal cord transection at T9. The experimental group received an intraoperative injection of PEG-chitosan. Neurological recovery was assessed using the modified Basso, Beattie, and Bresnahan scale.ResultsIn the experimental group, partial recovery of movements, sensory function, and sphincter control were all observed by postoperative day 30. Paraplegia and anesthesia persisted in the control group; 4 controls died versus none in the test group.ConclusionPEG-chitosan is a candidate for neurological restoration after spinal paralysis.

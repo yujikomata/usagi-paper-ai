@@ -1,0 +1,7 @@
+TITLE: Novel Trivalent Vectored Vaccine for Control of Myxomatosis and Disease Caused by Classical and a New Genotype of Rabbit Haemorrhagic Disease Virus.
+YEAR: 2020
+JOURNAL: 
+DOI: 10.3390/vaccines8030441
+SOURCE: EuropePMC/MED/32764375
+
+Myxoma virus (MV) and rabbit haemorrhagic disease virus (RHDV) are the major causes of lethal viral diseases in the European rabbit. In 2010, a new RHDV genotype (RHDV2) emerged in the field that had limited cross-protection with the classical RHDV (RHDV1). For optimal protection of rabbits and preventing spread of disease, a vaccine providing protection against all three key viruses would be ideal. Therefore, a novel trivalent myxoma vectored RHDV vaccine (Nobivac Myxo-RHD PLUS) was developed similar to the existing bivalent myxoma vectored RHDV vaccine Nobivac Myxo-RHD. The new vaccine contains the Myxo-RHDV1 strain already included in Nobivac Myxo-RHD and a similarly produced Myxo-RHDV2 strain. This paper describes several key safety and efficacy studies conducted for European licensing purposes. Nobivac Myxo-RHD PLUS showed to be safe for use in rabbits from five weeks of age onwards, including pregnant rabbits, and did not spread from vaccinated rabbits to in-contact controls. Furthermore, protection to RHDV1 and RHDV2 was demonstrated by challenge, while the serological response to MV was similar to that after vaccination with Nobivac Myxo-RHD. Therefore, routine vaccination with Nobivac Myxo-RHD PLUS can prevent the kept rabbit population from these major viral diseases.

@@ -1,0 +1,7 @@
+TITLE: Measurement of Aqueous Humor Viscosity in an Experimental Rabbit Model With Corneal Neovascularization.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1167/tvst.14.3.9
+SOURCE: EuropePMC/MED/40067287
+
+PurposeThis study investigated the relationship between aqueous humor (AH) viscosity and vascular endothelial growth factor-A (VEGF-A) in a corneal neovascularization (CNV) model.MethodsTen female New Zealand rabbits were divided into two groups (n = 5 each). CNV was induced by alkaline burns on the right corneas of group B, whereas group A underwent a sham procedure. After 14 days, at least 150 µL of AH was extracted from both eyes. VEGF-A concentration was measured using ELISA, and AH viscosity was determined using a viscometer. Correlations between VEGF-A concentration, total protein concentration, and AH viscosity were assessed.ResultsVEGF-A concentration was significantly elevated in CNV-induced eyes than in noninduced eyes (6029.06 ± 7116.50 pg/mL vs. 115.63 ± 33.19 pg/mL, P ConclusionsAH viscosity positively correlated with VEGF-A concentration, particularly in CNV-induced eyes with elevated VEGF-A levels.Translational relevanceThe correlation between VEGF-A levels and AH viscosity in an experimental model of corneal neovascularization suggests that AH viscosity could serve as a biomarker for predicting IOP or surgical outcomes in conditions like neovascular glaucoma.

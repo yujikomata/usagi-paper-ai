@@ -1,0 +1,7 @@
+TITLE: Feasibility of rabbit auricular VX2 tumor model as an experimental model for intra-arterial embolization.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1371/journal.pone.0316282
+SOURCE: EuropePMC/MED/39883615
+
+This study aimed to evaluate the feasibility of VX2 tumor in rabbit auricles as an experimental model for intra-arterial embolization. This study was approved by our Institutional Animal Care and Use Committee. VX2 tumors were implanted in both auricles of 12 New Zealand White Rabbits. To investigate the angiographic and pathologic characteristics, angiography, ultrasonography, and thermography were performed 1-2 weeks after inoculation, and image analysis was performed. The animals were sacrificed thereafter, and histologic analysis was conducted by a pathologist. Tumors did not grow in 3/24 auricles of 12 rabbits used in the experiment, and one rabbit died during anesthesia for an ultrasonographic examination. Therefore, images were obtained from a total of 19 auricles. Angiography was successfully performed in 11 rabbits, and hypervascularity and tumor feeding vessels were clearly observed in all tumors. The enhancement effect increased significantly as the volume increased. In histologic evaluation, the average area of necrosis was 27%. In conclusion, a rabbit auricular VX2 tumor model is easy to create, and its features can be conveniently observed on visual inspection. Moreover, it appears hypervascular on angiography, and the tumor feeding vessel is easy to approach. Thus, it is useful for studying intra-arterial embolization.

@@ -1,0 +1,7 @@
+TITLE: Novel Recombinant Rabbit Hemorrhagic Disease Virus 2 (RHDV2) is Circulating in China within 12 Months after Original RHDV2 Arrival.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1155/2023/4787785
+SOURCE: EuropePMC/MED/40303780
+
+Rabbit hemorrhagic disease (RHD) causes lethal fulminant hepatitis in rabbits. Two different genotypes (GI.1 and GI.2) responsible for RHD are reported. GI.2 was first detected in France in 2010 and subsequently spread to other countries in Europe. In April 2020, GI.2 was detected in China. In this study, we report a novel recombinant strain of fatal rabbit hemorrhagic disease virus 2 (RHDV2 or GI.2) detected from domestic rabbits in three provinces in China in 2020-2021. Full-length genomic analysis has revealed that the recombinant virus contained an RHDV2 capsid gene and nonstructural genes from an unclassified lagovirus genotype. This type of virus emerged and circulated throughout China within a year after the initial detection of the original RHDV2. Compared with the original strain, the new virus showed a longer infected time and lower mortality rate but almost the same viral load at the moribund stage of infection. This might have resulted in high virus contamination in the environment, facilitating virus transmission. As the consequences of the presence of novel recombinant strains are unpredictable, the circulation of the novel variant in the population should be carefully monitored in China.

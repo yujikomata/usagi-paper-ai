@@ -1,0 +1,7 @@
+TITLE: Evaluation of hydrophilic surface osseointegration in low-density bone: Preclinical study in rabbits.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1590/0103-6440202305352
+SOURCE: EuropePMC/MED/37466527
+
+The aim of this study was to evaluate the osseointegration of a hydrophilic surface (blasting + acid etching + immersion in isotonic solution) in comparison with that of a control surface (blasting + acid etching) using an experimental model of low-density bone. To perform the study, 24 rabbits were submitted to the installation of 4 implants in the iliac bone bilaterally: 2 implants with a control surface and 2 implants with a hydrophilic surface. The rabbits were euthanized at 2, 4, and 8 weeks after implant installation. After euthanasia, one implant from each surface was used to perform the removal torque analysis, and the other implant was used for the execution of non-decalcified histological sections and evaluation of the bone implant contact (% BIC) as well as the fraction of bone tissue area between the implant threads (% BBT). The implants with a hydrophilic surface presented higher %BIC (42.92 ± 2.85% vs. 29.49 ± 10.27%) and % BBT (34.32 ± 8.52% vs. 23.20 ± 6.75%) (p < 0.05) in the 2-week period. Furthermore, the hydrophilic surface presented higher removal torque in the 8-week period (76.13 ± 16.00 Ncm2 vs. 52.77 ± 13.49 Ncm2) (p<0.05). Implants with a hydrophilic surface exhibited acceleration in the process of osseointegration, culminating in greater secondary stability in low-density bone than in implants with a control surface.

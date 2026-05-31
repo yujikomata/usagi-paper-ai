@@ -1,0 +1,7 @@
+TITLE: Clinical parameters obtained during tear film examination in domestic rabbits.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.1186/s12917-022-03492-1
+SOURCE: EuropePMC/MED/36368996
+
+BackgroundOne of the contributing factors to ocular surface health is a stable precorneal tear film. Considering the increasing interest in rabbits as pets and the limited literature available on domestic rabbit tearing, the aim of this study was to establish normative data for examination of the tear film in domestic rabbits.ResultsThe study included 75 client-owned domestic Holland Lop rabbits (150 eyes). The following examinations were performed in each eye: Schirmer tear test-1, tear osmometry, interferometry, tear meniscus height measurement and meibography (quantifying meibomian gland loss as a percentage). The resulting median (95% central range) values were 10.0 (5.0-17.3) mm/min for the Schirmer tear test-1, 345.0 (280.5-376.1) mOsm/L for tear osmolarity, grade 2 (1-4) of interferometry, 0.28 (0.20-0.47) mm for tear meniscus height and 0.0 (0.0-67.6) % meibomian gland loss. A significant association was found between tear osmolarity and age, with an estimated decrease of - 4.0 mOsm/L with each additional year of age (p ConclusionsThis is an original study that documents extensive tear film parameters in healthy Holland Lop rabbits. The results can be used as normative data for the examination of the tear film in this lagomorph breed.

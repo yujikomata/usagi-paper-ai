@@ -1,0 +1,7 @@
+TITLE: Morphometric Assessment of the Hip Joint in a Functional Dysplastic Rabbit Model.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/vetsci11080387
+SOURCE: EuropePMC/MED/39195841
+
+The present study investigates the morphometric changes in the hip joint in a surgically induced rabbit model of hip dysplasia through the sectioning of the ligamentum capitis femoris and pelvic limb immobilization. A total of seventeen rabbits were evaluated using radiographic and computed tomographic imaging to measure the following parameters: the femoral angles of anteversion and inclination, length and width indexes of the neck of the femur, and acetabular depth and ventroversion. Significant differences in femoral anteversion angle and acetabular depth were observed, particularly in the group of hip instability surgery with pelvic limb immobilization. The results have shown the influence of hip joint instability in the promotion of femoral anteversion and acetabular shallowing. These findings provide a foundation for future research on naturally occurring or experimentally induced hip dysplasia in rabbits and underscore the model's potential for studying the biomechanical and developmental aspects of hip joint disorders.

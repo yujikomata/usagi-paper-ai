@@ -1,0 +1,7 @@
+TITLE: A Versatile qPCR for Diagnosis of Leporid Gammaherpesvirus 5 Using Evagreen® or Taqman® Technologies.
+YEAR: 2021
+JOURNAL: 
+DOI: 10.3390/v13040715
+SOURCE: EuropePMC/MED/33924254
+
+In late 2019, the first herpesvirus in the genus Lepus, named leporid gammaherpesvirus 5 (LeHV-5) was described. At the time, herpetic typical lesions were observed in hares infected by the myxoma virus, which is known to induce immunosuppression. Though the real impact of LeHV-5 is still poorly understood, since it affects reproduction, it poses an additional threat to the already fragile populations of Iberian hare, demanding prevalence investigations. In this article, we describe the first quantitative molecular method for LeHV-5 detection, using either Taqman or the EvaGreen systems. This method has excellent sensitivity and specificity, it is able to detect 2.1 copies of LeHV-5 DNA and was validated with an internal control targeting the 18S rRNA gene, allowing monitoring extraction and PCR amplification efficiencies.

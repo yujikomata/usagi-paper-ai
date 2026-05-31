@@ -1,0 +1,7 @@
+TITLE: Chitosan-glucose derivative membrane obtained by Maillard reaction improves cartilage repair in a rabbit model.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1186/s13018-024-05127-7
+SOURCE: EuropePMC/MED/39367411
+
+BackgroundTreatment of articular cartilage injury remains a challenging clinical problem in orthopedics. Chitosan-derived biomaterial could be a potential adjuvant treatment to improve cartilage repair. In the current study, we examined the effects of two potential chitosan-derived materials on cartilage regeneration of osteochondral defects in rabbits.MethodsAn osteochondral defect was created over the rabbit knee and treated using three approaches: group A received no material (n = 24), group B received chitosan membranes with glucose absorption (CGA; n = 25), and group C received chitosan-glucose derivative membranes obtained via the Maillard reaction (CGMR; n = 25). Cartilage repair over the osteochondral defect was analyzed 12 weeks post-surgery via histological analysis, immunostaining, and reverse transcription-qualitative polymerase chain reaction (RT-qPCR) for type-I and type-II collagen mRNA.ResultsAccording to histological analysis, CGMR-treated defects showed significantly improved modified O'Driscoll scoring when compared with no material- and CGA-treated defects (20.9 ± 4.3 vs. 13.00 ± 2.5 and 17.7 ± 4.6, p ConclusionsCGMR might improve cartilage regeneration in osteochondral defects.

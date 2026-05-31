@@ -1,0 +1,7 @@
+TITLE: Genetic Characterization of Cryptosporidium cuniculus from Rabbits in Egypt.
+YEAR: 2021
+JOURNAL: 
+DOI: 10.3390/pathogens10060775
+SOURCE: EuropePMC/MED/34203099
+
+Rabbits are increasingly farmed in Egypt for meat. They are, however, known reservoirs of infectious pathogens. Currently, no information is available on the genetic characteristics of Cryptosporidium spp. in rabbits in Egypt. To understand the prevalence and genetic identity of Cryptosporidium spp. in these animals, 235 fecal samples were collected from rabbits of different ages on nine farms in El-Dakahlia, El-Gharbia, and Damietta Provinces, Egypt during the period from July 2015 to April 2016. PCR-RFLP analysis of the small subunit rRNA gene was used to detect and genotype Cryptosporidium spp. The overall detection rate was 11.9% (28/235). All 28 samples were identified as Cryptosporidium cuniculus. The 16 samples successfully subtyped by the sequence analysis of the partial 60 kDa glycoprotein gene belonged to two subtypes, VbA19 (n = 1) and VbA33 (n = 15). As C. cuniculus is increasingly recognized as a cause of human cryptosporidiosis, Cryptosporidium spp. in rabbits from Egypt have zoonotic potential.

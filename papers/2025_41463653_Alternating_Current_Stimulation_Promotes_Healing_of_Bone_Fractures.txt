@@ -1,0 +1,7 @@
+TITLE: Alternating Current Stimulation Promotes Healing of Bone Fractures in Rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/bioengineering12121356
+SOURCE: EuropePMC/MED/41463653
+
+BackgroundBone fracture is a partial or complete break in the continuity of a bone, which poses a significant healthcare burden. It is important to discover a novel method to stimulate and speed-up the healing of bone fractures.AimThis study aimed to investigate the effects and mechanisms of alternating current (AC) in promoting bone fracture healing.MethodsA rabbit bone fracture model was used. X-ray and Micro-CT evaluated fracture healing, while HE staining and immunohistochemistry assessed morphological changes. In vitro, pre-osteoblastic cells were tested with alizarin red S staining and alkaline phosphatase (ALP) activity. RNA-seq analysis explored potential mechanisms.ResultsX-ray evaluation showed that alternating current stimulation (ACS) promoted bone formation and shaping by day 14 post-treatment. Micro-CT results revealed significant new bone formation as early as day 3 and day 7 (p ConclusionsACS may be a novel method for treating bone fractures more rapidly, significantly relieving the patient's burden, particularly in the early stages of bone healing.

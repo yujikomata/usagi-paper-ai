@@ -1,0 +1,7 @@
+TITLE: The complete mitochondrial genome of the lowland paca (Cuniculus paca) and its phylogenetic relationship with other New World hystricognath rodents.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1080/23802359.2023.2275830
+SOURCE: EuropePMC/MED/38188425
+
+The lowland paca (Cuniculus paca) is a nocturnal, widespread, and solitary large-sized rodent in the family Cuniculidae, and one of the most frequently hunted mammals in the Neotropical forests of Latin America. We assembled the first complete mitochondrial genome of lowland paca using three closely related hystricognath species as reference sequences. The mitochondrial genome is 16,770 basepairs (bp) in length, with similar characteristics of vertebrate mitochondrial genomes. We performed phylogenetic analyses using 26 mitochondrial genome of hystricognath species based on thirteen protein-coding genes. The result confirms the taxonomical placement among the New World hystricognath rodents with high support. The placement is consistent with previous phylogenetic studies based on individual mitochondrial and nuclear genes. The current study improves the phylogenic resolution of hystricognath rodents.

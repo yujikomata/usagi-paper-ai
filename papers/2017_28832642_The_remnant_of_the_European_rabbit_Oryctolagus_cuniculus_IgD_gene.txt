@@ -1,0 +1,7 @@
+TITLE: The remnant of the European rabbit (Oryctolagus cuniculus) IgD gene.
+YEAR: 2017
+JOURNAL: 
+DOI: 10.1371/journal.pone.0182029
+SOURCE: EuropePMC/MED/28832642
+
+Although IgD first appeared, along with IgM, in the cartilaginous fishes and has been retained throughout subsequent vertebrate evolution, it has been lost in a diverse group of vertebrate species. We previously showed that, unlike vertebrates that express IgD, the rabbit lacks an IgD (Cδ) gene within 13.5 kb downstream of the IgM gene. We report here that, by conducting BLAST searches of rabbit Ig heavy chain genomic DNA with known mammalian IgD exons, we identified the remnant of the rabbit Cδ gene approximately 21 kb downstream of the IgM gene. The remnant Cδ locus lacks the δCH1 and hinge exons, but contains truncated δCH2 and δCH3 exons, as well as largely intact, but non-functional, secretory and transmembrane exons. In addition, we report that the Cδ gene probably became non-functional in leporids at least prior to the divergence of rabbits and hares ~12 million years ago.

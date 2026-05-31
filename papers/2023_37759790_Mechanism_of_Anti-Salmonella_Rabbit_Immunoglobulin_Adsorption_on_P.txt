@@ -1,0 +1,7 @@
+TITLE: Mechanism of Anti-Salmonella Rabbit Immunoglobulin Adsorption on Polymer Particles.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/biom13091390
+SOURCE: EuropePMC/MED/37759790
+
+The adsorption of anti-Salmonella rabbit immunoglobulin (IgaR) on negatively charged polymer particles leading to the formation of immunolatex was studied using various techniques comprising atomic force microscopy (AFM) and laser Doppler velocimetry (LDV). Initially, the basic physicochemical properties of IgaR molecules and the particles, inter alia their electrophoretic mobilities, the zeta potentials and hydrodynamic diameters, were determined under different ionic strengths and pHs. Applying AFM, single immunoglobulin molecules adsorbed on mica were also imaged, which allowed to determine their size. The adsorption of the IgaR molecules on the particles leading to changes in their electrophoretic mobility was monitored in situ using the LDV method. The obtained results were interpreted applying a general electrokinetic model which yielded quantitative information about the molecule coverage on the particles. The obtained immunolatex was thoroughly characterized with respect to its acid-base properties and its stability upon storage. Notably, the developed procedure demonstrated better efficiency compared to commercially applied methods, characterized by a higher immunoglobulin consumption.

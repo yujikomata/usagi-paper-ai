@@ -1,0 +1,7 @@
+TITLE: Increased Risk for Atrial Alternans in Rabbit Heart Failure: The Role of Ca2+/Calmodulin-Dependent Kinase II and Inositol-1,4,5-trisphosphate Signaling.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/biom14010053
+SOURCE: EuropePMC/MED/38254653
+
+Heart failure (HF) increases the probability of cardiac arrhythmias, including atrial fibrillation (AF), but the mechanisms linking HF to AF are poorly understood. We investigated disturbances in Ca2+ signaling and electrophysiology in rabbit atrial myocytes from normal and failing hearts and identified mechanisms that contribute to the higher risk of atrial arrhythmias in HF. Ca2+ transient (CaT) alternans-beat-to-beat alternations in CaT amplitude-served as indicator of increased arrhythmogenicity. We demonstrate that HF atrial myocytes were more prone to alternans despite no change in action potentials duration and only moderate decrease of L-type Ca2+ current. Ca2+/calmodulin-dependent kinase II (CaMKII) inhibition suppressed CaT alternans. Activation of IP3 signaling by endothelin-1 (ET-1) and angiotensin II (Ang II) resulted in acute, but transient reduction of CaT amplitude and sarcoplasmic reticulum (SR) Ca2+ load, and lowered the alternans risk. However, prolonged exposure to ET-1 and Ang II enhanced SR Ca2+ release and increased the degree of alternans. Inhibition of IP3 receptors prevented the transient ET-1 and Ang II effects and by itself increased the degree of CaT alternans. Our data suggest that activation of CaMKII and IP3 signaling contribute to atrial arrhythmogenesis in HF.

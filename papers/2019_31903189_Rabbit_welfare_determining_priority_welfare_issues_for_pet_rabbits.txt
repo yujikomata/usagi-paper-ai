@@ -1,0 +1,7 @@
+TITLE: Rabbit welfare: determining priority welfare issues for pet rabbits using a modified Delphi method.
+YEAR: 2019
+JOURNAL: 
+DOI: 10.1136/vetreco-2019-000363
+SOURCE: EuropePMC/MED/31903189
+
+BackgroundRabbits are the third most popular pet in the UK, but little research into their welfare needs has been conducted.MethodsA modified Delphi method was used to generate expert consensus on the most important welfare issues for rabbits in the UK. The study involved 11 experts, recruited from a range of disciplines. The experts generated an initial broad list of welfare issues via an online discussion board. Two rounds of online surveys were conducted to prioritise these issues. The final round was a workshop with a subsection of experts. The experts decided that welfare issues should be ranked considering: (1) severity, (2) duration, and (3) prevalence.ResultsExperts considered that rabbits were often kept in inadequate housing, were not handled or socialised properly, were fed inappropriate diets and owners failed to vaccinate their rabbits against preventable diseases. Rabbits were thought to experience a reduced life expectancy. Lack of owner knowledge of rabbit husbandry and behaviour and, in some cases, also lack of veterinary knowledge, contributed to poor rabbit welfare.ConclusionsThe Delphi process resulted in consensus on the most significant welfare challenges faced by rabbits and can help guide future research and education priority decisions.

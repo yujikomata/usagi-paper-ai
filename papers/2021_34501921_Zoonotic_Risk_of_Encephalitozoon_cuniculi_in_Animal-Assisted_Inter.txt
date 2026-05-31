@@ -1,0 +1,7 @@
+TITLE: Zoonotic Risk of Encephalitozoon cuniculi in Animal-Assisted Interventions: Laboratory Strategies for the Diagnosis of Infections in Humans and Animals.
+YEAR: 2021
+JOURNAL: 
+DOI: 10.3390/ijerph18179333
+SOURCE: EuropePMC/MED/34501921
+
+The involvement of animals for therapeutic purposes has very ancient roots. To date, it is clear that animal-assisted interventions (AAIs), in addition to ensuring the replacement of missing or deficient affects, improves psychophysiological parameters connected to human health. However, AAI could potentially present risks related to the transmission of infectious agents from animals to humans. Among these microorganisms, E. cuniculi is a microspore which induces pathological effects (fever, headache, nausea, vomiting, diarrhea, breathlessness, respiratory symptoms, and weakness) in both humans and animals. Consequently, an accurate and fast diagnosis of E. cuniculi infection, as well as the identification of new diagnostic approaches, is of fundamental importance. This literature review was carried out to provide an extensive and comprehensive analysis of the most recent diagnostic techniques to prevent and care for E. cuniculi-associated risks in the AAI field.

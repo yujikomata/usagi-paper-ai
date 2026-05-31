@@ -1,0 +1,7 @@
+TITLE: Konjac glucomannan defends against high-fat diet-induced atherosclerosis in rabbits by promoting the PI3K/Akt pathway.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1016/j.heliyon.2023.e13682
+SOURCE: EuropePMC/MED/36852043
+
+Atherosclerosis (AS) is the main cause of cardiovascular disease and cerebral infarction, which seriously endanger human health. This study aimed to investigate konjac glucomannan (KGM) defends against high-fat diet-induced AS in rabbits by promoting the PI3K/Akt pathway. KGM administration reduced the degree of AS indicated by reducing the plaques and foam cells, the tunica intima thickness, and the tunica intima/tunica media thickness ratio in the aorta, and enlarging the lumen of the aorta. In addition, KGM administration regulated blood lipids, ameliorated inflammation indicated by reducing the levels of tumor necrosis factor-alpha (TNF-α), interleukin (IL)-6, CRP, and VCAM-1, and attenuated endothelial injury, simultaneously mitigated oxidative stress indicated by decreasing MPO activity and the concentrations of MDA and increasing the GSH-Px and SOD concentrations. Moreover, KGM promotes the phosphorylation of PI3K and AKT. However, these effects of KGM on rabbits with high-fat diet-induced AS were blocked by LY294002. In conclusion, KGM defends against high-fat diet-induced AS in rabbits by promoting the PI3K/Akt pathway.

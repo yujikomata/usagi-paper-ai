@@ -1,0 +1,7 @@
+TITLE: Progress towards the Replacement of the Rabbit Blood Sugar Test for the Quantitative Determination of the Biological Activity of Insulins (USP ) with an In Vitro Assay.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ani13182953
+SOURCE: EuropePMC/MED/37760353
+
+For the quantification of insulin activity, United States Pharmacopeia (USP) general chapter  continues to require the rabbit blood sugar test. For new insulin or insulin analogue compounds, those quantitative data are expected for stability or comparability studies. At Sanofi, many rabbits were used to fulfil the authority's requirements to obtain quantitative insulin bioactivity data until the in vivo test was replaced. In order to demonstrate comparability between the in vivo and in vitro test systems, this study was designed to demonstrate equivalency. The measurement of insulin lispro and insulin glargine drug substance and drug product batches, including stress samples (diluted or after temperature stress of 30 min at 80 °C), revealed a clear correlation between the in vitro and in vivo test results. The recovery of quantitative in vitro in-cell Western (ICW) results compared to the in vivo test results was within the predefined acceptance limits of 80% to 125%. Thus, the in vitro ICW cell-based bioassay leads to results that are equivalent to the rabbit blood sugar test per USP , and it is highly suitable for insulin activity quantification. For future development compounds, the in vitro in-cell Western cell-based assay can replace the rabbit blood sugar test required by USP .

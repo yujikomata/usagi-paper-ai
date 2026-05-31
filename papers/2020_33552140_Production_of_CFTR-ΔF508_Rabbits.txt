@@ -1,0 +1,7 @@
+TITLE: Production of CFTR-ΔF508 Rabbits.
+YEAR: 2020
+JOURNAL: 
+DOI: 10.3389/fgene.2020.627666
+SOURCE: EuropePMC/MED/33552140
+
+Cystic Fibrosis (CF) is a lethal autosomal recessive disease caused by mutations in the gene encoding the cystic fibrosis transmembrane conductance regulator (CFTR). The most common mutation is the deletion of phenylalanine residue at position 508 (ΔF508). Here we report the production of CFTR-ΔF508 rabbits by CRISPR/Cas9-mediated gene editing. After microinjection and embryo transfer, 77 kits were born, of which five carried the ΔF508 mutation. To confirm the germline transmission, one male ΔF508 founder was bred with two wild-type females and produced 16 F1 generation kits, of which six are heterozygous ΔF508/WT animals. Our work adds CFTR-ΔF508 rabbits to the toolbox of CF animal models for biomedical research.

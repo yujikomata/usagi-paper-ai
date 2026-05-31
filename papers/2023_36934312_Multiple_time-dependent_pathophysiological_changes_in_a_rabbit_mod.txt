@@ -1,0 +1,7 @@
+TITLE: Multiple time-dependent pathophysiological changes in a rabbit model of high-fat diet-induced hyperlipidemia.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1002/2211-5463.13597
+SOURCE: EuropePMC/MED/36934312
+
+High-fat diets (HFD) adversely affect organ systems. Several studies have examined HFD-related disorders in animals but only in a few organs and time points. Herein, we evaluated disease development with time-dependent HFD-induced pathological, cardiovascular, and morphological changes in rabbits with lipid metabolism similar to that in humans for 9 weeks. The body weights and waist ratio of the HFD group were higher than those in the control group. HFD significantly increased the total cholesterol, low-density lipoprotein, high-density lipoprotein, and phospholipid levels after 3 weeks. Liver enzyme levels increased with hepatomegaly, steatosis, and fibrosis after 3 or 6 weeks. RBCs and hemoglobin decreased, while platelets increased in the HFD group with atherosclerosis and inflammatory cell infiltration in the aorta after 6 weeks. Ejection fraction and fractional shortening values decreased in the HFD group after 9 weeks. Creatinine increased with glomerulosclerosis in the kidneys of the HFD groups after 3 weeks, indicating renal dysfunction. Lipid accumulation was found in the pancreas after 9 weeks. Lipid accumulation and hypertrophy were observed in the adrenal glands after 3 weeks. Overall, our findings provide global reference data on the time-dependent effects of HFD on the body and may serve as a guide for future HFD risk prevention.

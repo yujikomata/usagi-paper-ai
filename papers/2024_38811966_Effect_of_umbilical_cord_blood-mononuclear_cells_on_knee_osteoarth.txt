@@ -1,0 +1,7 @@
+TITLE: Effect of umbilical cord blood-mononuclear cells on knee osteoarthritis in rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1186/s13018-024-04815-8
+SOURCE: EuropePMC/MED/38811966
+
+BackgroundTo investigate the effect and underlying mechanism of umbilical cord blood-mononuclear cells (UCB-MNCs) in treating knee osteoarthritis (KOA) in rabbits.MethodsA rabbit KOA model was prepared by anterior cruciate ligament transection (ACLT). Fifty New Zealand white rabbits were randomly divided into the control group, model group, sodium hyaluronate (SH) group, platelet-rich plasma (PRP) group and UCB-MNC group. Knee injections were performed once a week for five consecutive weeks. The gross view of the knee joint, morphology of knee cartilage and structural changes in the knee joint were observed on CT scans, and graded by the Lequesne MG behavioral score and the Mankin score. TNF-α and IL-1β levels in the synovial fluid of the knee were measured by the enzyme-linked immunosorbent assay (ELISA). Expression levels of MMP-13 and COL-II in the knee cartilage were detected by Western blotting and qRT-PCR.ResultsThe Lequesne MG behavioral score and the Mankin score were significantly higher in the model group than those in the control group (P ConclusionInjections of UCB-MNCs into knees protect the articular cartilage and hinder the progression of KOA in rabbits by improving the local microenvironment at knee joints.

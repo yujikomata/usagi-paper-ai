@@ -1,0 +1,7 @@
+TITLE: The Spritztube: A New Device for the Extraglottic Intubation of Rabbits.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.3390/ani13010156
+SOURCE: EuropePMC/MED/36611764
+
+The Spritztube (ST) is an extraglottic airway device developed for humans. The aim of the study was to design an ST for rabbits and to evaluate its feasibility. The study was divided into two phases. Phase I: anatomical study on 12 rabbit cadavers to design 2 STs (8 and 10 Ch, external diameter) for rabbits. Phase II: fourteen privately owned rabbits were anaesthetised, and intubation was attempted using a ST. Tube size, the method for confirming the correct positioning, the number of attempts, the time needed for the correct positioning of the ST and complications were recorded. The ST placement was feasible in all rabbits. The positioning of the ST was completed in 2.1 ± 1 attempts in 43 ± 21.4 s. A correct placement was confirmed by the visualisation of the proximal cuff at visual inspection of the oral cavity (14/14), by the detection of the airflow (9/14 rabbits) and by the visualisation of a capnographic wave (14/14 rabbits). Only one rabbit developed respiratory distress after the ST placement. The results of the present study allowed designing a ST specific for rabbits which was used a supraglottic airway device for the maintenance of isoflurane anaesthesia in spontaneously breathing rabbits.

@@ -1,0 +1,7 @@
+TITLE: Quality and Microbial Changes in Omega-3-Enriched Rabbit Meat Packaged with an Active Absorbent Pad in MAP.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/foods14030404
+SOURCE: EuropePMC/MED/39941996
+
+This study evaluated the efficacy of an active absorbent pad (aPAD) in reducing microbial growth and enhancing the shelf life of rabbit meat stored in modified atmosphere packaging (MAP). Thigh muscles from 60 rabbits were used, divided into three dietary groups: a control group (CNT), a group supplemented with 5% extruded flaxseed (ELS5%), and a group with 3.5% extruded flaxseed and 0.2% Padina pavonica algae (LPP3.5%). Samples were packaged in MAP (70% O2, 30% CO2) with either a conventional pad (nPAD) or aPAD and analyzed at 1, 4, 7, 14, 21 days. Microbiological analysis revealed a significantly lower total viable count at 21 days in the ELS5%aPAD group. For coagulase-positive staphylococci, the CNTaPAD group showed lower microbial counts at both day 4 and day 21 (p Enterobacteriaceae reductions were observed at 24 h post packaging in both the CNTaPAD and LPP3.5%aPAD groups and at day 14 in ELS5%aPAD. Lipid oxidation (TBARS) was also lower in aPAD samples, particularly in LPP3.5%, which remained below 1.5 mg MDA/kg compared to >2.5 mg MDA/kg in nPAD (p aPAD. These findings underscore the effectiveness of aPAD in MAP to control microbial growth, limit oxidation, and extend the shelf life of omega-3-enriched rabbit meat, providing a promising solution for functional meat product preservation.

@@ -1,0 +1,7 @@
+TITLE: Prevalence of Encephalitozoon cuniculi Infection in Guinea Pigs (Cavia porcellus) in Poland with Different Clinical Disorders-A Pilot Study.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ani13121992
+SOURCE: EuropePMC/MED/37370502
+
+Encephalitozoonosis is a disease caused by E. cuniculi. It is diagnosed primarily in rabbits but is less frequently so in other animal species. E. cuniculi is classified among Microsporidia-fungi frequently found in the environment, that are resistant to numerous external factors. Apart from rabbits, rodents form the next group of animals most exposed to infection with these pathogens. The objective of the study was to analyze the prevalence of E. cuniculi infection in guinea pigs with different clinical disorders. The study included 67 animals with E. cuniculi infection confirmed via real-time PCR. The infected animals most frequently exhibited nervous and urinary system symptoms, as well as issues with vision organs, while several animals were also recorded as having problems with the respiratory system and thyroid gland dysfunction. The study shows that encephalitozoonosis constitutes a significant problem in rodents kept as domestic animals, which in turn may be a source of infection for humans.

@@ -1,0 +1,7 @@
+TITLE: Immunocytochemistry assessment of vocal fold regeneration after cell-based implant in rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1002/lio2.70007
+SOURCE: EuropePMC/MED/39386157
+
+ObjectiveCell-based outer vocal fold replacement (COVR) offers a potential treatment for severe vocal fold scarring or cancer reconstruction. Previous work in rabbits using human adipose-derived stem cells (ASC) in fibrin suggested that a hybrid structure emerged within 2 months, containing both implanted and host cells. This project uses immunocytochemistry to better define the phenotypic fate of implanted cells and features of the extracellular environment.MethodsImmunocytochemistry was performed on sections collected from rabbits 2 months after COVR implantation or scar surgery. Cellular targets included human leukocyte antigen (HLA), CD31, and smooth muscle actin (SMA).ResultsHLA was present in all implanted sections and was used to identify human cells. In adjacent sections, HLA-positive cells were identified expressing CD31. SMA was not identified in the same cells as HLA. These markers were also present in injured vocal folds not receiving COVR. SMA protein content did not differ according to treatment.ConclusionsImplanted human ASC persist in rabbit vocal folds. Some appear to express CD31, an endothelial marker. Smooth muscle actin, a marker of myofibroblast phenotype, was present in all sections regardless of treatment, and was not identified in hASC. Host cells also infiltrate the structure, producing a hybrid host-graft vocal fold.

@@ -1,0 +1,7 @@
+TITLE: Osteogenic Potential of a Biomaterial Enriched with Osteostatin and Mesenchymal Stem Cells in Osteoporotic Rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/biom14020143
+SOURCE: EuropePMC/MED/38397380
+
+Mesoporous bioactive glasses (MBGs) of the SiO2-CaO-P2O5 system are biocompatible materials with a quick and effective in vitro and in vivo bioactive response. MBGs can be enhanced by including therapeutically active ions in their composition, by hosting osteogenic molecules within their mesopores, or by decorating their surfaces with mesenchymal stem cells (MSCs). In previous studies, our group showed that MBGs, ZnO-enriched and loaded with the osteogenic peptide osteostatin (OST), and MSCs exhibited osteogenic features under in vitro conditions. The aim of the present study was to evaluate bone repair capability after large bone defect treatment in distal femur osteoporotic rabbits using MBGs (76%SiO2-15%CaO-5%P2O5-4%ZnO (mol-%)) before and after loading with OST and MSCs from a donor rabbit. MSCs presence and/or OST in scaffolds significantly improved bone repair capacity at 6 and 12 weeks, as confirmed by variations observed in trabecular and cortical bone parameters obtained by micro-CT as well as histological analysis results. A greater effect was observed when OST and MSCs were combined. These findings may indicate the great potential for treating critical bone defects by combining MBGs with MSCs and osteogenic peptides such as OST, with good prospects for translation to clinical practice.

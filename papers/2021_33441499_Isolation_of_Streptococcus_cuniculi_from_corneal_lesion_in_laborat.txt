@@ -1,0 +1,7 @@
+TITLE: Isolation of Streptococcus cuniculi from corneal lesion in laboratory-raised mice.
+YEAR: 2021
+JOURNAL: 
+DOI: 10.1292/jvms.20-0070
+SOURCE: EuropePMC/MED/33441499
+
+Corneal lesions appearing as white mass beneath intact epithelium, with ocular discharge in one mouse, was observed in a batch of laboratory-raised BALB/c mice (n=9 of 56). The affected mice remained active, well-groomed and had normal appetite. Isolates recovered from swab cultures of the external and internal contents of the eye had partial 16S rRNA gene sequence of 99.1% similarity to Streptococcus cuniculi. No previous report of S. cuniculi infection in laboratory rodents has been presented. The isolate was susceptible to all antibiotics tested. We suggest S. cuniculi is an opportunistic bacteria in laboratory mice but are uncertain of its source. Our findings revealed that S. cuniculi is able to colonize laboratory mice and should be considered when mice present with eye lesion or ocular discharge.

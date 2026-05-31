@@ -1,0 +1,7 @@
+TITLE: An outbreak of rabbit hemorrhagic disease (RHD) caused by Lagovirus europaeus GI.2/rabbit hemorrhagic disease virus 2 (RHDV2) in Ehime, Japan.
+YEAR: 2021
+JOURNAL: 
+DOI: 10.1292/jvms.21-0128
+SOURCE: EuropePMC/MED/33840722
+
+A total of ten 1-2-year-old rabbits died within 2 weeks at a facility in Ehime prefecture in May 2019. Necropsy revealed liver discoloration and fragility, hemorrhage of some organs and blood coagulation failure. On histopathologic examination, necrotizing hepatitis was a common finding, together with fibrin thrombi in the small vessels and hemorrhage in some organs. Rabbit hemorrhagic disease (RHD) virus gene was detected in liver samples, and viral particles of approximately 32 nm in diameter were found in the cytoplasm of degenerated hepatocytes by electron microscopy. Phylogenetic analysis based on the partial VP60 gene sequence classified it as Lagovirus europaeus GI.2/RHDV2. This is the first confirmed outbreak of RHD caused by globally emerging GI.2/RHDV2 in Japan.

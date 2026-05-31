@@ -1,0 +1,7 @@
+TITLE: Draft genome sequence of pathogen <i>Pasteurella multocida</i> isolated from rabbits having pneumonia in India.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1128/mra.00614-25
+SOURCE: EuropePMC/MED/41114524
+
+In this paper, we announce the complete genome of Pasteurella multocida (PMMR212) isolated from rabbits suffering from pneumonia from Rohtak, Haryana, India. The assembly contains 1,288 genes. The genome size is 2,354,118 bp (approx. 2.35 Mb).

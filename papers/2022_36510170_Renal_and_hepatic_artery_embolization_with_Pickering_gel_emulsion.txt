@@ -1,0 +1,7 @@
+TITLE: Renal and hepatic artery embolization with Pickering gel emulsion of lipiodol in rabbit.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.1186/s12885-022-10337-5
+SOURCE: EuropePMC/MED/36510170
+
+ObjectiveThis research aimed to evaluate the feasibility of a novel liquid embolic agent Pickering gel emulsion of lipiodol (PGEL) for renal and hepatic artery embolization in the rabbit experimental model.MethodsEmbolization was performed in the right renal artery of 24 adult New Zealand White rabbits and 24 VX2 tumors in the left liver lobe. The rabbits were randomly allocated to four treatment groups (n = 6 per group): (A) normal saline (NS), (B) lipiodol, (C) 180-300 μm polyvinyl alcohol (PVA), and (D) PGEL.ResultsRenal artery embolization in normal rabbits and transarterial embolization (TAE) in VX2 tumor-bearing rabbits indicated that PGEL achieved a better embolization effect for a longer time than lipiodol and PVA. The tumor growth ratio of the PGEL group was significantly lower than that of the NS, lipiodol, and PVA groups at 3 (P ConclusionPGEL is an effective embolic material that provides immediate and total occlusion of the renal artery and may be a potential therapeutic embolic agent for TAE of HCC.

@@ -1,0 +1,7 @@
+TITLE: Large-scale lagovirus disease outbreaks in European brown hares (Lepus europaeus) in France caused by RHDV2 strains spatially shared with rabbits (Oryctolagus cuniculus).
+YEAR: 2017
+JOURNAL: 
+DOI: 10.1186/s13567-017-0473-y
+SOURCE: EuropePMC/MED/29080562
+
+Rabbit haemorrhagic disease virus (RHDV) is a lagovirus that causes rabbit haemorrhagic disease (RHD) in European rabbits (Oryctolagus cuniculus). In 2010, a new genotype called RHDV2 emerged in France. It exhibits a larger host range than classical RHDV strains by sporadically infecting different hare species, including the European hare (Lepus europaeus). Phylogenetic analyses revealed that closely related RHDV2 strains circulate locally in both hares and rabbits, and therefore that RHDV2 strains infecting hares do not belong to a lineage that has evolved only in this species. We showed that RHDV2 is widely distributed in France and that it was responsible for more than a third of cases of lagovirus disease in European hare populations in 2015. The oldest RHDV2 positive hare was sampled in November 2013 and we reported two hares co-infected by EBHSV and RHDV2. All together, our results raise important epidemiological and evolutionary issues. In particular, along with the potential emergence of recombinant EBHSV/RHDV2 strains in hares, the enlargement of the host range changes the host population structure of RHDV2 and may alter the impact of the virus on rabbit and hare populations.

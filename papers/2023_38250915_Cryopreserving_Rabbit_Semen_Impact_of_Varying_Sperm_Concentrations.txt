@@ -1,0 +1,7 @@
+TITLE: Cryopreserving Rabbit Semen: Impact of Varying Sperm Concentrations on Quality and the Standardization of Protocol.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/vetsci11010009
+SOURCE: EuropePMC/MED/38250915
+
+This study aimed to investigate the impact of sperm concentrations on the in vitro quality of cryopreserved rabbit semen. The semen pools (n = 8, from 80 donors) were split into five aliquots with final sperm concentrations of 15, 25, 35, 55, and 75 × 106 per straw. The sperm motility parameters (CASA system) and membrane integrity (flow cytometric analysis) were both evaluated at various stages of the cryopreservation process: fresh semen dilution, cooling, equilibration, and immediately after and 30 min post-thawing. The results indicated the significant influence of the sperm concentration on the total motility (TM) and progressive motility (PM), with a consistent decline in all sperm variables over the time points. Notably, the semen with a final concentration of 15 × 106 exhibited a higher TM and PM after cooling and equilibration. The post-thawing quality (TM, PM) was higher (p 6 (49.9% and 19.7%) and 35 × 106 (46.2% and 19.7%) compared to the other concentrations. This study demonstrated that the sperm concentration per straw played a significant role in specific phases of the cryopreservation process. These findings contribute valuable insights for refining and standardizing the cryopreservation protocol for rabbit semen, emphasizing the importance of the sperm concentration.

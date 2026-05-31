@@ -1,0 +1,7 @@
+TITLE: Development of a Rabbit Iliac Arterial Stenosis Model Using a Controlled Cholesterol Diet and Pullover Balloon Injury.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3348/jksr.2023.0106
+SOURCE: EuropePMC/MED/38617867
+
+PurposeThis study aimed to develop a rabbit iliac stenosis model and evaluate the effects of different mechanical injury techniques on the degree of arterial stenosis.Materials and methodsEighteen rabbits were divided into three groups: cholesterol-fed with pullover balloon injury (group A; n = 6), cholesterol-fed with localized balloon dilatation (group B; n = 6), and chow-diet with pullover balloon injury (group C; n = 6). After baseline angiography, the left iliac arteries of all rabbits were injured with a 3 × 10 mm noncompliant balloon using either a wide pullover technique (groups A and C) or a localized balloon dilatation technique (group B). A nine-week follow-up angiography was performed, and the angiographic late lumen loss and percentage of stenosis were compared.ResultsGroup A exhibited the most severe late lumen loss (A vs. B, 0.67 ± 0.13 vs. 0.04 ± 0.13 mm, p p ConclusionPullover-balloon injury can lead to significant iliac artery stenosis in rabbits with controlled hypercholesterolemia. This model may be useful for elucidating the pathogenesis of atherosclerosis and for evaluating the efficacy of novel therapeutic interventions.

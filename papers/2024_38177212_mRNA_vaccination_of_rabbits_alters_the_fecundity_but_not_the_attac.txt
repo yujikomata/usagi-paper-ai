@@ -1,0 +1,7 @@
+TITLE: mRNA vaccination of rabbits alters the fecundity, but not the attachment, of adult Ixodes scapularis.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1038/s41598-023-50389-6
+SOURCE: EuropePMC/MED/38177212
+
+19ISP is a nucleoside-modified mRNA-lipid nanoparticle vaccine that targets 19 Ixodes scapularis proteins. We demonstrate that adult I. scapularis have impaired fecundity when allowed to engorge on 19ISP-immunized rabbits. 19ISP, therefore, has the potential to interrupt the tick reproductive cycle, without triggering some of the other effects associated with acquired tick resistance. This may lead to the development of new strategies to reduce I. scapularis populations in endemic areas.

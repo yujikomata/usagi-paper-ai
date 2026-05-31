@@ -1,0 +1,7 @@
+TITLE: Seroprevalence and Risk Factors of Chlamydia Infection in Domestic Rabbits (Oryctolagus cuniculus) in China.
+YEAR: 2015
+JOURNAL: 
+DOI: 10.1155/2015/460473
+SOURCE: EuropePMC/MED/25945336
+
+Chlamydia spp. are obligate intracellular bacteria distributed all over the world, known to cause various forms of diseases in animals and humans. In the present study, a serological survey was conducted to detect the seroprevalence and risk factors associated with rabbit chlamydiosis in northeast China, including Liaoning province, Jilin province, Heilongjiang province, and Inner Mongolia Autonomous Region. Antibodies to Chlamydia were determined by indirect hemagglutination assay (IHA). The overall seroprevalence was estimated at 17.88% in total of 800 blood samples. The Chlamydia seroprevalence varied in domestic rabbits from different factors, and genders of domestic rabbits were considered as major risk factors associated with Chlamydia infection. Our study revealed a widespread and high prevalence of Chlamydia infection in domestic rabbits in northeast China, with higher exposure risk in female domestic rabbits. These findings suggested the potential importance of domestic rabbits in the transmission of zoonotic Chlamydia infection, and thus Chlamydia should be taken into consideration in diagnosing rabbit diseases. To our knowledge, there is no report of Chlamydia infection in domestic rabbits in China and the results extend the host range for Chlamydia, which has important implications for public health and the local economy.

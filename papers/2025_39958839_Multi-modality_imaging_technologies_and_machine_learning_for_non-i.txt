@@ -1,0 +1,7 @@
+TITLE: Multi-modality imaging technologies and machine learning for non-invasive, precise assessment of rabbit endometrium.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1364/boe.547855
+SOURCE: EuropePMC/MED/39958839
+
+Developing a minimally invasive, real-time diagnostic tool to accurately assess endometrial conditions is critical to increasing pregnancy rates in assisted reproductive technology (ART). In this research, fiberoptic bronchoscopy and optical coherence tomography (OCT) were used before and after alcohol injury and human chorionic gonadotropin (hCG)-induced pseudopregnancy to monitor changes in the rabbit endometrium. Histological analysis and electron microscopy were performed on 1 cm uterine sections while simultaneously training a conditional generative adversarial network (cGAN) to convert OCT images into virtual hematoxylin and eosin H&E stained sections. By combining these optical elements, we have managed to non-invasively observe changes in the endometrium at different stages. Traditional endoscopy assesses surface changes such as mucosal color changes, congestion, and fibrous adhesions, while OCT provides detailed views of superficial and submucosal changes and can correspond to pathological H&E sections. Machine learning improves OCT by converting images to H&E format, enabling real-time, non-invasive assessment of endometrial status and improving the accuracy of endometrial receptivity assessment.

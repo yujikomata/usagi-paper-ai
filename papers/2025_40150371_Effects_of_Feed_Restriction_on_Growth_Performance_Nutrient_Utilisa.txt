@@ -1,0 +1,7 @@
+TITLE: Effects of Feed Restriction on Growth Performance, Nutrient Utilisation, Biochemical Parameters, and the Caecum Microbiota and Metabolites in Rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15060842
+SOURCE: EuropePMC/MED/40150371
+
+The main objective of this research was to observe the effects of feed restriction on caecum microbiota and metabolites in rabbits. Forty-eight male 8-week-old rabbits with similar body weights (1872.11 ± 180.85 g) were randomly assigned to two treatments according to completely randomized design: (1) the control group received ad libitum access to feed (AL), and (2) the treatment received 80% of the feed consumed by the control (FR). The results showed that FR did not differ (p > 0.05) for average daily weight gain or feed conversion ratio between the two groups. FR treatment led to a significant increase (p p p p Firmicutes and Ruminococcus abundances but a lower (p Akkermansiaceae abundance in the caecal content. Moreover, 222 differentiated metabolites were identified, and beta-alanine metabolism was the top enriched pathway. Collectively, FR can improve nutrient utilisation, lipid metabolism, antioxidant activity, caecum microbiota, and metabolites in rabbits.

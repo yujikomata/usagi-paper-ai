@@ -1,0 +1,7 @@
+TITLE: Evaluation of Tracheal Stenosis in Rabbits Using Multispectral Optoacoustic Tomography.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.3389/fbioe.2022.860305
+SOURCE: EuropePMC/MED/35309993
+
+Objective: Photoacoustic tomography (PAT) and multispectral optoacoustic tomography (MSOT) are evolving technologies that are capable of delivering real-time, high-resolution images of tissues. The purpose of this study was to evaluate the feasibility of using PAT and MSOT for detecting histology in a rabbit tracheal stenosis model.  Method: A total of 12 rabbits (9 stenosis and three control) were randomly divided into four groups (A, B, C and D). Each group consisted of three rabbits, which were staged at the first, fourth, and eighth weeks of stenosis progression, respectively. PAT/MSOT images and corresponding histology from these experimental animals were compared, for analyzing the morphologic features and quantitative tracheal measurements in different tracheal stenosis stage. Result: Both the PAT images and corresponding histology indicated the most severe degree of stenosis in group C. MSOT images indicated notable differences in tracheal contents of group B and D. Conclusion: This study suggests that PAT/MSOT are potentially valuable non-invasive modality which are capable of evaluating tracheal structure and function in vivo.

@@ -1,0 +1,7 @@
+TITLE: Encephalitozoon cuniculi Microsporidia in Cerebrospinal Fluid from Immunocompetent Patients, Czech Republic.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3201/eid3006.231585
+SOURCE: EuropePMC/MED/38782145
+
+We retrospectively analyzed of 211 frozen cerebrospinal fluid samples from immunocompetent persons in the Czech Republic and detected 6 Encephalitozoon cuniculi-positive samples. Microsporidiosis is generally underestimated and patients are not usually tested for microsporidia, but latent infection in immunodeficient and immunocompetent patients can cause serious complications if not detected and treated.

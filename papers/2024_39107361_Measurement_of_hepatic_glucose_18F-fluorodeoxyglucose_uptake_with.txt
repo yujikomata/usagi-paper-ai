@@ -1,0 +1,7 @@
+TITLE: Measurement of hepatic glucose (18F-fluorodeoxyglucose) uptake with positron emission tomography-magnetic resonance imaging in fumonisin B intoxicated rabbit bucks.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1038/s41598-024-68210-3
+SOURCE: EuropePMC/MED/39107361
+
+Rabbit bucks (bodyweight 5 kg) underwent dietary intoxication with fumonisin B series mycotoxins (FB1 + FB2 + FB3, 15 mg/kg diet) for 14 days to test the applicability of positron emission tomography-magnetic resonance (PET MR) hybrid imaging in characterizing experimentally induced mild hepatotoxicosis. 18F-fluorodeoxyglucose (18F-FDG) radiotracer-aided imaging was performed before and after FBs administration on identical animals, and at both time points, blood was sampled for haematology and clinical chemistry. Kinetic PET image analysis revealed time-activity curves with uptake maxima below 1 min in the liver, renal cortex, portal vein, lung and coarctatio aortae. In the frame of static PET image analysis, based on the standardized uptake value (SUV), the so-called metabolic liver volume (MLV, liver volume defined by over 0.9 × average liver SUV) and the total liver glycolysis (TLG, MLV multiplied by the SUVmean) were calculated. Mycotoxicosis increased total liver glycolysis (p 18F-FDG PET MRI) in the rabbit model.

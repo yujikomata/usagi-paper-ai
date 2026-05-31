@@ -1,0 +1,7 @@
+TITLE: Seroprevalence of Encephalitozoon cuniculi in pet rabbits in Korea.
+YEAR: 2014
+JOURNAL: 
+DOI: 10.3347/kjp.2014.52.3.321
+SOURCE: EuropePMC/MED/25031476
+
+Encephalitozoon cuniculi is a microsporidian parasite commonly found in rabbits that can infect humans, causing encephalitozoonosis. The prevalence of encephalitozoonosis is not well documented, even when many clinics suspect pet rabbits as being highly infected. This study investigated the seropositivity of E. cuniculi using ELISA. The examination of 186 rabbits using ELISA showed that 22.6% (42/186) were seropositive against E. cuniculi. In analysis with healthy status, all 42 seropositive sera were collected from clinically normal rabbits. Moreover, the gender and age of pet rabbits did not have anysignificant effect on E. cuniculi infection. To the best of our knowledge, this is the first report to describe the seroprevalence of E. cuniculi in pet rabbits and suggests that pet rabbits could act as an important reservoir of encephalitozoonosis for both pet animals and humans in Korea.

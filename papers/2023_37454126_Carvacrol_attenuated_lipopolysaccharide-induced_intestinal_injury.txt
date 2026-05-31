@@ -1,0 +1,7 @@
+TITLE: Carvacrol attenuated lipopolysaccharide-induced intestinal injury by down-regulating TLRs gene expression and regulating the gut microbiota in rabbit.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1038/s41598-023-38577-w
+SOURCE: EuropePMC/MED/37454126
+
+Carvacrol (CAR) is a plant extract that has been reported to enhance antioxidant activity in animals. However, the effect of CAR on the intestinal health of rabbits is poorly understood. Here, we investigated whether CAR exerts protective effects on the intestinal health of rabbits following lipopolysaccharide (LPS) challenge and whether these effects were mediated via the reduction of intestinal inflammation and the regulation of the intestinal flora. Intestinal damage was assessed in LPS-challenged rabbits treated or not with CAR. The serum levels of inflammatory factors were assessed by enzyme-linked immunosorbent assay. Histopathological changes in the ileum and cecum were examined using hematoxylin and eosin staining. The relative gene expression levels of inflammatory factors and tight junction proteins in the rabbit cecum were determined by qRT-PCR. High-throughput sequencing analysis of the microbial 16S rRNA gene was performed using the Illumina NovaSeq Platform. The results showed that CAR can prevent intestinal inflammation and damage as well as mitigate gut dysbiosis in rabbits following LPS challenge. Our study provides a theoretical reference for the application of dietary CAR in rabbit production.

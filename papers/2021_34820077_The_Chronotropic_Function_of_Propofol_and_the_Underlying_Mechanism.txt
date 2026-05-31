@@ -1,0 +1,7 @@
+TITLE: The Chronotropic Function of Propofol and the Underlying Mechanism in Rabbits.
+YEAR: 2021
+JOURNAL: 
+DOI: 10.1155/2021/5222745
+SOURCE: EuropePMC/MED/34820077
+
+The report of bradycardia caused by propofol is increasing. In the experiment, we investigated the chronotropic function of propofol and the underlying mechanism. Rabbits of both sexes were randomly divided into 4 groups: propofol 5 mg/kg group, 10 mg/kg group, 15 mg/kg group, and sham group. Heart rate and frequency of vagal efferent discharge were recorded before the injection and 0, 0.5, 1, 2, and 10 min after the injection through intravenous mode. Then, their hearts were removed, and sinoatrial nodes were dissected. The action potentials of the sinus node pacemaker cells were recorded by the intracellular glass microelectrode technique, and the sinoatrial (SA) node was exposed to propofol 1, 3, 5, and 10 µM respectively. The action potentials were recorded after the sinoatrial nodes were exposed to each concentration of propofol for 15 min. Our results show that the heart rate significantly decreased, and the vagal efferent discharge was significantly increased at 0, 0.5, 1, and 2 min after the injection, respectively. Besides, as the dose increases, the magnitude of change shows a dose-dependent manner. Propofol exerts a negative chronotropic action on sinoatrial node pacemaker cells. The drug significantly decreased APA, VDD, RPF, and prolonged APD90 in a concentration-dependent manner. These effects may be the main mechanism of propofol-induced bradycardia in clinical study.

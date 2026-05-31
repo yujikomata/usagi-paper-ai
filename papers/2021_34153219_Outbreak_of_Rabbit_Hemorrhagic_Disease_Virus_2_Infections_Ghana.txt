@@ -1,0 +1,7 @@
+TITLE: Outbreak of Rabbit Hemorrhagic Disease Virus 2 Infections, Ghana.
+YEAR: 2021
+JOURNAL: 
+DOI: 10.3201/eid2707.210005
+SOURCE: EuropePMC/MED/34153219
+
+In September 2019, high mortality in commercial rabbits was reported in the Greater Accra Region of Ghana. Rabbit hemorrhagic disease virus 2 phylogenetically related to isolates from 2015-2017 outbreaks in the Netherlands was confirmed as the causative agent. The virus has not yet been detected in native rabbits in Ghana.

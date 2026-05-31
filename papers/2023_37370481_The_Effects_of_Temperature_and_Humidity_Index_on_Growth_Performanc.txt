@@ -1,0 +1,7 @@
+TITLE: The Effects of Temperature and Humidity Index on Growth Performance, Colon Microbiota, and Serum Metabolome of Ira Rabbits.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ani13121971
+SOURCE: EuropePMC/MED/37370481
+
+This study investigates the effects of different THI values on growth performance, intestinal microbes, and serum metabolism in meat rabbits. The results showed that there were significant differences in THI in different location regions of the rabbit house. The high-THI group (HG) could significantly reduce average daily gain and average daily feed intake in Ira rabbits (p Blautia (p Lachnospiraceae NK4A136 group and reduced bacterial community interaction (p p p p < 0.05). In addition, five metabolites were found to be able to predict THI levels in the environment with an accuracy of 91.7%. In summary, a THI of 26.14 is more suitable for the growth of meat rabbits than a THI of 27.25, providing a reference for the efficient feeding of meat rabbits.

@@ -1,0 +1,7 @@
+TITLE: Effect of Selection for Litter Size Variability on Growth, Carcass and Meat Quality in Rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/vetsci12020160
+SOURCE: EuropePMC/MED/40005920
+
+This study aimed to analyze the effect of reducing litter size variability on growth rate, carcass traits, and meat quality in rabbits. Two divergent lines selected by litter size variability were compared: a line selected to reduce litter size variability (HO) and one selected to increase litter size variability (HE). All animals were fed the same commercial diet and kept under identical rearing conditions. The HO line had lower live weight at weaning compared to the HE line (p ≤ 0.05), but the growth rate was higher in the HO line than in the HE line (p ≤ 0.05). Carcass weight and composition were similar between the lines. No differences in meat pH at 45 min and 24 h post-mortem were found between lines. However, the HO line had a higher lightness (L*) value at 45 min post-mortem than the HE line (p ≤ 0.05). The HO line showed higher Ca concentrations than the HE line (p ≤ 0.05). The HO line also had higher protein content and lower saturated fatty acid content than the HE line (p ≤ 0.05). No differences in fat oxidation were observed among the lines. In conclusion, the selection to reduce litter size variability did not negatively impact growth rate and had a favorable effect on protein content, as well as a reduction in saturated fatty acid content in carcass.

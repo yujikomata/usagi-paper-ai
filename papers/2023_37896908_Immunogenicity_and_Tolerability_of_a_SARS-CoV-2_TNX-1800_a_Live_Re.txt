@@ -1,0 +1,7 @@
+TITLE: Immunogenicity and Tolerability of a SARS-CoV-2 TNX-1800, a Live Recombinant Poxvirus Vaccine Candidate, in Syrian Hamsters and New Zealand White Rabbits.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/v15102131
+SOURCE: EuropePMC/MED/37896908
+
+TNX-1800 is a preclinical stage synthetic-derived live attenuated chimeric horsepox virus vaccine engineered to express the SARS-CoV-2 spike (S) gene. The objectives of this study were to assess the safety, tolerability, and immunogenicity of TNX-1800 administration in Syrian golden hamsters and New Zealand white rabbits. Animals were vaccinated at three doses via percutaneous inoculation. The data showed that the single percutaneous administration of three TNX-1800 vaccine dose levels was well tolerated in both hamsters and rabbits. At all dose levels, rabbits were more decerning regarding vaccine site reaction than hamsters. Lastly, no TNX-1800 genomes could be detected at the site of vaccination. Post-vaccination, all animals had anti-SARS-CoV-2 spike protein IgG specific antibody responses. These data demonstrate that TNX-1800 infection was limited, asymptomatic, and cleared by the end of this study, and a single dose was able to generate immune responses.

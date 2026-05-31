@@ -1,0 +1,7 @@
+TITLE: Comparison of Muscle Regeneration Effects at Different Melittin Concentrations in Rabbit Atrophied Muscle.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/ijms25095035
+SOURCE: EuropePMC/MED/38732255
+
+This research aimed to explore the healing impacts of Melittin treatment on gastrocnemius muscle wasting caused by immobilization with a cast in rabbits. Twenty-four rabbits were randomly allocated to four groups. The procedures included different injections: 0.2 mL of normal saline to Group 1 (G1-NS); 4 μg/kg of Melittin to Group 2 (G2-4 μg/kg Melittin); 20 μg/kg of Melittin to Group 3 (G3-20 μg/kg Melittin); and 100 μg/kg of Melittin to Group 4 (G4-100 μg/kg Melittin). Ultrasound was used to guide the injections into the rabbits' atrophied calf muscles following two weeks of immobilization via casting. Clinical measurements, including the length of the calf, the compound muscle action potential (CMAP) of the tibial nerve, and the gastrocnemius muscle thickness, were assessed. Additionally, cross-sectional slices of gastrocnemius muscle fibers were examined, and immunohistochemistry and Western blot analyses were performed following two weeks of therapy. The mean regenerative changes, as indicated by clinical parameters, in Group 4 were significantly more pronounced than in the other groups (p p p < 0.05). Melittin therapy at a higher dosage can more efficiently activate regeneration in atrophied gastrocnemius muscle compared to lower doses of Melittin or normal saline.

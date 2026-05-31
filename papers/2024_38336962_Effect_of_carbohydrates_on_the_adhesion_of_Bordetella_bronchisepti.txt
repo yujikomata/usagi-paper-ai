@@ -1,0 +1,7 @@
+TITLE: Effect of carbohydrates on the adhesion of Bordetella bronchiseptica to the respiratory epithelium in rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1007/s11259-024-10307-1
+SOURCE: EuropePMC/MED/38336962
+
+This study proposes an ecological approach for preventing respiratory tract infections caused by Bordetella bronchiseptica in mammals using a mixture of carbohydrates. In an in vivo study, 51-day-old New Zealand rabbits were treated with a solution containing 1 × 107 CFUs of B. bronchiseptica and 250 μg of one of the following carbohydrates: N acetylglucosamine (GlcNAc), N acetylgalactosamine (GalNAc), alpha methyl mannose (AmeMan), alpha methyl glucose (AmeGlc) and sialic acid (Neu5AC). Positive (B. bronchiseptica) and negative (Physiological Saline Solution (PSS)) controls were included. Animals treated with GlcNAc or AmeGlc showed no clinical signs of infection and exhibited a significant reduction (p < 0.05) in the severity of microscopic lesions evaluated in the nasal cavity and lung compared with the positive controls. Additionally, the presence of bacteria was not detected through microbiological isolation or PCR in the lungs of animals treated with these sugars. Use of a mixture of GlcNAc and AmeGlc resulted in greater inhibition of microscopic lesions, with a significant reduction (p < 0.05) in the severity of these lesions compared to the results obtained using individual sugars. Furthermore, the bacterium was not detected through microbiological isolation, Polymerase Chain Reaction (PCR) or indirect immunoperoxidase (IIP) in this group.

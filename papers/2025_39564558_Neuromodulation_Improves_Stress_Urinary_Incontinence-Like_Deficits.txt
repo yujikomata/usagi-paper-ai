@@ -1,0 +1,7 @@
+TITLE: Neuromodulation Improves Stress Urinary Incontinence-Like Deficits in Female Rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1109/ojemb.2024.3408454
+SOURCE: EuropePMC/MED/39564558
+
+Objective: Stress urinary incontinence (SUI) affects a third of the female population and is characterized by involuntary urine leakage during abdominal efforts such as sneezing, laughing, or coughing. Acute neuromodulation of the bulbospongiosus nerve (BsN) was shown to increase bladder efficiency in aged and multiparous rabbits. This study investigates the efficacy of sub-chronic BsN neuromodulation in alleviating SUI-like deficits in mature multiparous rabbits, characterized by increased urine leakage and reduced leak point pressure. Results: Using the voiding spot assay, we observed a 40% reduction in urine leakage events after 30 days of BsN stimulation, which correlated with a 60% increase in daily micturition volume, a 10-fold increase in voided volume, and improvements in voiding efficiency and leak point pressure compared to negative control animals. Conclusion: In multiparous rabbits, BsN neuromodulation improves important SUI-like metrics including bladder capacity and urethral closure, supporting the use of this bioelectronic modality as treatment for SUI.

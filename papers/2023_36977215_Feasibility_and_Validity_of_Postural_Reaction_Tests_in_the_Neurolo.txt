@@ -1,0 +1,7 @@
+TITLE: Feasibility and Validity of Postural Reaction Tests in the Neurological Examination in Healthy Rabbits.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/vetsci10030176
+SOURCE: EuropePMC/MED/36977215
+
+Neurological examination remains a fundamental step in the care of patients with neurological disorders. However, studies evaluating the feasibility and validity of neurological examination in rabbits are limited. In this study, postural reaction tests or methods commonly performed in dogs and cats were evaluated in clinically healthy rabbits, and we aimed to postulate a simplified examination list according to the results. The feasibility and validity of each test were determined and screened using a cut-off value of 90%. For the remaining tests/methods, the response rates of tests with similar neuroanatomical pathways were compared. Among the 34 healthy rabbits tested, one method of the hopping reaction (holding then lowering the rabbit quickly towards the floor with only the tested limb touching the ground), the hemi-walking test, the wheelbarrowing test, and the righting response yielded a feasibility and validity of over 90%. When comparing tests/methods with similar neuroanatomical pathways, the normal response rate of the hopping reaction was comparable to that of the hemi-walking test. We conclude that in healthy rabbits, hopping reaction tests using the method mentioned above, hemi-walking, wheelbarrowing, and righting responses are likely to be feasible postural reaction tests that yield consistent and normal responses.

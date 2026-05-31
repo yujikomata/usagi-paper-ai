@@ -1,0 +1,7 @@
+TITLE: Enhancing of Rabbit Sperm Cryopreservation with Antioxidants Mito-Tempo and Berberine.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/antiox13111360
+SOURCE: EuropePMC/MED/39594502
+
+Cryopreservation plays a critical role in animal breeding and the conservation of endangered species, but it often compromises sperm characteristics such as morphology, motility, and viability due to oxidative stress. This study explores the antioxidative effect of Mito-Tempo (MT) and Berberine (BER) to enhance post-thaw sperm quality in rabbits. Pooled rabbit sperm samples were supplemented with different concentrations (0.0, 0.5, 5, 10, 50 µmol/L) of MT and BER. Sperm motility was evaluated using computer-assisted semen analysis, while viability, apoptosis, reactive oxygen species (ROS) levels, acrosome integrity, and mitochondrial function were assessed through flow cytometry. The results revealed that MT at 5 and 10 µmol/L and BER at 10 µmol/L significantly improved total and progressive motility, mitochondrial activity, and sperm viability compared to the control group. Furthermore, 10 µmol/L BER enhanced acrosome integrity, while both 5 µmol/L MT and 10 µmol/L BER effectively reduced ROS levels and apoptosis. This study is the first to demonstrate the protective effects of MT and BER on rabbit sperm during cryopreservation. By mitigating oxidative stress and reducing apoptosis, these antioxidants markedly improved post-thaw sperm quality, positioning MT and BER as promising agents for improving sperm cryosurvival.

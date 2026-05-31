@@ -1,0 +1,7 @@
+TITLE: Retinal Proteome Analysis Reveals a Region-Specific Change in the Rabbit Myopia Model.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ijms24021286
+SOURCE: EuropePMC/MED/36674802
+
+Uncovering region-specific changes in the myopic retina can provide clues to the pathogenesis of myopia progression. After imposing form deprivation myopia in the right eye of 6-week-old rabbits, we investigated the proteome profile of each retinal region (central, mid-periphery, and far-periphery retina), using accurate high-resolution mass spectrometry. Protein expression was analyzed using gene ontology and network analysis compared with that of the control, the left eyes. Among 2065 proteins detected from whole retinal samples, 249 differentially expressed proteins (DEPs) were identified: 164 DEPs in the far-periphery, 39 in the mid-periphery, and 83 in the central retina. In network analysis, the far-periphery retina showed the most significant connectivity between DEPs. The regulation of coagulation was the most significant biological process in upregulated DEPs in the far-periphery retina. Proteasome was the most significant Kyoto Encyclopedia of Genes and Genomes pathway in downregulated DEPs in the central retina. Antithrombin-III, fibrinogen gamma chain, and fibrinogen beta chain were identified as hub proteins for myopia progression, which were upregulated in the far-periphery retina. Proteomic analysis in this study suggested that oxidative stress can be the primary pathogenesis of myopia progression and that the far-periphery retina plays a role as the key responder.

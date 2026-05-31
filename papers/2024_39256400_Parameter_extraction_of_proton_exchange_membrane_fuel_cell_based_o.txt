@@ -1,0 +1,7 @@
+TITLE: Parameter extraction of proton exchange membrane fuel cell based on artificial rabbits' optimization algorithm and conducting laboratory tests.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1038/s41598-024-70886-6
+SOURCE: EuropePMC/MED/39256400
+
+Proton exchange membrane fuel cell (PEMFC) parameter extraction is an important issue in modeling and control of renewable energies. The PEMFC problem's main objective is to estimate the optimal value of unknown parameters of the electrochemical model. The main objective function of the optimization problem is the sum of the square errors between the measured voltages and output voltages of the proposed electrochemical optimized model at various loading conditions. Natural rabbit survival strategies such as detour foraging and random hiding are influenced by Artificial rabbit optimization (ARO). Meanwhile, rabbit energy shrink is mimicked to control the smooth switching from detour foraging to random hiding. In this work, the ARO algorithm is proposed to find the parameters of PEMFC. The ARO performance is verified using experimental results obtained from conducting laboratory tests on the fuel cell test system (SCRIBNER 850e, LLC). The simulation results are assessed with four competitive algorithms: Grey Wolf Optimization Algorithm, Particle Swarm Optimizer, Salp Swarm Algorithm, and Sine Cosine Algorithm. The comparison aims to prove the superior performance of the proposed ARO compared with the other well-known competitive algorithms.

@@ -1,0 +1,7 @@
+TITLE: Characterization of Chronic Hepatitis E Virus Infection in Immunocompetent Rabbits.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.3390/v14061252
+SOURCE: EuropePMC/MED/35746723
+
+Chronic hepatitis E virus (HEV) infection is frequently reported in immunocompromised patients, but has also been increasingly reported in non-immunocompromised individuals. We characterized the course of chronic HEV infection in immunocompetent rabbits. In two independent experiments, 40 specific-pathogen-free rabbits were infected with a rabbit HEV genotype 3 strain in serial diluted titers (108 to 104 copies/mL). Serum and fecal samples were collected weekly and were tested for HEV RNA, antigen, anti-HEV and liver enzymes. Rabbits that spontaneously cleared the infection before 10 weeks post-inoculation (wpi) were kept to the end of the study as recovery control. Liver tissues were collected from HEV-infected rabbits at 5, 10 and 26 wpi for histopathological analysis. Nineteen rabbits (47.5%) developed chronic HEV infection with persistent viraemia and fecal HEV shedding for >6 months. Seroconversion to anti-HEV was observed in 84.2% (16/19) of the chronically infected rabbits. Serum levels of aminotransferase were persistently elevated in most of the rabbits. Characterizations of chronic HEV infection in immunocompetent settings could be recapitulated in rabbits, which can serve as a valuable tool for future studies on pathogenesis.

@@ -1,0 +1,7 @@
+TITLE: Effects of a High Trans Fatty Acid Diet on Kidney-, Liver-, and Heart-Associated Diseases in a Rabbit Model.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/metabo14080442
+SOURCE: EuropePMC/MED/39195538
+
+Trans fatty acids are specific unsaturated fats found in processed foods that undergo hydrogenation, leading to hepatic disorders such as metabolic-associated fatty liver disease (MAFLD) and conditions like CVD and CKD. The effects of different food samples containing trans fatty acids (elaidic and oleic acid) on the liver, heart, and kidney through antioxidant enzyme activity were investigated in animal models. Liver function tests (ALT, ALP, AST, and LDH), heart biomarker levels (CPK, TC, HDL, LDL, and triglycerides), and kidney biomarker levels (serum creatinine, blood urea nitrogen, and serum uric acid) were examined in serum of rabbits and the histopathology of liver tissues. Results showed that these biomarkers were more elevated in the Mujahid Ghee group than in the normal control, oleic acid, and Kausar Ghee groups. The concentration of antioxidant markers such as peroxidase, glutathione, catalase, thiobarbituric acid reactive substances, and superoxide dismutase were lower in the Mujahid Ghee group. HPLC showed that Mujahid Ghee had the highest quantified value of elaidic acid among all selected samples. Overall, this study demonstrated that elaidic acid in its purest form aggravated MAFLD in rabbit livers and provoked CVK and CVD.

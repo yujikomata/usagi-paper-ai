@@ -1,0 +1,7 @@
+TITLE: Effects of Bergamot (Citrus bergamia Risso) By-Product on Growth Performance and Meat Quality of Growing Rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/foods13162611
+SOURCE: EuropePMC/MED/39200537
+
+This study aimed to investigate the effects of feeding dried bergamot pulp to rabbits on animal performance and meat quality. Thirty rabbits were assigned to two groups (balanced for body weight, 804.4 ± 2.35 g) and fed individually for 60 days a basal diet (control) or the basal diet in which part of the cereals was replaced with 10% of dried bergamot pulp (DBP). There were no effects of DBP on growth performance, carcass yield, or the crude protein and ether extract composition of meat. The concentrations of α-linolenic acid (C18:3 n-3) and eicosapentaenoic acid (C20:5 n-3) increased in the longissimus thoracis et lumborum muscle (p p = 0.021, respectively) after integrating dried bergamot pulp into the diet, leading to higher levels of total of ω-3 fatty acids (p p p < 0.001) in the DBP group than in the control group. Finally, feeding dried bergamot pulp to rabbits improves meat quality without negatively influencing growth performance.

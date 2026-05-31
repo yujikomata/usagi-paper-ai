@@ -1,0 +1,7 @@
+TITLE: Construction and applications of rabbit hemorrhagic disease virus replicon.
+YEAR: 2013
+JOURNAL: 
+DOI: 10.1371/journal.pone.0060316
+SOURCE: EuropePMC/MED/23667425
+
+The study of rabbit hemorrhagic disease virus (RHDV) has long been hindered by the absence of an in vitro culture system. In this study, using RHDV as a model, a series of DNA-based reporter replicons were constructed in which the firefly luciferase (Fluc) gene was fused in-frame with the open reading frame of the replicon. In this construct, the Fluc gene was inserted where the coding region of viral structural protein was deleted and was under the control of a minimal cytomegalovirus (CMV) immediate-early promoter. Fluc activity analysis showed that these reporter replicons replicate efficiently in mammalian cells. On the basis of the replicon, 5'non-coding regions (5'NCR) and genome-linked protein (VPg) were deleted, and the effect on the expression of replicon was analyzed. The results showed that the expression level of Fluc was reduced in the absence of 5'NCR and VPg, suggesting that the 5'NCR and VPg may play an important role in replication and/or translation of RHDV. To further verify the speculation, we also constructed a replication deficient mutant (pRHDV-luc/Δ3D), and the impact of 5'NCR and VPg deletion on viral translation efficiency was analyzed, our results indicated that both VPg and 5'NCR were involved in RHDV translation.

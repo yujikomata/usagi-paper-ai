@@ -1,0 +1,7 @@
+TITLE: Detection of Myxoma Virus in the Classical Form of Myxomatosis Using an AGID Assay: Statistical Assessment of the Assay's Diagnostic Performance.
+YEAR: 2020
+JOURNAL: 
+DOI: 10.2478/jvetres-2020-0049
+SOURCE: EuropePMC/MED/32984625
+
+IntroductionThe aim of the study was to estimate the diagnostic sensitivity (DSe) and specificity (DSp) of an agar gel immunodiffusion (AGID) assay for detection of myxoma virus (MYXV) in the classical form of myxomatosis and to compare its diagnostic performance to that of molecular methods (IAC-PCR, OIE PCR, and OIE real-time PCR).Material and methodsA panel of MYXV-positive samples of tissue homogenates with low (1 PCR unit - PCRU) and high (3,125 PCRU) virus levels and outbreak samples were used for method comparison studies. The validation parameters of the AGID assay were assessed using statistical methods.ResultsThe AGID attained DSe of 0.65 (CI95%: 0.53-0.76), DSp of 1.00 (CI95%: 0.40-1.00), and accuracy of 0.67 (CI95%: 0.55-0.76). The assay confirmed its diagnostic usefulness primarily for testing samples containing ≥3,125 PCRU of MYXV DNA. However, in the assaying of samples containing ConclusionsFindings from this study suggest that AGID can be used with some limitations as a screening tool for detection of MYXV infections.

@@ -1,0 +1,7 @@
+TITLE: In vivo research on 3D-printed composite PLGA and PDLLA-HA absorbable scaffolds for repairing radius defects in rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1177/03000605241233418
+SOURCE: EuropePMC/MED/38548472
+
+ObjectivesDespite being an important research topic in oral biomaterials, few studies have demonstrated the differences between poly(d,l-lactide-co-glycolide)/hydroxyapatite (PLGA/HA) and poly(d,l-lactic acid)/hydroxyapatite (PDLLA/HA). In this study, PLGA/HA and PDLLA/HA scaffolds were prepared using three-dimensional (3D) printing technology and implanted into radius defects in rabbits to assess their effects on bone regeneration.MethodsIn this study, 6 mm × 4 mm bone defects were generated in the bilateral radii of rabbits. 3D-printed PLGA/HA and PDLLA/HA scaffolds were implanted into the defects. X-ray imaging, micro-computed tomography, and hematoxylin-eosin staining were performed to observe the degradation of the materials, the presence of new bone, and bone remodeling in the bone defect area.ResultsThe PLGA/HA scaffolds displayed complete degradation at 20 weeks, whereas PDLLA/HA scaffolds exhibited incomplete degradation. Active osteoblasts were detected in both groups. The formation of new bone, bone marrow cavity reconstruction, and cortical bone remodeling were better in the PLGA/HA group than in the PDLLA/HA group.ConclusionsPLGA/HA scaffolds performed better than PDLLA/HA scaffolds in repairing bone defects, making the former scaffolds more suitable as bone substitutes at the same high molecular weight.

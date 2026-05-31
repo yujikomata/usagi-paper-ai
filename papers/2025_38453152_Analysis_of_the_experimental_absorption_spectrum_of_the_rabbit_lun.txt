@@ -1,0 +1,7 @@
+TITLE: Analysis of the experimental absorption spectrum of the rabbit lung and identification of its components.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1002/jbio.202300494
+SOURCE: EuropePMC/MED/38453152
+
+The broadband absorption coefficient spectrum of the rabbit lung presents some particular characteristics that allow the identification of the chromophores in this tissue. By performing a weighted combination of the absorption spectra of water, hemoglobin, DNA, proteins and the pigments melanin and lipofuscin, it was possible to obtain a good match to the experimental absorption spectrum of the lung. Such reconstruction provided reasonable information about the contents of the tissue components in the lung tissue, and allowed to identify a similar accumulation of melanin and lipofuscin.

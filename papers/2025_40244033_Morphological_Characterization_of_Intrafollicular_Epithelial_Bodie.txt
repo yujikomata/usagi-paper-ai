@@ -1,0 +1,7 @@
+TITLE: Morphological Characterization of Intrafollicular Epithelial Bodies (IFEBs) in Rabbit Peyer's Patches.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ijms26073207
+SOURCE: EuropePMC/MED/40244033
+
+Follicle-associated epithelium (FAE) covering the lymphoid follicles of Peyer's patches (PPs) plays a central role in mucosal immunity. Here, we investigated FAE-derived intrafollicular epithelial bodies (IFEBs) that apparently detach from the FAE and sink deep into the lymphoid tissue of the PPs. Analysis of rabbit PP FAE was carried out by a variety of microscopy and immunohistochemistry techniques using a panel of specific antibodies to determine the nature of the IFEBs. IFEBs displayed the typical features of the FAE, with cytokeratin (CK)+ epithelial cells and CK+/vimentin+ M-cell-like cells. Serial sections of PP tissues showed that the IFEBs are formations frequently separated by the overlying FAE that maintains its integrity. Further, IFEBs showed the presence of junction-associated molecules like zonulin-1 and desmoplakins. Also, IFEBs apparently disaggregate within the lymphoid tissue, as demonstrated by basement membrane disappearance and the finding of isolated epithelial cells that acquire the features of non-polarized epithelial cells. Segments of the FAE in rabbit PPs can detach, forming IFEBs that migrate inside the lymphoid tissue. Although the biological relevance of the newly described IFEBs remains to be determined, we interpreted these data as showing the highly dynamic nature of the PP-associated FAE.

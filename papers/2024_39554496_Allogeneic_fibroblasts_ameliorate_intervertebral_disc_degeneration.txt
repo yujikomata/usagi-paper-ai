@@ -1,0 +1,7 @@
+TITLE: Allogeneic fibroblasts ameliorate intervertebral disc degeneration by reducing osteophytes in rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3389/fmed.2024.1488727
+SOURCE: EuropePMC/MED/39554496
+
+IntroductionLow back pain (LBP) was commonly induced by intervertebral disc degeneration (IVDD), which is accompanied by the loss of disc height and osteophyte generation. Cell-based therapy is a promising treatment for preventing the degeneration of interverbral disc. In our study, allogeneic fibroblasts are shown to ameliorate intervertebral disc degeneration by reducing osteophytes in rabbits.MethodsWe established a rabbits-derived fibroblast (Rab-Fib) which could be expanded in vitro and constructed puncture-induced intervertebral disc degeneration rabbit model. Histologic and imaging examinations and analyses were performed after 2 weeks, 3 months, and 12 months.ResultsOur data indicate that stable and reliably-extracted allogeneic fibroblasts can effectively ameliorate intervertebral disc degeneration by reducing osteophytes.ConclusionOur study provides a basis for advancing the further translation of fibroblasts in intervertebral disc therapy.

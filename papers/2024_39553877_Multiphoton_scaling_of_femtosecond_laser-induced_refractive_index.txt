@@ -1,0 +1,7 @@
+TITLE: Multiphoton scaling of femtosecond laser-induced refractive index change (LIRIC) in hydrogels and rabbit cornea.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1364/boe.537705
+SOURCE: EuropePMC/MED/39553877
+
+To find optimal conditions for performing laser induced refractive index change (LIRIC) in living eyes with both safety and efficacy, we investigated multiphoton excitation scaling of this procedure in hydrogel and excised corneal tissue. Three distinct wavelength modalities were examined: high-repetition-rate (HRR) and low-repetition-rate (LRR) 405 nm systems, as well as 800 nm and 1035 nm systems, whose LIRIC-inducing properties are described for the first time. Of all the systems, LRR 405 nm-LIRIC was able to produce the highest phase shifts at the lowest average laser powers. Relative merits and drawbacks to each modality are discussed as they relate to future efforts towards LIRIC-based refractive error correction in humans.

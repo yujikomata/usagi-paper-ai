@@ -1,0 +1,7 @@
+TITLE: Development of an atherosclerosis rabbit model to evaluate the hemodynamic impact of extracorporeal circulation.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1002/ame2.12556
+SOURCE: EuropePMC/MED/39909868
+
+BackgroundAortic atherosclerosis increases the risk of embolic events under extracorporeal circulation (ECC). To evaluate the hemodynamic impact of ECC on atheromatous plaques, an atherosclerosis animal model, which is also eligible for ECC, is required.MethodsTwenty-nine New Zealand White rabbits received a pro-atherosclerotic diet (group diet, n = 10), a pro-atherosclerotic diet and additional intraaortic balloon insufflation injury (group BI, n = 9), or served as controls (n = 10). After 3 or 6 months, aortic explants were analyzed by (immuno-)histology and RT-PCR.ResultsBlood serum analyses revealed increased cholesterol-levels in groups diet and BI compared to controls (3 months: p = 0.03 each, 6 months: p ConclusionsA rabbit model with high aortic calcific plaque burden-diet-induced with no implicit need of an additional intimal injury by an intraaortic balloon insufflation due to comparable outcome-exhibiting multiple pathophysiological aspects of human atherosclerosis has been designed and thoroughly characterized. It is suitable for use in future studies on the interaction between atherosclerotic plaques and the arterial blood flow under ECC.

@@ -1,0 +1,7 @@
+TITLE: Influence of Dietary Alpha-Tocopheryl Acetate (Vitamin E) and Animal Fat on the Chemical Composition, Fatty Acid Profile, Lipid Stability and Sensory Traits of Fresh and Stored Hamburgers from Rabbit Meat.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15121804
+SOURCE: EuropePMC/MED/40564354
+
+Improving the proportion of polyunsaturated fatty acids (PUFAs) in meat enhances its nutritional value; however, because PUFAs are prone to oxidation, incorporating antioxidants into animal diets may be an effective way to limit lipid degradation. This study investigated the effects of dietary fat content, vitamin E supplementation, and storage time on the oxidative stability, physico-chemical, sensory, and technological traits of rabbit hamburgers. Seventy-two rabbits (aged 40-78 days) were assigned to four groups: F0-E0 (0% pork fat, 0 mg/kg vitamin E), F0-E200 (0% fat, 200 mg/kg vitamin E), F2-E0 (2% fat, 0 mg/kg vitamin E), and F2-E200 (2% fat, 200 mg/kg vitamin E). After slaughter and carcass deboning, fat-free meat was processed into hamburgers. Three hamburgers per rabbit were analyzed immediately (T0) and three after 7 days of storage at 4 °C (T7). Vitamin E supplementation significantly reduced TBARS values (p p < 0.001) and a greater UFA percentage.

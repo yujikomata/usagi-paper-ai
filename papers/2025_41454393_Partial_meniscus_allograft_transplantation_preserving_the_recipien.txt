@@ -1,0 +1,7 @@
+TITLE: Partial meniscus allograft transplantation preserving the recipient's anterior root: a comparative study in a rabbit model.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1186/s40001-025-03574-4
+SOURCE: EuropePMC/MED/41454393
+
+This study compared partial (PMAT) and total meniscus allograft transplantation (TMAT) in rabbits, assessing their impact on meniscus function preservation and degeneration delay. In 18 rabbits with induced meniscus defects, PMAT better preserved meniscus morphology, collagen fibers, and showed less inflammation and better cartilage protection than TMAT. Histological staining and RNA sequencing revealed PMAT maintained collagen distribution and certain gene expression patterns closer to normal tissues. These findings suggest PMAT may offer advantages in reducing inflammation, delaying degeneration, and protecting cartilage, providing a potential new clinical approach for meniscus injuries and a foundation for further exploration of meniscal repair mechanisms.

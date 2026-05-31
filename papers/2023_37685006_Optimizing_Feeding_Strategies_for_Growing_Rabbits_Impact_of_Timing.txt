@@ -1,0 +1,7 @@
+TITLE: Optimizing Feeding Strategies for Growing Rabbits: Impact of Timing and Amount on Health and Circadian Rhythms.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ani13172742
+SOURCE: EuropePMC/MED/37685006
+
+Mammals exhibit circadian rhythms in their behavior and physiological activities to adapt to the diurnal changes of the environment. Improper feeding methods can disrupt the natural habits of animals and harm animal health. This study investigated the effects of feeding amount and feeding time on growing rabbits in northern China during spring. A total of 432 healthy 35-day-old weaned rabbits with similar body weight were randomly assigned to four groups: whole day diet-unrestricted feeding (WUF), whole day diet-restricted feeding (WRF), nighttime diet-unrestricted feeding (NUF), and nighttime diet-restricted feeding (NRF). The results showed that nighttime diet-unrestricted feeding improved performance, circadian rhythm of behavior, and body temperature, while reducing the risk of diarrhea and death. WRF group increased daytime body temperature but had no significant difference in feed conversion rate. The study suggests that nighttime diet-unrestricted feeding in spring can improve the growth and welfare of rabbits in northern China. Our study underscores the pivotal role of feeding timing in enhancing animal health. Future investigations should delve into the underlying mechanisms and expand the application of this strategy across seasons and regions to improve rabbit husbandry practices.

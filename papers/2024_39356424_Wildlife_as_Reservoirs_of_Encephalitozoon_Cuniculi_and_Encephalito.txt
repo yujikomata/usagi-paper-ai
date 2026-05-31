@@ -1,0 +1,7 @@
+TITLE: Wildlife as Reservoirs of Encephalitozoon Cuniculi and Encephalitozoon Hellem and Molecular Genotyping of Encephalitozoon spp. in Small Mammals in the Czech Republic.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1007/s11686-024-00920-0
+SOURCE: EuropePMC/MED/39356424
+
+PurposeParasites of genus Encephalitozoon are well known pathogens of domestic animals however less attention was paid to its spread among wildlife that can play an important role of reservoir of infection. The aim of the study was to conduct molecular detection and genotype characterization of Encephalitozoon spp. in wild small mammals trapped in localities both near to and at a large distance from residential areas.MethodsIn total, 300 wild small mammals (274 Rodentia and 26 Eulipotyphla) were trapped in 41 localities of the Czech Republic and tested by nested PCR for Encephalitozoon spp.ResultsThe DNA of Encephalitozoon spp. was proved in tissues (brain or liver) of 11% (32/300) of animals. There was a statistically significant difference (p ConclusionThis study brings new information on the molecular characterization of Encephalitozoon spp. isolated from wild small mammals trapped in two different areas (localities in near to residential areas and localities with a large distance from residential areas).

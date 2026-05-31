@@ -1,0 +1,7 @@
+TITLE: Age-related changes of intraocular pressure in Dutch belted rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1038/s41598-024-62097-w
+SOURCE: EuropePMC/MED/38802493
+
+This study investigated intraocular pressure (IOP) in Dutch belted rabbits using two different tonometers, rebound tonometry (TonoVet Plus; TVP) and a Tonopen (Tono-Pen AVIA Vet; TPA). Post-pubescent male Dutch belted rabbits aged 36 weeks (n = 10 animals) were used in the study. IOP measurements were conducted every 2 weeks for 22 weeks using TVP and TPA on both eyes of each rabbit. The average IOP measurements were compared by the paired Student's t-test. Pairwise Pearson's correlation coefficients and Bland-Altman statistics were used. The overall mean IOP measured with TPA was significantly higher than that with TVP (23.5 ± 4.9 vs. 21.8 ± 2.4 mmHg for the right eyes; P = 0.045, and 23.0 ± 4.7 vs. 21.5 ± 2.4 mmHg for the left eyes; P = 0.047). Both tonometers tended to show increased IOP readings with age, and positive correlations between IOP and age were observed with both TPA (r = 0.95, P < 0.001 for right eyes; r = 0.95, P < 0.001 for left eyes) and TVP (r = 0.91, P < 0.001 for right eyes; r = 0.64, P = 0.024 for left eyes). The average bias calculated by subtracting TPA from TVP was - 1.60 (95% confidence intervals - 1.927, - 1.281) mmHg. IOP in post-pubescent Dutch belted rabbits tended to increase with age throughout the 22 week study.

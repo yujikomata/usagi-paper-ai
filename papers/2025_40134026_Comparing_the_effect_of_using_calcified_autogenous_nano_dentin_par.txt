@@ -1,0 +1,7 @@
+TITLE: Comparing the effect of using calcified autogenous nano dentin particles versus micro dentin particles in the healing of mandibular bony defects in New Zealand rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1186/s13104-025-07191-6
+SOURCE: EuropePMC/MED/40134026
+
+ObjectiveThis study aimed to compare the regenerative effect of autogenous micro-dentin and nano-dentin particles on bone regeneration in rabbits' mandibular defects. Sixty adult New Zealand rabbits were randomly divided into three groups: a control group, a micro-dentin group, and a nano-dentin group. A critical-sized bony defect was created at the lower border of the mandible. Bone regeneration was evaluated at two, four, and eight weeks using light microscopy, cone beam computed tomography (CBCT) scans, and histomorphometric analysis.ResultsNano-dentin significantly enhanced bone density and defect closure, as evidenced by CBCT and histological analyses. At eight weeks, it promoted extensive new bone formation, nearly bridging the defect, with minimal residual graft material compared to the micro-dentin group. Histomorphometric analysis confirmed its superior osteogenic potential, demonstrating enhanced bone regeneration and graft resorption. These findings highlight nano-dentin as a highly effective biomaterial for mandibular bone repair.

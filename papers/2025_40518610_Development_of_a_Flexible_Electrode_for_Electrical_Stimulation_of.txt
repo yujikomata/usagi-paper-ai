@@ -1,0 +1,7 @@
+TITLE: Development of a Flexible Electrode for Electrical Stimulation of Rabbit Extraocular Muscle.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3341/kjo.2025.0067
+SOURCE: EuropePMC/MED/40518610
+
+PurposeTo develop a flexible electrode for electrical stimulation of extraocular muscles and to evaluate the safety of applying direct electrical stimulation to muscles and its potential effects on ocular tissues in rabbits.MethodsA flexible electrode was fabricated using a conventional photolithography process. This electrode comprised a 300-nm-thick platinum layer embedded within a 30-μm-thick polyimide cable. In an in vivo study, five rabbits underwent electrical stimulation of the right superior and inferior rectus muscles. Stimulation consisted of electrical pulses (1 pulse per second, 2.0 mA for 0.1 milliseconds) applied for 5 minutes to the right superior rectus muscle, followed by 5 minutes to the right inferior rectus muscle. This regimen was performed three times a week for 4 weeks. Subsequent histological examination was conducted on the conjunctiva, extraocular muscles, sclera, and retina.ResultsDirect electrical stimulation of extraocular muscle using a flexible electrode could successfully elicit eye movement in rabbits. Histologic examination demonstrated no evidence of detrimental effects of the electrical stimulation.ConclusionsDirect electrical stimulation of extraocular muscles using a flexible electrode could safely elicit eye movement without any ocular damage in rabbits.

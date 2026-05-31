@@ -1,0 +1,7 @@
+TITLE: Evaluation of the microcirculation in a rabbit hemorrhagic shock model using laser Doppler imaging.
+YEAR: 2015
+JOURNAL: 
+DOI: 10.1371/journal.pone.0116076
+SOURCE: EuropePMC/MED/25714398
+
+The aim of this study is to evaluate the feasibility of Laser Doppler imaging (LDI) for noninvasive and dynamic assessment of hemorrhagic shock in a rabbit model. A rabbit model of hemorrhagic shock was generated and LDI of the microcirculation in the rabbit ears was performed before and at 0, 30, 60, and 90 min after hemorrhage. The CCD (Charge Coupled Device) image of the ears, the mean arterial pressure (MAP) and the heart rate (HR) were monitored. The mean LDI flux was calculated. The HR of rabbits was significantly (p  0.05). Both the flux numbers and the red-to-blue color changes on LDI imaging showed the reduction of the microcirculation. LDI imaging is a noninvasive and non-contact approach to evaluate the microcirculation and may offer benefits in the diagnosis and treatment of hemorrhage shock. Further studies are needed to confirm its effectiveness in clinical practice.

@@ -1,0 +1,7 @@
+TITLE: Efficient generation of germline chimeras in a non-rodent species using rabbit induced pluripotent stem cells.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s41467-025-60314-2
+SOURCE: EuropePMC/MED/40461482
+
+Pluripotent stem cells have long been used to produce knockout mice via germline chimera technology. However, aside from the rat, this approach has not been successfully applied to other mammals. Here, we demonstrate that rabbit induced pluripotent stem cells (iPSCs) can be reprogrammed using KLF2, ERAS and PRMT6, enabling them to efficiently colonize embryos. These chimeric embryos can develop into fetuses and newborn rabbits, with iPSCs contributing up to 100 % to certain organs. Notably, female rabbits generated through this method are healthy and transmit the iPSC genome to their offspring with a high efficiency, demonstrating germline chimerism. This advancement establishes a foundation for developing rabbit models of human disease with complex genetic traits.

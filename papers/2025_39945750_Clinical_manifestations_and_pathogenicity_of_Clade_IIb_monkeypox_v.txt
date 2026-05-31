@@ -1,0 +1,7 @@
+TITLE: Clinical manifestations and pathogenicity of Clade IIb monkeypox virus in rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1080/22221751.2025.2465309
+SOURCE: EuropePMC/MED/39945750
+
+The 2022 monkeypox outbreak involved rapid global dissemination, prompting research into animal models for the monkeypox virus (MPXV), including non-human primates and mice. However, studies utilizing rabbits as models remain limited. In this study, we established three rabbit models using the current epidemic MPXV strain. Following intravenous MPXV injection, adult rabbits exhibited characteristic clinical manifestations, including widespread rash and fever, with viral replication in the skin, lungs, and testes, resulting in severe pathological damage by 6 days post-infection (dpi). Intradermal injection of MPXV into the dorsal skin of adult rabbits produced red lesions with central necrosis and hemorrhage accompanied by dense inflammatory infiltrates. Abundant viral particles were observed in epidermal cells at 6 dpi. Additionally, a fatal MPXV model was developed in 10-day-old rabbits using intranasal virus administration. These young rabbits exhibited lethargy and diarrhea beginning at 2 dpi, significant weight loss, and a 50% mortality rate by 15 dpi. Viral dissemination was detected in multiple organs, leading to extensive multi-organ damage. This study highlights the utility of rabbit models for MPXV, displaying typical clinical features and pathogenic mechanisms.

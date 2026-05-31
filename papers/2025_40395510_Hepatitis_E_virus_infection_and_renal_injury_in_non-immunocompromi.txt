@@ -1,0 +1,7 @@
+TITLE: Hepatitis E virus infection and renal injury in non-immunocompromised host: clinical investigation and rabbit model study.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3389/fcimb.2025.1583006
+SOURCE: EuropePMC/MED/40395510
+
+BackgroundHepatitis E virus (HEV)-associated renal injury is mainly reported in immunocompromised patients. Here we investigated HEV-associated renal injury in non-immunocompromised acute hepatitis E (AHE) patients and rabbits.MethodsA total of 35 non-immunocompromised AHE patients were tested for kidney function parameters and HEV markers. HEV3- and HEV4-infected rabbits were tested for alanine aminotransferase, creatinine (Cr), and HEV markers. HEV-associated renal injury and renal HEV replication were analyzed by histopathology and RT-qPCR.ResultsThe non-immunocompromised AHE patients all showed normal serum Cr, blood urea nitrogen (BUN), and urine acid (UA). However, 25% of non-immunocompromised AHE patients showed proteinuria. In the rabbit model, HEV replication was observed in kidney tissues. The HEV-infected rabbits showed a transient elevated Cr level. Renal injury, including focal lymphocytic infiltration and tubular protein casts, was observed in rabbits across acute, recovery, and chronic phases of HEV infection.ConclusionsProteinuria is not uncommon in non-immunocompromised AHE patients, indicating that HEV infection affects the kidney. We further proved that HEV can cause renal injury in a rabbit model.

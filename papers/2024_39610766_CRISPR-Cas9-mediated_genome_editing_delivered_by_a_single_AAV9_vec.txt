@@ -1,0 +1,7 @@
+TITLE: CRISPR-Cas9-mediated genome editing delivered by a single AAV9 vector inhibits HSV-1 reactivation in a latent rabbit keratitis model.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1016/j.omtm.2024.101303
+SOURCE: EuropePMC/MED/39610766
+
+Herpes simples virus 1 (HSV-1) keratitis is a major cause of blindness globally. During primary infection, HSV-1 travels to the trigeminal ganglia and establishes lifelong latency. Although some treatments can reduce symptom severity and recurrence, there is no cure for HSV-1 keratitis. We used CRISPR-Cas9 to co-target gene sequences encoding two essential HSV-1 proteins, ICP0 and ICP27, as a potential therapy for HSV-1 keratitis. In HSV-1-infected Vero cells, the HSV-1 viral load and titer were significantly reduced by plasmid transfection or AAV2 vector transduction expressing Cas9 nuclease from Staphylococcus aureus (SaCas9) and paired guide RNAs (gRNAs). Off-target assessment showed minimal off-target editing activity from the selected gRNAs. We then tested our CRISPR-Cas9 gene editing approach in a latent rabbit model of HSV-1 keratitis. Corneal scarification with all-in-one AAV8(Y733F)-SaCas9 or AAV9-SaCas9 vector reduced viral shedding by over 50%. Interestingly, intravenous administration of the same AAV9-SaCas9 vector eliminated viral shedding in 92% of treated eyes. In addition, treated trigeminal ganglia showed a reduction in HSV-1 DNA and RNA expression. Our results support the utility of single-dose AAV9 all-in-one CRISPR-Cas9 gene editing as a safe and effective strategy for treating HSV-1 keratitis.

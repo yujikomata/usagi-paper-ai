@@ -1,0 +1,7 @@
+TITLE: Effect of transported segment size on the new bone formation of the rabbit femur in the Ilizarov bone transport method.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.5152/j.aott.2023.22087
+SOURCE: EuropePMC/MED/37850240
+
+ObjectiveThis study aimed to compare histological and radiological union in the bone transport of 3 segments of different sizes to reconstruct the rabbit femur's bone defects.MethodsThirty rabbits were divided into 3 groups; a 1-cm defect was created in the femur in all rabbits. The length of the segment to be transferred was 10% of the femur length in group 1, 15% in group 2, and 20% in group 3. All defects were reconstructed by applying bone transport. At the end of the consolidation period, the distraction zone was compared radiologically and histologically.ResultsWhile there was no radiological difference between the groups, the highest histological scores were obtained from group 3. Osteocalcin staining revealed similar involvement in groups 2 and 3, butless involvement in group 1.ConclusionEvidence from this study has shown that as the size of the segment used for bone transport increases, more stable fixation and better histological union tissue can be obtained in the rabbit femoral defect model.

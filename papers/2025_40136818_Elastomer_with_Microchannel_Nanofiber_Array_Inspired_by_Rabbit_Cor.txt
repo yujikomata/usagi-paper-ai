@@ -1,0 +1,7 @@
+TITLE: Elastomer with Microchannel Nanofiber Array Inspired by Rabbit Cornea Achieves Rapid Liquid Spreading and Reduction of Frictional Vibration Noise.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/biomimetics10030164
+SOURCE: EuropePMC/MED/40136818
+
+Reducing friction-induced squeal noise is a common issue in daily life and industrial production, particularly for elastomers. However, adjusting structure and wettability in wet environments to solve the friction-induced squeal noise remains a challenge. Here, inspired by rabbit corneas, a microchannel nanofiber array composite structure superhydrophilic elastomer material was prepared to achieve rapid liquid spreading and optimize liquid distribution. Researchers have found that when the depth of the groove microchannel is 400 μm and the length of the nanofiber is 5000 nm, water rapidly spreads on the surface in only 430 ms. This reduces self-excited vibration caused by friction, thereby reducing squealing noise by 20 decibels (dB). This article proposes a novel and direct biomimetic squealing noise reduction strategy, which has great potential in solving friction vibration noise problems in industry and daily life, such as automotive wiper blades, engines, oil lubricated bearings, etc.

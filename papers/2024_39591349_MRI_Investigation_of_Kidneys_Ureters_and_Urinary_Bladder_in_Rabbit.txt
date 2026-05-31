@@ -1,0 +1,7 @@
+TITLE: MRI Investigation of Kidneys, Ureters and Urinary Bladder in Rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/vetsci11110575
+SOURCE: EuropePMC/MED/39591349
+
+Twelve clinically healthy and sexually mature New Zealand White rabbits were studied. The non-contrast imaging included T1-weighted and T2-weighted spin-echo and gradient-echo sequences in the transverse, sagittal and dorsal planes. Transverse MRI (T2-weighted image) through L1 demonstrated only the right kidney. The transverse T2-weighted image through L2 showed both kidneys. The cranial part of the urinary bladder on T1-weighted transverse scans through L4 was flexed to the left. The T2-weighted sagittal image 30 mm to the right of the median plane showed the right kidney, the right ureter and the urinary bladder. The T2-weighted sagittal image 30 mm to the left of the median plane showed part of the left kidney, the left ureter and the urinary bladder. The T2-weighted sagittal image 45 mm to the left of the median plane presented the lateral part of the left kidney. The dorsal MRI image (T2-weighted sequence) through the horizontal plane 30 mm ventral to the spine demonstrated the whole organs. These data will be useful in imaging anatomy and diagnostic studies of various pathologies of the excretory system in rabbits and other mammalian species.

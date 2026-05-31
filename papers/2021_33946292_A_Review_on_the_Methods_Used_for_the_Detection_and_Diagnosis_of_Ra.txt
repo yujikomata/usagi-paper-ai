@@ -1,0 +1,7 @@
+TITLE: A Review on the Methods Used for the Detection and Diagnosis of Rabbit Hemorrhagic Disease Virus (RHDV).
+YEAR: 2021
+JOURNAL: 
+DOI: 10.3390/microorganisms9050972
+SOURCE: EuropePMC/MED/33946292
+
+Since the early 1980s, the European rabbit (Oryctolagus cuniculus) has been threatened by the rabbit hemorrhagic disease (RHD). The disease is caused by a lagovirus of the family Caliciviridae, the rabbit hemorrhagic disease virus (RHDV). The need for detection, identification and further characterization of RHDV led to the development of several diagnostic tests. Owing to the lack of an appropriate cell culture system for in vitro propagation of the virus, much of the methods involved in these tests contributed to our current knowledge on RHD and RHDV and to the development of vaccines to contain the disease. Here, we provide a comprehensive review of the RHDV diagnostic tests used since the first RHD outbreak and that include molecular, histological and serological techniques, ranging from simpler tests initially used, such as the hemagglutination test, to the more recent and sophisticated high-throughput sequencing, along with an overview of their potential and their limitations.

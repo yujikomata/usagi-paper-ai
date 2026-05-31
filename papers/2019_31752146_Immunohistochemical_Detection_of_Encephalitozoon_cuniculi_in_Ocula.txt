@@ -1,0 +1,7 @@
+TITLE: Immunohistochemical Detection of Encephalitozoon cuniculi in Ocular Structures of Immunocompetent Rabbits.
+YEAR: 2019
+JOURNAL: 
+DOI: 10.3390/ani9110988
+SOURCE: EuropePMC/MED/31752146
+
+Encephalitozoonosis is a common infectious disease widely spread among rabbits. Its causative agent, Encephalitozoon cuniculi, is considered as a zoonotic and emerging pathogen capable of infecting both immunocompetent and immunocompromised hosts, including humans. In rabbits, clinical signs include neurological, kidney and ocular disease. The aim of this study was to detect E. cuniculi in ocular structures in immunocompetent rabbits after experimental oral infection using immunohistochemistry. In infected animals, E. cuniculi spores were present in periocular connective tissue, sclera, cornea, choroidea, iris, retina and lens, as a round to ovoid organism reacting with a specific anti-E. cuniculi monoclonal antibody as early as 2 weeks after infection. There were no signs of inflammatory lesions in any of the ocular tissues examined at 2, 4, 6 and 8 weeks after infection. In the present study, E. cuniculi was also detected in the lenses of adult rabbits, which indicates that ways of lens infection other than intrauterine and haematogenic are possible.

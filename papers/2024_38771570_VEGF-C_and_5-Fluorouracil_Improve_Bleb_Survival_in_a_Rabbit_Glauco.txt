@@ -1,0 +1,7 @@
+TITLE: VEGF-C and 5-Fluorouracil Improve Bleb Survival in a Rabbit Glaucoma Surgery Trabeculectomy Model.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1167/iovs.65.5.32
+SOURCE: EuropePMC/MED/38771570
+
+PurposeTo evaluate VEGF-C-induced lymphoproliferation in conjunction with 5-fluorouracil (5-FU) antimetabolite treatment in a rabbit glaucoma filtration surgery (GFS) model.MethodsThirty-two rabbits underwent GFS and were assigned to four groups (n = 8 each) defined by subconjunctival drug treatment: (a) VEGF-C combined with 5-FU, (b) 5-FU, (c) VEGF-C, (d) and control. Bleb survival, bleb measurements, and IOP were evaluated over 30 days. At the end, histology and anterior segment OCT were performed on some eyes. mRNA was isolated from the remaining eyes for RT-PCR evaluation of vessel-specific markers (lymphatics, podoplanin and LYVE-1; and blood vessels, CD31).ResultsQualitatively and quantitatively, VEGF-C combined with 5-FU resulted in blebs which were posteriorly longer and wider than the other conditions: vs. 5-FU (P = 0.043 for longer, P = 0.046 for wider), vs. VEGF-C (P ConclusionsAdding VEGF-C lymphoproliferation to standard antimetabolite treatment improved rabbit GFS success and may suggest a future strategy to improve human GFSs.

@@ -1,0 +1,7 @@
+TITLE: Early infections by myxoma virus of young rabbits (Oryctolagus cuniculus) protected by maternal antibodies activate their immune system and enhance herd immunity in wild populations.
+YEAR: 2014
+JOURNAL: 
+DOI: 10.1186/1297-9716-45-26
+SOURCE: EuropePMC/MED/24589193
+
+The role of maternal antibodies is to protect newborns against acute early infection by pathogens. This can be achieved either by preventing any infection or by allowing attenuated infections associated with activation of the immune system, the two strategies being based on different cost/benefit ratios. We carried out an epidemiological survey of myxomatosis, which is a highly lethal infectious disease, in two distant wild populations of rabbits to describe the epidemiological pattern of the disease. Detection of specific IgM and IgG enabled us to describe the pattern of immunity. We show that maternal immunity attenuates early infection of juveniles and enables activation of their immune system. This mechanism associated with steady circulation of the myxoma virus in both populations, which induces frequent reinfections of immune rabbits, leads to the maintenance of high immunity levels within populations. Thus, myxomatosis has a low impact, with most infections being asymptomatic. This work shows that infection of young rabbits protected by maternal antibodies induces attenuated disease and activates their immune system. This may play a major role in reducing the impact of a highly lethal disease when ecological conditions enable permanent circulation of the pathogen.

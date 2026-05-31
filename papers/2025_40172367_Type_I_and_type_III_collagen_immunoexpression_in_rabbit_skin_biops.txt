@@ -1,0 +1,7 @@
+TITLE: Type I and type III collagen immunoexpression in rabbit skin biopsy samples treated with rosuvastatin gel and autologous platelet-rich plasma.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1590/acb402725
+SOURCE: EuropePMC/MED/40172367
+
+PurposeTo evaluate whether the joint use of autologous platelet-rich plasma (aPRP) and rosuvastatin (RSV) in biopsies of dermal wounds induced in rabbits results in an additive effect on the immunoexpression of collagens type I and III, optimizing the healing process and increasing collagen production during the proliferative phase of healing to improve the quality of tissue repair.MethodsThirty-two biopsy samples from eight clinically healthy adult male New Zealand rabbits were used. They were treated with aPRP, RSV, or aPRP + RSV and analyzed zero, three, seven, ten, and 14 days post wound induction.ResultsType I collagen immunoexpression was significantly higher in wounds treated with aPRP when compared to the control group. This study demonstrated that type III collagen is predominant during the proliferation phase of the healing process, highlighting its critical role in tissue repair and regeneration.ConclusionThe association of aPRP and RSV in wound treatment may have an additive effect in the immunoexpression of type III collagen and can thus be used as an alternative in tissue repair and collagen formation, optimizing the healing process.

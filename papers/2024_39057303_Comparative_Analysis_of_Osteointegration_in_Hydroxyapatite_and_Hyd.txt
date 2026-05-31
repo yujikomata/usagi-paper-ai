@@ -1,0 +1,7 @@
+TITLE: Comparative Analysis of Osteointegration in Hydroxyapatite and Hydroxyapatite-Titanium Implants: An In Vivo Rabbit Model Study.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/jfb15070181
+SOURCE: EuropePMC/MED/39057303
+
+The study evaluates the osteointegration of hydroxyapatite (HAp) and hydroxyapatite-titanium (HApTi) biocomposites implanted in the femurs of rabbits. The biocomposites were fabricated using powder metallurgy and subjected to a two-step sintering process. Scanning electron microscopy (SEM) was employed to analyze the morphology, while mesenchymal stem cells were cultured to assess cytotoxicity and proliferation. In vivo experiments involved the implantation of HAp in the left femur and HApTi in the right femur of twenty New Zealand white rabbits. Computed tomography (CT) scans, histological, immunohistochemical, and histomorphometric analyses were performed to assess bone density and osteoblast activity. Results demonstrated that HApTi implants showed superior osteointegration, with higher peri-implant bone density and increased osteoblast count compared to HAp implants. This study concluded that HApTi biocomposites have potential for enhanced bone healing and stability in orthopedic applications.

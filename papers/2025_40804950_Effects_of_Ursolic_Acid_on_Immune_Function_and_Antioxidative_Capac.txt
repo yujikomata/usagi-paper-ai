@@ -1,0 +1,7 @@
+TITLE: Effects of Ursolic Acid on Immune Function and Antioxidative Capacity in Weaned Rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15152159
+SOURCE: EuropePMC/MED/40804950
+
+This study aimed to investigate the effects of dietary supplementation with different levels of ursolic acid (UA) on the growth performance, immune function, intestinal antioxidant capacity, and anti-inflammatory responses of weaned rabbits. A total of 160 Hyla meat rabbits aged 35 days were randomly assigned to four groups. Each treatment group consisted of 8 replicates, with 5 rabbits per replicate. The rabbits were fed a basal diet (control group, CON) or experimental diets supplemented with 50, 100, or 200 mg/kg UA for 28 days. Dietary supplementation with 50 mg/kg UA significantly increased (p p p p p p = 0.01, respectively) as the dietary UA level increased. With increasing UA supplementation, cecal Kelch-like ECH-associated protein 1 and IL-10 mRNA expression showed linear upregulation (p Nrf2), superoxide dismutase 1 (SOD1), quinone oxidoreductase 1 (NQO1), TNF-α, interleukin-6, and interleukin-8 displayed quadratic responses (p TNF-α and interleukin-1β mRNA expression while upregulating Nrf2, NQO1, and SOD1 mRNA levels (p < 0.05). In conclusion, dietary supplementation with 50 mg/kg UA significantly improved the growth performance of weaned rabbits by improving intestinal morphology, immune function, and antioxidant and anti-inflammatory capacities, demonstrating its efficacy as a natural phytogenic feed additive.

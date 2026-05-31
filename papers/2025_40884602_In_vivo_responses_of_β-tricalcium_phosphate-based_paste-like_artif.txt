@@ -1,0 +1,7 @@
+TITLE: In vivo responses of β-tricalcium phosphate-based paste-like artificial bone with antibacterial properties under potentially infectious conditions using a rabbit model.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1007/s10856-025-06932-0
+SOURCE: EuropePMC/MED/40884602
+
+Calcium-phosphate cement (CPC), a paste-like artificial bone, is a material form that allows minimally invasive treatment. However, CPC is not infection resistant, which may lead to surgical site infections. We recently developed a paste-like organic/inorganic hybrid artificial bone that is compatible with the bone remodeling cycle. In this study, we added silver-loaded tricalcium phosphate, which has antibacterial properties, to the hybrid CPC and fabricated a prototype "antibacterial CPC". Antibacterial and non-antibacterial CPCs were implanted into a rabbit jaw defect model in which infection could occur, and the in vivo responses were compared. In cement specimens retrieved from rabbit jaws, residual material was observed with the non-antibacterial CPC, whereas with the antibacterial CPC, almost all of the material was resorbed and replaced with host bone. These results suggest that placement of antibacterial CPC in a rabbit jaw bone defect model susceptible to bacterial infection promotes material resorption and bone formation. The antibacterial CPC developed in this study is thus a novel paste artificial bone exhibiting good bioresorption and osteogenic potential in biological hard tissues.

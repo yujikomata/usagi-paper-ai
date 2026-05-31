@@ -1,0 +1,7 @@
+TITLE: Lagovirus europeus GI.2 (rabbit hemorrhagic disease virus 2) infection in captive mountain hares (Lepus timidus) in Germany.
+YEAR: 2020
+JOURNAL: 
+DOI: 10.1186/s12917-020-02386-4
+SOURCE: EuropePMC/MED/32460756
+
+BackgroundRabbit hemorrhagic disease virus (RHDV, Lagovirus europeus GI.1) induces a contagious and highly lethal hemorrhagic disease in rabbits. In 2010 a new genotype of lagovirus (GI.2), emerged in Europe, infecting wild and domestic population of rabbits and hares.Case presentationWe describe the infection with a GI.2 strain, "Bremerhaven-17", in captive mountain hares (Lepus timidus) in a zoo facility in Germany. Postmortem examination revealed RHD-like lesions including necrotizing hepatitis. RT-qPCR and AG-ELISA confirmed presence of GI.2. Recombination and phylogenetic analysis grouped the identified strain with other GI.2 strains, sharing nucleotide identity of 91-99%.ConclusionOur findings confirm that mountain hares are susceptible to GI.2 infection, due to a past recombination event facilitating virus spillover from sympatric rabbits.

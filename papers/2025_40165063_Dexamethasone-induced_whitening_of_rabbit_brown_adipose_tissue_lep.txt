@@ -1,0 +1,7 @@
+TITLE: Dexamethasone-induced whitening of rabbit brown adipose tissue: leptin resistance and mitochondrial dysfunction.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1186/s12864-025-11502-3
+SOURCE: EuropePMC/MED/40165063
+
+BackgroundResearch on the effects of exogenous glucocorticoids on brown adipose tissue (BAT) is crucial for understanding how these hormones can induce metabolic disorders such as obesity. In this study, we explored the effects of glucocorticoids, specifically dexamethasone (Dex), on the metabolic transformation of BAT to white adipose tissue (WAT).ResultsOur results indicate a significant whitening shift in BAT upon Dex treatment, characterized by increased lipid deposition, decreased mitochondrial density, a significant decline in cellular ATP content, and reduced expression of mitochondrial markers. We demonstrate the crucial role of leptin resistance in mediating mitochondrial function through the overexpression and inhibition of LEPR.ConclusionsOur results suggest the role of leptin resistance in regulating of mitochondrial biogenesis and energy metabolism in glucocorticoid-induced brown adipose whiteness.

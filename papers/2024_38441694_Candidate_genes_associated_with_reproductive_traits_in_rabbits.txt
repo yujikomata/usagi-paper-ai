@@ -1,0 +1,7 @@
+TITLE: Candidate genes associated with reproductive traits in rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1007/s11250-024-03938-8
+SOURCE: EuropePMC/MED/38441694
+
+In the era of scientific advances and genetic progress, opportunities in the livestock sector are constantly growing. The application of molecular-based methods and approaches in farm animal breeding would accelerate and improve the expected results. The current work aims to comprehensively review the most important causative mutations in candidate genes that affect prolificacy traits in rabbits. Rabbits are a source of excellent-tasting meat that is high in protein and low in fat. Their early maturity and intensive growth are highly valued all over the world. However, improving reproductive traits and prolificacy in rabbits could be very tricky with traditional selection. Therefore, traditional breeding programs need new methods based on contemporary discoveries in molecular biology and genetics because of the complexity of the selection process. The study and implementation of genetic markers related to production in rabbits will help to create populations with specific productive traits that will produce the desired results in an extremely short time. Many studies worldwide showed an association between different genes and productive traits in rabbits. The study of these polymorphisms and their effects could be useful for molecular-oriented breeding, particularly marker-assisted selection programs in rabbit breeding.

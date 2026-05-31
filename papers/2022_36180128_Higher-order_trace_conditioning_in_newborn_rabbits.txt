@@ -1,0 +1,7 @@
+TITLE: Higher-order trace conditioning in newborn rabbits.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.1101/lm.053607.122
+SOURCE: EuropePMC/MED/36180128
+
+Temporal contingency is a key factor in associative learning but remains weakly investigated early in life. Few data suggest simultaneous presentation is required for young to associate different stimuli, whereas adults can learn them sequentially. Here, we investigated the ability of newborn rabbits to perform sensory preconditioning and second-order conditioning using trace intervals between odor presentations. Strikingly, pups are able to associate odor stimuli with 10- and 30-sec intervals in sensory preconditioning and second-order conditioning, respectively. The effectiveness of higher-order trace conditioning in newborn rabbits reveals that very young animals can display complex learning despite their relative immaturity.

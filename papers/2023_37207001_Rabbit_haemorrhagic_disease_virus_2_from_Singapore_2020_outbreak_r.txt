@@ -1,0 +1,7 @@
+TITLE: Rabbit haemorrhagic disease virus 2 from Singapore 2020 outbreak revealed an Australian recombinant variant.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1093/ve/vead029
+SOURCE: EuropePMC/MED/37207001
+
+Rabbit haemorrhagic disease (RHD) is a significant and debilitating viral disease affecting lagomorphs. In September 2020, Singapore reported its first cases of RHD virus (RHDV) infection in domesticated rabbits. The initial findings reported that the outbreak strain belonged to genotype GI.2 (RHDV2/RHDVb), and epidemiological investigations could not identify the definitive source of the virus origin. Further recombination detection and phylogenetic analyses of the Singapore outbreak strain revealed that the RHDV was a GI.2 structural (S)/GI.4 non-structural (NS) recombinant variant. Sequence analyses on the National Centre for Biotechnology Information (NCBI) database showed high homology to recently emerged Australian variants, which were prevalent in local Australian lagomorph populations since 2017. Time-structured and phylogeographic analyses for the S and NS genes revealed a close genetic relationship between the Singapore RHDV strain and the Australian RHDV variants. More thorough epidemiological inquiries are necessary to ascertain how an Australian RHDV was introduced into the Singapore rabbit population, and opportune development of RHDV diagnostics and vaccines will be important to safeguard lagomorphs from future RHDV infection and disease management.

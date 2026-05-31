@@ -1,7 +1,0 @@
-TITLE: The Volcano Rabbit in the Phylogenetic Network of Lagomorphs.
-YEAR: 2019
-JOURNAL: 
-DOI: 10.1093/gbe/evy257
-SOURCE: EuropePMC/MED/30476046
-
-The order Lagomorpha unifies pikas (Ochotonidae) and the hares plus rabbits (Leporidae). Phylogenetic reconstructions of the species within Leporidae based on traditional morphological or molecular sequence data provide support for conflicting hypotheses. The retroposon presence/absence patterns analyzed in this study revealed strong support for the broadly accepted splitting of lagomorphs into ochotonids and leporids with Pronolagus as the first divergence in the leporid tree. Furthermore, the retroposon presence/absence patterns nested the rare volcano rabbit, Romerolagus diazi, within an unresolved network of deeper leporid relationships and provide the first homoplasy-free image of incomplete lineage sorting and/or ancestral hybridization/introgression in rapidly radiated Leporidae. At the same time, the strongest retroposon presence/absence signal supports the volcano rabbit as a separate branch between the Pronolagus junction and a unified cluster of the remaining leporids.

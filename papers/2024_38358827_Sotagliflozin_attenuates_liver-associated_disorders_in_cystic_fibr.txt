@@ -1,0 +1,7 @@
+TITLE: Sotagliflozin attenuates liver-associated disorders in cystic fibrosis rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1172/jci.insight.165826
+SOURCE: EuropePMC/MED/38358827
+
+Mutations in the cystic fibrosis (CF) transmembrane conductance regulator (CFTR) gene lead to CF, a life-threating autosomal recessive genetic disease. While recently approved Trikafta dramatically ameliorates CF lung diseases, there is still a lack of effective medicine to treat CF-associated liver disease (CFLD). To address this medical need, we used a recently established CF rabbit model to test whether sotagliflozin, a sodium-glucose cotransporter 1 and 2 (SGLT1/2) inhibitor drug that is approved to treat diabetes, can be repurposed to treat CFLD. Sotagliflozin treatment led to systemic benefits to CF rabbits, evidenced by increased appetite and weight gain as well as prolonged lifespan. For CF liver-related phenotypes, the animals benefited from normalized blood chemistry and bile acid parameters. Furthermore, sotagliflozin alleviated nonalcoholic steatohepatitis-like phenotypes, including liver fibrosis. Intriguingly, sotagliflozin treatment markedly reduced the otherwise elevated endoplasmic reticulum stress responses in the liver and other affected organs of CF rabbits. In summary, our work demonstrates that sotagliflozin attenuates liver disorders in CF rabbits and suggests sotagliflozin as a potential drug to treat CFLD.

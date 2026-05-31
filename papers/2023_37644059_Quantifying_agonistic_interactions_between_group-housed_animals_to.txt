@@ -1,0 +1,7 @@
+TITLE: Quantifying agonistic interactions between group-housed animals to derive social hierarchies using computer vision: a case study with commercially group-housed rabbits.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1038/s41598-023-41104-6
+SOURCE: EuropePMC/MED/37644059
+
+In recent years, computer vision has contributed significantly to the study of farm animal behavior. In complex environments such as commercial farms, however, the automated detection of social behavior and specific interactions between animals can be improved. The present study addresses the automated detection of agonistic interactions between caged animals in a complex environment, relying solely on computer vision. An automated pipeline including group-level temporal action segmentation, object detection, object tracking and rule-based action classification for the detection of agonistic interactions was developed and extensively validated at a level unique in the field. Comparing with observations made by human observers, our pipeline reaches 77% precision and 85% recall using a 5-min tolerance interval for the detection of agonistic interactions. Results obtained using this pipeline allow to construct time-dependent socio-matrices of a group of animals and derive metrics on the dominance hierarchy in a semi-automated manner. Group-housed breeding rabbits (does) with their litters in commercial farms are the main use-case in this work, but the idea is probably also applicable to other social farm animals.

@@ -1,0 +1,7 @@
+TITLE: Computed Tomographic Findings Secondary to Dental Pathologies: Comparison between Rabbits and Guinea Pigs.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/vetsci10120705
+SOURCE: EuropePMC/MED/38133256
+
+(1) Background: dental pathologies are the most frequent reason for requesting a CT scan of the head in rabbits and guinea pigs. The study aimed to review head CT exams of both species to identify and characterize lesions secondary to dental disease. (2) Methods: head CT studies of 48 rabbits and 52 guinea pigs with dental pathologies were reviewed. (3) Results: dental abnormalities of mandibular teeth were the most represented, both in rabbits (81.2%) and guinea pigs (98%). The aggressive bone lesion associated with teeth was the more frequently observed bone lesion in rabbits' mandible and maxilla; in guinea pigs, the more frequent bone lesions were bulging around the roots of the teeth with focal lysis in the maxilla, and without focal lysis in the mandible. In the maxilla, the increased attenuation of nasal cavities (rhinitis) was the most frequently observed abnormality both in rabbits (60%) and guinea pigs (83.3%); the exophthalmos was more represented in rabbits (53.3%). In the mandible, the cavernous space-occupying lesion was more represented both in rabbits (92.3%) and guinea pigs (73.3%). (4) Conclusions: lesions secondary to dental pathologies were often observed both in rabbits and guinea pigs; CT examination has proven to be valuable in detecting secondary alterations in both species.

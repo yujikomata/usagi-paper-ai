@@ -1,0 +1,7 @@
+TITLE: Design, synthesis and acaricidal activity of tetrahydrothiophene derivatives against <i>Psoroptes cuniculi</i>.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1039/d5ra05421d
+SOURCE: EuropePMC/MED/41113576
+
+A series of sulfur-containing five-membered heterocycles were devised and prepared, with substituted chalcones and elemental sulfur acting as precursors. They were subsequently oxidized into the relevant tetrahydrothiophene sulfone derivatives. In vitro assessments were carried out to gauge the acaricidal activity of all 44 synthesized compounds against Psoroptes cuniculi. Based on mass concentration and molar concentration, 16 and 14 compounds, respectively, exhibited significantly superior acaricidal activity compared to the commercial drug ivermectin. Structure-activity relationship (SAR) studies revealed that the sulfone group was an essential structural motif for the acaricidal activity. When halogens and strong electron-withdrawing groups were introduced at the 3- and 5-positions of the benzene ring, the activity was significantly boosted via electronic effects and spatial compatibility. Molecular docking experiments confirmed that tetrahydrothiophene sulfone derivatives can form multiple interactions with the active pocket of acetylcholinesterase (AChE).

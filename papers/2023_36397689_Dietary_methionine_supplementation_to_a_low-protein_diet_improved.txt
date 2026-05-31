@@ -1,0 +1,7 @@
+TITLE: Dietary methionine supplementation to a low-protein diet improved hair follicle development of Angora rabbits.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.5713/ab.22.0286
+SOURCE: EuropePMC/MED/36397689
+
+ObjectiveAngora rabbits fed a low-protein diet exhibit decreased hair production performance. This study was set out to evaluate the effects of methionine on hair properties and nitrogen metabolism in Angora rabbits fed a low-protein diet and to investigate the gene expression related to hair follicle development to determine the possible molecular mechanism of methionine effects on hair follicle development.MethodsAn experiment was conducted to investigate the effects of DL-methionine addition on a low-protein diet on hair development in Angora rabbits. Angora rabbits were divided into 5 groups: fed a normal diet (control), fed a low-protein diet (LP), or fed an LP supplemented with 0.2%, 0.4%, or 0.6% DL-methionine (Met).ResultsThe results showed that rabbits in the LP group had lower wool yield than the control rabbits, but the addition of 0.4% to 0.6% Met to LP attenuated these effects (pConclusionIn conclusion, the addition of Met to LP could improves wool production performance and feed efficiency and reduce nitrogen emissions in Angora rabbits. Met can promote hair follicle development, which may be associated with IGF1, KAP, and the versican signaling.

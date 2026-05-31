@@ -1,0 +1,7 @@
+TITLE: Comparing the efficacy and safety of cryoablation and microwave ablation in treating paravertebral metastases of rabbit VX2 tumor.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s41598-025-93233-9
+SOURCE: EuropePMC/MED/40108290
+
+We sought to assess and compare the effectiveness and safety of cryoablation (CA) and microwave ablation (MWA) in treating paravertebral metastases of VX2 in rabbits. A rabbit VX2 paravertebral metastases model was established under computed tomography (CT) guidance, with a modeling success rate of 88.23% (60/68). Sixty successfully modeled rabbits were randomly allocated into the MWA group (n = 30) and CA group (n = 30). A comparative analysis between the CA and MWA groups included assessments of the complete ablation rate, operation time, post-ablation pain, and complication rate. The complete ablation rate in the CA group (86.67%) was higher than that in the MWA group (63.33%) (P < 0.05), and the operation time in the CA group was notably longer than that in the MWA group (P < 0.05). The BRPS ( Bristol Rabbit Pain Scale)scores in both groups decreased at 5 time points after treatment, the post-treatment points scores in the CA group were lower than those in the MWA group (P < 0.001). At a follow-up of 21 days postoperatively, the complication rate in the CA group (10.00%) was significantly lower than that in the MWA group (33.33%) (P < 0.05), with 6 rabbits in the MWA group experiencing severe complications. Compared to MWA, CA for paravertebral metastases demonstrates higher efficacy and safety.

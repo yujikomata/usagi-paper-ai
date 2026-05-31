@@ -1,0 +1,7 @@
+TITLE: Structure-function relationship in the 'termination upstream ribosomal binding site' of the calicivirus rabbit hemorrhagic disease virus.
+YEAR: 2019
+JOURNAL: 
+DOI: 10.1093/nar/gkz021
+SOURCE: EuropePMC/MED/30668745
+
+Caliciviruses use a termination/reinitiation mechanism for translation of their minor capsid protein VP2. A sequence element of about 80 nucleotides denoted 'termination upstream ribosomal binding site' (TURBS) is crucial for reinitiation. RNA secondary structure probing and computer aided secondary structure prediction revealed a rather low degree of secondary structure determinants for the TURBS of the rabbit hermorrhagic disease virus. Mutation analysis showed that prevention of duplex formation had major impact on the VP2 expression levels. Restoration of complementarity of the respective sequences by reciprocal mutation at least partially restored reinitiating rates. Synthetic TURBS structures preserving only the secondary structure forming sequences and the known short motifs important for TURBS function were found to drive reinitiation when the altered sequence could be predicted to allow establishment of the crucial secondary structures of the TURBS.

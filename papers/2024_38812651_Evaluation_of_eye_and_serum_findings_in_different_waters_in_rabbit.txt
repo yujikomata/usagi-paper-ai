@@ -1,0 +1,7 @@
+TITLE: Evaluation of eye and serum findings in different waters in rabbits by drowning and submersion modeling.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.55730/1300-0144.5764
+SOURCE: EuropePMC/MED/38812651
+
+Background/aimThis study investigated serum, vitreous, and anterior chamber fluid electrolyte changes, corneal thickness (CT), corneal volume (CV), anterior chamber volume (ACV), and anterior chamber depth (ACD) as an auxiliary diagnostic method in the identification of drowning in fresh or salt water.Materials and methodsThe study used 35 healthy, adult, male, white New Zealand rabbits, seperated into five groups (control, saltwater drowning (SWD), saltwater immersion (SWI), freshwater drowning (FWD), freshwater immersion (FWI)). CT, CV, ACV, and ACD measurements were made with Pentacam topography at 0, 2, and 4 h in all groups. Magnesium (mg), sodium (Na), and chlorine (Cl) were measured in the blood at 0 and 2 h, and in blood, vitreous fluid, and humor aqueous at 4 h.ResultsIt was determined that CT, CV, ACV, and ACD are not of great value in drowning diagnosis and are affected by the fresh or salt water rather than drowning. Vitreous Na, Cl, and Mg levels are ineffective in determining drowning after one h. Anterior chamber fluid may provide valuable information in the differentiation freshwater - saltwater drownings at the 4th h in corpses retrieved from water.ConclusionAnterior chamber fluid Na and Cl levels, especially in corpses removed from salt water, can be an easily used test that can help diagnose drowning.

@@ -1,0 +1,7 @@
+TITLE: Regulatory mechanism of the six-method massage antipyretic process on lipopolysaccharide-induced fever in juvenile rabbits: A targeted metabolomics approach.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1016/j.heliyon.2023.e23313
+SOURCE: EuropePMC/MED/38148795
+
+ObjectiveTo investigate the mechanism of the six-method massage antipyretic process (SMAP) and its influence on the body's metabolic state.MethodsThe random number table method was used to divide 24 New Zealand 2-month-old rabbits with qualified basal body temperature into a control group, model group and massage group (n = 8 per group). The model group and massage groups were injected with 0.5 μg/ml lipopolysaccharide (1 ml/kg) into the auricular vein, and the control group was injected with the same amount of normal saline at the same temperature. One hour after modelling, the massage group was given SMAP (opening Tianmen, pushing Kangong, rubbing Taiyang, rubbing Erhougaogu, clearing the Tianheshui and pushing the spine). The change of anal temperature 5 h after moulding was recorded to clarify the antipyretic effect.ResultsAfter modelling, the rectal temperature of the juvenile rabbits in the three groups increased. The rectal temperature of the model group was higher than that of the control group 5 h after modelling, and the rectal temperature of the massage group was lower than that of the model group (P P P ConclusionThe mechanism of SMAP therapy is related to regulating the expression of peripheral inflammatory factors and metabolic pathways.

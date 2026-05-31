@@ -1,0 +1,7 @@
+TITLE: Retrospective study on Encephalitozoon cuniculi infections in 118 cat and 9 dog eyes.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1111/vop.13301
+SOURCE: EuropePMC/MED/39610030
+
+PurposeThis study aims to inform about the clinical image, diagnostic possibilities, and treatment options for cats and dogs diagnosed with ocular encephalitozoonosis.Materials and methodsMedical records of 7 dogs and 75 cats with ocular encephalitozoonosis presented at the Clinical Unit of Ophthalmology of the University of Veterinary Medicine Vienna between 08/2006 and 02/2022 have been compiled. Diagnosis was based on the presence of cataracts and positive antibody titer against Encephalitozoon cuniculi. Patient history, details on the characteristics of the cataracts, level of antibody titers, and the treatment regimen were summarized, as are the results of histological stainings of surgical samples to determine the presence of Encephalitozoon cuniculi, as well as PCR analyses to identify its sub-strains.ResultsOur analysis of the clinical data shows that focal cortical anterior cataracts often associated with anterior uveitis and lesions in the fundus are the most prevalent manifestation of ocular encephalitozoonosis in cats and dogs.ConclusionSerological testing and PCR analysis of lens material are the most important diagnostic tools. Timely phacoemulsification with adjuvant anti-inflammatory and antiparasitic medication is the most promising therapy for Encephalitozoon cuniculi-induced cataracts.

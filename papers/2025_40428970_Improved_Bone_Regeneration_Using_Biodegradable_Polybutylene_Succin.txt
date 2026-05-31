@@ -1,0 +1,7 @@
+TITLE: Improved Bone Regeneration Using Biodegradable Polybutylene Succinate Artificial Scaffold with BMP-2 Protein in a Rabbit Model.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ma18102234
+SOURCE: EuropePMC/MED/40428970
+
+Extensive bone loss represents a great challenge for orthopedic and reconstructive surgery. On an in vivo rabbit model, the healing of two bone defects on a long bone, tibia, was studied. A polybutylene succinate (PBS) microfibrillar scaffold was implemented with BMP-2 protein and hydroxyapatite (HA) as potential osteogenic factors. The present study was carried out on 6 male New Zealand white (4-6 months old) rabbits in vivo model. One bone defect was created in each subject on the tibia. The controls were left to heal spontaneously while the study samples were treated with the polybutylene succinate (PBS) microfibrillar scaffolds doped with BMP-2 and HA. Histological and immunohistochemical analyses were performed after euthanasia at 3 and 6 months. The bone defect treated with the BMP-2 PBS scaffold shows, from 3 months, a significantly increased presence of activated osteoblasts with mineralized bone tissue deposition. This study confirms the great potential of PBS scaffolds in the clinical treatment of bone defects.

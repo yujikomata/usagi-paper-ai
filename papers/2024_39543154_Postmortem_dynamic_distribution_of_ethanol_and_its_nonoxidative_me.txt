@@ -1,0 +1,7 @@
+TITLE: Postmortem/dynamic distribution of ethanol and its nonoxidative metabolites in poisoned rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1038/s41598-024-75206-6
+SOURCE: EuropePMC/MED/39543154
+
+Nonoxidative ethanol metabolites have been reported as ethanol biomarkers in clinical and forensic cases. However, their forensic toxicokinetics are still unclear. The study aimed to simultaneously research the postmortem distribution and dynamic distribution of ethanol and its nonoxidative metabolites in 62 poisoned rabbits. Firstly, 32 rabbits were randomly divided into three groups and sacrificed after three doses ethanol, and their organs were collected to study the postmortem distribution of ethanol and its nonoxidative metabolites. The results showed that the distribution trends of ethanol and its nonoxidative metabolites were basically same between different groups, and ethanol could be better detected by collecting body fluids, while the nonoxidative metabolites could be better detected by collecting the heart, liver, kidney and testis. Secondly, 30 rabbits after 1/2LD50 ethanol intragastric administration were sacrificed at 10 time points, and their organs were collected to study the dynamic distribution of ethanol and its nonoxidative metabolites. The results showed the concentrations of ethanol and its nonoxidative metabolites increased with time and then decreased. All analytes could be detected in all samples within 8 h, with the exception of ethyl oleate, which kept high level in muscle and vitreous humor, and could be detected within 4 h.

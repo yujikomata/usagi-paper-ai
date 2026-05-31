@@ -1,0 +1,7 @@
+TITLE: Evaluation of the Accuracy of FreeStyle Libre 2 for Glucose Monitoring in White New Zealand Rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1002/vms3.70166
+SOURCE: EuropePMC/MED/39688518
+
+BackgroundStudies are currently being conducted on rabbits requiring serial glucose monitoring. The FreeStyle Libre 2 (FSL2), a serial glucose monitoring device, has been validated in humans, dogs and cats, but not in rabbits.ObjectivesThis study aimed to evaluate the accuracy of the FSL2 in rabbits.MethodsSix healthy rabbits were used in this study. Interstitial glucose (IG) was measured using the FSL2, and blood glucose (BG) was measured using a portable blood glucose meter (PBGM); their results were compared with those from a clinical chemistry analyser. For the first 3 h, IG and BG were measured at 1-h intervals. Subsequently, they were measured every 8 h over a 48-h period. Regular insulin 0.2 U/kg was then administered to the rabbits, and IG and BG were measured every 15 min over a 90-min period.ResultsBefore insulin treatment, no measurements fell within the hypoglycaemic range (BG ConclusionsThere was limited agreement between the FSL2 and reference standard BG measurements. However, the FSL2 allows clinically acceptable identification of hypoglycaemic states in rabbits.

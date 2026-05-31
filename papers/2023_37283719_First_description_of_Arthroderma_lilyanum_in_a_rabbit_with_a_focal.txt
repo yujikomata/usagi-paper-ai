@@ -1,0 +1,7 @@
+TITLE: First description of Arthroderma lilyanum in a rabbit with a focal alopecic area of the forelimb.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1016/j.mmcr.2023.04.003
+SOURCE: EuropePMC/MED/37283719
+
+Dermatophytosis is an important zoonotic disease in pet rabbits. While common clinical signs of dermatophytosis can occur, rabbits can also be asymptomatically infected. This case report describes a rabbit from Switzerland, with a focal alopecic area on one forepaw. Dermatophyte culture of a hair and skin sample taken from the lesion revealed growth of a dermatophyte, that was identified as the recently described species Arthroderma (A.) lilyanum by sequencing of the internal transcribed spacer (ITS) and β-tubulin genes. After local treatment with a disinfectant containing octenidine dihydrochloride and phenoxyethanol twice daily for two weeks, the lesion fully healed. Although it is not clear whether the dermatophyte was responsible for the lesion or if it was an incidental finding with an asymptomatic infection, the current report shows, that the host spectrum and geographical distribution of A. lilyanum are broader than previously thought.

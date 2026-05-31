@@ -1,0 +1,7 @@
+TITLE: Regulation of Hair Follicle Growth and Development by Different Alternative Spliceosomes of FGF5 in Rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/genes15040409
+SOURCE: EuropePMC/MED/38674344
+
+This study investigated the regulatory effect of alternative spliceosomes of the fibroblast growth factor 5 (FGF5) gene on hair follicle (HF) growth and development in rabbits. The FGF5 alternative spliceosomes (called FGF5-X1, FGF5-X2, FGF5-X3) were cloned. The overexpression vector and siRNA of spliceosomes were transfected into dermal papilla cells (DPCs) to analyze the regulatory effect on DPCs. The results revealed that FGF5-X2 and FGF5-X3 overexpression significantly decreased LEF1 mRNA expression (p FGF5-X1 overexpression significantly reduced CCND1 expression (p FGF5-X1 and FGF5-X2 possibly downregulated the expression level of FGF2 mRNA (p FGF2 mRNA (p BCL2 mRNA expression level in both cases (p FGF5-X1 and FGF5-X2 significantly increased TGFβ mRNA expression (p FGF5 regulation.

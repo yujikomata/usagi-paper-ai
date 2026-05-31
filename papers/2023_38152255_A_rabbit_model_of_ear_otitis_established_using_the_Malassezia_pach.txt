@@ -1,0 +1,7 @@
+TITLE: A rabbit model of ear otitis established using the Malassezia pachydermatis strain C23 from dogs.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.14202/vetworld.2023.2192-2199
+SOURCE: EuropePMC/MED/38152255
+
+Background and aimFungal infections are a growing problem for both humans and animals due to the emergence of pathogenic strains resistant to modern antifungal treatments. To evaluate the efficacy of new antifungal drugs, it is essential to develop animal models that demonstrate typical responses to both the infection (pathogenesis and clinical course) and to the treatment, including adverse effects. In this study, we established a rabbit otitis model by infection of an aggressive multidrug-resistant strain from dogs, Malassezia pachydermatis C23, with no need for concomitant immunosuppression.Materials and methodsTwenty healthy adult male gray giant rabbits (1 year old, 5.5 kg) were inoculated once with M. pachydermatis C23 at 108 colony-forming units/mL. We observed the clinical signs of the disease and collected ear smears and blood samples every 5 days.ResultsThe infection progressed rapidly and exhibited characteristic clinical signs without spontaneous recovery for at least 1 month. In fact, substantial deterioration was observed as evidenced by blood parameters.ConclusionThis rabbit otitis model established using an aggressive drug-resistant fungus strain without immunosuppression could prove valuable for testing novel antifungal agents.

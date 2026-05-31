@@ -1,0 +1,7 @@
+TITLE: A preliminary study using luminol-enhanced intraoperative bile duct imaging technique in rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s41598-025-04649-2
+SOURCE: EuropePMC/MED/40473839
+
+In the literature, a variety of techniques are recommended for intraoperative biliary tract imaging. The objective of this study was to develop a more cost-effective and widely applicable technique that could serve as an alternative to existing imaging techniques by taking advantage of the chemiluminescence effect of luminol. An experimental study using rabbits was designed. The rabbits in the control group received isotonic solution, while the other groups were administered various concentrations of luminol chemical solutions with catalyst and activator chemicals. Biliary tract imaging was conducted using chemiluminescence in the biliary tract during luminol injection, and the resulting images were recorded. The intraoperative imaging of bile ducts in rabbits was successfully achieved through the utilization of the chemiluminescence effect of luminol. The statistical analysis of the laboratory results and histopathological examination revealed no statistically significant difference between the groups used with varying concentrations of luminol and other chemicals and the control group. The methodology employed in this study is cost-effective, readily accessible, and straightforward to implement. In light of these findings, we posit that this technique may serve as a potential alternative to existing methods in the future.

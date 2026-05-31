@@ -1,0 +1,7 @@
+TITLE: Environmental Enrichment in Rabbit Husbandry: Comparative Impacts on Performance and Welfare.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/ani14162367
+SOURCE: EuropePMC/MED/39199901
+
+Rabbits are highly susceptible to environmental stress. Such stress, stemming from conventional housing conditions, can negatively impact well-being and productivity. Some of these negative consequences are increased susceptibility to diseases and infections and reduced growth rates and reproductive performance, as well as increased behavioral issues such as aggression. Environmental enrichment is the modification of the environment in which a domesticated animal lives in order to meet the species' behavioral needs. The objective of providing enrichment is to facilitate animals in expressing natural behaviors, thereby preventing behavioral frustration and negative affective states. Several inexpensive and safe materials can be used to enrich rabbit enclosures. This review emphasizes the significance of implementing diverse environmental enrichments to alleviate stress in rabbit farming. It summarizes their effects on animal performance and welfare while exploring potential future perspectives in this field.

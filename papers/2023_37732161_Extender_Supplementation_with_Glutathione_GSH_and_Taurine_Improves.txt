@@ -1,0 +1,7 @@
+TITLE: Extender Supplementation with Glutathione (GSH) and Taurine Improves In Vitro Sperm Quality and Antioxidant Status of New Zealand Rabbits during Chilled Storage for up to 72 hours.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1155/2023/8339591
+SOURCE: EuropePMC/MED/37732161
+
+This study assessed the influence of supplementing the rabbit semen extender with various concentrations of glutathione (GSH) and taurine at 24, 48, and 72 h postchilling at 5°C. Semen samples were collected from 20 New Zealand bucks, and ejaculates with standard color, motility (>85%), about 0.5 mL volume, and ∼400 × 106/mL concentration were used and diluted with extenders supplemented with 0.5, 1, and 2 mM of GSH and 1, 5, and 10 mM of taurine and chilled at 5°C. Nonsupplemented samples were used as a control. Sperm's progressive motility, acrosome reaction, and extracellular oxidative stress biomarkers such as MDA contents and GPx, SOD, and CAT concentrations and intracellular transcriptomic levels of SOD and CAT genes were assessed. GSH and taurine supplementation improved the sperm's kinetics by reducing cooling-associated stress, which was ascertained by lowering MDA concentration and increasing SOD, CAT, and GPx concentrations (P SOD and CAT genes (P in vitro rabbit semen quality during chilled storage for up to 72 h, which were remarkable with increasing supplementation dose and cooling time at 5°C.

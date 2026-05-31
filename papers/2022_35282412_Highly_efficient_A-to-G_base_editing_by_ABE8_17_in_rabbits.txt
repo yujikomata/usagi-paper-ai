@@ -1,0 +1,7 @@
+TITLE: Highly efficient A-to-G base editing by ABE8.17 in rabbits.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.1016/j.omtn.2022.01.019
+SOURCE: EuropePMC/MED/35282412
+
+Adenine base editors (ABEs), composed of an evolved adenine deaminase fused to the Cas9 nickase, enable efficient and precise A-to-G conversion in various organisms. However, the base editing of some challenging loci with the ABE7.10 system in rabbits was inefficient in our previous study. Here, we show that ABE8.17 and SpRY-ABE8.17 can efficiently induce base editing in mouse and rabbit embryos. In addition, this strategy can be used to precisely mimic clinical point mutations in rabbits. Furthermore, by eliminating the linker in ABE8.17, we created ABE8.17-NL, which achieved efficient base editing within a narrowed window (2-4 nts) in human HEK293FT cells. Collectively, these findings show that ABE8.17 systems can efficiently induce efficient A-to-G base editing at desired sites and that the ABE7.10 system is inefficient, thus providing an efficient way to generate ideal disease models in rabbits.

@@ -1,0 +1,7 @@
+TITLE: Complete Genome Sequences of Three Rabbit Endogenous Lentivirus Type K Viruses Obtained from Commercial Meat Rabbits in Italy.
+YEAR: 2019
+JOURNAL: 
+DOI: 10.1128/mra.00669-19
+SOURCE: EuropePMC/MED/31601657
+
+Rabbit endogenous lentivirus type K (RELIK) was discovered in the genome of the European rabbit (Oryctolagus cuniculus). In our study, we present three complete genome sequences of RELIK viruses generated using a target amplification approach performed on the RNA of commercial rabbits from Italy.

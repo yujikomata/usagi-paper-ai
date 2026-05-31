@@ -1,0 +1,7 @@
+TITLE: Interlamellar keratoplasty for implantation of decellularized porcine corneal lenticule in a rabbit for corneal thickening.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1007/s10856-024-06845-4
+SOURCE: EuropePMC/MED/40488947
+
+Changes in collagen orientation and distribution on the corneas lead to the development of diseases characterized by progressive thinning, such as keratoconus. Part of people diagnosed with keratoconus require a corneal graft, which has availability as a major limiting factor. In this scenario, new approaches have been tested to obtain substitute tissues. Porcine cornea has been receiving increasing attention due to its ease of obtaining, biomechanical properties similar to those of human tissue and lower antigenicity. Based on this, the objective of this study was to evaluate the biocompatibility of porcine stroma decellularized by sodium dodecyl sulfate (SDS) through interlamellar implantation in rabbit corneas. The obtained results showed that the lenticule intrastromal implantation was successfully performed and did not elicit rejection. Furthermore, the implanted stroma was able to promote an increase in the thickness of the host cornea. Microscopic analyses revealed that the tissue was well-adhered and the collagen fibrils were more aligned on its periphery. Therefore, it is concluded that the implantation of decellularized porcine stroma occurred satisfactorily and represents a promising alternative to replace human tissue.

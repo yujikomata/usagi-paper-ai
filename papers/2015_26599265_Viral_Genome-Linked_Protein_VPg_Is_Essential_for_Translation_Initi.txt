@@ -1,0 +1,7 @@
+TITLE: Viral Genome-Linked Protein (VPg) Is Essential for Translation Initiation of Rabbit Hemorrhagic Disease Virus (RHDV).
+YEAR: 2015
+JOURNAL: 
+DOI: 10.1371/journal.pone.0143467
+SOURCE: EuropePMC/MED/26599265
+
+Rabbit hemorrhagic disease virus (RHDV), the causative agent of rabbit hemorrhagic disease, is an important member of the caliciviridae family. Currently, no suitable tissue culture system is available for proliferating RHDV, limiting the study of the pathogenesis of RHDV. In addition, the mechanisms underlying RHDV translation and replication are largely unknown compared with other caliciviridae viruses. The RHDV replicon recently constructed in our laboratory provides an appropriate model to study the pathogenesis of RHDV without in vitro RHDV propagation and culture. Using this RHDV replicon, we demonstrated that the viral genome-linked protein (VPg) is essential for RHDV translation in RK-13 cells for the first time. In addition, we showed that VPg interacts with eukaryotic initiation factor 4E (eIF4E) in vivo and in vitro and that eIF4E silencing inhibits RHDV translation, suggesting the interaction between VPg and eIF4E is involved in RHDV translation. Our results support the hypothesis that VPg serves as a novel cap substitute during the initiation of RHDV translation.

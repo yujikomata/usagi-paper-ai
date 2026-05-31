@@ -1,0 +1,7 @@
+TITLE: Phase Noise Analysis of Time Transfer over White Rabbit-Network Based Optical Fibre Links.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/s24020381
+SOURCE: EuropePMC/MED/38257474
+
+White Rabbit (WR) is an optical fibre-based time-frequency synchronization technology typically used in timekeeping laboratories for distributing time-frequency signals from a reference clock to distant locations. The accuracy of the received signals at the user end can be affected by random noise processes present in the WR network due to the internal electronic components of WR devices. In this paper, we investigate the presence of random noise processes in the WR network. We then study their statistical properties and model the distribution based on experimentally recorded measurements. According to our study, the probability density function (PDF) follows a Gaussian mixture model (GMM) with varying distribution parameters, and the correlation analysis indicates a strong correlation of the phase noise process over the temporal samples. Furthermore, the developed phase noise models have also been verified by comparing them against additional experimental data. Finally, we present the methodology to generate the phase noise process using computer simulations with the PDF and correlation models developed in this work to help algorithm developers and equipment manufacturers make use of our results.

@@ -1,0 +1,7 @@
+TITLE: A new 4-strand tendon repair technique in a rabbit Achilles tendon model: Is 4 better than 6?
+YEAR: 2023
+JOURNAL: 
+DOI: 10.5152/j.aott.2023.22013
+SOURCE: EuropePMC/MED/37159026
+
+ObjectiveThis study aimed to present a new modification of the modified Kessler tendon repair technique and share results of an animal study scrutinizing mainly the biomechanical properties and comparing it to other techniques.MethodsEighteen New Zealand rabbits were used and divided into 3 groups: 1 experiment and 2 control groups. Four-strand modified Kessler and 6-strand Tang repairs were used for the control groups. The new modification was used in the experiment group. Two surgeries were conducted 8 weeks apart, repairing 1 Achilles tendon in the first, repairing the contralateral tendon and harvesting specimens in the second. The repair times were recorded. In addition, biomechanical tests were conducted to determine mechanical strength.ResultsThere was a statistically significant difference between the 3 groups in load-to-failure values for the strength after repair model, with the experiment group superior to the other 2 (P = .002; P  .05). The new modification took significantly less time than the other 2 techniques (P = .001).ConclusionOur new modification was biomechanically stronger and faster than the other 2 techniques. The technique offers a new, suitable, practical option for human flexor tendon repair.

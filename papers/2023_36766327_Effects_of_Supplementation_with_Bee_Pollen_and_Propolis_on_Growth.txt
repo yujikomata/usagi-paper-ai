@@ -1,0 +1,7 @@
+TITLE: Effects of Supplementation with Bee Pollen and Propolis on Growth Performance and Serum Metabolites of Rabbits: A Meta-Analysis.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ani13030439
+SOURCE: EuropePMC/MED/36766327
+
+The objective of this study was to evaluate the effects of bee pollen (BP) and propolis (PRO) supplementation on rabbits' productive performance and serum metabolites through a meta-analysis. Sixteen peer-reviewed publications were included in the data set. The rabbit strains used in the studies included in the data set were New Zealand White, V-line, Rex, and V-line crosses. Weighted mean differences (WMD) between treatments supplemented with BP or PRO and control treatments were used to assess the magnitude of the effect. BP supplementation decreased (p p p = 0.041) and FCR (p p p = 0.005). In blood serum, BP supplementation increased total antioxidant capacity (TAC; p = 0.002) and decreased serum creatinine concentration (p = 0.049). Likewise, decreased serum levels of aspartate aminotransferase (AST), alanine aminotransferase (ALT), and malondialdehyde (MDA) were detected in response to BP supplementation (p p = 0.018); however, decreased serum concentrations of AST, ALT, and MDA were observed (p < 0.05). In conclusion, BP or PRO supplementation can be used as a natural growth promoter in rabbits, and both can also improve rabbits' antioxidant status. However, BP or PRO supplementation does not affect rabbits' renal or hepatic health status.

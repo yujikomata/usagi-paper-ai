@@ -1,0 +1,7 @@
+TITLE: Effect of Increasing the Methionine Level and Reducing the Threonine Level in the Diet of Fast-Growing Rabbits.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ani13091471
+SOURCE: EuropePMC/MED/37174507
+
+The main aim of this work was to evaluate a novel combination of the first limiting amino acids (lysine, methionine, and threonine) in fast-growing rabbits (combination MHL, shown to minimise levels of plasmatic urea nitrogen in previous research, medium level of lysine, high level of methionine, and low level of threonine) and compare it with current recommendations (combination MMM, medium level of all amino acids). A total of 165 weaned rabbits (28 d old) from a paternal line selected for growth rate were used in the growth trial. The effect of the diet on apparent fecal digestibility, as well as the apparent and true ileal digestibility, were studied. Nutrient retention was also determined. Although no differences in digestibility between diets were observed, animals fed with Diet MHL improved the global average daily gain (+2.3 g/d; p = 0.0482) and feed conversion ratio (-0.10; p = 0.0229). Animals fed with Diet MMM reduced the protein-to-energy ratio retained (p = 0.0086). In conclusion, Diet MHL promoted an improvement in growth traits in a paternal line. Consequently, we propose its levels of 6.4, 5.4, and 5.0 g/kg DM of true ileal digestible lysine, methionine, and threonine, respectively.

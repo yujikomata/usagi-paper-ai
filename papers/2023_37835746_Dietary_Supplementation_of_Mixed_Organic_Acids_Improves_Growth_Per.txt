@@ -1,0 +1,7 @@
+TITLE: Dietary Supplementation of Mixed Organic Acids Improves Growth Performance, Immunity, and Antioxidant Capacity and Maintains the Intestinal Barrier of Ira Rabbits.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ani13193140
+SOURCE: EuropePMC/MED/37835746
+
+The aim of this study was to investigate the effects of mixed organic acids (MOAs) on growth performance, immunity, antioxidants, intestinal digestion, and barrier function in Ira rabbits. A total of 192 weaned male Ira rabbits at 35 days of age were randomly assigned to four groups with six replicates of eight rabbits each. The rabbits in the control group (CON) were fed a basal diet, and the antibiotic group (SAL) was fed a basal diet supplemented with 60 mg/kg salinomycin. The test groups were fed a basal diet supplemented with 1000 mg/kg and 2000 mg/kg MOAs (MOA1 and MOA2, respectively). The experiment lasted for 55 days. The results showed that the ADG of Ira rabbits in the SAL group and MOA1 group was higher than that in the CON group (p p p p p = 0.077) and the IL-10 content tended to increase (p = 0.062). Moreover, the gene expression of ZO-1 in the jejunal mucosa of Ira rabbits was elevated in the MOA1 group compared with the CON group (p < 0.05). In conclusion, dietary supplementation with MOAs can improve growth performance, enhance immune function and antioxidant capacity, and maintain the intestinal barrier in weaned Ira rabbits.

@@ -27,9 +27,11 @@ PAPERS_DIR = os.path.join(os.path.dirname(__file__), "papers")
 SEARCH_URL = "https://www.ebi.ac.uk/europepmc/webservices/rest/search"
 FULLTEXT_URL = "https://www.ebi.ac.uk/europepmc/webservices/rest/{source}/{pid}/fullTextXML"
 
-# うさぎ関連の検索クエリ（全分野: 飼育・獣医・生態・行動）
+# うさぎが主役の論文に絞るため、タイトルにうさぎ関連語を含むものを検索
 QUERY = (
-    '(rabbit OR rabbits OR "Oryctolagus cuniculus" OR leporidae) '
+    '(TITLE:rabbit OR TITLE:rabbits OR TITLE:"Oryctolagus" OR TITLE:leporid '
+    'OR TITLE:lagomorph OR TITLE:cuniculi OR TITLE:cuniculus OR TITLE:myxomatosis '
+    'OR TITLE:bunny OR TITLE:"rabbit hemorrhagic") '
     'AND (OPEN_ACCESS:y) AND (LANG:eng)'
 )
 

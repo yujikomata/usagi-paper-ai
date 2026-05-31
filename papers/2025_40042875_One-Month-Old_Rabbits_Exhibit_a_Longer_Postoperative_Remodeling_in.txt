@@ -1,0 +1,7 @@
+TITLE: One-Month-Old Rabbits Exhibit a Longer Postoperative Remodeling in Extraocular Muscles Compared to 3-Month-Old Rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1167/iovs.66.3.12
+SOURCE: EuropePMC/MED/40042875
+
+PurposeTo explore whether there is a difference in postoperative extraocular muscle (EOM) remodeling between 1-month-old and 3-month-old rabbits.MethodsRecession (n = 16) and resection (n = 16) were performed on the right superior rectus (SR) muscles of 1-month-old and 3-month-old rabbits. SR tissues were harvested 1 and 4 weeks post-surgery (n = 4 for each group), and mid-belly sections were used to assess myosin heavy chain (MyHC) isoform expression (fast 2X, embryonic, and neonatal MyHCs), activated satellite cells (SCs), and centrally nucleated myofibers. Age-matched unoperated rabbits (n = 4) served as controls.ResultsIn 1-month-old rabbits, fast 2X-MyHC expression continuously decreased post-recession (all P ConclusionsOne-month-old rabbits displayed longer postoperative remodeling and greater plasticity in EOMs than 3-month-old rabbits. The difference in postoperative remodeling may impact strabismus surgery outcomes in patients of different developmental stages.

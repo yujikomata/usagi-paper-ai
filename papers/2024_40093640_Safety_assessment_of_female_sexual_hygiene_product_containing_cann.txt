@@ -1,0 +1,7 @@
+TITLE: Safety assessment of female sexual hygiene product containing cannabidiol in new zealand white rabbit and clinical trial.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1016/j.toxrep.2024.101692
+SOURCE: EuropePMC/MED/40093640
+
+Cannabis is an herb known for its significant pharmacological effects. This study evaluated the safety of a female sexual hygiene product containing cannabidiol on the skin of experimental animals and humans. Irritation symptoms were tested using three female New Zealand white rabbits. In human trials, irritation and sensitivity symptoms were assessed in 30 healthy female volunteers. The results from the animal study indicated that body weight and clinical symptoms remained normal, with only slight irritation noted in the primary irritation index of the skin (PII = 0.6). In human trials, transepidermal water loss was observed during the induction phase but decreased over time. No abnormalities were found during the induction phase; however, irritation occurred during the challenge phase, which resolved after 8 h. It was concluded that the rinse-off product caused slight irritation when applied for more than 4 h in animals and 24 h in humans, which differs from its intended use of immediate rinse-off, where no irritation was observed.

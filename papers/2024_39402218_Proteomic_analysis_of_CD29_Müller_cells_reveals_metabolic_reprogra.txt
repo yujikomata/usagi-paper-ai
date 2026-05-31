@@ -1,0 +1,7 @@
+TITLE: Proteomic analysis of CD29+ Müller cells reveals metabolic reprogramming in rabbit myopia model.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1038/s41598-024-75637-1
+SOURCE: EuropePMC/MED/39402218
+
+The prevalence of myopia is rapidly increasing, significantly impacting the quality of life of affected individuals. Prior research by our group revealed reactive gliosis in Müller cells within myopic retina, prompting further investigation of their role in myopia, which remains unclear. In this study, we analyzed protein expression changes in CD29+ Müller cells isolated from a form deprivation-induced rabbit model of myopia using magnetic activated cell sorting to investigate the role of these cells in myopia. As the principal glial cells in the retina, Müller cells exhibited significant alterations in the components of metabolic pathways, particularly glycolysis and angiogenesis, including the upregulation of glycolytic enzymes, such as lactate dehydrogenase A and pyruvate kinase, implicated in the adaptation to increased metabolic demands under myopic stress. Additionally, a decrease in the expression of proteins associated with oxygen transport suggested enhanced vulnerability to oxidative stress. These findings highlight the proactive role of CD29+ Müller cells in modifying the retinal environment in response to myopic stress and provide valuable insights into mechanisms that could help mitigate myopia progression.

@@ -1,0 +1,7 @@
+TITLE: Evaluation of Biodegradable Alloy Fe30Mn0.6N in Rabbit Femur and Cartilage through Detecting Osteogenesis and Autophagy.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1155/2023/3626776
+SOURCE: EuropePMC/MED/36714031
+
+Biodegradable iron alloy implants have become one of the most ideal possible candidates because of their biocompatibility and comprehensive mechanical properties. Iron alloy's impact on chondrocytes is still unknown, though. This investigation looked at the biocompatibility and degradation of the Fe30Mn0.6N alloy as well as how it affected bone formation and chondrocyte autophagy. In vivo implantation of Fe30Mn0.6N and Ti6Al4V rods into rabbit femoral cartilage and femoral shaft was carried out to evaluate the degradation of the alloy and the cartilage and bone response at different intervals. After 8 weeks of implantation, the cross-sectional area of the Fe30Mn0.6N alloys lowered by 50.79 ± 9.59%. More Ca and P element deposition was found on the surface Fe30Mn0.6N rods by using energy dispersive spectroscopy (EDS) and scanning electron microscopy (P P P P < 0.05). Also, the PI3K-AKT-mTOR signaling pathway mediated in the upregulation of autophagy of chondrocytes resulting in exposure to extract of Fe30Mn0.6N alloy. It is concluded that Fe30Mn0.6N showed degradability and biocompatibility in vivo and upregulated autophagy activity in chondrocytes.

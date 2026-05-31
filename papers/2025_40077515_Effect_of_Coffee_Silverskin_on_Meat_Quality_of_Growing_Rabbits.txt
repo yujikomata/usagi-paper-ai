@@ -1,0 +1,7 @@
+TITLE: Effect of Coffee Silverskin on Meat Quality of Growing Rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/foods14050812
+SOURCE: EuropePMC/MED/40077515
+
+The aim of the present study was to assess the impacts of coffee silverskin (CSS) inclusion in rabbit diets in regard to meat quality. A total of 30 Hycole rabbits were divided into two groups of 15 animals per group and fed with a basal diet (C group) or with the same basal diet but with 10% of CSS (CSS10 group) as a partial cereal replacement. Integration of 10% CSS in the rabbit diet increased dry matter intake (DMI, p p = 0.096) the final body weight. The CSS diet tended to reduce the concentration of C18:3 ω-3 (p = 0.089), C20:5 ω-3 (p = 0.064) and C22:5 ω-3 (p = 0.069) in muscle compared to the control diet, negatively affecting the ω-6/ω-3 ratio (p p < 0.01) to lipid oxidation. Further research is needed to better understand the reasons for improved oxidative stability in meat following dietary CSS supplementation.

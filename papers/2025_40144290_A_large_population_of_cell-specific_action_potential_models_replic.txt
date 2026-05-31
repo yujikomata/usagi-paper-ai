@@ -1,0 +1,7 @@
+TITLE: A large population of cell-specific action potential models replicating fluorescence recordings of voltage in rabbit ventricular myocytes.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1098/rsos.241539
+SOURCE: EuropePMC/MED/40144290
+
+Recent high-throughput experiments unveil substantial electrophysiological diversity among uncoupled healthy myocytes under identical conditions. To quantify inter-cell variability, the values of a subset of the parameters in a well-regarded mathematical model of the action potential of rabbit ventricular myocytes are estimated from fluorescence voltage measurements of a large number of cells. Statistical inference yields a population of nearly 1200 cell-specific model variants that, on a population-level replicate experimentally measured biomarker ranges and distributions, and in contrast to earlier studies, also match experimental biomarker values on a cell-by-cell basis. This model population may be regarded as a random sample from the phenotype of healthy rabbit ventricular myocytes. Univariate and bivariate joint marginal distributions of the estimated parameters are presented, and the parameter dependencies of several commonly used electrophysiological biomarkers are determined. Parameter values are weakly correlated, while summary metrics such as the action potential duration are not strongly dependent on any single electrophysiological characteristic of the myocyte. Our results demonstrate the feasibility of accurately and efficiently fitting entire action potential waveforms at scale.

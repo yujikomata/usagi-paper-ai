@@ -1,0 +1,7 @@
+TITLE: Hyaluronic acid/chitin thermosensitive hydrogel loaded with TGF-β1 promotes meniscus repair in rabbit meniscus full-thickness tear model.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1186/s13018-024-05144-6
+SOURCE: EuropePMC/MED/39438973
+
+Repair of the damaged meniscus is a scientific challenge owing to the poor self-healing potential of the white area of the meniscus. Tissue engineering provides a new method for the repair of meniscus injuries. In this study, we explored the superiority of 2% hyaluronic acid chitin hydrogel in temperature sensitivity, in vitro degradation, biocompatibility, cell adhesion, and other biological characteristics, and investigated the advantages of hyaluronic acid (HA) and Transforming Growth Factor β1 (TGF-β1) in promoting cell proliferation and a matrix formation phenotype. The hydrogel loaded with HA and TGF-β1 promoted cell proliferation. The HA + TGF-β1 mixed group showed the highest glycosaminoglycan (GAG) content and promoted cell migration. Hydroxypropyl chitin (HPCH), HA, and TGF-β1 were combined to form a composite hydrogel with a concentration of 2% after physical cross-linking, and this was injected into a rabbit model of a meniscus full-thickness tear. After 12 weeks of implantation, the TGF-β1 + HA/HPCH composite hydrogel was significantly better than HPCH, HA/HPCH, TGF-β1 + HPCH, and the control group in promoting meniscus repair. In addition, the new meniscus tissue of the TGF-β1 + HA/HPCH composite hydrogel had a tissue structure and biochemical content similar to that of the normal meniscus tissue.

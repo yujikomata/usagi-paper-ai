@@ -1,0 +1,7 @@
+TITLE: Macrophages are scavengers for injured myelin in a rabbit model of acute inflammatory demyelinating polyneuropathy.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1097/wnr.0000000000001964
+SOURCE: EuropePMC/MED/37942737
+
+In acute inflammatory demyelinating polyneuropathy (AIDP), myelin vesiculation mediated by complement activation contributes to nerve injury. Macrophage infiltration of the spinal roots has been demonstrated in AIDP, but its pathological significance remains uncertain. The present study aimed to investigate the role of macrophages in the pathogenic sequence of AIDP. A rabbit model of AIDP was induced by immunization with galactocerebroside. Immunostaining was performed to localize the macrophages and myelin injury. The rabbit developed tetraparesis with electrophysiological and pathological features of peripheral nerve demyelination. Immunostaining demonstrated colocalization of IgG antibodies, complement deposition and myelin injury apart from macrophages. Immunostaining and electron microscopy showed myelin injury preceded macrophage infiltration. There was significant disruption of voltage-gated sodium channel clusters at the nodes of Ranvier in the spinal roots. Macrophages acted may as scavengers to remove myelin debris following complement activation-mediated demyelination in the AIDP rabbit. Lesions at the node of Ranvier contribute to conduction failure and muscle weakness.

@@ -1,0 +1,7 @@
+TITLE: Susceptibility of rabbits to SARS-CoV-2.
+YEAR: 2021
+JOURNAL: 
+DOI: 10.1080/22221751.2020.1868951
+SOURCE: EuropePMC/MED/33356979
+
+Transmission of severe acute respiratory coronavirus-2 (SARS-CoV-2) between livestock and humans is a potential public health concern. We demonstrate the susceptibility of rabbits to SARS-CoV-2, which excrete infectious virus from the nose and throat upon experimental inoculation. Therefore, investigations on the presence of SARS-CoV-2 in farmed rabbits should be considered.

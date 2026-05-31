@@ -1,0 +1,7 @@
+TITLE: Seroprevalence of Toxoplasma gondii and Encephalitozoon cuniculi among domestic rabbits in central China.
+YEAR: 2018
+JOURNAL: 
+DOI: 10.1051/parasite/2018010
+SOURCE: EuropePMC/MED/29521259
+
+Rabbits (Oryctolagus cuniculus) are frequently reared for meat production in China. The aim of this study was to assess the seroprevalence of Toxoplasma gondii and Encephalitozoon cuniculi, and risk factors of infection in domestic rabbits raised in Henan province, central China. 1,213 serum samples of domestic rabbits were collected and tested for anti-T. gondii and anti-E. cuniculi antibodies using a modified agglutination test (MAT) and an enzyme-linked immunosorbent assay (ELISA), respectively. The serum positive rates of T. gondii and E. cuniculi were 128/1,213 (10.55%) and 235/1,213 (19.37%), respectively. Co-infection of T. gondii and E. cuniculi was demonstrated in 84 specimens; 44 rabbits were seropositive for T. gondii alone, while 151 rabbits were seropositive for E. cuniculi alone. The main risk factors simultaneously associated with T. gondii and E. cuniculi infection were the age of the rabbit, the type of food, and the rabbit rearing system. Serum positive rates of T. gondii and E. cuniculi among domestic rabbits were high, indicating the possibility of public health issues.

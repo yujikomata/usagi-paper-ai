@@ -1,0 +1,7 @@
+TITLE: A multidisciplinary review about Encephalitozoon cuniculi in a One Health perspective.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.1007/s00436-022-07562-z
+SOURCE: EuropePMC/MED/35840730
+
+Encephalitozoon cuniculi is a microsporidian parasite mostly associated with its natural host, the rabbit (Oryctolagus cuniculus). However, other animals can be infected, like other mammals, birds, and even humans. Although it usually causes subclinical infection, it can also lead to encephalitozoonosis, a clinical disease characterized by neurological, ocular, and/or renal signs that can be even fatal, especially in immunocompromised individuals. Therefore, this multidisciplinary review contributes with updated information about the E. cuniculi, deepening in its molecular and genetic characterization, its mechanisms of infection and transmission, and its prevalence among different species and geographic locations, in a One Health perspective. Recent information about the diagnostic and therapeutic approach in the main host species and the prophylaxis and infection control measures currently suggested are also discussed.

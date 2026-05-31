@@ -1,0 +1,7 @@
+TITLE: Gallic Acid Treats Hypertrophic Scar in Rabbit Ears via the TGF-β/Smad and TRPC3 Signaling Pathways.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ph16111514
+SOURCE: EuropePMC/MED/38004381
+
+Hypertrophic scars (HSs) develop due to excessive collagen deposition and abnormal fibroblast proliferation during wound healing, significantly impacting patient quality of life. Three dosages of GA ointments were administered to rabbit ear HS models to investigate the potential efficacy and mechanism of gallic acid (GA) on HS. Daily application of ointment was performed on the matrix group, the GA ointment groups, and the silicone gel group for 28 days. (No drug treatment was performed on the skin and model groups as a blank group and vehicle group, and silicone gel ointment was topically administered to the silicone gel group as a positive control group.) Scar specimens were collected for histopathology analysis, RNA sequencing analysis, real-time quantitative polymerase chain reaction, and Western blot analysis at the first, second, and fourth weeks after the treatment. Low-dose and medium-dose GA effectively suppressed HS formation and markedly decreased fibroblast infiltration levels and scar thickness. Moreover, decreased expression of TRPC3 mRNA and TGF-β1, p-Smad2/3, and Smad2/3 protein was observed in the low- and medium-dose GA groups and the silicone gel group. This study provides evidence for the efficacy of GA in treating HS and sheds light on its potential underlying pharmacological mechanisms.

@@ -1,0 +1,7 @@
+TITLE: Analysis of Intervertebral Disc Degeneration Induced by Endplate Drilling or Needle Puncture in Complement C6-Sufficient and C6-Deficient Rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/biomedicines12081692
+SOURCE: EuropePMC/MED/39200157
+
+Previous studies indicate an implication of the terminal complement complex (TCC) in disc degeneration (DD). To investigate the functional role of TCC in trauma-induced DD in vivo, the model of endplate (EP) drilling was first applied in rabbits using a C6-deficient rabbit strain in which no TCC formation was possible. In parallel the model of needle puncture was investigated. Using a minimally invasive surgical intervention, lumbar rabbit intervertebral discs (IVDs) were treated with EP drilling or needle puncture. Degenerative effects of both surgical interventions were assessed by Pfirrmann grading and T2 quantification of the IVDs based on high-resolution MRI (11.7 T), as well as radiographic determination of disc height index. Pfirrmann grading indicated significant degenerative effects after EP drilling. Contrary to our assumption, no evidence was found that the absence of TCC formation in C6-deficient rabbits reduces the development of DD compared to C6-sufficient animals. EP drilling was proven to be suitable for application in rabbits. However, results of the present study do not provide clear evidence of a central functional role of TCC within DD and suggest that TCC deposition in DD patients may be primarily considered as a marker of complement activation during DD progression.

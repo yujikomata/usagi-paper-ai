@@ -1,0 +1,7 @@
+TITLE: Mechanotransduction-Mediated Expansion of Rabbit Vocal Fold Epithelial Cells via ROCK Inhibition and Stromal Cell-Derived Paracrine Signals.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/cells14181412
+SOURCE: EuropePMC/MED/41002379
+
+Therapeutic advances for vocal fold (VF) disorders are limited by the scarcity of VF-derived epithelial cells (VFEs). Despite their substantial self-renewal capability in vivo, VFEs expand for only a few passages in vitro before succumbing to growth arrest. This has led to the extensive use of alternative cellular sources that are not exposed to physiological stresses of phonation. To address this, we developed an ideal culture strategy that enables long-term expansion of rabbit VFEs (rbVFEs), by utilizing Rho kinase inhibitor (ROCKi), epidermal growth factor (EGF), and mitomycin-treated STO cells or its conditioned media (STO-CM). ROCKi only could support short-term proliferation, and rbVFEs eventually underwent senescence. Further enhancement to ROCKi-containing media with EGF or STO-CM promoted sustained proliferation of rbVFEs. Mechanistically, non-self-renewing rbVFEs exhibited cytoskeletal remodeling associated with increased nuclear YAP localization, elevated focal adhesion, and higher traction forces, whereas self-renewing rbVFEs had cytoplasmic YAP retention, decreased adhesion, and reduced cellular tension. Our optimized culture strategy provides a robust supply of rbVFEs for advancing regenerative approaches in VF research.

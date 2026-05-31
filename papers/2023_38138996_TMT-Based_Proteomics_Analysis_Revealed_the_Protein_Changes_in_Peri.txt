@@ -1,0 +1,7 @@
+TITLE: TMT-Based Proteomics Analysis Revealed the Protein Changes in Perirenal Fat from Obese Rabbits.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ijms242417167
+SOURCE: EuropePMC/MED/38138996
+
+Obesity has become increasingly prevalent in recent years, and there is a need for a deeper understanding of the complex pathogenesis underlying the obesity condition. Therefore, the objective of this study was to investigate how a high-fat diet (HFD) affects protein expression in a female-rabbit model compared to a standard normal-diet group (SND), to gain comprehensive insights into the molecular mechanisms involved in obesity. To achieve this objective, a tandem mass tag (TMT)-based quantitative proteomics analysis was conducted to examine the molecular changes occurring in the white adipose tissue (WAT) from the HFD and SND groups. The sequencing results identified a total of 4215 proteins, among which 151 proteins exhibited significant differential expression. Specifically, there were 85 upregulated proteins and 66 downregulated proteins in the HFD group compared to the SND group. Further analysis of these differentially expressed proteins (DEPs) revealed their involvement in crucial biological processes, including energy metabolism, hormonal regulation, and inflammatory response. In conclusion, this study sheds light on the impact of HFD on protein expression in a female-rabbit model, providing new insights into the molecular mechanisms underlying obesity and the associated metabolic disorders.

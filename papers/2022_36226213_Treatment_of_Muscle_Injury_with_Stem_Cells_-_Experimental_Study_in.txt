@@ -1,0 +1,7 @@
+TITLE: Treatment of Muscle Injury with Stem Cells - Experimental Study in Rabbits.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.1055/s-0041-1741447
+SOURCE: EuropePMC/MED/36226213
+
+Objective  Histological and macroscopic evaluation of the healing process of acute lesions of the femoral rectus muscle using stem cells derived from adipose tissue-derived stem cells (ADSCs). Method  An experimental study was conducted with 18 hind legs of New Zealand rabbits, which were divided into three study groups according to the intervention to be performed. In group I, no surgical procedure was performed; in group II-SHAN, the experimental lesion was performed without any additional intervention protocol; in group III-Intervention, the addition of ADSCs was performed in the same topography of the experimental lesion. After the proposed period, 2 weeks, the material was collected and submitted to macroscopic and histological evaluation. Results  The quantitative analysis showed that the addition of ADSCs is related to the reduction of inflammatory cells in the 2-week evaluation (164.2 cells in group II - SHAN to 89.62 cells in group III - ADSC). The qualitative analysis of the slides with Picrosirius red, noticed an increase in orange/yellow fibers in group III - ADSC, which evidences a final healing process. The macroscopic evaluation found no difference between the groups. Conclusion  The use of ADSCs in the treatment of acute muscle injury presented histological advantages when compared to their non-use.

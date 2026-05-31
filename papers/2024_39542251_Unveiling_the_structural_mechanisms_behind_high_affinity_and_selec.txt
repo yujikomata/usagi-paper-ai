@@ -1,0 +1,7 @@
+TITLE: Unveiling the structural mechanisms behind high affinity and selectivity in phosphorylated epitope-specific rabbit antibodies.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1016/j.jbc.2024.107989
+SOURCE: EuropePMC/MED/39542251
+
+Protein phosphorylation is a crucial process in various cellular functions, and its irregularities have been implicated in several diseases, including cancer. Antibodies are commonly employed to detect protein phosphorylation in research. However, unlike the extensive studies on recognition mechanisms of the phosphate group by proteins such as kinases and phosphatases, only a few studies have explored antibody mechanisms. In this study, we produced and characterized two rabbit monoclonal antibodies that recognize a monophosphorylated Akt peptide. Through crystallography, thermodynamic mutational analyses, and molecular dynamics simulations, we investigated the unique recognition mechanism that enables higher binding affinity and selectivity of the antibodies compared to other generic proteins with lower binding affinity to phosphorylated epitopes. Our results demonstrate that molecular dynamics simulations provide novel insights into the dynamic aspects of molecular recognition of posttranslational modifications by proteins beyond static crystal structures, highlighting how specific atomic level interactions drive the exceptional affinity and selectivity of antibodies.

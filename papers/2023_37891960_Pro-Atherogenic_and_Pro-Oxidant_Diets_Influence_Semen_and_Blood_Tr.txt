@@ -1,0 +1,7 @@
+TITLE: Pro-Atherogenic and Pro-Oxidant Diets Influence Semen and Blood Traits of Rabbit Bucks.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/antiox12101880
+SOURCE: EuropePMC/MED/37891960
+
+Many dietary factors can affect sperm traits. We compared the effect of diets rich in pro-oxidant (flaxseed oil) and pro-atherogenic (coconut oil) substances without added antioxidants on semen traits, using the rabbit as an animal model. Thirty rabbit bucks (8 months old) were fed three diets for 150 days: CNT (control) a standard diet; HA (high-atherogenic) standard diet + 3% coconut oil, and HO (high-oxidizing) standard diet + 3% flaxseed oil. Semen samples were collected weekly for the evaluation of qualitative traits (kinetics, viability) and the oxidative damage (MDA and cytokines). Blood was collected at the start (T0) and end (T8) of the experimental period for the assessment of the oxidative damage (MDA and isoprostanoids), lipid profile, and testosterone. A worsening of sperm kinetics and viability was recorded in the HA group. Lipid oxidation in seminal plasma, as well as isoprostanoids in blood (F3-IsoPs and F4-NeuroPs), increased in both the HO and HA groups. A high level of TNF-α, a marker of inflammatory status, was recorded in the seminal plasma of the HA group. The resulting outcomes were mainly attributable to the different fatty acid profiles (SFA vs. PUFA) of the diets, which modulated an inflammatory/oxidative response.

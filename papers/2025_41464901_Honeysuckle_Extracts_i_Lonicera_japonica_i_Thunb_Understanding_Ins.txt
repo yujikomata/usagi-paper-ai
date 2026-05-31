@@ -1,0 +1,7 @@
+TITLE: Honeysuckle Extracts (<i>Lonicera japonica</i> Thunb.): Understanding Insights into the Antioxidant Effect on Preserving Qualities of Rabbit Meat During Refrigerated Storage.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/foods14244194
+SOURCE: EuropePMC/MED/41464901
+
+This study aimed to evaluate the potential of honeysuckle extract (HE) as a natural preservative for rabbit meat. We investigated its antioxidant and antibacterial properties and its effect on the quality of pre-treated rabbit meat during refrigerated storage (4 °C) for up to 15 days. Firstly, honeysuckle was extracted using ethanol at different concentrations (50-75%). Extraction with 65% ethanol yielded optimal antioxidant activity and a high content of bioactive compounds. Subsequently, both raw and cooked rabbit meat, pre-treated with a standard marinade, were treated with 4% HE and stored for 15 days. The results showed that HE treatment significantly stabilized chewiness compared to the control, although no significant differences were observed in hardness, springiness, or cohesiveness. Moreover, HE treatment significantly reduced TBARS, TVB-N, and TVC levels (p < 0.05) compared to the control group. Taken together, HE could inhibit microbial proliferation, and lipid oxidation in pre-treated rabbit meat during refrigerated storage, indicating HE as a potential natural preservative for improving quality loss and prolonging the shelf-life of refrigerated rabbit meat.

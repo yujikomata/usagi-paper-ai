@@ -1,7 +1,0 @@
-TITLE: Identification of radiation responsive RBC membrane associated proteins (RMAPs) in whole-body γ-irradiated New Zealand white rabbits.
-YEAR: 2023
-JOURNAL: 
-DOI: 10.1016/j.btre.2023.e00783
-SOURCE: EuropePMC/MED/36718137
-
-This study is aimed to identify radiation-responsive RBC Membrane Associated Proteins (RMAPs) in Rabbits in vivo. Male New Zealand White rabbits were exposed to a single acute total body γ-radiation dose of 2 Gy at a dose rate of 0.746 Gy/min. Following this, at early time points of 6 h till the 7 d, RMAPs were collected and analyzed by MALDI-TOF-MS. Bioinformatics analysis was conducted to explore the biological functions of these proteins. Based on fold change, radiation responsiveness, GO, pathway enrichment, and hub position in the PPI network, we identified seven RMAPs as potential biomarker candidates viz., PVALB, PRKCB, GPD1, CP2G1, CSNK2B, ATP1B1, TPI1. As per KEGG enrichment, most of the proteins were implicated in cellular radiation response, oxidative damage, DNA repair, apoptosis, immune response, and cell signaling. This study forms the foundation for RMAPs-based Proteomic strategies for high throughput radiation bio-dosimetry for triage in the case of a radiological/nuclear incident.

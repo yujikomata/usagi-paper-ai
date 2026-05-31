@@ -1,0 +1,7 @@
+TITLE: Human umbilical cord mesenchymal stem cells on treating osteoarthritis in a rabbit model: Injection strategies.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1016/j.heliyon.2024.e38384
+SOURCE: EuropePMC/MED/39430502
+
+Human umbilical cord mesenchymal stem cells (UCMSCs) are a novel stem-cell source to treat osteoarthritis (OA). Here we investigated the therapeutic effects of UCMSCs injection strategies on knee OA in a rabbit model. Thirty OA rabbits randomly received normal saline, a single dose of 1 × 106 UCMSCs, or three injections of 1 × 106 UCMSCs at 2, 4, 6 weeks. Articular cartilages were collected after 8 weeks. Macroscopic and histological assessments indicated that intra-articular injection of UCMSCs, both single and multiple injection, significantly reduced the formation of periarticular osteophytes and articular cartilage degeneration when compared with the control. Furthermore, both UCMSCs injections increased the expression of chondrogenic markers in the articular cartilage, and reduced the levels of TNF-α and IL-6 in synovium. Micro-CT showed significant reduction of sub-chondral bone degeneration and osteophytes in the multiple-injection group compared to the control and single-injection group. Taken together, intra-articular injection of UCMSCs for OA treatment is safe and effective. Single and multiple injection of UCMSCs had comparable reparative effect on cartilage lesions, while multiple injection of UCMSCs further exerted effect on enhancing subchondral bone volume.

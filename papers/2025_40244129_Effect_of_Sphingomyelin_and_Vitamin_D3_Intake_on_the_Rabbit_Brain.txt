@@ -1,0 +1,7 @@
+TITLE: Effect of Sphingomyelin and Vitamin D3 Intake on the Rabbit Brain.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ijms26073269
+SOURCE: EuropePMC/MED/40244129
+
+Sphingomyelin is a crucial molecule in the sphingolipid metabolic pathway, and its action is closely related to that of vitamin D3. Both molecules are recognized for their involvement in brain pathophysiology. In this study, the effect of a sphingomyelin + vitamin D3-enriched diet was investigated in rabbits. The results showed a strong immunopositive GFAP staining in the brain's white matter. Furthermore, a remodeling of the balance between glycero-phospholipids and ether-phospholipids was observed in the brain, along with an increase in ceramides and hexose ceramides, molecules relevant for the structure, function, and stability of myelin. Taken together, these findings provide clues as to how the combination sphingomyelin + vitamin D3 may play a vital role in normal brain physiology and could potentially be leveraged in the context of neurodegenerative diseases.

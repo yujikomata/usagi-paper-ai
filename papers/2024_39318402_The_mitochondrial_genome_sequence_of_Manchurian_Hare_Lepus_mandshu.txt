@@ -1,7 +1,0 @@
-TITLE: The mitochondrial genome sequence of Manchurian Hare (Lepus mandshuricus).
-YEAR: 2024
-JOURNAL: 
-DOI: 10.1080/23802359.2024.2405539
-SOURCE: EuropePMC/MED/39318402
-
-The Manchurian hare (Lepus mandshuricus) is widely distributed in eastern Russia and northeastern China, but due to limited research, its taxonomic status remains somewhat ambiguous. The mitochondrial genome of the Manchurian hare was 16,705 bp in length, which was consisted of 13 protein-coding genes (PCGs), 22 transfer RNA (tRNA) genes, 2 ribosomal RNA (rRNA) genes and one control region. The overall nucleotide composition is 31.7% A, 29.4% T, 13.3% G, and 25.6% C, indicating a high AT content. Phylogenetic analysis reveals a closer relationship of the Manchurian hare with the Korean hare (Lepus coreanus) and the Iberian hare (Lepus granatensis), while its relationship with the Hainan rabbit (Lepus hainanus), European hare (Lepus europaeus) and the snowshoe hare (Lepus americanus) is more distant. The mitochondrial genome of the Manchurian hare is of vital importance for the phylogenetic analysis of lagomorphs and provides valuable data for deeper evolutionary inquiries.

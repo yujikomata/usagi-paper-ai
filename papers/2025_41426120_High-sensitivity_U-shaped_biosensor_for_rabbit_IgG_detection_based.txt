@@ -1,0 +1,7 @@
+TITLE: High-sensitivity U-shaped biosensor for rabbit IgG detection based on PDA/AuNPs/PDA sandwich structure.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1515/nanoph-2025-0367
+SOURCE: EuropePMC/MED/41426120
+
+Combining the advantages of polydopamine (PDA), gold nanoparticles (AuNPs), and U-shaped optical fibers, a PDA/AuNPs/PDA sandwich structure modified U-shaped optical fiber surface plasmon resonance (SPR) biosensor was proposed and used for the detection of rabbit IgG. The U-shaped structure significantly enhances the penetration depth of the evanescent field. The PDA/AuNPs/PDA sandwich structure boosts coupling efficiency of SPR and LSPR, increases the specific surface area of the sensor, and improves surface activity. The experimental results show that the refractive index (RI) sensitivity of the sensor is 6,206.32 nm/RIU in the RI range of 1.3353-1.3595, which is 1.63 times higher than the raw U-shaped sensor. The biosensor for detection of rabbit IgG achieved a biosensitivity of 0.153 nm/(ng/mL), which is two orders of magnitude higher and a limit of detection (LOD) of 0.131 ng/mL, which is one order of magnitude lower. The outstanding performance of the proposed biosensor offers a new solution for the detection of low-concentration biological solutions, and it has great potential applications in the field of medical diagnosis.

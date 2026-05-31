@@ -1,0 +1,7 @@
+TITLE: Effect of Bovine Colostrum Dietary Supplementation on Rabbit Meat Quality.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.3390/foods11213433
+SOURCE: EuropePMC/MED/36360047
+
+Bovine colostrum (BC) is rich in nutrients, antimicrobial, and antioxidant factors; for these reasons, it has been used as supplement in animal nutrition. However, its possible effects on meat quality have not been studied yet. Thirty-nine New Zealand White rabbits (n = 13/group) were assigned to three groups and fed until slaughter with a commercial standard diet, control group (C), and C supplemented with 2.5% and 5% (w/w) of BC (BC-2.5 and BC-5 groups, respectively). After slaughtering, the effect of dietary supplementation on microbiological and chemical characteristics of the rabbit loins was evaluated at 48 h postmortem (D0) and after 3 (D3) and 8 (D8) days of refrigerated storage. Results showed no difference in the microbiological parameters. In the supplemented groups, TBARS and TVBN values were lower and higher than in the C group, respectively (p < 0.01), and their fatty-acid profile was increased in SFA and decreased in MUFA (p < 0.05). In conclusion, research must continue to examine in depth the possible effects of BC byproduct reuse in animal nutrition on meat quality (e.g., antioxidant power, and physical and sensory characteristics).

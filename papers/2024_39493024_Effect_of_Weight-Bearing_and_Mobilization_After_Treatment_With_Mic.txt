@@ -1,0 +1,7 @@
+TITLE: Effect of Weight-Bearing and Mobilization After Treatment With Microfracture in Osteochondral Lesions of the Talus in Rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.7759/cureus.70761
+SOURCE: EuropePMC/MED/39493024
+
+Background The aim of this study is to comparatively evaluate the effect of early weight bearing on recovery after treatment with the microfracture (MF) method in a rabbit model of osteochondral lesions (OCLs) of the talus.Materials and methodsThe study was carried out on 24 tali of 12 white rabbits. Experimental animals were divided into two groups. Rabbits whose weight-bearing and mobility were not limited after MF surgery were called Group 1, and rabbits with limited mobility were called Group 2. After 28 days of postoperative follow-up, tissue samples obtained from the tali were evaluated macroscopically according to the International Society for Cartilage Research Repair Evaluation scoring system 1 (ICRS-1) and microscopically according to the ICRS-2 scoring system.ResultsThe mean ICRS-1 score was 87.5 ± 12.5 in Group 1 and 40.2 ± 7.8 in Group 2. The intergroup comparison of ICRS-1 scores showed that the ICRS-1 scores were significantly higher in Group 1 (p = 0.01). The mean ICRS-2 score was 74.3 ± 1.9 in Group 1 and 35.2 ± 1.9 in Group 2. The comparison of ICRS-2 scores between the groups showed that the ICRS-2 scores were significantly higher in group 1 (p = 0.01).ConclusionEarly weight-bearing and mobility have a more favorable effect on cartilage healing after treatment of OCL of the talus with MF surgery.

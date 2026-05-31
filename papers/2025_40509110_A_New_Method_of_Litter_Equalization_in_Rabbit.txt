@@ -1,0 +1,7 @@
+TITLE: A New Method of Litter Equalization in Rabbit.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15111644
+SOURCE: EuropePMC/MED/40509110
+
+On rabbit farms, the mortality of rabbits born with a low weight is high, and there is a large variation in body weight, so the carcass and the cut carcass are not uniform. The experiment aimed to reduce the mortality of kits born with a low weight and to produce more-uniform slaughter animals. In the experiment, each rabbit doe in the Control group raised 10 newborn kits with low birth weights (S10, n = 100), 10 with medium birth weights (M10C, n = 100), or 10 with high birth weights (L10, n = 100). In the Experimental group, the rabbit does raised 9 newborn kits with low birth weights (S9, n = 90), 10 with medium birth weights (M10E, n = 100), or 11 with high birth weights (L11, n = 110). Compared with the S10 group, the mortality (between 0 and 7 days) in the S9 group was reduced (20.0% vs. 8.9%; p < 0.001). While the body weights of the S10, M10C, and L10 subgroups in the Control group increased at 84 days (2876 g, 2872 g, and 3047 g, respectively), there was no significant difference in the body weights of the three subgroups (S9, M10E, and L11) in the Experimental group. The new litter-equalization method was therefore suitable for reducing mortality and achieving a more-equal slaughter weight. At the same time, there was no difference between the groups in the dressing out percentage. The authors further suggest considering the teat number of the does and raising low-weight kits in litters of eight.

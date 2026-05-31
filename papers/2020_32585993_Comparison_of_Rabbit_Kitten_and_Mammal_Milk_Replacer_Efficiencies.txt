@@ -1,0 +1,7 @@
+TITLE: Comparison of Rabbit, Kitten and Mammal Milk Replacer Efficiencies in Early Weaning Rabbits.
+YEAR: 2020
+JOURNAL: 
+DOI: 10.3390/ani10061087
+SOURCE: EuropePMC/MED/32585993
+
+Early weaned rabbits should be fed using a milk replacer in order to survive. Therefore, a rabbit milk replacer (RMR) was developed and compared with a kitten milk replacer (KMR®: KMR) and a mammal milk replacer (Zoologic® Milk matrix 30/52: MMR). Thirty-six native crossbred rabbits aged 18 days were divided into three experimental groups (six replicates/group, two rabbits/replicate), fed RMR, KMR or MMR daily until they were 36 days old and euthanized at 38 days, while a complete pelleted diet and water were provided ad libitum. No statistically significant differences were observed in growth performance parameters, water intake, faecal weight, nutrient digestibility, internal organ weight, caecal pH, caecal cellulose activity, number of faecal pellets and amount of crude protein intake (p > 0.05). Caecal amylase activity in the KMR group and caecal protease activity in the RMR group were higher than in the MMR group (p p < 0.05). In conclusion, it is possible to feed RMR to early weaning rabbits without serious adverse effects. However, probiotics and/or prebiotics should be supplemented in milk replacers and their benefits studied.

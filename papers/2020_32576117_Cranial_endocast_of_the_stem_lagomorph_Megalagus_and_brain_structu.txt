@@ -1,0 +1,7 @@
+TITLE: Cranial endocast of the stem lagomorph Megalagus and brain structure of basal Euarchontoglires.
+YEAR: 2020
+JOURNAL: 
+DOI: 10.1098/rspb.2020.0665
+SOURCE: EuropePMC/MED/32576117
+
+Early lagomorphs are central to our understanding of how the brain evolved in Glires (rodents, lagomorphs and their kin) from basal members of Euarchontoglires (Glires + Euarchonta, the latter grouping primates, treeshrews, and colugos). Here, we report the first virtual endocast of the fossil lagomorph Megalagus turgidus, from the Orella Member of the Brule Formation, early Oligocene, Nebraska, USA. The specimen represents one of the oldest nearly complete lagomorph skulls known. Primitive aspects of the endocranial morphology in Megalagus include large olfactory bulbs, exposure of the midbrain, a small neocortex and a relatively low encephalization quotient. Overall, this suggests a brain morphology closer to that of other basal members of Euarchontoglires (e.g. plesiadapiforms and ischyromyid rodents) than to that of living lagomorphs. However, the well-developed petrosal lobules in Megalagus, comparable to the condition in modern lagomorphs, suggest early specialization in that order for the stabilization of eye movements necessary for accurate visual tracking. Our study sheds new light on the reconstructed morphology of the ancestral brain in Euarchontoglires and fills a critical gap in the understanding of palaeoneuroanatomy of this major group of placental mammals.

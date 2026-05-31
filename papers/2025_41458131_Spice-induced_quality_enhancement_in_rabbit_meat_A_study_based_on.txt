@@ -1,0 +1,7 @@
+TITLE: Spice-induced quality enhancement in rabbit meat: A study based on data mining and analytical characterization.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1016/j.fochx.2025.103385
+SOURCE: EuropePMC/MED/41458131
+
+This study investigates the impact of seven spices-ginger, garlic, Welsh onion, prickly ash, black pepper, star anise, and chili-on rabbit meat quality, focusing on sensory attributes, oxidative stability, and nutritional value. Using advanced techniques such as HS-SPME-GC-MS, E-tongue, E-nose, and GC-FID, we found that spices significantly enhanced flavor complexity, tenderness, juiciness, and oxidative stability compared to the control group (CG) (P < 0.05). Notably, garlic, star anise, and black pepper improved aroma intensity and overall acceptability, while ginger and prickly ash reduced undesirable flavor indices. This research presents a novel approach by integrating recipe data mining and sensory analysis, providing a scientific foundation for optimizing rabbit meat's flavor and health attributes. The findings highlight the potential of spices to reduce gamey flavors and enhance the nutritional profile, offering a strategy for healthier, more appealing meat products.

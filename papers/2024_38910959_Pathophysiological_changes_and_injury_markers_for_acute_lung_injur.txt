@@ -1,0 +1,7 @@
+TITLE: Pathophysiological changes and injury markers for acute lung injury from blunt impact in infant rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3389/fped.2024.1354531
+SOURCE: EuropePMC/MED/38910959
+
+BackgroundTraffic accidents, particularly blunt impacts, cause serious injuries in children. We aimed to assess inflammatory and injury responses in infant rabbits subjected to acute lung injury resulting from blunt impact, with the goal of identifying potential circulatory injury markers.MethodsForty 4-week-old infant rabbits were subjected to a right chest impact using a Hopkinson bar with 2,600 g. Computed tomography was employed to assess injury severity. Pathological changes were observed using hematoxylin and eosin staining in the control, 0, 24, and 72 h groups, post-injury. Immunohistochemistry was used to examine surfactant protein A (SP-A) changes in right lung tissues and upper main bronchi. Serum levels of interleukin-6 (IL-6), IL-8, and SP-A were measured using ELISA within 24 h post-injury in the control, 0 h, and 24 h groups.ResultsFollowing blunt injury, significant increases were observed in blood white blood cell count (F = 101.556, P F = 104.228, P F = 79.677, P F = 6.7, P F = 15.825, P F = 59.552, P F = 58.328, P F = 41.802, P F = 52.629, P DiscussionIn cases of direct chest trauma in infant rabbits, particularly mild injuries without rib fractures. SP-A levels correlated with pathological changes across all groups and may serve as biomarkers for pediatric blunt lung impact.

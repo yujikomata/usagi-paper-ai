@@ -1,0 +1,7 @@
+TITLE: Production, Characterization, and Epitope Mapping of Monoclonal Antibodies Against Different Subtypes of Rabbit Hemorrhagic Disease Virus (RHDV).
+YEAR: 2016
+JOURNAL: 
+DOI: 10.1038/srep20857
+SOURCE: EuropePMC/MED/26878800
+
+In 2010, a new rabbit hemorrhagic disease virus (RHDV) variant, designated RHDV2, was identified for the first time in Italy. Studies have shown that RHDV2 differs from RHDV1 (traditional RHDV) in terms of its antigenic profile and genetic characteristics. The VP60 protein of RHDV is a structural protein that plays important roles in viral replication, assembly, and immunogenicity. In this study, we immunized BALB/c mice with recombinant VP60 proteins from different RHDV subtypes. After three rounds of subcloning, type-specific positive hybridoma clones of RHDV1 and RHDV2 were further identified by an enzyme-linked immunosorbent assay, Western blotting, and an indirect immunofluorescence assay. Finally, three monoclonal antibodies (MAbs) (1D6, 1H2, and 3F2) that only recognize RHDV1, and four MAbs (1G2, 2C1, 3B7, and 5D6) that only recognize RHDV2 were identified. The epitopes recognized by these MAbs were mapped by Western blotting. Sequence analysis showed that the epitope sequences recognized by 1D6, 1H2, and 3F2 are highly conserved (98%) among RHDV1 strains, whereas the epitope sequences recognized by 1G2, 2C1, 3B7, and 5D6 are 100% conserved among RHDV2 strains. The high conservation of the epitope sequence showed that the screened MAbs were type-specific, and that they could distinguish different RHDV subtypes.

@@ -1,0 +1,7 @@
+TITLE: Effects of Platelet-Rich Fibrin on Bone Healing Around Implants Placed in Maxillary Sinuses: A Histomorphometric Assessment in Rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/jfb15120375
+SOURCE: EuropePMC/MED/39728175
+
+This study investigated the effect of platelet-rich fibrin (PRF) on bone healing around implants placed in elevated sinus cavities. Forty New Zealand albino rabbits were divided into eight groups, based on the time of sacrifice (14 or 40 days) and the material used: blood clot (control), hydroxyapatite (HA) from bovine bone, HA combined with PRF, and PRF alone. Each group consisted of five animals (n = 5). A histological analysis measured bone-to-implant contact (BIC) and bone area fraction occupancy (BAFO). The results showed significant increases in the BIC and BAFO values at 40 days compared to 14 days in most groups. At day 14, the HA+PRF group had higher BIC than the clot and the PRF alone groups. At 40 days, HA+PRF maintained the highest BIC across all groups (p < 0.05), though it did not show an advantage for BAFO. These findings indicate that combining HA with PRF promotes better osseointegration around implants placed immediately in maxillary sinus augmentation. Given the limited research on PRF's biological impact, these results underscore the importance of evaluating PRF's role in peri-implant healing and its potential benefits for clinical use in sinus augmentation.

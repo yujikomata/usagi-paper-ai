@@ -1,0 +1,7 @@
+TITLE: Effects of Cell-Free Fat Extract and Platelet-Rich Fibrin on Scar Maturation in an Experimental Rabbit Ear Wound Model.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.2147/ccid.s489625
+SOURCE: EuropePMC/MED/39712941
+
+BackgroundMultiple methods have been used to treat hypertrophic scarring; however, an optimal treatment method remains to be established. We aimed to research and compare the effects of cell-free fat extract (CEFFE) and platelet-rich fibrin (PRF) on hypertrophic scar formation based on histomorphological analysis in this study.MethodsTwelve rabbits were divided into four groups randomly. (CEFFE+PRF group, n=3; CEFFE group, n=3, PRF group, n=3 and Control group, n=3). After the ear hypertrophic scar model were established, the two ears of each rabbit in the four groups were injected with CEFFE 0.05 mL/cm2 + PRF 0.05 mL/cm2, CEFFE 0.1 mL/cm2, PRF 0.1 mL/cm2, and saline 0.1 mL/cm2, respectively. The scar elevation index and histological analysis using hematoxylin-eosin and Masson staining were evaluated after injection on day 40.ResultsThe CEFFE+PRF group was significantly more effective in the prevention of pathological scar formation than the CEFFE-only, PRF-only, and control groups in terms of capillary count, collagen organization, fibroblast count, and scar elevation index (pDiscussionCEFFE combined with PRF was the most effective treatment for the prevention of hypertrophic scar formation in our study.

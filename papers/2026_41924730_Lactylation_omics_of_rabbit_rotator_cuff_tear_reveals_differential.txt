@@ -1,0 +1,7 @@
+TITLE: Lactylation omics of rabbit rotator cuff tear reveals differentially modified proteins and metabolic relating therapy targets.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.3389/fmed.2026.1797466
+SOURCE: EuropePMC/MED/41924730
+
+Proteins exert biological functions not only depending on abundance but also on regulation. Lactylation, a novel post-translational modification, can mediate metabolic reprogramming and epigenetic regulation, playing a crucial role in signal transduction, gene expression and cellular metabolism. Lactylation is also involved in various diseases, such as tumors, Alzheimer's disease, heart failure and myocardial infarction. However, there is little research in musculoskeletal system. In this study, we conducted lactylation omics on rabbit rotator cuff tear samples and identified 2,624 modification sites on 851 proteins. We obtained results on subcellular localization, differentially modified proteins and functional pathway enrichment. Basing on motif, we proposed the "lysine co-lactylation modification effect" concept. Overall, lactylation mainly localized in cytoplasm, mitochondria and nucleus, with its functions enriching in RNA processing, DNA processing and cellular metabolism. Considering that lactylation is widely present and significantly occurs in rotator cuff tears, we aim to identify the key targets through which lactylation exerts its effects and to intervene it, ultimately providing new insights and therapeutic approaches for clinic therapy.

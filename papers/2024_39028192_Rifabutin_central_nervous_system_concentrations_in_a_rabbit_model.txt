@@ -1,0 +1,7 @@
+TITLE: Rifabutin central nervous system concentrations in a rabbit model of tuberculous meningitis.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1128/aac.00783-24
+SOURCE: EuropePMC/MED/39028192
+
+Tuberculous meningitis (TBM) has a high mortality, possibly due to suboptimal therapy. Drug exposure data of antituberculosis agents in the central nervous system (CNS) are required to develop more effective regimens. Rifabutin is a rifamycin equivalently potent to rifampin in human pulmonary tuberculosis. Here, we show that human-equivalent doses of rifabutin achieved potentially therapeutic exposure in relevant CNS tissues in a rabbit model of TBM, supporting further evaluation in clinical trials.

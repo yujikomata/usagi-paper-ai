@@ -1,0 +1,7 @@
+TITLE: Proteomic Analyses Reveals the Mechanism of Acupotomy Intervention on the Treatment of Knee Osteoarthritis in Rabbits.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.1155/2022/5698387
+SOURCE: EuropePMC/MED/36437834
+
+Acupotomy intervention (AI) is an available treatment for knee osteoarthritis (KOA) in China, which is a common health problem over the world. However, the underlying mechanism of AI on the KOA treatment is still unknown. To further understand the mechanism of acupotomy in treating KOA, the morphological observation and TMT proteomic analyses were conducted in rabbits. By using X-ray and MRI, we found that the space of the knee joint was bigger in AI than in KOA. Moreover, the chondrocytes were neatly arranged in AI but disordered in KOA. With proteomic analyses in chondrocytes, 68 differently accumulated proteins (DAPs) were identified in AI vs. KOA and DAPs related to energy metabolism and the TCA cycle were suggested to play a central role in response to AI. Furthermore, AIFM1 was proposed to be an important regulator in controlling the energy production in mitochondrial. Besides, FN1, VIM, COL12A1, COL14A1, MYBPH, and DPYSL3 were suggested to play crucial roles in AI for the treatment of KOA. Our study was systematically elucidating the regulation mechanism of acupotomy intervention in the treatment of KOA.

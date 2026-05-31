@@ -1,0 +1,7 @@
+TITLE: Study on Changes in Gut Microbiota and Microbiability in Rabbits at Different Developmental Stages.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/ani14121741
+SOURCE: EuropePMC/MED/38929360
+
+This study used feces from 0-day-old (36 rabbits), 10-day-old (119 rabbits), and 60-day-old (119 rabbits) offspring rabbits and their corresponding female rabbits (36 rabbits) as experimental materials. Using 16s rRNA sequencing, the study analyzed the types and changes of gut microbiota in rabbits at different growth and development stages, as well as the correlation between gut microbiota composition and the weight of 60-day-old rabbits. All experimental rabbits were placed in the same rabbit shed. Juvenile rabbits were fed solid feed at 18 days of age and weaned at 35 days of age. In addition to identifying the dominant bacterial phyla of gut microbiota in rabbits at different age stages, it was found that the abundance of Clostridium tertium and Clostridium paraputrificum in all suckling rabbits (10-day-old) was significantly higher than that in rabbits fed with whole feed (60-day-old) (p Gram-negative bacterium cTPY13 was significantly lower (p p p < 0.05). Finally, the correlation between gut microbiota composition and body weight of 60-day-old rabbits was analyzed based on a mixed linear model, and six ASVs significantly affecting body weight were screened. The above results provide important theoretical and practical guidance for maintaining gut health, improving growth and development performance, and feeding formulation in rabbits.

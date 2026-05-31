@@ -1,0 +1,7 @@
+TITLE: Cervical ventral slot in rabbits (Oryctolagus cuniculus). Piezosurgery versus conventional technique.
+YEAR: 2021
+JOURNAL: 
+DOI: 10.1590/acb360606
+SOURCE: EuropePMC/MED/34259789
+
+PurposeTo investigate the applicability of piezosurgery for cervical ventral slot (CVS), comparing it with the conventional technique of using high-speed burs for bone wear.MethodsThirty rabbits (Oryctolagus cuniculus) were divided into two treatment groups (T1 and T2) corresponding to CVS between C3-C4. In T1, the surgery was performed with piezoelectric apparatus, and in T2 with high-speed burs. The evaluated parameters were: duration of each stage of surgery, temperature variations during CVS, visibility of the surgical field, intra and postoperative complications, and anesthetic monitoring. At 14, 28, and 56 postoperative days, five animals from each treatment group were submitted for histopathological study of the surgical site.ResultsCompared with T2, T1 had more precise bone cut, and better visibility of the operative field, although it required longer total surgical time (p = 0.02) and triggered a greater number of intraoperative complications (p ConclusionsIt is necessary to perform surgical planning and have several tips of the piezoelectric instrument available for the safe use of the piezoelectric device in neurosurgery.

@@ -1,0 +1,7 @@
+TITLE: New rabbit model for benign biliary stricture formation with repeatable administration.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.4240/wjgs.v16.i11.3538
+SOURCE: EuropePMC/MED/39649186
+
+BackgroundThe treatment of benign biliary strictures (BBS) is a challenging clinical problem. At present, there is a lack of ideal models for the study of BBS treatment.AimTo develop a novel animal model of BBS to simulate studies on the processes and mechanisms in the human condition.MethodsA rabbit model of benign bile duct stricture was established by surgical injury of the bile duct. After removal of the gallbladder, a drainage tube was placed through the cystic duct at the stump, and a BBS model was induced by surgical injury at the lower end of the common bile duct.ResultsCompared with the control group, the model rabbits showed gross jaundice, increased serum bilirubin, and decreased liver function. Cholangiography showed segmental bile duct stenosis in the model rabbits. Pathological staining showed inflammatory cell infiltration and fibrosis in the biliary tract of rabbits in the model group. This was consistent with the clinical manifestations of BBS. This model provided serology, imaging, pathology, and other aspects of BBS.ConclusionWe have successfully established an animal model of benign stricture of the lower bile duct with repeatable administration, which is consistent with the clinical manifestations of BBS.

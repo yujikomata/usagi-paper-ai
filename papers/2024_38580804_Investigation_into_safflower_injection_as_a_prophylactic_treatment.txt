@@ -1,0 +1,7 @@
+TITLE: Investigation into safflower injection as a prophylactic treatment for retinal vein occlusion in a rabbit model.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1038/s41598-024-58734-z
+SOURCE: EuropePMC/MED/38580804
+
+The study aimed to assess the effect and mechanism of safflower injection in preventing retinal vein thrombosis in rabbits. Twenty healthy adult pigmented rabbits were randomly assigned to either the experimental group, receiving safflower injection, or the control group, receiving normal saline. After two weeks of treatment, blood samples were collected to analyze platelet adhesion and aggregation rates. Photodynamic therapy was applied to induce occlusion in the target retinal vein. Fundus photography and fluorescein angiography were recorded using a dynamic microscopic monitoring system, and laser speckle imaging was employed to assess blood flow in the affected vein. The experimental group exhibited significantly lower rates of platelet adhesion and aggregation compared to the control group. Following the induction of retinal vein occlusion, the experimental group showed a lower complete occlusion rate of the target retinal vein. Although initial blood flow in the target vein was similar between groups, the blood flow at 1, 3, and 5 min post-occlusion was significantly higher in the experimental group. Safflower injection delayed retinal vein thrombosis formation, preserved blood flow in the affected retinal area, and reduced platelet adhesion and aggregation. These effects facilitated vascular reperfusion within a limited timeframe.

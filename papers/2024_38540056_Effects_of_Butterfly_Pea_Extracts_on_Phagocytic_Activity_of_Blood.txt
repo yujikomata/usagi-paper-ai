@@ -1,0 +1,7 @@
+TITLE: Effects of Butterfly Pea Extracts on Phagocytic Activity of Blood Polymorphonuclear Leukocytes and Muscular Lipid Peroxidation in Rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/ani14060958
+SOURCE: EuropePMC/MED/38540056
+
+Sixteen 35-day-old male crossbred rabbits (New Zealand white × Thai native breed) with an initial weight of 484 ± 11.3 g were randomly divided into two groups of eight, constituting control and treatment groups. The treatment group was orally administered a crude extract of butterfly pea (Clitoria ternatea L.) at 0.5 g/kg body weight from weaning (at 35 days) to slaughter (at 90 days). The effects on the phagocytic activity of blood polymorphonuclear leukocytes, serum biochemistry, meat quality, muscular lipid peroxidation, the apparent digestibility of dry matter and nutrients, and gut histology were studied. The results revealed that the phagocytic function of circulating leukocytes (75 and 90 days) and alveolar macrophages (90 days) did not differ between the two groups. At slaughter, treated rabbits had lower blood urea nitrogen concentrations and higher liver weight than control rabbits (p p p p < 0.05), whereas gut histology was unaffected. In conclusion, butterfly pea extract supplementation did not affect phagocytic function but led to a modification in meat color, delayed lipid peroxidation, and improved digestibility.

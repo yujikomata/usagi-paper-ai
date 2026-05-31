@@ -1,0 +1,7 @@
+TITLE: Effect of Lactiplantibacillus plantarum on the growth, hemato-biochemical, inflammation, apoptosis, oxidative stress markers, involved gens and histopathological alterations in growing rabbits challenged with aflatoxin B1.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1016/j.psj.2024.104002
+SOURCE: EuropePMC/MED/39053371
+
+Aflatoxin B1 (AFB1) is a significant pollutant found in food and feed, posing a threat to public health. The objective of this study was to assess the effect of Lactiplantibacillus plantarum (LACP) against AFB1 in growing rabbits by investigating growth, serum metabolites, immunity, antioxidant capacity, and inflammatory response. A total of 60 growing male rabbits (721.5 ± 2.68g) were allocated to 4 experimental groups. The control group receiving only a basal diet, the AFB1 group (0.3 mg AFB1/kg diet), the LACP group (1 × 109 cfu/g /kg diet), and the combination group (1 × 109 cfu/g + 0.3 mg AFB1/kg diet; AFB1+ LACP) for 8 wk. The administration of AFB1 alone significantly decreased the final body weight, body gain, and feed intake, while significantly increasing the feed conversion ratio (P 9 cfu/g /kg diet) as a protective agent against AFB1 in growing rabbits by enhancing antioxidant and immune function and reducing apoptosis and inflammation pathways.

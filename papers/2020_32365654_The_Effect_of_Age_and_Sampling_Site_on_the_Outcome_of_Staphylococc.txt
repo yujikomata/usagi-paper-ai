@@ -1,0 +1,7 @@
+TITLE: The Effect of Age and Sampling Site on the Outcome of Staphylococcus aureus Infection in a Rabbit (Oryctolagus cuniculus) Farm in Italy.
+YEAR: 2020
+JOURNAL: 
+DOI: 10.3390/ani10050774
+SOURCE: EuropePMC/MED/32365654
+
+A study in an intensive Italian rabbit farm was carried out to assess the effect of age category and anatomical site on detection of S. aureus and to describe the diversity of spa-types within farm, including workers. On 400 rabbits of different age, 2066 samples from the ear, nose, axilla, groin, perineum and lesions were analyzed and 595 S. aureus were isolated. In total, 284 (71.0%) were colonized by S. aureus in at least one anatomical site and 35 animals (8.8%) had lesions. S. aureus prevalence was higher in adults than other age categories. Ear (29.4%) and nose (27.2%) were the most frequently colonized sites. The presence of lesions due to S. aureus was strongly associated with the colonization of at least one body site and the risk of lesions was proportionate to the number of sites colonized by S. aureus. In addition, a genotypic characterization was performed for 96 S. aureus strains randomly selected. All isolates resulted as low-virulence methicillin-sensitive-Staphylococcus aureus (LV-MSSA). Five different clonal lineages were found: spa-t2802, the most frequently detected (53.1%), also in human samples; spa-t491 (38.5%); spa-t094; t605; and spa-t2036. Strains t094, t491 and t2036 have not been isolated in Italy before.

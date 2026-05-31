@@ -1,7 +1,0 @@
-TITLE: Ancient DNA of the Don-Hares Assumes the Existence of Two Distinct Mitochondrial Clades in Northeast Asia.
-YEAR: 2023
-JOURNAL: 
-DOI: 10.3390/genes14030700
-SOURCE: EuropePMC/MED/36980972
-
-Paleoclimatic changes during the Pleistocene-Holocene transition is suggested as a main factor that led to species extinction, including the woolly mammoth (Mammuthus primigenius), Steller's sea cow (Hydrodamalis gigas) and the Don-hare (Lepus tanaiticus). These species inhabited the territory of Eurasia during the Holocene, but eventually went extinct. The Don-hare is an extinct species of the genus Lepus (Leporidae, Lagomorpha), which lived in the Late Pleistocene-Early Holocene in Eastern Europe and Northern Asia. For a long time, the Don-hare was considered a separate species, but at the same time, its species status was disputed, taking into account both morphological data and mitochondrial DNA. In this study, mitochondrial genomes of five Don-hares, whose remains were found on the territory of Northeastern Eurasia were reconstructed. Firstly, we confirm the phylogenetic proximity of the "young" specimens of Don-hare and mountain or white hare, and secondly, that samples older than 39 Kya form a completely distinct mitochondrial clade.

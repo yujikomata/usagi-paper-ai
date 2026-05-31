@@ -1,0 +1,7 @@
+TITLE: An Effective Prophylactic and Therapeutic Protection Against Botulinum Type A Intoxication in Mice and Rabbits Using a Humanized Monoclonal Antibody.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/toxins17030138
+SOURCE: EuropePMC/MED/40137911
+
+Botulinum neurotoxins (BoNTs) are the most potent toxins on Earth and are classified as Category A biological agents. BoNTs lead to paralysis in humans and cause botulism. Antibody therapeutics can effectively treat toxin-mediated infectious diseases. In this study, we generated a pharmaceutical humanized monoclonal antibody (HZ45 mAb) to prevent or treat botulism. HZ45 binds to the heavy chain receptor (HCR) domain of the toxin, preventing the toxin from entering the cell. The mAb was produced using hybridoma technology and phage display. We evaluated HZ45 mAb for the neutralization of BoNT serotype A (BoNT/A) in mice and rabbits. The survival results showed that pretreatment with HZ45 mAb provided 100% protection at a dose of 0.1 mg per mouse against a maximum of 100 LD50 of BoNT/A. To assess the therapeutic efficacy of HZ45 mAb in New Zealand white rabbits (NZWs), a 5 mg dose was administered 4 or 8 h after challenge with 10 LD50. The results indicated that 5 mg of HZ45 could treat the NZWs within 8 h after exposure to 10 LD50 botulinum. Consequently, in an in vivo context, including mice and rabbits, HZ45 mAb could protect against botulinum type A intoxication.

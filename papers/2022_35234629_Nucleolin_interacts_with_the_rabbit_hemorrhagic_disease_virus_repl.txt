@@ -1,0 +1,7 @@
+TITLE: Nucleolin interacts with the rabbit hemorrhagic disease virus replicase RdRp, nonstructural proteins p16 and p23, playing a role in virus replication.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.1016/j.virs.2022.01.004
+SOURCE: EuropePMC/MED/35234629
+
+Rabbit hemorrhagic disease virus (RHDV) is a member of the Caliciviridae family and cannot be propagated in vitro, which has impeded the progress of investigating its replication mechanism. Construction of an RHDV replicon system has recently provided a platform for exploring RHDV replication in host cells. Here, aided by this replicon system and using two-step affinity purification, we purified the RHDV replicase and identified its associated host factors. We identified rabbit nucleolin (NCL) as a physical link, which mediating the interaction between other RNA-dependent RNA polymerase (RdRp)-related host proteins and the viral replicase RdRp. We found that the overexpression or knockdown of NCL significantly increased or severely impaired RHDV replication in RK-13 ​cells, respectively. NCL was identified to directly interact with RHDV RdRp, p16, and p23. Furthermore, NCL knockdown severely impaired the binding of RdRp to RdRp-related host factors. Collectively, these results indicate that the host protein NCL is essential for RHDV replication and acts as a physical link between viral replicase and host proteins.

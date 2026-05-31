@@ -1,0 +1,7 @@
+TITLE: Effects of Akebia and Dandelion on Growth Performance, Inflammation, and Gut Microbiota in Weaned Rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/vetsci12111048
+SOURCE: EuropePMC/MED/41295685
+
+This study aimed to evaluate the individual and combined effects of dandelion extract and akebia extract on growth, inflammation, and gut microbiota in weaned rabbits. Using a two-factor randomized design, 120 rabbits (1.219 kg ± 0.077 kg, 35 days of age) were divided into four groups (10 replicates/group). Growth metrics (feed intake, fecal score, weight gain) and biological samples (blood, liver, jejunal/ileal mucosa, digesta) were analyzed over 28 days. Key results indicated that combined dandelion and akebia supplementation significantly increased daily weight gain during the first week (p p p p p p p < 0.05). In conclusion, both extracts modulated immunity and attenuated inflammatory responses through modulation of immunoglobulins, cytokines, and chemokines. Their combination demonstrated synergistic anti-inflammatory effects, alongside beneficial shifts in gut microbiota composition.

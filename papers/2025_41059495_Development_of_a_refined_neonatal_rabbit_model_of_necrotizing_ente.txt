@@ -1,0 +1,7 @@
+TITLE: Development of a refined neonatal rabbit model of necrotizing enterocolitis with relatively longer survival.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3389/fphys.2025.1643482
+SOURCE: EuropePMC/MED/41059495
+
+ObjectiveThis study aimed to develop an animal model that closely replicates the clinical features of necrotizing enterocolitis (NEC), thereby providing a supportive platform for ongoing NEC research.Methods36 two-week-old neonatal suckling rabbits were randomly assigned to three groups: normal group (Group A, n = 12), traditional group (Group B, n = 12), and modified group (Group C, n = 12). Daily monitoring of general condition, post-modeling survival rate, and survival time was conducted in neonatal rabbits. Histopathological assessment of intestinal morphology was performed using hematoxylin and eosin staining, with scoring conducted to evaluate modeling success. Serum concentrations of C-reactive protein (CRP), tumor necrosis factor-alpha (TNF-α), interleukin-10 (IL-10), occludin, zonula occludens-1 (ZO-1), and zonulin were quantified using ELISA. Protein expression levels of occludin and ZO-1 in intestinal tissues were analyzed via Western blot.ResultsModified group exhibited significantly higher survival rates and prolonged survival time compared to traditional group (p  0.05).ConclusionOur study successfully established a novel neonatal rabbit model of NEC with prolonged survival time by refining conventional modeling methodologies, thereby providing a new platform for investigating NEC pathogenesis and therapeutic interventions.

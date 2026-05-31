@@ -1,0 +1,7 @@
+TITLE: Variant rabbit hemorrhagic disease virus in young rabbits, Spain.
+YEAR: 2012
+JOURNAL: 
+DOI: 10.3201/eid1812.120341
+SOURCE: EuropePMC/MED/23171812
+
+Outbreaks of rabbit hemorrhagic disease have occurred recently in young rabbits on farms on the Iberian Peninsula where rabbits were previously vaccinated. Investigation identified a rabbit hemorrhagic disease virus variant genetically related to apathogenic rabbit caliciviruses. Improved antivirus strategies are needed to slow the spread of this pathogen.

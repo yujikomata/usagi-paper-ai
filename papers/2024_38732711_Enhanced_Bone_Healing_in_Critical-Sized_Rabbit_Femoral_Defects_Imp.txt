@@ -1,0 +1,7 @@
+TITLE: Enhanced Bone Healing in Critical-Sized Rabbit Femoral Defects: Impact of Helical and Alternate Scaffold Architectures.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/polym16091243
+SOURCE: EuropePMC/MED/38732711
+
+This study investigates the effect of scaffold architecture on bone regeneration, focusing on 3D-printed polylactic acid-bioceramic calcium phosphate (PLA-bioCaP) composite scaffolds in rabbit femoral condyle critical defects. We explored two distinct scaffold designs to assess their influence on bone healing and scaffold performance. Structures with alternate (0°/90°) and helical (0°/45°/90°/135°/180°) laydown patterns were manufactured with a 3D printer using a fused deposition modeling technique. The scaffolds were meticulously characterized for pore size, strut thickness, porosity, pore accessibility, and mechanical properties. The in vivo efficacy of these scaffolds was evaluated using a femoral condyle critical defect model in eight skeletally mature New Zealand White rabbits. Then, the results were analyzed micro-tomographically, histologically, and histomorphometrically. Our findings indicate that both scaffold architectures are biocompatible and support bone formation. The helical scaffolds, characterized by larger pore sizes and higher porosity, demonstrated significantly greater bone regeneration than the alternate structures. However, their lower mechanical strength presented limitations for use in load-bearing sites.

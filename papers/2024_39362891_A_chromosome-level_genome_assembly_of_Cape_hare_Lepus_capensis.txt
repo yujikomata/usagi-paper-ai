@@ -1,7 +1,0 @@
-TITLE: A chromosome-level genome assembly of Cape hare (Lepus capensis).
-YEAR: 2024
-JOURNAL: 
-DOI: 10.1038/s41597-024-03953-2
-SOURCE: EuropePMC/MED/39362891
-
-The Cape hare (Lepus capensis) is among the most widely distributed hare species globally, inhabiting extensive regions across Africa, the Middle East, and Central Asia. However, evolutionary and genetic research on L. capensis was seriously impeded by the absence of a reference genome. Here, we assembled and constructed a chromosome-level genome of L. capensis (with scaffolds anchored to 25 chromosomes and a total assembled length of 2.9 Gb, achieving a contig N50 length of 124.44 Mb) using PacBio HiFi sequencing and Hi-C assembly technology. Evaluation using BUSCO indicated the genome assembly to be 98.2% complete. The de novo prediction revealed that repetitive sequences constitute 46.13% of the entire genome, and long interspersed nuclear elements (LINEs) constituted the largest portion. We annotated a total of 13, 868 protein-coding genes using transcriptomes from two tissues (muscle and skin). This high-quality reference genome serves as a valuable genomic resource for advancing genetic studies in this species.

@@ -1,0 +1,7 @@
+TITLE: Diversity and Co-Occurrence Pattern Analysis of Cecal and Jejunal Microbiota in Two Rabbit Breeds.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ani13142294
+SOURCE: EuropePMC/MED/37508071
+
+This study aimed to evaluate the productive performance and microbiota variation in the jejunum and cecum of two rabbit breeds with different growth rates. This study was carried out on Native Middle-Egypt Breed (NMER) and Giant Flanders (GF) rabbits from 5 weeks to 12 weeks of age. Twenty NMER (NM) and GF male rabbits were slaughtered, and the jejunum and cecum tracts were collected to assay gut microbiota composition via 16S ribosomal RNA (rRNA) gene sequencing and histology examination. At 12 weeks of age, daily weight gain, villus height in the jejunum, total protein, and albumin were higher in GF rabbits than in NMER rabbits. Also, the jejunal villi of GF were well arranged in their dense borders. The microbiota between the jejunum and cecum was significantly different in terms of Beta-diversity. A significant correlation between Enterococcus (jejunum NM samples) and Lactobacillus (cecum GF samples) with body weight and weight gain was found (p p Escherichia coli in these rabbits.

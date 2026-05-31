@@ -1,0 +1,7 @@
+TITLE: The influence of hydration status on ion transport in the rabbit (Oryctolagus cuniculus) skin-An in vitro study.
+YEAR: 2021
+JOURNAL: 
+DOI: 10.1371/journal.pone.0255825
+SOURCE: EuropePMC/MED/34383789
+
+The preservation of physiological transport of ions and water content is particularly important for maintaining the skin barrier, touch and pain stimuli, as well as the initiation of skin regeneration processes, especially after treatments associated with breaking skin continuity and wound healing difficulties. The aim of the study was to assess changes in ion transport, measured as values of transepithelial electric resistance and potential difference in stationary conditions and during mechanical-chemical stimulations, depending on the hydration status of isolated rabbit skin specimens. The specimens were divided into five groups: control (n = 22), dehydrated in 10% NaCl (n = 30), rehydrated after dehydration (n = 26), dried at 37°C (n = 26), and rehydrated after drying (n = 25). Dehydrated tissue samples showed altered resistance compared to the control; this change was maintained regardless of rehydration. In the dehydrated samples, changes in the measured electric potential were also noted, which returned to values comparable with the control after rehydration. Dehydrated skin, regardless of the cause of dehydration, responds with changes in the transport of sodium and chloride ions and the altered cellular microenvironment. It could influence the perception of stimuli, particularly pain, and slow down the regeneration processes.

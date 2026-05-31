@@ -1,0 +1,7 @@
+TITLE: Limbal stem cells carried by a four-dimensional -printed chitosan-based scaffold for corneal epithelium injury in diabetic rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3389/fphys.2024.1285850
+SOURCE: EuropePMC/MED/38887317
+
+Methods: Herein, we obtained and characterized deltaN p63- and adenosine triphosphate-binding cassette subfamily G member 2-expressing limbal stem cells (LSCs). Chitosan and carboxymethyl chitosan (CTH) were cross-linked to be an in situ thermosensitive hydrogel (ACH), which was printed through four-dimensional (4D) printing to obtain a porous carrier with uniform pore diameter (4D-CTH). Rabbits were injected with alloxan to induce diabetes mellitus (DM). Following this, the LSC-carrying hydrogel was spread on the surface of the cornea of the diabetic rabbits to cure corneal epithelium injury. Results: Compared with the control group (LSCs only), rapid wound healing was observed in rabbits treated with LSC-carrying 4D-CTH. Furthermore, the test group also showed better corneal nerve repair ability. The results indicated the potential of LSC-carrying 4D-CTH in curing corneal epithelium injury. Conclusion: 4D-CTH holds potential as a useful tool for studying regenerative processes occurring during the treatment of various diabetic corneal epithelium pathologies with the use of stem cell-based technologies.

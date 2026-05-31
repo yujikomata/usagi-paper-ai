@@ -1,0 +1,7 @@
+TITLE: Rabbit Meat Extract Induces Browning in 3T3-L1 Adipocytes via the AMP-Activated Protein Kinase Pathway.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/foods12193671
+SOURCE: EuropePMC/MED/37835324
+
+The browning of white adipocytes may be an innovative approach to address obesity. This study investigated the effects of rabbit meat extract on 3T3-L1 adipocytes, with a specific emphasis on inducing browning. The browning effects of rabbit meat extract were evaluated by analyzing genes specifically expressed in 3T3-L1 adipocytes using quantitative PCR and immunoblotting. Rabbit meat extract increased the expression of brown adipocyte-specific markers, UCP1 and PGC1α, and mitochondrial biogenesis factors, TFAM and NRF1, without affecting cell viability in fully differentiated 3T3-L1 adipocytes. Moreover, adipocyte differentiation and the triglyceride content were decreased; hormone-sensitive lipase activity was promoted. Rabbit meat extract activated the AMPK pathway in the differentiated 3T3-L1 cells. However, in adipocytes treated with rabbit meat extract, the expression of genes related to browning was reduced by the AMP-activated protein kinase (AMPK) inhibitor, dorsomorphin dihydrochloride. To the best of our knowledge, this is the first study to demonstrate that rabbit meat extract induces the browning of white adipocytes via the activation of the AMPK pathway, thereby demonstrating its therapeutic potential in preventing obesity.

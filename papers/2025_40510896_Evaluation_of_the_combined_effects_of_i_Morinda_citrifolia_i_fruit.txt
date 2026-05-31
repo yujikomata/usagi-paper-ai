@@ -1,0 +1,7 @@
+TITLE: Evaluation of the combined effects of <i>Morinda citrifolia</i> fruit and <i>Averrhoa bilimbi</i> leaves on hair growth in rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.4103/japtr.japtr_321_24
+SOURCE: EuropePMC/MED/40510896
+
+This study was conducted to evaluate the impact of a combination of Morinda citrifolia fruit extract (MCFE) and Averrhoa bilimbi leaf extract (ABLE) on hair growth in rabbits. The study included seven treatment groups: (1) control group (distilled water), (2) positive control (minoxidil 5%), (3) treatment 1 (MCFE 10%), (4) treatment 2 (ABLE 10%), (5) treatment 3 (MCFE 5% + ABLE 5%), (6) treatment 4 (MCFE 7.5% + ABLE 2.5%), and (7) treatment 5 (MCFE 2.5% + ABLE 7.5%). Hair length measurements were taken on days 7, 14, 21, and 28, and the average daily growth rate was calculated by dividing the change in hair length by the number of days. Hair weight was measured on day 28. Data analysis was conducted using both two-way and one-way ANOVA, and statistical significance was determined at P P < 0.05). The group exhibited a 19.69 ± 0.38 mm increase in hair length, with a daily growth rate of 0.88 mm/day, and an increase in hair weight of 0.33 ± 0.003 g. The combination of MCFE and ABLE demonstrated potential as an anti-hair loss agent, effectively enhancing both hair length and weight.

@@ -1,0 +1,7 @@
+TITLE: Nontargeted metabolomics to characterize the effects of isotretinoin on skin metabolism in rabbit with acne.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.3389/fphar.2022.963472
+SOURCE: EuropePMC/MED/36120319
+
+Background: Acne vulgaris is a chronic inflammatory disease of the pilosebaceous unit. This study aimed to explore the pathogenesis of acne and the therapeutic mechanism of isotretinoin from the metabolic perspective in coal tar-induced acne in rabbits. Methods: Ultra-high performance liquid chromatography/quadrupole time-of-flight mass spectrometry (UHPLC-qTOF-MS) based metabolomics was used to identify skin metabolites in groups C (blank control), M (model group) and T (isotretinoin group). Multivariate statistical analysis was used to process the metabolomics data. Results: 98 differential metabolites in group C and group M were identified. The highest proportion of differential metabolites were organic acids and derivatives, lipid metabolites, organic heterocyclic compounds, and nucleoside metabolites. The most significant metabolic pathways included protein digestion and absorption, central carbon metabolism in cancer, ABC transporters, aminoacyl-tRNA biosynthesis, biosynthesis of amino acids, and sphingolipid signaling pathway. Isotretinoin treatment normalized eight of these metabolites. Conclusions: Our study will help to further elucidate the pathogenesis of acne, the mechanism of isotretinoin at the metabolite level, and identify new therapeutic targets for treating acne.

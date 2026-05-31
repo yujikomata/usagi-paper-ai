@@ -1,0 +1,7 @@
+TITLE: H3K9 post-translational modifications regulate epiblast/primitive endoderm specification in rabbit blastocysts.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1186/s13072-025-00568-8
+SOURCE: EuropePMC/MED/39800758
+
+Post-translational modifications of histone H3 on lysine 9, specifically acetylation (H3K9ac) and tri-methylation (H3K9me3), play a critical role in regulating chromatin accessibility. However, the role of these modifications in lineage segregation in the mammalian blastocyst remains poorly understood. We demonstrate that di- and tri-methylation marks, H3K9me2 and H3K9me3, decrease during cavitation and expansion of the rabbit blastocyst. Notably, H3K9me3 levels are particularly low in inner cell mass cells at the onset of blastocyst formation but increase again just before gastrulation. Conversely, H3K9ac is abundant in early blastocyst stages but decreases during the transition from the inner cell mass to the epiblast. These distinct distribution patterns correlate with high expression levels of methyltransferases (EHMT1, EHMT2, SETDB1) and deacetylases (HDAC1, HDAC2, HDAC5) in expanding blastocysts. Functionally, inhibiting H3K9me2/3 through an EHMT1/2 inhibitor disrupts primitive endoderm segregation, whereas enhancing histone acetylation (including H3K9ac) using a class I HDAC inhibitor promotes epiblast expansion at the expense of the primitive endoderm. These modifications impact the expression of genes associated with pluripotency and lineage determination, underscoring the importance of H3K9 modifications in embryonic cell fate decisions.

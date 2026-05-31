@@ -1,0 +1,7 @@
+TITLE: Predicting Live Weight for Female Rabbits of Meat Crosses From Body Measurements Using LightGBM, XGBoost and Support Vector Machine Algorithms.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1002/vms3.70149
+SOURCE: EuropePMC/MED/39792064
+
+Prediction of body weight (BW) using biometric measurements is an important tool especially for animal welfare and automatic phenotyping tools that needs mathematical models. In this study, it was aimed to predict the BW using body length (BL), chest girth (CG) and width of the waist (WW) for rabbits of the maternal form of Hyla NG. The standard rabbit-raising practices were applied for the animals. A highly efficient gradient-boosting decision tree (LightGBM), eXtreme gradient-boosting (XGBoost) and support vector machine (SVM) algorithms were evaluated and compared to the prediction of BW. The coefficient of determination, root mean square error and mean absolute error values were used as comparison criteria. The results showed that LightGBM, XGBoost and SVM algorithms were well fit for the BW using the biometric measures with over 95% accuracy for both train and test sets. The BL was determined as the most explanatory variable on body weight.

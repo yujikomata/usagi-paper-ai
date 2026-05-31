@@ -1,0 +1,7 @@
+TITLE: Antioxidant Activity of Different Tissues from Rabbits Fed Dietary Bovine Colostrum Supplementation.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ani13050850
+SOURCE: EuropePMC/MED/36899707
+
+Recent advances in animal nutrition have indicated that bovine colostrum (BC), due to its content of macronutrients, micronutrients and bioactive compounds, is an excellent health supplement. To the best of our knowledge, no studies on the effect of BC on antioxidant status have been performed in rabbits. This study aimed to investigate the effect of two BC concentrations on antioxidant status and gene expression of antioxidant enzymes in some tissues of rabbits. Thirty New Zealand White male rabbits were randomly divided into three experimental diets, containing 0% (CON), 2.5%, and 5% of BC (BC-2.5 and BC-5, respectively). The activity of antioxidant enzymes in plasma (catalase: CAT; glutathione peroxidase: GPx; superoxide dismutase: SOD), and the enzymes' gene expression in the liver and longissimus dorsi muscle, were determined. Results showed no significant differences, neither in plasma nor in tissues. A significant tissue-related effect has been observed regarding the mRNA levels of SOD and GPx, which were higher in the LD (p = 0.022) and liver (p = 0.001), respectively. Further studies, considering modifications of the length and dosage of dietary BC supplementation, are required to update the current state of knowledge in rabbits, as well as to fully understand the potential value of BC for possible application in farming use.

@@ -1,0 +1,7 @@
+TITLE: Genome-edited rabbits: Unleashing the potential of a promising experimental animal model across diverse diseases.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.24272/j.issn.2095-8137.2023.201
+SOURCE: EuropePMC/MED/38287906
+
+Animal models are extensively used in all aspects of biomedical research, with substantial contributions to our understanding of diseases, the development of pharmaceuticals, and the exploration of gene functions. The field of genome modification in rabbits has progressed slowly. However, recent advancements, particularly in CRISPR/Cas9-related technologies, have catalyzed the successful development of various genome-edited rabbit models to mimic diverse diseases, including cardiovascular disorders, immunodeficiencies, aging-related ailments, neurological diseases, and ophthalmic pathologies. These models hold great promise in advancing biomedical research due to their closer physiological and biochemical resemblance to humans compared to mice. This review aims to summarize the novel gene-editing approaches currently available for rabbits and present the applications and prospects of such models in biomedicine, underscoring their impact and future potential in translational medicine.

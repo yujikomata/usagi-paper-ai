@@ -1,0 +1,7 @@
+TITLE: Evidence of Leishmania infantum infection in rabbits (Oryctolagus cuniculus) in a natural area in Madrid, Spain.
+YEAR: 2014
+JOURNAL: 
+DOI: 10.1155/2014/318254
+SOURCE: EuropePMC/MED/24724079
+
+Leishmaniasis is one of the most important neglected zoonosis and remains endemic in at least 88 developing countries in the world. In addition, anthropogenic environmental changes in urban areas are leading to its emergency world wide. Zoonotic leishmaniasis control might only be achieved by an integrated approach targeting both the human host and the animal reservoirs, which in certain sylvatic cycles are yet to be identified. Recently, hares have been pointed out as competent reservoirs of Leishmania infantum in Spain, but the role of other lagomorphs has not been clarified. Here, 69 rabbits (Oryctolagus cuniculus) from a natural area in Madrid in which a high density was present were analyzed using indirect (immunofluorescence antibody test, IFAT) and direct (PCR, culture) techniques. Fifty-seven (82.6%) of the animals were positive to at least one technique, with IFAT yielding the highest proportion of positive samples. L. infantum was isolated in 13% animals demonstrating the occurrence of infection in this setting. Our results suggest that rabbits could play a role of competent reservoir of L. infantum and demonstrate that the prevalence of infection is high in the analyzed area.

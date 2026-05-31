@@ -1,0 +1,7 @@
+TITLE: Effect of Periplaneta americana Extract on Corneal Fibrosis and Epithelial Healing After Rabbit Lamellar Keratectomy.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1167/tvst.14.9.1
+SOURCE: EuropePMC/MED/40891779
+
+PurposeTo evaluate Periplaneta americana extract (PAE) effects on corneal epithelial healing and fibrosis after superficial lamellar keratectomy (SLK) in rabbits.MethodsSLK was performed on the right eyes of 48 New Zealand White rabbits, randomized into three treatment groups (n = 16/group): normal saline (NS), Tobradex eye drops (TE), and PAE group. Corneal opacity and epithelial defect area were quantified using slit-lamp imaging at postoperative days 3, 7, 14, and 28 (D3, D7, D14, and D28) and scored via the grading system. We performed histopathological analysis to visualize tissue structure and immunohistochemistry (IHC) localize and quantify TGF-β1 protein in corneal tissues.ResultsSignificant intergroup differences in corneal epithelial defect area and opacity were observed on D3 and D7 (all P  0.05).ConclusionsDuring the early phase after SLK, PAE accelerated corneal tissue regeneration, inhibited corneal scarring, and partially restored corneal clarity. This biphasic regulatory effect may be attributed to promoting TGF-β1 expression in the early stage, followed by its inhibition in the later stages.Translational relevancePAE modulates TGF-β1 to balance corneal healing and fibrosis as a novel topical corticosteroid alternative, warranting human trials for its dual-phase healing/scarring action.

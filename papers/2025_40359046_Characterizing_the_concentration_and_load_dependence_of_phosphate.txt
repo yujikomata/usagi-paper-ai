@@ -1,0 +1,7 @@
+TITLE: Characterizing the concentration and load dependence of phosphate binding to rabbit fast skeletal actomyosin.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1073/pnas.2504758122
+SOURCE: EuropePMC/MED/40359046
+
+Intensely contracting fast skeletal muscle rapidly loses the ability to generate force, due in part to the accumulation of phosphate (Pi) inhibiting myosin's force-generating capacity, in a process that is strain dependent. Crucial aspects of the mechanism underlying this inhibition remain unclear. Therefore, we directly determined the effects of increasing [Pi] on rabbit psoas muscle myosin's ability to generate force against progressively higher resistive loads in a laser trap assay, with the requisite spatial and temporal resolution to discern the mechanism of inhibition. Myosin's force-generating capacity decreased with increasing [Pi], an effect that became more pronounced at higher resistive loads. The decrease in force resulted from myosin's accelerated detachment from actin, which also increased at higher resistive forces. These data are well fit by a cross-bridge model in which Pi rebinds to actomyosin in a postpowerstroke, ADP-bound state before accelerating myosin's detachment from actin. Thus, these findings provide important molecular insight into the mechanism underlying the Pi-induced loss of force during muscle fatigue from intense contractile activity.

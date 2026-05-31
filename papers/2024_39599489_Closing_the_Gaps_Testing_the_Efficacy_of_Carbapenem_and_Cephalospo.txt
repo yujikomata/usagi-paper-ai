@@ -1,0 +1,7 @@
+TITLE: Closing the Gaps: Testing the Efficacy of Carbapenem and Cephalosporin Treatments of Late-Stage Anthrax in Rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/pathogens13110936
+SOURCE: EuropePMC/MED/39599489
+
+Anthrax is a fatal zoonotic disease caused by exposure to Bacillus anthracis spores. The CDC's guidelines divide anthrax treatment into three categories according to disease progression: post-exposure prophylaxis (PEP), systemic, and systemic with a suspicion of CNS infection. While the prognosis for PEP or the early treatment of systemic anthrax is very good, ingress of the bacteria into the CNS poses a substantial clinical challenge. Here, we use rabbits to test the efficacy of a combined treatment of meropenem and doxycycline, which is the first choice in the CDC recommendations for treating systemic patients with an indication of CNS infection. In addition, we test the efficacy of the first-generation cephalosporin, cefazolin, in treating different stages of the disease. We found that the combination of doxycycline and meropenem is highly effective in treating rabbits in our inhalation model. Cefazolin was efficient only for PEP or systemic-stage treatment and not for CNS-infected animals. Our findings support the CDC recommendation of using a combination of doxycycline and meropenem for systemic patients with or without indications of CNS infection. We found that cefazolin is a decent choice for PEP or early-stage systemic disease but recommend considering using this antibiotic only if all other options are not available.

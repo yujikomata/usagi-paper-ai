@@ -1,0 +1,7 @@
+TITLE: The effect of a brinzolamide/brimonidine fixed combination on optic nerve head blood flow in rabbits.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1371/journal.pone.0295122
+SOURCE: EuropePMC/MED/38051718
+
+PurposeThe purpose of this study was to investigate the effect of a 1% brinzolamide and 0.1% brimonidine fixed combination (BBFC) on ONH blood flow (BF) in rabbits.MethodsA crossover study was conducted on pigmented rabbits; a physiological saline solution, brinzolamide, or BBFC was administered for eight days. ONH BF, intraocular pressure (IOP) and systemic parameters were measured before the eighth day's first dose and at 6, 9, 12, and 14 hours after the dose. ONH BF was assessed using laser speckle flowgraphy, and mean blur rate (MBR) values were calculated. The percentage against baseline of each parameter was calculated, and intergroup comparisons were performed at each time point.ResultsThere were no significant differences in the percentage change in systemic parameters. At 6 hours after administration, the BBFC group showed a significantly higher percentage change in large vessel area-MBR (%MV) compared to the control group (98.6±16.8%MV vs. 81.3±7.9%MV, P = 0.03). On the other hand, the brinzolamide group did not show a significant difference. Both the brinzolamide and BBFC groups had significantly lower percentage change in IOP (%IOP) compared to the control group (90.6±5.0%IOP, 93.3±2.9%IOP, and 99.2±1.7%IOP, respectively, P ConclusionBBFC effectively reduces IOP and mitigates diurnal fluctuation-induced decreases in ONH BF.

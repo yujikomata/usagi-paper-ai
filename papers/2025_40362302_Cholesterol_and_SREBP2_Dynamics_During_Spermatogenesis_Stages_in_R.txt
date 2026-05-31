@@ -1,0 +1,7 @@
+TITLE: Cholesterol and SREBP2 Dynamics During Spermatogenesis Stages in Rabbits: Effects of High-Fat Diet and Protective Role of Extra Virgin Olive Oil.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ijms26094062
+SOURCE: EuropePMC/MED/40362302
+
+High-fat diets (HFDs) have been found to compromise male fertility, with cholesterol dysregulation being a key factor. Sterol regulatory element-binding protein 2 (SREBP2) is a crucial transcription factor that regulates cholesterol biosynthesis and uptake, playing an essential role in maintaining cholesterol homeostasis in the testes. This study investigated the dynamics of SREBP2 and cholesterol levels during rabbit spermatogenesis under HFD conditions. Our findings reveal that SREBP2 expression fluctuates throughout the seminiferous epithelium cycle. However, HFDs induce stage-specific disruptions in cholesterol balance, leading to sperm with increased membrane cholesterol, a reduced sperm count in semen analysis, impaired motility, abnormal morphology, and decreased functionality. In the control group, SREBP2 expression patterns underscored its critical role in normal spermatogenesis. Interestingly, supplementation with extra virgin olive oil (EVOO) reversed the negative effects of HFD, normalizing SREBP2 expression and cholesterol content, which improved sperm quality. These findings emphasize the importance of stage-specific analysis in understanding how dietary fat impacts male fertility and suggest that EVOO may serve as a potential nutritional intervention to protect reproductive health.

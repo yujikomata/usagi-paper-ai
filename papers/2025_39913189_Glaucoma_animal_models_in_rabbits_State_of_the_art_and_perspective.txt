@@ -1,0 +1,7 @@
+TITLE: Glaucoma animal models in rabbits: State of the art and perspectives-A review.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1002/ame2.12565
+SOURCE: EuropePMC/MED/39913189
+
+Glaucoma, a visual thief, is characterized by elevated intraocular pressure (IOP) and the loss of retinal ganglion cells (RGCs). Selecting suitable animals for preclinical models is of great significance in research on the prevention, early screening, and effective treatments of glaucoma. Rabbit eyeballs possess similar vascularity and aqueous humor outflow pathways to those of humans. Thus, they are among the earliest in vivo models used in glaucoma research. Over the years, rabbit models have made substantial contributions to understanding glaucomatous pathophysiology, surgical adaptations, biomedical device development, and drug development for reducing IOP, protecting RGCs, and inhibiting fibrosis. Compared to other animals, rabbits fit better with surgical operations and cost less. This review summarizes the merits and demerits of different ways to produce glaucomatous rabbit models, such as intracameral injection, vortex vein obstruction, Trendelenburg position, laser photo-coagulation, glucocorticoid induction, limbal buckling induction, retinal ischemia-reperfusion models, and spontaneous models. We analyzed their mechanisms in the hope of providing more references for experimental design and promoting the understanding of glaucoma treatment strategies.

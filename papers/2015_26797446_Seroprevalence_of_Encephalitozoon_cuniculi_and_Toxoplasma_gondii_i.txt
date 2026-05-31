@@ -1,0 +1,7 @@
+TITLE: Seroprevalence of Encephalitozoon cuniculi and Toxoplasma gondii in domestic rabbits (Oryctolagus cuniculus) in China.
+YEAR: 2015
+JOURNAL: 
+DOI: 10.3347/kjp.2015.53.6.759
+SOURCE: EuropePMC/MED/26797446
+
+The breeding of domestic rabbits (Oryctolagus cuniculus) for human consumption has a long tradition in China. Infections that can affect the production of meat or even be transmitted from animals to humans are important to monitor, especially for public health reasons as well as for their impact on animal health. Thus, a total of 1,132 domestic rabbit sera from 4 regions in China were collected for serological screening for Encephalitozoon cuniculi and for Toxoplasma gondii by ELISA and modified agglutination test (MAT), respectively. Antibodies to E. cuniculi were detected in 248/1,132 (21.9%) sera tested while antibodies against T. gondii revealed a seroprevalence of 51/1,132 (4.5%). We believe that the present results are of epidemiological implications and public health importance due to the acknowledged susceptibility of humans to E. cuniculi and T. gondii infections. Therefore, routine screening tests of domestic rabbits are proposed considering the zoonotic potential of these parasites.

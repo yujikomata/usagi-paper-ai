@@ -1,7 +1,0 @@
-TITLE: Three new species of Eimeria (Apicomplexa: Eimeriidae) from the Amami rabbit, Pentalagus furnessi (Mammalia: Leporidae).
-YEAR: 2022
-JOURNAL: 
-DOI: 10.1016/j.ijppaw.2022.05.006
-SOURCE: EuropePMC/MED/35721820
-
-The Amami rabbit, Pentalagus furnessi (Mammalia: Lagomorpha: Leporidae), is a relict and endangered species endemic to the Amami-Oshima and Tokunoshima Islands, located in southwestern Japan. Here, we described three new species of Eimeria (Apicomplexa: Eimeriidae) parasites detected from fecal samples of wild Amami rabbits. Eimeria furnessi n. sp., recorded in 21 (58.3%) samples, has ellipsoidal oocysts with two walls and micropyle, 26.0 × 16.6 μm, and elongate-ovoidal sporocysts, 13.1 × 6.3 μm, with Stieda body. Eimeria hilleri n. sp., recorded in 9 (25.0%) samples, has ellipsoidal oocysts with two walls and micropyle, 34.7 × 21.4 μm, and elongate-fusiform to elongate-ovoidal sporocysts, 15.7 × 8.3 μm, with Stieda and substieda bodies. Eimeria sagentae n. sp., recorded in 13 (36.1%) samples, has ellipsoidal oocysts with two walls and micropyle, 20.9 × 14.5 μm, and elongate-ovoidal sporocysts, 10.4 × 5.0 μm, with Stieda body. The three new species can be distinguished by the size and color of their oocysts. Further studies related to the pathogenicity of these parasites can improve the breeding and propagation procedures of the Amami rabbit.

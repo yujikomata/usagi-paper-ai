@@ -1,0 +1,7 @@
+TITLE: New Model for Stacking Monomers in Filamentous Actin from Skeletal Muscles of Oryctolagus cuniculus.
+YEAR: 2020
+JOURNAL: 
+DOI: 10.3390/ijms21218319
+SOURCE: EuropePMC/MED/33171915
+
+To date, some scientific evidence (limited proteolysis, mass spectrometry analysis, electron microscopy (EM)) has accumulated, which indicates that the generally accepted model of double-stranded of filamentous actin (F-actin) organization in eukaryotic cells is not the only one. This entails an ambiguous understanding of many of the key cellular processes in which F-actin is involved. For a detailed understanding of the mechanism of F-actin assembly and actin interaction with its partners, it is necessary to take into account the polymorphism of the structural organization of F-actin at the molecular level. Using electron microscopy, limited proteolysis, mass spectrometry, X-ray diffraction, and structural modeling we demonstrated that F-actin presented in the EM images has no double-stranded organization, the regions of protease resistance are accessible for action of proteases in F-actin models. Based on all data, a new spatial model of filamentous actin is proposed, and the F-actin polymorphism is discussed.

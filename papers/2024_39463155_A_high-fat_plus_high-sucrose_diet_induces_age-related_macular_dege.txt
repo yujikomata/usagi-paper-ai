@@ -1,0 +1,7 @@
+TITLE: A high-fat plus high-sucrose diet induces age-related macular degeneration in an experimental rabbit model.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1242/dmm.052015
+SOURCE: EuropePMC/MED/39463155
+
+Age-related macular degeneration (AMD) is a leading cause of blindness. Metabolic disorders and diets are risk factors. We compared lipid profiles and retinal phenotypes with long-term feeding of four diets in male Chinchilla rabbits. Animals were fed a normal diet (ND), high-fat diet (HFD), high-sucrose diet (HSD) or a high-fat plus high-sucrose diet (HFSD) for 6 months. Eyes were examined using multimodal imaging modalities and electroretinograms. Retinal sections were analyzed using H&E staining, Toluidine Blue staining, immunostaining and transmission electron microscopy. Lipids and complement C3 protein (C3) in serum or aqueous humor were measured. RNA sequencing was performed to evaluate the retinal transcriptomes. HFD and HSD had minor effects on lipid profiles but, when fed concomitantly, synergistically induced severe dyslipidemia. None of the four diets caused obesity. HFSD induced retinal lesions, such as reticular pseudodrusen (RPDs) and other pigmentary abnormalities. RPD-like lesions were mainly lipid droplets around cells of the retinal pigment epithelium. HFSD also induced elevated levels of ocular C3 and reduced the density of retinal vessels. In conclusion, HFD and HSD can - when combined - induce normal-weight dyslipidemia and RPD-like retinal lesions. HFSD-fed male Chinchilla rabbits are a good model of early AMD.

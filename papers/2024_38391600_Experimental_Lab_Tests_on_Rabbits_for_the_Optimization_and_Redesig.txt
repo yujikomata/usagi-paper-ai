@@ -1,0 +1,7 @@
+TITLE: Experimental Lab Tests on Rabbits for the Optimization and Redesign of Low-Cost Equipment for Automated Peritoneal Dialysis.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/bioengineering11020114
+SOURCE: EuropePMC/MED/38391600
+
+This work shows the experiences acquired by the experimental test performed to validate an automated peritoneal dialysis machine using rabbits with kidney damage to find improvements that can be made for future advances. These are listed to understand the direction of the development of the machine. The article shows the device's background and previous tests using a testbed. The rabbit anatomy was prepared for nephrectomy surgery. The tests were practiced by checking all of the APD machine's subsystems. The data were analyzed to develop improvements in the process. The results indicate the importance of the DPA machine as an alternative by implementing peristaltic pumps to substitute disposable cassettes. The identified improvements are the main objectives for research to continue improving the technology.

@@ -1,0 +1,7 @@
+TITLE: Microbiological Quality and Safety of Fresh Rabbit Meat with Special Reference to Methicillin-Resistant S. aureus (MRSA) and ESBL-Producing E. coli.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/antibiotics13030256
+SOURCE: EuropePMC/MED/38534691
+
+The purpose of this investigation was to evaluate the microbial quality and safety of rabbit meat. A total of 49 rabbit meat samples were taken at the retail level. The mesophiles, staphylococci, Enterobacterales, and Pseudomonas spp. counts were 4.94 ± 1.08, 2.59 ± 0.70, 2.82 ± 0.67, and 3.23 ± 0.76 log CFU/g, respectively. Campylobacter spp. were not detected in any sample. Listeria monocytogenes was isolated from one sample (2.04%) at levels below 1.00 log CFU/g. Multi-resistant S aureus was found in seven samples (14.9%). Methicillin-resistant S. aureus, S. epidermidis, S. haemolyticus, M. caseolyticus, and M. sciuri were found in a sample each (10.20%), and all of them were multi-resistant. Multi-resistant ESBL-producing E. coli were detected in two samples from the same retailer (4.08%). The high resistance found in methicillin-resistant staphylococci and ESBL-producing E. coli is of particular concern, and suggests that special measures should be taken in rabbit meat.

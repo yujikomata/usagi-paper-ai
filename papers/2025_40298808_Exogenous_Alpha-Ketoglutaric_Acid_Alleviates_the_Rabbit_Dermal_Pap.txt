@@ -1,0 +1,7 @@
+TITLE: Exogenous Alpha-Ketoglutaric Acid Alleviates the Rabbit Dermal Papilla Cell Oxidative Damage Caused by Hydrogen Peroxide Through the ERK/Nrf2 Signaling Pathway.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/antiox14040455
+SOURCE: EuropePMC/MED/40298808
+
+As an endogenous metabolite, α-ketoglutarate (AKG) exhibits potent antioxidant properties, yet its molecular mechanisms remain unclear. Dermal Papilla Cells (DPCs), functioning as the regulatory hub of hair follicle morphogenesis, serve as a pivotal model system for deciphering follicular functionality and regeneration mechanisms through their orchestration of signaling networks. Using a hydrogen peroxide (H2O2)-induced oxidative stress model in DPCs, we investigated AKG's protective effects. AKG attenuated H2O2-triggered reactive oxygen species (ROS) overproduction, restored mitochondrial membrane potential, and suppressed apoptosis-related protein dysregulation. It enhanced cellular stress resistance by increasing the Bcl-2/Bax ratio, boosting antioxidant levels, and inhibiting inflammation. Mechanistically, H2O2 activated the Nrf2 pathway, while AKG amplified Nrf2 nuclear translocation and expression. Crucially, ERK inhibition abrogated AKG-mediated Nrf2 regulation, intensifying ROS accumulation and cell death. These results identify the ERK/Nrf2 axis as central to AKG's antioxidative cytoprotection. This study advances AKG's therapeutic potential and deepens insights into its multifunctional roles.

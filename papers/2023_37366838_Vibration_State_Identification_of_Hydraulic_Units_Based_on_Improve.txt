@@ -1,0 +1,7 @@
+TITLE: Vibration State Identification of Hydraulic Units Based on Improved Artificial Rabbits Optimization Algorithm.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/biomimetics8020243
+SOURCE: EuropePMC/MED/37366838
+
+To improve the identification accuracy of the vibration states of hydraulic units, an improved artificial rabbits optimization algorithm (IARO) adopting an adaptive weight adjustment strategy is developed for optimizing the support vector machine (SVM) to obtain an identification model, and the vibration signals with different states are classified and identified. The variational mode decomposition (VMD) method is used to decompose the vibration signals, and the multi-dimensional time-domain feature vectors of the signals are extracted. The IARO algorithm is used to optimize the parameters of the SVM multi-classifier. The multi-dimensional time-domain feature vectors are input into the IARO-SVM model to realize the classification and identification of vibration signal states, and the results are compared with those of the ARO-SVM model, ASO-SVM model, PSO-SVM model and WOA-SVM model. The comparative results show that the average identification accuracy of the IARO-SVM model is higher at 97.78% than its competitors, which is 3.34% higher than the closest ARO-SVM model. Therefore, the IARO-SVM model has higher identification accuracy and better stability, and can accurately identify the vibration states of hydraulic units. The research can provide a theoretical basis for the vibration identification of hydraulic units.

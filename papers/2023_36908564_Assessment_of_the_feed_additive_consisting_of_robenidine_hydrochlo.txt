@@ -1,0 +1,7 @@
+TITLE: Assessment of the feed additive consisting of robenidine hydrochloride (Cycostat® 66G) for rabbits for breeding and rabbits for fattening for the renewal of its authorisation (Zoetis).
+YEAR: 2023
+JOURNAL: 
+DOI: 10.2903/j.efsa.2023.7863
+SOURCE: EuropePMC/MED/36908564
+
+Following a request from the European Commission, the Panel on Additives and Products or Substances used in Animal Feed (FEEDAP) was asked to deliver a scientific opinion on the feed additive consisting of robenidine hydrochloride (Cycostat® 66G) for rabbits for breeding and rabbits for fattening for the renewal of its authorisation. Since the potential aneugenic activity of robenidine hydrochloride cannot be excluded, the FEEDAP Panel is not in the position to conclude on the safety of the additive for the target species and the consumer. In the absence of data, the FEEDAP Panel cannot conclude on the safety of robenidine hydrochloride for the environment. Robenidine hydrochloride has potential for bioaccumulation; however, a risk for secondary poisoning for worm/fish-eating birds and mammals is not likely to occur. No concern for groundwater is expected. Robenidine hydrochloride is not a skin or eye irritant and not a skin sensitiser. Due to the lack of data on the genotoxicity (aneugenicity) of the substance, the exposure to the additive of the unprotected users should be minimised. Owing to the lack of sufficient data, the FEEDAP Panel cannot conclude that robenidine hydrochloride from Cycostat® 66G is still efficacious against recent Eimeria spp. strains in rabbits.

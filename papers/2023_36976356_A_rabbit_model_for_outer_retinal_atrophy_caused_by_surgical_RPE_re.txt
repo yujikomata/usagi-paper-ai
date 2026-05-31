@@ -1,0 +1,7 @@
+TITLE: A rabbit model for outer retinal atrophy caused by surgical RPE removal.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1007/s00417-023-06014-3
+SOURCE: EuropePMC/MED/36976356
+
+PurposeWe aimed to establish a rabbit model with retinal atrophy induced by an iatrogenic retinal pigment epithelium (RPE) removal, for future testing of the efficacy and safety of cell therapy strategies.MethodsA localized detachment of the retina from the RPE/choroid layer was created in 18 pigmented rabbits. The RPE was removed by scraping with a custom-made extendable loop instrument. The resulting RPE wound was observed over a time course of 12 weeks with optical coherence tomography and angiography. After 4 days (group 1) and 12 weeks (group 2), histology was done and staining with hematoxylin and eosin, as well as immunofluorescence performed to further investigate the effects of debridement on the RPE and the overlying retina.ResultsAlready after 4 days, we observed a closure of the RPE wound by proliferating RPE and microglia/macrophage cells forming a multilayered clump. This pattern continued over the observation time course of 12 weeks, whereby the inner and outer nuclear layer of the retina became atrophic. No neovascularization was observed in the angiograms or histology. The observed changes were limited to the site of the former RPE wound.ConclusionsLocalized surgical RPE removal induced an adjacent progressive retinal atrophy. Altering the natural course of this model may serve as a basis to test RPE cell therapeutics.

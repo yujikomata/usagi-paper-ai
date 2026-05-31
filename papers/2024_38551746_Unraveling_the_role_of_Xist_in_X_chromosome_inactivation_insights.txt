@@ -1,0 +1,7 @@
+TITLE: Unraveling the role of Xist in X chromosome inactivation: insights from rabbit model and deletion analysis of exons and repeat A.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1007/s00018-024-05151-0
+SOURCE: EuropePMC/MED/38551746
+
+X chromosome inactivation (XCI) is a process that equalizes the expression of X-linked genes between males and females. It relies on Xist, continuously expressed in somatic cells during XCI maintenance. However, how Xist impacts XCI maintenance and its functional motifs remain unclear. In this study, we conducted a comprehensive analysis of Xist, using rabbits as an ideal non-primate model. Homozygous knockout of exon 1, exon 6, and repeat A in female rabbits resulted in embryonic lethality. However, X∆ReAX females, with intact X chromosome expressing Xist, showed no abnormalities. Interestingly, there were no significant differences between females with homozygous knockout of exons 2-5 and wild-type rabbits, suggesting that exons 2, 3, 4, and 5 are less important for XCI. These findings provide evolutionary insights into Xist function.

@@ -1,0 +1,7 @@
+TITLE: Microsporidia (Encephalitozoon cuniculi) in Patients with Degenerative Hip and Knee Disease, Czech Republic.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3201/eid3003.231263
+SOURCE: EuropePMC/MED/38289719
+
+Total joint arthroplasty is a commonly used surgical procedure in orthopedics. Revision surgeries are required in >10% of patients mainly because of prosthetic joint infection caused by bacteria or aseptic implant loosening caused by chronic inflammation. Encephalitozoon cuniculi is a microsporidium, an obligate intracellular parasite, capable of exploiting migrating proinflammatory immune cells for dissemination within the host. We used molecular detection methods to evaluate the incidence of E. cuniculi among patients who had total hip or knee arthroplasty revision. Out of 49 patients, E. cuniculi genotypes I, II, or III were confirmed in joint samples from 3 men and 2 women who had implant loosening. Understanding the risks associated with the presence of microsporidia in periprosthetic joint infections is essential for proper management of arthroplasty. Furthermore, E. cuniculi should be considered a potential contributing cause of joint inflammation and arthrosis.

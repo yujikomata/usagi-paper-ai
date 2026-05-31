@@ -1,0 +1,7 @@
+TITLE: Rabbits as Animal Models for Anti-Tick Vaccine Development: A Global Scenario.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/pathogens12091117
+SOURCE: EuropePMC/MED/37764925
+
+Studies evaluating candidate tick-derived proteins as anti-tick vaccines in natural hosts have been limited due to high costs. To overcome this problem, animal models are used in immunization tests. The aim of this article was to review the use of rabbits as an experimental model for the evaluation of tick-derived proteins as vaccines. A total of 57 tick proteins were tested for their immunogenic potential using rabbits as models for vaccination. The most commonly used rabbit breeds were New Zealand (73.8%), Japanese white (19%), Californians (4.8%) and Flemish lop-eared (2.4%) rabbits. Anti-tick vaccines efficacy resulted in up to 99.9%. Haemaphysalis longicornis (17.9%) and Ornithodoros moubata (12.8%) were the most common tick models in vaccination trials. Experiments with rabbits have revealed that some proteins (CoAQP, OeAQP, OeAQP1, Bm86, GST-Hl, 64TRP, serpins and voraxin) can induce immune responses against various tick species. In addition, in some cases it was possible to determine that the vaccine efficacy in rabbits was similar to that of experiments performed on natural hosts (e.g., Bm86, IrFER2, RmFER2, serpins and serine protease inhibitor). In conclusion, results showed that prior to performing anti-tick vaccination trials using natural hosts, rabbits can be used as suitable experimental models for these studies.

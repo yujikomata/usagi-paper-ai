@@ -1,0 +1,7 @@
+TITLE: Cutaneous malignant melanoma in two rabbits (Oryctolagus cuniculus).
+YEAR: 2018
+JOURNAL: 
+DOI: 10.1292/jvms.18-0081
+SOURCE: EuropePMC/MED/29681558
+
+Despite being rarely reported, improved diagnostic and prognostic indicators are necessary for treating malignant melanoma in rabbits. In this study, two cases of primary skin lesions, on the scrotum and on eyelid, with systemic metastases, were examined. The tumors formed intra-dermally by sheet-like proliferation of polymorphic cells, with anisocytosis and varying amount of melanin granules. Tumors had displaced almost 50% of the lung and liver tissue, and tumor metastasis was the cause of early death in both rabbits. Ki-67-positive population was high in both, and it was found to be useful in assessing the outcome and malignancy. In addition, Melan-A, HMB-45, PNL2 and S100 established a useful immunohistochemical panel for the diagnosis of melanocytic tumor in rabbits.

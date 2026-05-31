@@ -1,0 +1,7 @@
+TITLE: A novel magnetic compression technique for cystostomy in rabbits.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.1038/s41598-022-16595-4
+SOURCE: EuropePMC/MED/35842556
+
+Magnetic compression technique (MCT) is a popular new anastomosis method. In this paper, we aimed to explore the feasibility of use of MCT for performing cystotomy in rabbits. The parent magnets and daughter magnets for rabbit cystostomy were designed and manufactured according to the anatomical characteristics of rabbit lower urinary tract. Twelve female New Zealand rabbits were used as animal models. After anesthesia, a daughter magnet was inserted into the bladder through the urethra, and the parent magnet was placed on the body surface projection of the bladder over the abdominal wall. The two magnets automatically attract each other. Postoperatively, the state of magnets was monitored daily, and the time when the magnets fell off was recorded. Cystostomy with MCT was successfully performed in all twelve rabbits. The mean operation time was 4.46 ± 0.75 min. The magnets fell off from the abdominal wall after a mean duration of 10.08 ± 1.62 days, resulting in the formation of bladder fistula. Macroscopic and microscopic examination showed that the fistula was well formed and unobstructed. The junction between bladder and abdominal wall was tight and smooth. We provide preliminary experimental evidence of the safety and feasibility of cystostomy based on MCT.

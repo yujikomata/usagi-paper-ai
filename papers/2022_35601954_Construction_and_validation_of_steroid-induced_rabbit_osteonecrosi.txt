@@ -1,0 +1,7 @@
+TITLE: Construction and validation of steroid-induced rabbit osteonecrosis model.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.1016/j.mex.2022.101713
+SOURCE: EuropePMC/MED/35601954
+
+Osteonecrosis is a common orthopedic disease in clinic, resulting in joint collapse if appropriate treatment is not given in time. The clinical usage of high-dose steroid is one of the common causes of osteonecrosis. In several studies, the intravenous injection of steroid with or without lipopolysaccharide is the most commonly used strategy to construct osteonecrosis animal model. However, the injection dose, frequency, and interval of steroid and validation of successful model construction lack generally accepted protocol, and the survival and model formation rates are unsatisfactory. We have optimized the construction protocol of osteonecrosis animal model based on the previously reported ones and established a mature animal model of osteonecrosis for future studies.•A rabbit model of osteonecrosis was constructed by multiple injections of high-dose methylprednisolone.•The multidisciplinary biomedical examinations demonstrated the successful construction of osteonecrosis model in the rabbit.

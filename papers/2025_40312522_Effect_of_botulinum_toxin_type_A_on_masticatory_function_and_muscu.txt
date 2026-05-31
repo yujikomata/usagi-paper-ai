@@ -1,0 +1,7 @@
+TITLE: Effect of botulinum toxin type A on masticatory function and musculoskeletal structure in rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s41598-025-97919-y
+SOURCE: EuropePMC/MED/40312522
+
+Botulinum toxin (BTX) injection could relieve many disorders in the maxillofacial regions. Although it could have some side effects on bones and muscles. This study investigated the effects of a single Botulinum Toxin Type A (BoNT-A) injection on masticatory function and musculoskeletal structure in rabbits. Twenty rabbits were divided into two groups: one received BoNT-A (10 units), and the other received saline. The study periodically monitored electromyography (EMG), compound action potential (CAP), food intake, and body weight, along with histological and immunohistochemical analyses after four weeks. Revealed significant reductions in body weight, EMG, and CAP in the BoNT-A group during the first two weeks, but no notable differences in the following two weeks. Histological examination showed thinning of the alveolar bone trabecula, while ultrastructural changes in the masseter muscle included swollen mitochondria, disorganized Z bands, and heterochromatic nuclei. Light microscopy revealed increased fibrous tissue, muscle fiber breakdown, and vacuolations. Desmin expression was significantly reduced in the BoNT-A group. The findings indicate that a single BoNT-A injection temporarily reduces masticatory function and causes degenerative changes in muscle tissue and bone structure, including alveolar bone resorption, lasting at least four weeks.

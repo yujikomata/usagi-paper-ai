@@ -1,0 +1,7 @@
+TITLE: Establishment of anti-asialo-GM1 rabbit monoclonal antibodies capable of reducing natural killer cell activity in mice.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1371/journal.pone.0292514
+SOURCE: EuropePMC/MED/37812617
+
+Rabbit anti-asialo-GM1 (ASGM1) serum or polyclonal antibodies can eliminate mouse splenic natural killer (NK) cell activity in vitro and in vivo. We developed rabbit monoclonal antibodies (mAbs) against ASGM1 using a single-cell analysis and isolation system. Five mAbs (GA109, GA115, GA116, GA131, and GA134) that were reactive to ASGM1 were isolated from the spleen lymphocytes of rabbits immunized with ASGM1. Enzyme-linked immunosorbent assay and thin-layer chromatography immunostaining results showed that the mAbs strongly reacted with ASGM1. Two mAbs (GA116 and GA134) reacted exclusively with ASGM1, whereas three mAbs (GA109, GA115, and GA131) showed slight or considerable cross-reactivity with GM1. The administration of the mAbs (4-20 μg) to BALB/c mice completely abolished NK cell activity in vivo. The anti-ASGM1 rabbit mAbs obtained in this study may provide a useful and reproducible tool for various future studies, such as depleting NK cell activity to enhance xenograft engraftment in mouse models.

@@ -1,0 +1,7 @@
+TITLE: Hemodynamic and Morpho-Biochemical Parameters of Rabbit Blood After Injection of Enzyme Preparations.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/biom15071049
+SOURCE: EuropePMC/MED/40723920
+
+The anti-inflammatory effect of trypsin in animals and humans is the basis for the development of new veterinary and medical drugs and alternatives to antibiotics. The current experiment analyzed the effect of pig pancreatic tissue lyophilizate and crystalline trypsin on the hemodynamic and morpho-biochemical parameters of rabbit blood. The experiments were carried out on 20 rabbits of the Soviet chinchilla breed of 6-8 months of age. Animals were intramuscularly injected with sterile solution of 0.9% NaCl in 0.5 mL (group 1, n = 5), sterile solution of crystalline trypsin in 0.9% NaCl at a concentration of 0.25 mg/kg body weight (group 2, n = 5), sterile solution of crystalline trypsin in 0, 9% NaCl at a concentration of 0.5 mg/kg body weight (group 3, n = 5), or sterile suspension of pig pancreas lyophilizate at a concentration of 1 mg/kg body weight (group 4, n = 5). Animals were injected once daily for five consecutive days. Significant changes in arterial blood pressure, serum enzymes activity, and the count of various blood cellular components were induced by the administration of different trypsin preparations. All data obtained indicate the presence of a biologically active substance in the lyophilizate, the effect of which requires further animal studies to create a prototype for the development of new drugs for human and animal use.

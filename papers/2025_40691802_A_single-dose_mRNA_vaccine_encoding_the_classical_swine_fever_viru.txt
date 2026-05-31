@@ -1,0 +1,7 @@
+TITLE: A single-dose mRNA vaccine encoding the classical swine fever virus E2-ECD induces durable protective immunity in rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1186/s13567-025-01581-1
+SOURCE: EuropePMC/MED/40691802
+
+Classical swine fever virus (CSFV) spreads in domestic and wild pig populations, causing significant economic losses in the swine industry. Despite the global implementation of live attenuated vaccines, CSFV remains a persistent threat, with sporadic outbreaks reported annually. A major limitation of the current vaccines is safety concerns and the inability to differentiate infected from vaccinated animals (DIVA). The development of DIVA-compliant vaccines is desirable for effectively controlling or eradicating classical swine fever (CSF). Here, we developed two lipid nanoparticle (LNP)-encapsulated mRNA vaccines encoding either the extracellular domain of the CSFV envelope protein E2 (E2-ECD) or its N-terminal 172-amino acid fragment (E2-ECD-N). Immunological assays in mice revealed high antigenicity and long-lasting protective antibody responses from a single dose of either the E2-ECD or E2-ECD-N mRNA vaccine. Notably, both the E2-ECD and E2-ECD-N mRNA vaccines induced robust T cell responses in mice. Furthermore, a single dose (100 μg) of the E2-ECD mRNA vaccine was sufficient to induce long-term (up to 4 months) protective immunity against CSFV infection in rabbits. Our findings highlight the potential of CSFV-E2-based mRNA vaccines as promising strategies for effective CSF prevention and control while enabling DIVA.

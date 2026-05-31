@@ -1,0 +1,7 @@
+TITLE: Evaluation of Biointegration and Inflammatory Response to Blood Vessels Produced by Tissue Engineering-Experimental Model in Rabbits.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.3390/biom12121776
+SOURCE: EuropePMC/MED/36551204
+
+Peripheral arterial disease (PAD) is the main cause of mortality in the western population and requires surgical intervention with the use of vascular substitutes, such as autologous veins or Dacron or PTFE prostheses. When this is not possible, it progresses to limb amputation. For cases where there is no autologous vascular substitute, tissue engineering with the production of neovessels may be a promising option. Previous experimental studies have shown in vitro that rabbit vena cava can be decellularized and serve as a scaffold for receiving mesenchymal stem cells (MSC), with subsequent differentiation into endothelial cells. The current study aimed to evaluate the behavior of a 3D product structure based on decellularized rabbit inferior vena cava (IVC) scaffolds seeded with adipose-tissue-derived stem cells (ASCs) and implanted in rabbits dorsally subcutaneously. We evaluated the induction of the inflammatory response in the animal. We found that stem cells were positive in reducing the inflammatory response induced by the decellularized scaffolds.

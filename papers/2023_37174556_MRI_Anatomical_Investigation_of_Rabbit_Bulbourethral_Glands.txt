@@ -1,0 +1,7 @@
+TITLE: MRI Anatomical Investigation of Rabbit Bulbourethral Glands.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ani13091519
+SOURCE: EuropePMC/MED/37174556
+
+Anatomical MRI is appropriate for the interpretation of soft tissue findings in the retroperitoneal part of the pelvic cavity. The aim of the current study was to use rabbits as an imaging model to optimize MRI protocols for the investigation of bulbourethral glands. The research was conducted on twelve clinically healthy, sexually mature male rabbits, eight months of age (New Zealand White), weighing 2.8 kg to 3.2 kg. Tunnel MRI equipment was used. The transverse MRI in the T2-weighted sequence obtained detailed images that were of higher anatomical contrast than those in T1-weighted sequences. The hyperintensity of the glandular findings at T2, compared to the adjacent soft tissues, was due to the content of secretory fluids. The quality of the anatomical tissue contrast has not shown much dependence on the choice of the sequence in dorsal MRI. The sagittal visualization of the rabbit bulbourethral glands corresponded to the localization of the research plane toward a median plane. The imaging results could be used as a morphological base for clinical practice and reproduction.

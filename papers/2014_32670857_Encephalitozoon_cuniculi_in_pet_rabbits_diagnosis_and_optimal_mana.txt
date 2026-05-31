@@ -1,0 +1,7 @@
+TITLE: Encephalitozoon cuniculi in pet rabbits: diagnosis and optimal management.
+YEAR: 2014
+JOURNAL: 
+DOI: 10.2147/vmrr.s49842
+SOURCE: EuropePMC/MED/32670857
+
+Encephalitozoonosis is a significant microsporidial disease of captive pet rabbits (Oryctolagus cuniculus). This article overviews the life cycle, pathogenesis, and host immune response to the parasite. Clinical presentation, differential diagnoses, antemortem diagnostics, and postmortem diagnosis will be discussed. International seroprevalence data and histologic prevalence estimates in the US are presented. A review of current treatment and control recommendations are discussed based on extensive review of controlled studies, which have found fenbendazole to be effective for limiting spread of the disease.

@@ -1,0 +1,7 @@
+TITLE: Sulfated Lactosyl Archaeol Archaeosome-Adjuvanted Vaccine Formulations Targeting Rabbit Hemorrhagic Disease Virus Are Immunogenic and Efficacious.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/vaccines11061043
+SOURCE: EuropePMC/MED/37376432
+
+Vaccines play an important role in maintaining human and animal health worldwide. There is continued demand for effective and safe adjuvants capable of enhancing antigen-specific responses to a target pathogen. Rabbit hemorrhagic disease virus (RHDV) is a highly contagious calicivirus that often induces high mortality rates in rabbits. Herein, we evaluated the activity of an experimental sulfated lactosyl archaeol (SLA) archaeosome adjuvant when incorporated in subunit vaccine formulations targeting RHDV. The subunit antigens consisted of RHDV-CRM197 peptide conjugates or recombinant RHDV2 VP60. SLA was able to enhance antigen-specific antibody titers and cellular responses in mice and rabbits. Three weeks following immunization, antigen-specific antibody levels in rabbits vaccinated with RHDV2 VP60 + SLA were significantly higher than those immunized with antigen alone, with geomean titers of 7393 vs. 117. In addition, the SLA-adjuvanted VP60-based formulations were highly efficacious in a rabbit RHDV2 challenge model with up to 87.5% animals surviving the viral challenge. These findings demonstrate the potential utility of SLA adjuvants in veterinary applications and highlight its activity in different types of mammalian species.

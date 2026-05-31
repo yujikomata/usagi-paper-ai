@@ -1,0 +1,7 @@
+TITLE: Two case reports of fulminant giant cell myocarditis treated with rabbit anti-thymocyte globulin.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1093/ehjcr/ytae128
+SOURCE: EuropePMC/MED/38567279
+
+BackgroundGiant cell myocarditis (GCM) is an inflammatory form of acute heart failure with high rates of cardiac transplantation or death. Standard acute treatment includes multi-drug immunosuppressive regimens. There is a small but growing number of case reports utilizing rabbit anti-thymocyte globulin in severe cases.Case summaryTwo cases are presented with similar presentations and clinical courses. Both are middle-aged patients with no significant past medical history, who presented with new acute decompensated heart failure that quickly progressed to cardiogenic shock requiring inotropic and mechanical circulatory support. Both underwent endomyocardial biopsies that diagnosed GCM. Both were treated with a multi-agent immunosuppressive regimen, notably including rabbit anti-thymocyte globulin, with subsequent resolution of shock and recovery of left ventricular ejection fraction. Both remain transplant-free and without ventricular arrhythmias at 7 months and 26 months, respectively.DiscussionIn aggregate, these cases are typical of GCM. They add to growing observational data that upfront rabbit anti-thymocyte globulin may reduce morbidity and mortality in GCM, including potentially preventing the need for complex interventions like orthotopic heart transplantation.

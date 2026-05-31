@@ -1,0 +1,7 @@
+TITLE: NAFLD accelerates arterial perfusion in rabbit VX2 liver tumors: a sonoVue-based contrast-enhanced ultrasound study.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3389/fonc.2025.1638869
+SOURCE: EuropePMC/MED/40994954
+
+ObjectiveTo investigate whether the background of non-alcoholic fatty liver disease(NAFLD) affects the microcirculation characteristics of VX2 hepatomas, analyze the influence of the fatty liver background on tumor angiogenesis and proliferative activity.Methods24 rabbits were used to establish VX2 tumor models in the background of normal liver and NAFLD. Contrast-enhanced ultrasound was performed using SonoVue. The time-intensity curve(TIC) parameters were extracted and the expression levels of microvessel density(MVD), vascular endothelial growth factor(VEGF), Ki-67 and PCNA in tumor tissues were detected and analyzed.ResultThe TIC parameter arrival time(AT) and rise time(RT) of VX2 liver tumors decreased under the background of NAFLD(PP>0.05). PI was positively correlated with MVD in both normal liver(r=0.51, PPConclusionThe background of NAFLD leads to an increase in the arterial flow velocity of VX2 tumors in the liver, but it has not significantly affected the level of angiogenesis and proliferation. The CEUS parameters can effectively reflect the level of tumor microangiogenesis and are effective tools for evaluating microvessels.

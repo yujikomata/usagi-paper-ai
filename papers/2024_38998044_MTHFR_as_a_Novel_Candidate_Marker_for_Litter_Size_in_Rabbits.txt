@@ -1,0 +1,7 @@
+TITLE: MTHFR as a Novel Candidate Marker for Litter Size in Rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/ani14131930
+SOURCE: EuropePMC/MED/38998044
+
+Litter size is a significant economic trait during animal reproduction. This current study attempted to decipher whether MTHFR promotes the apoptosis of granulosa cells (GCs) and inhibits their proliferation by investigating the effects of the MTHFR gene using flow cytometry and a Cell Counting Kit-8 (CCK-8) assay. MTHFR is linked with ovarian follicle development in the reproductive performance of 104 female New Zealand rabbits. We observed that MTHFR could regulate the mRNA of follicular development-related genes (TIMP1, CITED1, FSHR, GHR, HSD17B1, and STAR) with a qRT-PCR, and we observed the protein expression of CITED1 and GHR using a western blot (WB) analysis. The dual luciferase activity assays helped identify the core promoter region of the MTHFR gene, and the polymorphism of the MTHFR promoter region was studied using Sanger sequencing. The results indicated four single nucleotide polymorphisms (SNPs) within the core promoter region, among which the g.-680C>A locus was significantly associated with both the total and alive litter sizes. Additionally, the CC genotype was associated with the largest total and alive litter sizes, compared to the CA and AA genotypes (p MTHFR on ovarian granulosa cells and its association with selected reproductive parameters in rabbits. The results provide a theoretical foundation for the use of MTHFR as a molecular marker in rabbits.

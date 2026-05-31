@@ -1,0 +1,7 @@
+TITLE: Clinical Presentation of Early Syphilis and Genomic Sequences of Treponema pallidum Strains in Patient Specimens and Isolates Obtained by Rabbit Inoculation.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1093/infdis/jiae322
+SOURCE: EuropePMC/MED/38884588
+
+BackgroundThe global resurgence of syphilis necessitates vaccine development.MethodsWe collected ulcer exudates and blood from 17 participants with primary syphilis (PS) and skin biopsies and blood from 51 patients with secondary syphilis (SS) in Guangzhou, China, for Treponema pallidum subsp pallidum (TPA) quantitative polymerase chain reaction, whole genome sequencing (WGS), and isolation of TPA in rabbits.ResultsTPA DNA was detected in 15 of 17 ulcer exudates and 3 of 17 blood PS specimens. TPA DNA was detected in 50 of 51 SS skin biopsies and 27 of 51 blood specimens. TPA was isolated from 47 rabbits with success rates of 71% (12/17) and 69% (35/51), respectively, from ulcer exudates and SS bloods. We obtained paired genomic sequences from 24 clinical samples and corresponding rabbit isolates. Six SS14- and 2 Nichols-clade genome pairs contained rare discordances. Forty-one of the 51 unique TPA genomes clustered within SS14 subgroups largely from East Asia, while 10 fell into Nichols C and E subgroups.ConclusionsOur TPA detection rate was high from PS ulcer exudates and SS skin biopsies and over 50% from SS blood, with TPA isolation in more than two-thirds of samples. Our results support the use of WGS from rabbit isolates to inform vaccine development.

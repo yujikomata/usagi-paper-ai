@@ -1,0 +1,7 @@
+TITLE: Efficacy of the novel MIGS implant Wistend compared to Kahook Dual Blade in the treatment of experimental ocular hypertension in rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s41598-025-24097-2
+SOURCE: EuropePMC/MED/41249798
+
+To evaluate and compare the efficacy of novel microinvasive glaucoma surgery (MIGS) device implants Wistend and Kahook Dual Blade (KDB) in an experimental ocular hypertension model. Twelve New Zealand white rabbits were randomized into four groups (blank, sham-operated, Wistend and KDB groups) after establishment of an ocular hypertension animal model. Intraocular pressure (IOP) was observed over three months. Eaton and Draize scores, Swept-source optical coherence tomography (SS-OCT), fundus photography were used to evaluate ocular health and confirm microstent placement. Both the Wistend and the KDB significantly lowered IOP over the three-month follow-up. At 7,10,20, and 30 days post-operation, there were significant differences in IOP reduction between the Wistend and the KDB groups (P < 0.05). Postoperative assessments showed that the anterior and posterior segments of the eyes remained healthy, with no notable adverse events. Wistend and KDB both effectively reduced IOP in experimental ocular hypertension, and a stable and significant IOP reduction was maintained throughout the 3-month postoperative follow-up period. The findings may provide potentially experimental rationale for the selection of the MIGS devices Wistend and KDB for glaucoma patients.

@@ -1,7 +1,0 @@
-TITLE: The Role of Myxoma Virus Immune Modulators and Host Range Factors in Pathogenesis and Species Leaping.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.3390/v17081145
-SOURCE: EuropePMC/MED/40872858
-
-Myxoma virus (MYXV) is a leporipoxvirus that causes lethal disease in Leporids. Hares and rabbits belong to the Leporidae family and are believed to have had a common ancestor 12 million years ago. After seventy years of contact with European hares without causing mortalities or disease manifestation, a recombinant MYXV infected Iberian hares (Lepus granatensis) causing high mortalities. Like all poxviruses, MYXV encodes a wealth of immune modulators required for successful virulence that also mediate host species jumping, for example, into hares. Here, we summarize the data of known MYXV immune modulators, their cellular functions, and their effects on European rabbits. Additionally, we suggest that the critical restrictions MYXV would encounter in colonizing a potentially new host species stem from their interactions with the host's innate immune environment. Lastly, we synthesize our understanding of some poxvirus genome architectural features that might have facilitated the host species jump of MYXV into hares from rabbits.

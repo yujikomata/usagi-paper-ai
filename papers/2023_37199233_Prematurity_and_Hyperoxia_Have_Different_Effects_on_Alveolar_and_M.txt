@@ -1,0 +1,7 @@
+TITLE: Prematurity and Hyperoxia Have Different Effects on Alveolar and Microvascular Lung Development in the Rabbit.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1369/00221554231177757
+SOURCE: EuropePMC/MED/37199233
+
+Bronchopulmonary dysplasia (BPD) is a developmental disorder of infants born prematurely, characterized by disrupted alveolarization and microvascular maturation. However, the sequence of alveolar and vascular alterations is currently not fully understood. Therefore, we used a rabbit model to evaluate alveolar and vascular development under preterm birth and hyperoxia, respectively. Pups were born by cesarean section 3 days before term and exposed for 7 days to hyperoxia (95% O2) or normoxia (21% O2). In addition, term-born rabbits were exposed to normoxia for 4 days. Rabbit lungs were fixed by vascular perfusion and prepared for stereological analysis. Normoxic preterm rabbits had a significantly lower number of alveoli than term rabbits. The number of septal capillaries was lower in preterm rabbits but less pronounced than the alveolar reduction. In hyperoxic preterm rabbits, the number of alveoli was similar to that in normoxic preterm animals; however, hyperoxia had a severe additional negative effect on the capillary number. In conclusion, preterm birth had a strong effect on alveolar development, and hyperoxia had a more pronounced effect on capillary development. The data provide a complex picture of the vascular hypothesis of BPD which rather seems to reflect the ambient oxygen concentration than the effect of premature birth.

@@ -1,0 +1,7 @@
+TITLE: Detection and Circulation of a Novel Rabbit Hemorrhagic Disease Virus in Australia.
+YEAR: 2018
+JOURNAL: 
+DOI: 10.3201/eid2401.170412
+SOURCE: EuropePMC/MED/29260677
+
+The highly virulent rabbit hemorrhagic disease virus (RHDV) has been widely used in Australia and New Zealand since the mid-1990s to control wild rabbits, an invasive vertebrate pest in these countries. In January 2014, an exotic RHDV was detected in Australia, and 8 additional outbreaks were reported in both domestic and wild rabbits in the 15 months following its detection. Full-length genomic analysis revealed that this virus is a recombinant containing an RHDVa capsid gene and nonstructural genes most closely related to nonpathogenic rabbit caliciviruses. Nationwide monitoring efforts need to be expanded to assess if the increasing number of different RHDV variants circulating in the Australian environment will affect biological control of rabbits. At the same time, updated vaccines and vaccination protocols are urgently needed to protect pet and farmed rabbits from these novel rabbit caliciviruses.

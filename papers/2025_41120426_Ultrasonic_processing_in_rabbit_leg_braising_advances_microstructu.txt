@@ -1,0 +1,7 @@
+TITLE: Ultrasonic processing in rabbit leg braising advances microstructure, water retention, and flavor development.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s41598-025-20374-2
+SOURCE: EuropePMC/MED/41120426
+
+To evaluate ultrasound's impact on braised rabbit legs, rabbit leg meat was treated at frequencies of 0 (control), 30, 60, 90, and 120 kHz during the low-temperature braising process. A multi-dimensional analytical approach-incorporating scanning electron microscopy (SEM), texture profile analysis (TPA), water-holding capacity (WHC) assessment, flavor compound profiling, and oxidation analysis-was employed to systematically investigate ultrasound's effects on braised rabbit meat. SEM revealed ultrasound-induced muscle fiber contraction and structural disruption, which directly improved water-holding capacity and texture. Quantification of sodium chloride and amino acids in sample cores demonstrated enhanced mass transfer, particularly at higher frequencies (60-120 kHz). Lipid oxidation (TBARS) and fatty acid profiling (GC-MS) confirmed ultrasound-promoted oxidation, generating significantly increased flavor-active aldehydes. Concurrently, HPLC-MS/MS analysis showed elevated nucleotide levels, indicating accelerated hydrolysis of flavor precursors. Collectively, these results suggest that ultrasound may offer a viable approach to energy-efficient braising while improving texture and flavor profiles towards sustainable meat processing.

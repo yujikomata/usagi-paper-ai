@@ -1,0 +1,7 @@
+TITLE: Effects of Genotype and Housing System on Rabbit Does' Aggressive Behaviors and Injuries in Smallholding Conditions.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ani13081357
+SOURCE: EuropePMC/MED/37106920
+
+The objective of the study was to investigate the effects of housing (deep litter + concrete floor vs. deep litter + ground soil with the possibility to dig burrows), and genotype (Mecklenburg or Hyplus) on aggressive behaviour, social contacts, does' and kits' injuries, and progeny mortality. Twelve groups of six rabbit does (n = 72) were assigned to four treatments (two housing systems and two genotypes). Aggressive behaviour of does, number of injuries on does and kits, and postnatal kit mortality were recorded. The effects of housing and genotype were tested using multivariate GLMM Models. We found that the housing treatment in interaction with the genotype had a significant effect on aggressive behaviours in group housed does (F3,12 = 14.34, p = 0.0003), where the lowest incidence of aggression was in Mecklenburg does housed on ground soil. Reduced aggression was reflected in a lower number of injuries in does (F3,68 = 10.51, p F3,1 = 4.59, p F3,54 = 43.94, p < 0.0001). The results indicate that the proper combination of genotype and housing should be carefully considered for breeding to reduce aggression and injury in group housed does.

@@ -1,0 +1,7 @@
+TITLE: DUT (p.Y116C)-Mutation-Induced Thrombocytopenia in Rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ijms26094169
+SOURCE: EuropePMC/MED/40362420
+
+Thrombocytopenia is a hematologic disorder characterized by an abnormally low platelet count in peripheral blood. Recent studies have identified mutations in DUT as the primary cause of bone marrow failure and diabetes mellitus syndrome (BMFDMS), a condition commonly associated with thrombocytopenia. In this study, a novel rabbit model of thrombocytopenia carrying the DUT c.3020A>G (p.Y116C) mutation was established using SpRY-ABEmax-mediated base editing. This model accurately recapitulates the clinical manifestations of human thrombocytopenia. Phenotypic analysis has revealed that mutant rabbits exhibited significant reductions in megakaryocyte numbers, platelet counts, and survival rates when compared to wild-type controls. Mechanistic investigations showed that the DUT mutation leads to mitochondrial structural abnormalities and functional impairments. Notably, platelets from DUT (p.Y116C)-mutant rabbits exhibited markedly reduced DUT protein expression and enhanced mitophagy, potentially mediated through the Park2 pathway. This study presents the first genetic model of thrombocytopenia that closely mimics the human DUT (p.Y116C) mutation, offering new insights into the relationship between DUT mutations and platelet function, and highlighting potential therapeutic targets for human thrombocytopenia.

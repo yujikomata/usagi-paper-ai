@@ -1,0 +1,7 @@
+TITLE: Object Play as a Positive Emotional State Indicator for Farmed Spotted Paca (Cuniculus paca).
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ani14010078
+SOURCE: EuropePMC/MED/38200809
+
+We aimed to assess whether object play can be used as a positive emotional state indicator for farmed spotted pacas (Cuniculus paca) by examining its association with other positive welfare markers including affiliative behavior and low-amplitude vocalizations. We submitted six groups of spotted pacas (one male/two females per group) (N = 18) to an ABA experimental design (A1/A2: without ball; B: with three boomer balls). Object play behavior occurred only during phase B (mean = 35.5 s, SE = 6.4). The spotted pacas spent more time in affiliative and exploratory behaviors and less time engaging in agonistic interactions during phase B than in both control phases (A1 and A2) (p p < 0.05), and such vocalizations have previously been shown to indicate a positive affective state and low arousal level. Because the expression of object play was associated with a decrease in aggression, an increase in affiliative behavior, and an increase in low-amplitude barking, we suggest that object play can be used as a non-invasive indicator of positive emotional state in this species.

@@ -1,0 +1,7 @@
+TITLE: Clinical Pathology Evaluation in Pet Rabbits Vaccinated Against Rabbit Hemorrhagic Disease Virus 2 (RHDV2).
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/ani14203029
+SOURCE: EuropePMC/MED/39457958
+
+A recombinant vaccine for rabbit hemorrhagic disease virus 2, a highly pathogenic virus, was granted emergency use authorization in the United States after the detection and spread of the virus starting in 2018. The goal of the current study was to assess pet rabbits (n = 29) through physical examination and routine clinical pathology testing using repeated assessments post-vaccination. In addition, seroconversion was also monitored after the initial vaccination and booster vaccination. Neither owners nor clinicians detected any physical abnormalities in relationship to the vaccine protocol. Hematological and clinical biochemistry testing showed some changes although median values were within species specific reference intervals. A significant increase in antibody levels was observed at day 21 (post-initial vaccination) and day 49 (post-booster vaccination) versus that present at baseline (p p = 0.006). A second cohort of rabbits was assessed at 11-12 months post-initial vaccination. In this second group, antibody levels were not significantly different from baseline levels (p = 0.21). Additional studies should be conducted to further define the variability in seroconversion and the term of protection in pet rabbits as the industry moves forward in the optimization of RHDV2 vaccines.

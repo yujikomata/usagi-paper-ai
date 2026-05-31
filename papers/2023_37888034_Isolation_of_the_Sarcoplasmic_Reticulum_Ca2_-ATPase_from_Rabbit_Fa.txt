@@ -1,0 +1,7 @@
+TITLE: Isolation of the Sarcoplasmic Reticulum Ca2+-ATPase from Rabbit Fast-Twitch Muscle.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/mps6050102
+SOURCE: EuropePMC/MED/37888034
+
+The sarcoendoplasmic reticulum Ca2+-ATPase (SERCA) is a membrane protein that is destabilized during purification in the absence of calcium ions. The disaccharide trehalose is a protein stabilizer that accumulates in the yeast cytoplasm when under stress. In the present work, SERCA was purified by including trehalose in the purification protocol. The purified SERCA showed high protein purity (~95%) and ATPase activity. ATP hydrolysis was dependent on the presence of Ca2+ and the enzyme kinetics showed a hyperbolic dependence on ATP (Km = 12.16 ± 2.25 μM ATP). FITC labeling showed the integrity of the ATP-binding site and the identity of the isolated enzyme as a P-type ATPase. Circular dichroism (CD) spectral changes at a wavelength of 225 nm were observed upon titration with ATP, indicating α-helical rearrangements in the nucleotide-binding domain (N-domain), which correlated with ATP affinity (Km). The presence of Ca2+ did not affect FITC labeling or the ATP-mediated structural changes at the N-domain. The use of trehalose in the SERCA purification protocol stabilized the enzyme. The isolated SERCA appears to be suitable for structural and ligand binding studies, e.g., for testing newly designed or natural inhibitors. The use of trehalose is recommended for the isolation of unstable enzymes.

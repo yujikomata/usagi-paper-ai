@@ -1,0 +1,7 @@
+TITLE: Real-time monitoring of spinal cord hemodynamics with laser speckle contrast imaging during pedicle subtraction osteotomy in rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3389/fsurg.2025.1578420
+SOURCE: EuropePMC/MED/40703431
+
+ObjectiveThis study aimed to evaluate the efficacy of Speckle Contrast Imaging (LSCI) in real-time monitoring of spinal cord hemodynamic changes during spinal osteotomy in rabbits and to assess its clinical relevance for intraoperative blood flow management.MethodsThirty-one healthy male New Zealand white rabbits (clean-grade) were subjected to Pedicle subtraction osteotomy (PSO) under general anesthesia. The spinal cord and posterior vasculature were surgically exposed, and LSCI was employed to quantify blood flow perfusion (Perfusion Units, PU) and posterior spinal artery diameter (μm) at four critical stages: (1) pre-osteotomy (baseline), (2) post-osteotomy, (3) post-osteotomy site compression, and (4) post-dura removal.ResultsLSCI successfully captured dynamic hemodynamic changes: Blood flow perfusion decreased significantly from baseline (519.22 ± 137.87 PU) to post-osteotomy (315.00 ± 50.24 PU, P P P P P ConclusionLSCI provides reliable, non-invasive real-time monitoring of spinal cord hemodynamics during osteotomy, demonstrating significant perfusion and vascular diameter fluctuations. This technology offers a promising tool for intraoperative spinal cord protection and warrants further clinical translation.

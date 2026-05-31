@@ -1,0 +1,7 @@
+TITLE: Wandering Drunkards Walk after Fibonacci Rabbits: How the Presence of Shared Market Opinions Modifies the Outcome of Uncertainty.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/e26080686
+SOURCE: EuropePMC/MED/39202156
+
+Shared market opinions and beliefs by market participants generate a set of constraints that mediate information through a not-so-unstable system of expected target prices. Price trajectories, within these sets of constraints, confirm or disprove the likelihood of participant expectations and cannot, de facto, be considered permutable, as literature has shown, since their inner structure is dynamically affected by their own progress, suggesting per se the presence of both heat and cycles. This study described and discussed how trajectories are built using different alphabets and suggests that prices follow an ergodic course within structurally similar tessellation classes. It is reported that the courses of price moves are self-similar due to their a priori structure, and they do not need to be complete in order to create the conditions, in resembling conditions, for the appearance of the well-known and commonly used Fibonacci ratios between price trajectories. To date, financial models and engineering are mostly based on the mathematics of randomness. If these theoretical findings need empirical validation, such a potential infrastructure of ratios would suggest the possibility for a superstructure to exist, in other words, the emergence of exploitable patterns.

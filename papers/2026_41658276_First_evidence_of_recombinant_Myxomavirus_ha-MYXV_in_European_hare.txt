@@ -1,7 +1,0 @@
-TITLE: First evidence of recombinant Myxomavirus (ha-MYXV) in European hare (<i>Lepus europaeus</i>) in the Czech Republic and Slovakia.
-YEAR: 2026
-JOURNAL: 
-DOI: 10.3389/fvets.2026.1754249
-SOURCE: EuropePMC/MED/41658276
-
-Recombinant myxoma virus (ha-MYXV) is an important causative agent of a fatal disease affecting hares (Lepus spp.). It was first identified in the Iberian Peninsula in 2018 and it subsequently spread to Western Europe during 2023-2024. Here, we report the emergence of this severe disease in the Czech Republic and Slovakia. The ha-MYXV was first detected in a European hare (Lepus europaeus) found dead in the Czech Republic on August 25, 2025. By the end of September, a total of 21 cases had been confirmed, 20 in European hares and one in a European rabbit (Oryctolagus cuniculus). In Slovakia, the virus was first detected in a hare found dead on October 9, 2025, followed by three additional cases. Our findings indicate the ongoing expansion of ha-MYXV, supported by evidence of cross-species transmission and an increasing geographic distribution to other Central European countries, with a projected fatal impact on European hare (Lepus europaeus) populations, as previously observed on the Iberian Peninsula.

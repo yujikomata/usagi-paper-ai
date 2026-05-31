@@ -1,7 +1,0 @@
-TITLE: Comparative Epidemiology of Rabbit Haemorrhagic Disease Virus Strains from Viral Sequence Data.
-YEAR: 2022
-JOURNAL: 
-DOI: 10.3390/v15010021
-SOURCE: EuropePMC/MED/36680062
-
-Since their introduction in 1859, European rabbits (Oryctolagus cuniculus) have had a devastating impact on agricultural production and biodiversity in Australia, with competition and land degradation by rabbits being one of the key threats to agricultural and biodiversity values in Australia. Biocontrol agents, with the most important being the rabbit haemorrhagic disease virus 1 (RHDV1), constitute the most important landscape-scale control strategies for rabbits in Australia. Monitoring field strain dynamics is complex and labour-intensive. Here, using phylodynamic models to analyse the available RHDV molecular data, we aimed to: investigate the epidemiology of various strains, use molecular data to date the emergence of new variants and evaluate whether different strains are outcompeting one another. We determined that the two main pathogenic lagoviruses variants in Australia (RHDV1 and RHDV2) have had similar dynamics since their release, although over different timeframes (substantially shorter for RHDV2). We also found a strong geographic difference in their activities and evidence of overall competition between the two viruses.

@@ -1,0 +1,7 @@
+TITLE: Facile Immunoassay Constructed by Gold Nanostar-Labeled Rabbit-AFP Antibody and Gold Nanoparticle-Conjugated Goat Anti-Rabbit IgG.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/nano15080612
+SOURCE: EuropePMC/MED/40278477
+
+Simple and accurate analysis of cancer-related biomarkers is very important for disease screening and auxiliary diagnosis. This study proposed a facile immunoassay that used gold nanostar-labeled rabbit anti-AFP as a capture antibody and gold nanoparticle-conjugated goat anti-rabbit IgG as an enhance antibody for the construction of a detection strategy for AFP analysis. Investigations indicated that the 50 nm diameter GNS-labeled capture antibody can specifically catch AFPs by direct detection profile or by further signal amplification through AuNP-tagged enhance antibody combination. Results showed that the developed method holds 8.6 ng/mL sensitivity, 20.0-110.0 ng/mL detection range, acceptable precision and fine accuracy, as well as favorable specificity. Results of application to real serum determination by the proposed method are highly related to those of the ECLIA method (correlation coefficient is 0.931). The proposed method has simple-operation merit and is very suitable for clinical screening of large-scale serum samples of cancers.

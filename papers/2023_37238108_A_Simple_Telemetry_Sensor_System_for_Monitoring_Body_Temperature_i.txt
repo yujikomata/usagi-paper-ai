@@ -1,0 +1,7 @@
+TITLE: A Simple Telemetry Sensor System for Monitoring Body Temperature in Rabbits-A Brief Report.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ani13101677
+SOURCE: EuropePMC/MED/37238108
+
+Continuous body temperature measurement is an important means of studying inflammation and metabolic changes using experimental animals. Although expensive telemetry equipment for collecting multiple parameters is available for small animals, readily used devices for mediate- or large-sized animals are rather limited. In this study, we developed a new telemetry sensor system that can continuously monitor rabbit body temperature. The telemetry sensor was easily implanted subcutaneously in rabbits housed in the animal facility while temperature changes were continuously recorded by a personal computer. Temperature data obtained by the telemetry was consistent with the rectal temperature measured by a digital device. Analysis of body temperature changes of unstrained rabbits, either under the normal condition or fever induced by endotoxin confirms the reliability and usefulness of this system.

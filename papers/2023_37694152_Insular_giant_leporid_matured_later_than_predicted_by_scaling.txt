@@ -1,0 +1,7 @@
+TITLE: Insular giant leporid matured later than predicted by scaling.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1016/j.isci.2023.107654
+SOURCE: EuropePMC/MED/37694152
+
+The island syndrome describes morphological, behavioral, and life history traits that evolve in parallel in endemic insular organisms. A basic axiom of the island syndrome is that insular endemics slow down their pace of life. Although this is already confirmed for insular dwarfs, a slow life history in giants may not be adaptive, but merely a consequence of increasing body size. We tested this question in the fossil insular giant leporid Nuralagus rex. Using bone histology, we constructed both a continental extant taxon model derived from experimentally fluorochrome-labeled Lepus europaeus to calibrate life history events, and a growth model for the insular taxon. N. rex grew extremely slowly and delayed maturity well beyond predictions from continental phylogenetically corrected scaling models. Our results support the life history axiom of the island syndrome as generality for insular mammals, regardless of whether they have evolved into dwarfs or giants.

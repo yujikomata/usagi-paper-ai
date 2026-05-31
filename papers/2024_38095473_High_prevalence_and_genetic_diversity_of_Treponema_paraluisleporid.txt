@@ -1,7 +1,0 @@
-TITLE: High prevalence and genetic diversity of Treponema paraluisleporidarum isolates in European lagomorphs.
-YEAR: 2024
-JOURNAL: 
-DOI: 10.1128/spectrum.01774-23
-SOURCE: EuropePMC/MED/38095473
-
-ImportanceSyphilis is an ancient disease of humans and lagomorphs caused by two distinct but genetically closely related bacteria (>98% sequence identity based on the whole genome) of the genus Treponema. While human syphilis is well studied, little is known about the disease in the lagomorph host. Yet, comparative studies are needed to understand mechanisms in host-pathogen coevolution in treponematoses. Importantly, Treponema paraluisleporidarum-infected hare populations provide ample opportunity to study the syphilis-causing pathogen in a naturally infected model population without antibiotic treatment, data that cannot be obtained from syphilis infection in humans. We provide data on genetic diversity and are able to highlight various types of repetitions in one of the two hypervariable regions at the tp0548 locus that have not been described in the human syphilis-causing sister bacterium Treponema pallidum subsp. pallidum.

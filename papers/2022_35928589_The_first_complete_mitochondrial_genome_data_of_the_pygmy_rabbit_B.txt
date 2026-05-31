@@ -1,0 +1,7 @@
+TITLE: The first complete mitochondrial genome data of the pygmy rabbit Brachylagus idahoensis, the world's smallest leporid.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.1016/j.dib.2022.108314
+SOURCE: EuropePMC/MED/35928589
+
+The pygmy rabbit Brachylagus idahoensis (Merriam, 1891) is the smallest extant leporid, which naturally occurs in the Great Basin and adjacent areas in western parts of the United States of America. Its distribution is strongly associated with the sagebrush (Artemisia ssp.) vegetation. Here we present, for the first time, the complete mitochondrial genome of Brachylagus idahoensis, de novo assembled from Illumina short reads of fragmented probe-enriched DNA. The circular mitogenome is 17,021 bp in length and contains 13 protein-coding genes (PCGs), two ribosomal RNAs (16S rRNA and 12S rRNA), 22 transfer RNA genes, and a control region. The gene NAD6 and the tRNA(Gln), tRNA(Ala), tRNA(Asn), tRNA(Cys), tRNA(Tyr), tRNA(Ser), tRNA(Glu) and tRNA(Pro) are encoded on the light strand while the rest are encoded on the heavy strand. The overall nucleotide composition was 30.78% for A, 28.5% for T, 13.62% for G and 27.08% for C. The mitogenome data are available in the GenBank under the accession number OL436257.

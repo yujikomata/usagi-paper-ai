@@ -1,0 +1,7 @@
+TITLE: Unraveling the Physicochemical Properties and Bacterial Communities in Rabbit Meat during Chilled Storage.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/foods13040623
+SOURCE: EuropePMC/MED/38397599
+
+The freshness and bacterial communities of fresh and salted rabbit meat during 8 days of refrigerated storage at 4 °C were evaluated. The results showed that the addition of 2% salt significantly changed the color of meat, of which the lightness (L*), redness (a*), and yellowness (b*) were lower than that of fresh meat over time. The pH of all samples increased during storage, and meat with salt addition had lower values in comparison to fresh samples over time. The total volatile base nitrogen (TVB-N) concentration increased rapidly in salt-treated meat but was significantly (p Shigaella, Bacteroides, and Lactococcus, and the population of Brochothrix and Psychrobacter increased over time and became the dominant spoilage bacterium. In particular, the addition of salt significantly reduced the abundance of Psychrobacter and Brochothrix. These findings might provide valuable information regarding the quality monitoring of rabbit meat during chilled storage.

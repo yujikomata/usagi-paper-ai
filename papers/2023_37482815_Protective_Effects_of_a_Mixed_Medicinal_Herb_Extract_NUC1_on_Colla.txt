@@ -1,0 +1,7 @@
+TITLE: Protective Effects of a Mixed Medicinal Herb Extract (NUC1) on Collagenase-Induced Osteoarthritis in Rabbits.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.4014/jmb.2303.03044
+SOURCE: EuropePMC/MED/37482815
+
+NUC1 (Nutraceutical compound 1) is an ethanol extract composed of a formulation based on medicinal herbs traditionally used for the treatment of arthritis in Korea and China. This study investigated the therapeutic effects of NUC1 on osteoarthritis (OA). The protective effect of NUC1 on OA was tested in a rabbit model of collagenase-induced arthritis (CIA) for 4 weeks. Results were compared among four groups (n = 9 per group): the normal group (untreated), the CIA group (vehicle control), the NUC1 group (CIA rabbits treated with 200 mg/kg NUC1), and the JOINS group (positive control, CIA rabbits treated with 200 mg/kg JOINS tablet). NUC1 significantly inhibited NO production (p p p p < 0.05) lower in NUC1 group (77.50 ± 20.56 and 22.50 ± 7.39 pg/ml, respectively) than in the CIA group (148.33 ± 68.58 and 77.50 ± 20.46 pg/ml, respectively). Also, in histopathological, NUC1 ameliorated articular cartilage damage in OA by increasing the abundance of chondrocytes and proteoglycan in the articular cartilage. Thus, NUC1 showed promise as a potential therapeutic agent, and it can be generalized to a broader study population in different OA animal models.

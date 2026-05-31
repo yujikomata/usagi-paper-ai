@@ -1,0 +1,7 @@
+TITLE: Comparison of the establishment of a rabbit model of carpal tunnel syndrome under ultrasound-guided and landmark-guided methods.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s41598-025-93429-z
+SOURCE: EuropePMC/MED/40065149
+
+A simple and feasible rabbit model of carpal tunnel syndrome (CTS) was established using an animal experimental study. Twenty-four New Zealand white rabbits were randomized into a normal group (Group C), a glucose injection model group (Groups N-M) and an ultrasound-guided injection model group (Groups U-M). Each group consisted of 8 rabbits.Electrophysiological and ultrasound examinations were performed before sampling. Hematoxylin-eosin (H&E) staining and electron microscopy were performed to observe the neuropathological changes. During electrophysiological testing 1 week after modeling, the amplitudes of the sensory nerve conduction velocity (SNCV), distal motor latency (DML) and compound muscle action potential (CMAP ) in the U-M group were significantly different compared to the C group and the N-M group (P  0.05). Compared to the original modeling method, four injections of 0.3 ml of 10% glucose solution under ultrasound guidance reduced the time required to establish the disease model and increased the stability of the model. Therefore, this technique is a simple and feasible method for establishing a model of rabbit carpal tunnel syndrome.

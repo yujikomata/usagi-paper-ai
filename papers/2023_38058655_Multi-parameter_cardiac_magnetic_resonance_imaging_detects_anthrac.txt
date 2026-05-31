@@ -1,0 +1,7 @@
+TITLE: Multi-parameter cardiac magnetic resonance imaging detects anthracycline-induced cardiotoxicity in rabbits model.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1016/j.heliyon.2023.e21845
+SOURCE: EuropePMC/MED/38058655
+
+BackgroundCardiac magnetic resonance (CMR) quantitative T1 and T2 mapping offers a non-invasive means to evaluate early cardiotoxicity changes. This study aimed to pinpoint the earliest CMR indicators of myocardial injury in Anthracycline-induced cardiotoxicity (AIC) and to elucidate the connections between these CMR indicators and associated pathological indicators.MethodsA total of 34 rabbits were administered doxorubicin at a dosage of 1 mg/kg/weekly. The study incorporated six 3T CMR scan time points: baseline, and at intervals of four, six, eight, twelve, and sixteen weeks. Cine, T1 and T2 mapping sequences assessed the left ventricular ejection fraction (LVEF), native T1, extracellular volume fraction (ECV), and T2 values. Following each time point, three rabbits were sacrificed for histological analysis involving Hematoxylin and eosin (H&E), Masson, TUNEL, and microvascular density (MVD) stains. Spearman correlations and linear mixed model analysis served in the statistical analysis.ResultsDiverse degrees of alternation were recorded in LVEF, native T1, T2, and ECV over time. LVEF declined to 49.0 ± 2.6 % at 12 weeks from the baseline of 53.4 ± 3.2 %, p ConclusionT1 and T2 mapping are effective tools for cardiotoxicity detection and monitoring. The prolongation of T2 value emerged as the most consistent and early-onset indicator.

@@ -1,0 +1,7 @@
+TITLE: The Corneal Ectasia Model of Rabbit: A Validity and Stability Study.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/bioengineering10040479
+SOURCE: EuropePMC/MED/37106666
+
+Keratoconus is a bilateral progressive degenerative corneal disease characterized by localized corneal thinning and dilatation. The pathogenesis of keratoconus is not fully elucidated. To gain a better understanding of the pathophysiology of this disease and to explore potential treatments, animal models are essential for basic research. Several attempts have been made to establish animal models of corneal ectasia by using collagenase. However, continuous changes of the cornea have not been well-tracked for the model. In this study, corneal morphology and biomechanical behavior in vivo were determined before and after collagenase Ⅱ treatment at 2, 4, and 8 weeks. The elastic modulus and histology of cornea tissues ex vivo were measured at 8 weeks postoperatively. The results showed that the posterior corneal curvature (Km B) increased and central corneal thickness (CCT) decreased after collagenase treatment. The mechanical properties of ectatic corneas weakened significantly and the collagen fiber interval in the stromal layer was increased and disorganized. This study provides insights into the changes of corneal morphology and biomechanical properties in a rabbit model of corneal ectasia. Changes observed at 8 weeks indicated that the cornea was still undergoing remodeling.

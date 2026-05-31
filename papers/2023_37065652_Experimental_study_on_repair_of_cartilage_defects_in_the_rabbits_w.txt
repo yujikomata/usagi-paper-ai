@@ -1,0 +1,7 @@
+TITLE: Experimental study on repair of cartilage defects in the rabbits with GelMA-MSCs scaffold prepared by three-dimensional bioprinting.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.18063/ijb.v9i2.662
+SOURCE: EuropePMC/MED/37065652
+
+Cartilage damage is a common orthopedic disease, which can be caused by sports injury, obesity, joint wear, and aging, and cannot be repaired by itself. Surgical autologous osteochondral grafting is often required in deep osteochondral lesions to avoid the later progression of osteoarthritis. In this study, we fabricated a gelatin methacryloyl-marrow mesenchymal stem cells (GelMA-MSCs) scaffold by three-dimensional (3D) bioprinting. This bioink is capable of fast gel photocuring and spontaneous covalent cross-linking, which can maintain high viability of MSCs and provide a benign microenvironment to promote the interaction, migration, and proliferation of cells. In vivo experiments, further, proved that the 3D bioprinting scaffold can promote the regeneration of cartilage collagen fibers and have a remarkable effect on cartilage repair of rabbit cartilage injury model, which may represent a general and versatile strategy for precise engineering of cartilage regeneration system.

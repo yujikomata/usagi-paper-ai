@@ -1,0 +1,7 @@
+TITLE: Efficacy of Liposomal Nystatin in a Rabbit Model of Cryptococcal Meningitis.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/jof10080520
+SOURCE: EuropePMC/MED/39194846
+
+Cryptococcal meningitis (CM) causes significant global morbidity and mortality. Current therapeutic strategies rely on deoxycholated or liposomal forms of the polyene amphotericin B. Nystatin is also a polyene with broad-spectrum antimicrobial activity. Treatment with systemic nystatin has been limited by toxicity, which is a consistent challenge with polyene therapeutics. One mechanism to improve the toxicity is usage of a liposomal form of the active agent. Previous data from a murine candidemia model indicated that liposomal nystatin may be an effective antifungal drug formulation. Since the rabbit model of CM is a highly predictive preclinical system for evaluating antifungal therapeutics, we tested the effectiveness of two doses of daily liposomal nystatin, 3 and 8 mg/kg in the rabbit model of CM. Treatment with liposomal nystatin in this model did not reduce the fungal burden in the cerebrospinal fluid. A subsequent clinical trial also did not find activity in a human population. These data indicate that liposomal nystatin in the current form and at the tested dosages is not an effective therapy for CM. The data provide further evidence for the predictive power of the rabbit model of CM as a vital preclinical system for testing novel antifungal therapeutics for CM.

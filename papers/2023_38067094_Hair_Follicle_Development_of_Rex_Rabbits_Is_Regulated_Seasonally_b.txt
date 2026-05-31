@@ -1,0 +1,7 @@
+TITLE: Hair Follicle Development of Rex Rabbits Is Regulated Seasonally by Wnt10b/β-Catenin, TGFβ-BMP, IGF1, and EGF Signaling Pathways.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ani13233742
+SOURCE: EuropePMC/MED/38067094
+
+This experiment was conducted to study the effects of different skinning seasons on the fur quality and hair follicle development of Rex rabbits. A total of 80,150-day-old Rex rabbits were slaughtered on 15 July 2022 (summer), 15 October 2022 (autumn), 15 January 2023 (winter), and 15 April 2023 (spring) in Shandong Province (10 males and 10 females in each season). The results show that the skin weight, skin area, skin thickness, and hair follicle density of the Rex rabbits (at 150 days of age) were lower in summer than in winter (p p p p p p Wnt10b, catenin beta 1 (CTNNB1), glycogen synthase kinase 3 beta (GSK3β), insulin like growth factor I (IGF-I), Type I insulin-like growth factor receptor (IGF-IR), and epidermal growth factor (EGF) genes was higher (p dickkopf-1 (DDK1), transforming growth factor beta 1 (TGFβ-1), bone morphogenetic protein 2 (BMP2), and bone morphogenetic protein 4 (BMP4) genes was lower than in summer (p p p p < 0.05). These results show that the skinning season can affect the production performance and hair follicle development of Rex rabbits. Compared with other seasons, the quality of skin from rabbits slaughtered in winter is better. Seasons may regulate hair follicle development via the Wnt10b/β-catenin, TGFβ-BMP, IGF1, and EGF signaling pathways in Rex rabbits.

@@ -1,0 +1,7 @@
+TITLE: Evaluation of metformin performance on alloxan-induced diabetic rabbits.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.25122/jml-2021-0417
+SOURCE: EuropePMC/MED/35450001
+
+This study aimed to evaluate metformin as a widely used oral hypoglycemic agent and identify the effects on biochemical and antioxidant body systems of rabbits. Four groups of rabbits were randomly allocated as the control, the alloxan-induced diabetic, metformin-treated, and alloxan treated with metformin. The results revealed that alloxan leads to significant elevation in glucose (Glc) levels, malondialdehyde (MDA), low-density lipoprotein (LDL), very-low-density lipoprotein (VLDL), triglycerides (TGs), and total cholesterol (TCH), and a significant decline in high-density lipoprotein (HDL) and glutathione (GSH) as compared with the control group. Metformin alone caused a significant decline in Glc and HDL with significant elevation in LDL and MDA without significant changes in TCH, TGs, VLDL, and GSH. When metformin was offered as a treatment for alloxan-induced diabetic animals, it caused a significant decline in Glc, TCH, TGs, LDL, and VLDL levels with significant elevation in GSH and without a significant change in HDL and MDA. Metformin causes a decline in glucose levels due to its ability to decrease the use of substances hepatic cells use to create glucose and its ability to induce the enzymes participating in glucose oxidation.

@@ -1,7 +1,0 @@
-TITLE: The sequence and characterization of mitochondrial of Lepus oiostolus (Lagomorpha: Leporidae).
-YEAR: 2020
-JOURNAL: 
-DOI: 10.1080/23802359.2020.1768930
-SOURCE: EuropePMC/MED/33366947
-
-Lepus oiostolus is widely inhabited in the Qinghai-Tibet Plateau. So far, little mitochondrial genome information of this genus has been described. To grasp a better comprehension on the molecular basis of L. oiostolus, we obtained the complete mitochondrial DNA genome sequences of this species. The mitogenome was 17,320 bp in length, which consists of 13 protein-coding genes, 22 tRNA genes, 2 rRNA genes, and 1 noncoding regions. The complete mitochondrial genome of L. oiostolus would be of great utility in the phylogenetic analysis of the Lagomorpha and also provide meritorious insights into the deeper problems of the phylogenic analysis.

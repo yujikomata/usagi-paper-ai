@@ -1,0 +1,7 @@
+TITLE: Enhanced wound closure in rabbit oral vestibule: a comparative analysis of suturing and laser tissue soldering.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1186/s12903-024-04999-9
+SOURCE: EuropePMC/MED/39402542
+
+This study investigates the comparative effectiveness of laser soldering technique and conventional suturing methods for wound closure in rabbits. Over a 60-day post-operative period, scar formation and healing were monitored, with a particular focus on scar characteristics such as width, height, and overall appearance. Results indicate that the laser group exhibited improved scar characteristics, especially in the early stages (first and third days) of healing. By the seventh day, both groups demonstrated similar scar conditions, though the laser group showed a slightly faster recovery trajectory, with marginally lower scar height observed on the 21st and 60th days. While the laser technique showed some advantages in minimizing short-term complications, the long-term outcomes between the two methods were largely comparable. These findings suggest that the laser soldering method may offer some benefits over traditional suturing, particularly in the early stages of healing, but further research is needed to fully assess its clinical potential.

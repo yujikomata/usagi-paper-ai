@@ -1,0 +1,7 @@
+TITLE: Higher Oxygen Content Affects Rabbit Meat's Quality and Fatty Acid Profile in a Modified Atmosphere.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1155/2024/9486285
+SOURCE: EuropePMC/MED/38380345
+
+After 7 days of storage, the quality of the meat packed in both systems (MAP and VAC) was satisfactory; however, after 14 and 21 days, there was a noticeable decline in quality, as evidenced by changes in the water percentage and color parameters (L∗, a∗, and b∗). However, muscles stored in the MAP1 had the highest tenderness. The results indicated that as the storage time increased (up to 21 days), the share of C14:0 (P P P = 0.001) and C20:1 (P = 0.015) acids was significantly influenced by the packaging method. The highest iodine level was found in MAP1 21 days after packaging (85.68). The ratio of n-6/n-3, PUFA/SFA, AI, and TI indexes, which indicate a higher nutritional quality of fat, varied only with storage time without being affected by the gas mixture (P > 0.05). The H/H level differed significantly with the storage time (P P = 0.133). After the 21-day storage period, the controlled atmosphere led to an increase in the concentration of MUFA and PUFA and a decrease in SFA, according to the study of the fatty acid profile.

@@ -1,0 +1,7 @@
+TITLE: Effects of different roasting temperatures on rabbit meat protein oxidation and fluorescent carbon nanoparticle formation.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1016/j.fochx.2023.101015
+SOURCE: EuropePMC/MED/38144813
+
+This study explores the oxidation of rabbit meat proteins and the physicochemical properties of the resulting fluorescent carbon nanoparticles (CNPs) under various roasting temperatures (180, 210, 240, 270, and 300 °C). The determination of sulfhydryl content, along with the results from UV and fluorescence spectroscopy, indicates that the protein structure undergoes changes during the roasting process, and the degree of oxidation shows an increasing trend with rising roasting temperatures. The CNP solution obtained exhibits a typical blue fluorescence. Moreover, as the roasting temperature increases from 180 °C to 300 °C, the relative content of the three elements in CNPs, namely C, N, and O, increases by 12 %, -3%, and -9 %, respectively. The surface of the obtained rabbit meat CNPs contains hydrophilic and polycyclic groups, such as carbonyl, hydroxyl, and amide bonds. Correlation analysis reveals a significant positive correlation between the degree of protein oxidation and the fluorescence intensities of CNPs.

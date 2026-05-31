@@ -1,0 +1,7 @@
+TITLE: Increasing silage maize yield and nitrogen use efficiency as a result of combined rabbit manure and mineral nitrogen fertilization.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1038/s41598-024-56669-z
+SOURCE: EuropePMC/MED/38467697
+
+Combined application of organic and mineral fertilizers is crucial to obtaining high crop yields, increasing the utilization of nutrients by plants, and limiting their dispersion, thus protecting the environment, which underscores the importance of sustainable and minimally invasive agriculture. The aim of the field experiment was to determine the effect of application of rabbit manure (RM) and mineral nitrogen (Nmin) on the dry matter (DM) yield of maize and on nitrogen content, uptake, and use efficiency (NUE). RM application was tested at levels of 0, 20, 40 and 60 t·ha-1, and Nmin application at 0, 50, 100 and 150 kg·ha-1. Significant differences were noted in yield and in the content and uptake of nitrogen depending on both experimental factors. Increasing the application of RM and Nmin led to an increase in the yield of harvested maize and in the content and uptake of nitrogen. In terms of DM yield and nitrogen uptake (yield of crude protein), the most beneficial fertilizer variant was 60 t·ha-1 RM applied together with 100 kg·ha-1 Nmin. The highest NUE value was obtained following application of 20 t·ha-1 RM together with 150 kg·ha-1 Nmin.

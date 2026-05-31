@@ -1,0 +1,7 @@
+TITLE: Application of the integrated airway humidification device enhances the humidification effect of the rabbit tracheotomy model.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1515/biol-2022-0825
+SOURCE: EuropePMC/MED/38415203
+
+Long-term mechanical ventilation after tracheotomy is a common treatment in intensive care unit patients. This study investigated the differences among the effects of different wetting states on the airway, lung, and serum inflammatory factors. New Zealand rabbits (n = 36) were selected to construct tracheotomy models and then divided into four groups: Model, Mask, YTH, and Sham groups. Lung tissue dry/wet ratio was used to evaluate the humidification effect; cytokines, including tumor necrosis factor-α, interleukin (IL)-6, IL-8, and IL-10, were used to evaluate the inflammatory response; hematoxylin and eosin staining was used to evaluate the histopathology. Post hoc analysis based on the Dunnett t-test was applied. A self-developed integrated wetting device could increase the utilization of wetting solution, enhance the effect of wetting to protect tissue integrity, and suppress airway inflammation, reducing the expression of pro-inflammatory factors while promoting the expression of anti-inflammatory factor IL-10 to inhibit the inflammatory response, compared to other methods. The integrated humidification device provided a new method for clinical nursing practice, improving clinical efficiency and reducing nursing workload. Further clinical trials are required to test its effectiveness and safety in the clinic.

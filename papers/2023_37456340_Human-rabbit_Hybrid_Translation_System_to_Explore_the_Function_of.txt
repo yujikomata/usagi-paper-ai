@@ -1,0 +1,7 @@
+TITLE: Human-rabbit Hybrid Translation System to Explore the Function of Modified Ribosomes.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.21769/bioprotoc.4714
+SOURCE: EuropePMC/MED/37456340
+
+In vitro translation systems are a useful biochemical tool to research translational regulation. Although the preparation of translation-competent cell extracts from mammals has often been a challenge, the commercially available rabbit reticulocyte lysate (RRL) is an exception. However, its valid use, investigating the mechanism of translation machinery such as ribosomes in RRL, presents an analytic hurdle. To overcome this issue, the hybrid translation system, which is based on the supplementation of purified human ribosomes into ribosome-depleted RRL, has been developed. Here, we describe the step-by-step protocol of this system to study translation driven by ribosomes lacking post-translational modifications of the ribosomal protein. Moreover, we combined this approach with a previously developed reporter mRNA to assess the processivity of translation elongation. This protocol could be used to study the potency of heterologous ribosomes.

@@ -1,0 +1,7 @@
+TITLE: Sucralose Influences the Productive Performance, Carcass Traits, Blood Components, and Gut Microflora Using 16S rRNA Sequencing of Growing APRI-Line Rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/ani14131925
+SOURCE: EuropePMC/MED/38998037
+
+This study investigated how sucralose influenced rabbit intestine and caecal microbial activity, blood parameters, growth performance, carcass characteristics, and digestibility. In total, 160 5-week-old rabbits from the APRI line weighing 563.29 gm were randomly assigned to four experimental groups with four replicates-5 males and 5 females in each. Four experimental groups were used, as follows: SUC1, SUC2, and SUC3 got 75, 150, and 300 mg of sucralose/kg body weight in water daily, while the control group ate a basal diet without supplements. The results showed that both the control and SUC1 groups significantly (p p p p p lactobacillus, and Clostridium spp., and a decrease in the count of Escherichia coli. Further analysis using 16S rRNA data revealed that sucralose upregulated the expression of lactobacillus genes but not that of Clostridium or E. Coli bacteria (p < 0.05). Therefore, it could be concluded that sucralose supplementation for rabbits modifies gut microbiota and boosts beneficial bacteria and feed conversion ratios without side effects. Moreover, sucralose could decrease blood glucose and intensify hypercholesterolemia and should be used with caution for human consumption.

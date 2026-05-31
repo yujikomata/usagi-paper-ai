@@ -1,0 +1,7 @@
+TITLE: Awake rabbit model of ischemic spinal cord injury with delayed paraplegia: The role of ambient temperature.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1002/ame2.12346
+SOURCE: EuropePMC/MED/37697489
+
+BackgroundParaplegia after spinal cord ischemia is a devastating condition in the clinic. Here, we develop an awake rabbit model of spinal cord ischemia with delayed paraplegia and explore the influence of ambient temperature on the outcomes after injury.MethodsA total of 47 male rabbits were involved in the present study. Transient spinal cord ischemia was induced by occluding the infrarenal abdominal aorta of awake rabbits at different ambient temperatures. To find the optimal conditions for developing delayed paraplegia, hindlimb motor function after ischemia was evaluated between experiments.ResultsThe onset and magnitude of ischemic injury varied with the ambient temperature maintained during the peri-ischemia period. More serious spinal cord injury occurred when ischemia was induced at higher temperatures. At 18°C, 25-minute ischemia resulted in 74% of rabbits developing delayed paraplegia. At a temperature of 28°C or higher, most of the animals developed acute paraplegia immediately. While at 13°C, rabbits usually regained normal motor function without paraplegia.ConclusionThis awake rabbit model is highly reproducible and will be helpful in future studies of delayed paraplegia after spinal cord ischemia. The ambient temperature must be considered while using this model during investigation of therapeutic interventions.

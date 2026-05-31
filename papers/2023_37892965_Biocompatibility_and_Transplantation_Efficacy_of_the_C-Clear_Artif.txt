@@ -1,0 +1,7 @@
+TITLE: Biocompatibility and Transplantation Efficacy of the C-Clear Artificial Cornea in a Rabbit Chemical Burn Model.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/bioengineering10101235
+SOURCE: EuropePMC/MED/37892965
+
+We investigated the bioavailability and stability of a C-Clear artificial cornea in a rabbit chemical burn model. Thirty-six rabbits were divided into a control group (n = 16) and a chemical burn group that used NaOH solution (n = 20). After lamellar dissection, the central posterior lamella was excised using a 3 mm diameter trephine, and an artificial cornea was transplanted into the lamellar pocket. After 2 weeks, the central anterior lamella was excised using a 3 mm diameter trephine to secure a clean visual axis. We examined the anterior segment of the eyes weekly for 12 weeks after transplantation. Successful subjects whose artificial corneas were maintained stably for 12 weeks were euthanized and underwent histologic examinations. Artificial corneas remained stable for up to 12 weeks in 62.5 and 50% of rabbits in the control and chemical burn groups, respectively. Two rabbits in the chemical burn group showed the formation of a retroprosthetic membrane, and one rabbit with visual axis blockage underwent membrane removal using a Nd:YAG laser. In histologic examinations, adhesion between artificial cornea and peripheral corneal stoma was observed. In conclusion, we confirmed structural stability and biocompatibility of the C-Clear artificial cornea for up to 12 weeks after implantation in control and chemical burn groups.

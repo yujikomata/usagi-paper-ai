@@ -1,0 +1,7 @@
+TITLE: Dual-energy computed tomography and micro-computed tomography for assessing bone regeneration in a rabbit tibia model.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1038/s41598-024-56199-8
+SOURCE: EuropePMC/MED/38472263
+
+To gain a more meaningful understanding of bone regeneration, it is essential to select an appropriate assessment method. Micro-computed tomography (Micro-CT) is widely used for bone regeneration because it provides a substantially higher spatial resolution. Dual-energy computed tomography (DECT) ensure shorter scan time and lower radiation doses during quantitative evaluation. Therefore, in this study, DECT and Micro-CT were used to evaluate bone regeneration. We created 18 defects in the tibial plateau of the rabbits and filled them with porous polyetheretherketone implants to promote bone regeneration. At 4, 8, and 12 weeks, Micro-CT and DECT were used to assess the bone repair in the defect region. In comparison to Micro-CT (152 ± 54 mg/cm3), the calcium density values and hydroxyapatite density values obtained by DECT [DECT(Ca) and DECT(HAP)] consistently achieved lower values (59 ± 25 mg/cm3, 126 ± 53 mg/cm3). In addition, there was a good association between DECT and Micro-CT (R = 0.98; R2 = 0.96; DECT(Ca): y = 0.45x-8.31; DECT(HAP): y = 0.95x-17.60). This study highlights the need to use two different imaging methods, each with its advantages and disadvantages, to better understand the bone regeneration process.

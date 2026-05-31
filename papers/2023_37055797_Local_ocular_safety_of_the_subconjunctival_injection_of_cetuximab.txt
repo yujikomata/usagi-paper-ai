@@ -1,0 +1,7 @@
+TITLE: Local ocular safety of the subconjunctival injection of cetuximab in rabbits.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1186/s12886-023-02893-6
+SOURCE: EuropePMC/MED/37055797
+
+BackgroundTo evaluate the safety of different doses of subconjunctival cetuximab in rabbits.MethodsAfter general anesthesia rabbits received a subconjunctival injection of 2.5 mg in 0.5 ml, 5 mg in 1 ml, and 10 mg in 2 ml of cetuximab in their right eyes (two rabbits in each group). A similar volume of normal saline solution was injected subconjunctivally in the left eyes. The histopathologic changes were evaluated after enucleation with the aid of H&E staining.ResultsNo significant difference were observed between the treated and control eyes in terms of conjunctival inflammation, goblet cell density, or limbal blood vessel density for all administered doses of cetuximab.ConclusionSubconjunctival injection of cetuximab with the administrated doses in rabbit eyes are safe.

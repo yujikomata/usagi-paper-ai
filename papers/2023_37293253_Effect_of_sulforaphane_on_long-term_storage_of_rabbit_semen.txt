@@ -1,0 +1,7 @@
+TITLE: Effect of sulforaphane on long-term storage of rabbit semen.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1590/1984-3143-ar2023-0001
+SOURCE: EuropePMC/MED/37293253
+
+In this study, it was aimed to determine the effect of sulforaphane (SFN) on rabbit semen cryopreservation. Semen collected from animals was divided into 5 equal volumes as Control, SFN 5 µM, SFN 10 µM, SFN 25 µM and SFN 50 µM groups. Afterwards, semen analyzes were performed. According to our results, there was no statistical difference between the groups at 4°C. However after freezing thawing, the highest total motility, progressive motility and rapid spermatozoa rate was seen in the 10 µM SFN group, while the lowest was observed in the 50 µM SFN group (P<0.05). Static sperm ratio was highest in the 50 µM group, while the lowest was observed in the 10 µM SFN group. When flow cytometry results examined the rate of acrosomal damaged and dead sperm was the lowest in the 10 µM SFN group, a statistical difference was observed between the control group (P<0.05). The highest rate of sperm with high mitochondrial membrane potential was seen in the 5 µM SFN and 10 µM SFN groups. Apoptosis and ROS rates were found to be lower in the experimental groups compared to the control groups (P<0.05). As a result, SFN supplementation at a dose of 10 µM increased the quality of sperm in the freezing and thawing processes of rabbit semen. In conclusion, 10 µM SFN improved the quality of cryopreservation of rabbit semen.

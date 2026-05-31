@@ -1,0 +1,7 @@
+TITLE: Assessment of lipid layer patterns in domestic dogs and rabbits: an observational study.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.5455/ovj.2024.v14.i3.15
+SOURCE: EuropePMC/MED/38682146
+
+BackgroundMaintaining a stable tear film is crucial for having healthy human and animal vision. Animals are expected to have thicker lipid layers than humans due to living in high-temperature and humid environments.AimThe study aimed to evaluate the lipid layer patterns (LLPs) in Arabian dogs and rabbits using a non-invasive, practical, and easy-to-use device and compare them to humans with healthy eyes.MethodsThe study included 75 domestic Arabian dogs (42 males and 33 females; mean ± SD = 6.1 ± 12.7 months) and 75 rabbits (37 males and 38 females; mean ± SD = 3.1 ± 3.4 months). In addition, 75 individuals with healthy eyes (39 males and 36 females; mean ± SD = 25.7 ± 5.0 years) were included for comparison. EASYTEAR View+ assessed the LLP in each animal's and individual's right eye.ResultsThe median LLP grades significantly differed between dogs and humans (Mann-Whitney U test, p p ConclusionThe EASYTEAR View+ has been employed to assess LLP in dogs and rabbits, and the measurements were compared to those of humans with normal ocular health. Dogs and rabbits have thinner lipid layers than healthy humans.

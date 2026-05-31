@@ -1,0 +1,7 @@
+TITLE: Specifics of Porous Polymer and Xenogeneic Matrices and of Bone Tissue Regeneration Related to Their Implantation into an Experimental Rabbit Defect.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/polym16081165
+SOURCE: EuropePMC/MED/38675083
+
+This paper provides a study of two bone substitutes: a hybrid porous polymer and an osteoplastic matrix based on a bovine-derived xenograft. Both materials are porous, but their pore characteristics are different. The osteoplastic matrix has pores of 300-600 µm and the hybrid polymer has smaller pores, generally of 6-20 µm, but with some pores up to 100 µm across. SEM data confirmed the porometry results and demonstrated the different structures of the materials. Therefore, both materials were characterized by an interconnected porous structure and provided conditions for the adhesion and vital activity of human ASCs in vitro. In an experimental model of rabbit shin bone defect, it was shown that, during the 6-month observation period, neither of the materials caused negative reactions in the experimental animals. By the end of the observation period, restoration of the defects in animals in both groups was completed, and elements of both materials were preserved in the defect areas. Data from morphological examinations and CT data demonstrated that the rate of rabbit bone tissue regeneration with the hybrid polymer was comparable to that with the osteoplastic matrix. Therefore, the hybrid polymer has good potential for use in further research and improvement in biomedical applications.

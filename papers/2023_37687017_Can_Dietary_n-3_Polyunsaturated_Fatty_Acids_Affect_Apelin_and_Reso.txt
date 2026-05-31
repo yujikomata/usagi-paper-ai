@@ -1,0 +1,7 @@
+TITLE: Can Dietary n-3 Polyunsaturated Fatty Acids Affect Apelin and Resolvin in Testis and Sperm of Male Rabbits?
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/molecules28176188
+SOURCE: EuropePMC/MED/37687017
+
+Apelin and other novel adipokines have been associated with normal and pathological reproductive conditions in humans and animals. In this paper, we used a rabbit model to investigate if apelin and resolvin (RvD1) in testis and sperm are associated with the oxidative status of semen and serum testosterone of rabbits fed different diets enriched with flaxseed (alpha-linolenic acid, ALA) or with fish oil (eicosapentaenoic acid, EPA, docosapentaenoic acid, DPAn-3, and docosahexaenoic acid, DHA). Apelin and RvD1 were detected by ELISA and apelin and the apelin receptor by immunofluorescence. Increased levels of apelin in testes from both enriched diets were shown, particularly in the interstitial tissue of the FLAX group. The FLAX diet enhanced serum testosterone, and both enriched diets showed higher levels of malondialdehyde and RvD1 in the testis. In ejaculated sperm, apelin and its receptor were localized in the entire tail of the control and both treated groups. The ryanodine receptor was investigated in rabbit testis; the fluorescent signal was increased in mature elongated spermatids of the FLAX group. In conclusion, this data seems to indicate that FLAX increases the amount of apelin in testis, suggesting an involvement of this adipokine in male reproduction and probably a role in the resolution of the inflammatory status.

@@ -1,0 +1,7 @@
+TITLE: Effects of radial extracorporeal shock wave with different frequencies on acute skeletal muscle injury in rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1038/s41598-024-72371-6
+SOURCE: EuropePMC/MED/39261623
+
+To study the efficacy and possible mechanisms of radial extracorporeal shock wave (rESW) with different frequencies for the treatment of acute skeletal muscle injury in rabbits, 48 rabbits of acute injured biceps femoris were randomly divided into 4 groups. Except for the control group, the other groups were treated by rESW with 5 Hz, 10 Hz and 15 Hz, respectively. The injury symptom index scores (ISISs) in the rESW group were significantly lower than those in the control group, with the lowest in the 10 Hz rESW group. Histomorphological features demonstrated a decrease in mononuclear cells and an increase in new myocytes across all groups, with the rESW group showing the most significant changes. The concentrations of PGE2 and IL-1β were significantly lower in all rESW groups by ELISA compared to the control group. Additionally, the 10 Hz group had lower concentrations than the 5 Hz and 15 Hz group. Compared with the control group, MyoD of the rESW groups was significantly increased, and the expression level of the 10 Hz group was higher than that of the other groups. In conclusion, rESW with 5 Hz, 10 Hz and 15 Hz take certain curative effects on acute biceps femoris injury in rabbits, and the 10 Hz rESW takes advantage over 5 Hz and 15 Hz rESW.

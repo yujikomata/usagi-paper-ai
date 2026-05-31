@@ -1,0 +1,7 @@
+TITLE: Plasma metabolomic profiling in two rabbit lines divergently selected for intramuscular fat content.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1038/s42003-023-05266-3
+SOURCE: EuropePMC/MED/37653068
+
+This study provides a thorough comparison of the plasma metabolome of two rabbit lines divergently selected for intramuscular fat content (IMF). The divergent selection led to a correlated response in the overall adiposity, turning these lines into a valuable animal material to study also the genetics of obesity. Over 900 metabolites were detected, and the adjustment of multivariate models, both discriminant and linear, allowed to identify 322 with differential abundances between lines, which also adjusted linearly to the IMF content. The most affected pathways were those of lipids and amino acids, with differences between lines ranging from 0.23 to 6.04 standard deviations, revealing a limited capacity of the low-IMF line to obtain energy from lipids, and a greater branched-chain amino acids catabolism in the high-IMF line related to its increased IMF content. Additionally, changes in metabolites derived from microbial activity supported its relevant role in the lipid deposition. Future research will focus on the analysis of the metabolomic profile of the cecum content, and on the integration of the several -omics datasets available for these lines, to help disentangle the host and microbiome biological mechanisms involved in the IMF deposition.

@@ -1,7 +1,0 @@
-TITLE: Telomere to telomere level genome assembly of the Yarkand hare (Lepus yarkandensis).
-YEAR: 2026
-JOURNAL: 
-DOI: 10.1038/s41597-026-06815-1
-SOURCE: EuropePMC/MED/41680222
-
-The Yarkand hare (Lepus yarkandensis) is endemic to the Tarim Basin in Xinjiang, China. It is a key species and a critical component of the Tarim Basin ecosystems. However, the lack of a reference genome has hindered evolutionary and genetic studies of this species. Here, we assembled a telomere-to-telomere (T2T) genome of the Yarkand hare (LepYark_1.0) using PacBio HiFi, Nanopore, and Hi-C sequencing. The assembled genome size is approximately 2.70 Gb, with a scaffold N50 of 126.86 Mb. About 94.88% of the assembled sequences could be anchored to 24 pseudo-chromosomes, with a BUSCO assessment indicating a completeness of 99.0%. Repetitive sequences comprise 46.38% of the genome, with short interspersed nuclear elements (SINEs) accounting for the largest proportion. Additionally, we identified 24 centromeres and 46 telomeres. 32,298 protein-coding genes were annotated using de novo prediction and transcriptome data, functionally annotating 85% of them. This genome assembly provides genomic resources for studies on conservation, adaptive evolution and the exploration of genetic basis related to important traits of the Yarkand hare.

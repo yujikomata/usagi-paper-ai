@@ -1,0 +1,7 @@
+TITLE: Effects of vine pepper oil on the deterioration of texture quality in boiled rabbit meatballs: Inhibition of hydrophobic interactions and formation of covalent aggregates.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1016/j.fochx.2025.102420
+SOURCE: EuropePMC/MED/40236751
+
+This study explored the influence of Sichuan characteristic vine pepper oil (VPO) on the quality of boiled rabbit meatballs. Sensory analysis revealed that VPO addition alleviated the strong undesirable odor of the meatballs. However, increasing VPO content significantly reduced the texture quality and water-holding capacity (WHC), particularly when VPO exceeded 3 % (v/w). SEM and BET-specific surface area analysis indicated that higher VPO levels promoted globular aggregate formation on the gel surface, increased the number of large pores, and resulted in uneven pore volume distribution. Elevated VPO content reduced the storage modulus and hindered the gel-strengthening phase, and intermolecular force analysis demonstrated significant inhibition of hydrophobic interactions between protein molecules during heating. SDS-PAGE further showed that increased VPO induced covalent bonding between meat proteins and VPO components, forming excessive macromolecular aggregates that disrupted the integrity of the gel structure, ultimately leading to reduced product texture and WHC.

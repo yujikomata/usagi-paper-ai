@@ -1,0 +1,7 @@
+TITLE: Effectiveness of ultra-/very-high-frequency oscillations combined with helium-oxygen gas mixture in a rabbit model.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1038/s41598-024-77703-0
+SOURCE: EuropePMC/MED/39472706
+
+High-frequency oscillatory ventilation (HFOV) at frequencies of approximately 15 Hz is associated with optimal CO2 excretion. Higher frequencies using a nitrogen-oxygen gas mixture worsen CO2 excretion. An in vitro experiment using HFOV and a helium-oxygen gas mixture showed a significant increase in CO2 transport, which increased with increases in ventilation frequency. We hypothesised that in HFOV, the change in the arterial partial pressure of CO2 (PaCO2) would be greater at frequencies above 15 Hz when combined with helium-oxygen gas mixture administration. We tested this hypothesis in a hypoventilated healthy rabbit model by administering a helium-oxygen gas mixture at 15, 25, 35, and 45 Hz frequencies. One-way repeated measures ANOVA showed a significant decrease in PaCO2 among the four ventilation frequency groups. Post-hoc analysis showed significant differences between 15 and 35 Hz frequencies and between 15 and 45 Hz frequencies. The mean (standard error) decrease of PaCO2 was 10.8 (2.2), 14.1 (2.3), 21.3 (3.3), and 23.1 (2.5) mmHg at 15, 25, 35, and 45 Hz, respectively. Combination therapy of helium-oxygen gas mixture and high-frequency oscillation using ultra/very high frequencies (35-45 Hz) was associated with a greater PaCO2 decrease than that using the standard frequency (15 Hz).

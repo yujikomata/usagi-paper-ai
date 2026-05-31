@@ -1,0 +1,7 @@
+TITLE: Preparation and functional validation of rabbit anti-canine CD3ε monoclonal antibody.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3389/fvets.2025.1612069
+SOURCE: EuropePMC/MED/41427134
+
+IntroductionCD3, a surface antigen critical for T cell activation and signal transduction, serves as a key diagnostic marker for T cell-associated malignancies and a therapeutic target in immunotherapy. With canine models gaining prominence in translational immunology and oncology, reliable tools to study T cell-mediated immunity are essential.Methods and resultsIn this study, recombinant canine CD3ε protein was generated via eukaryotic expression and used to immunize rabbits, yielding a novel rabbit anti-canine CD3ε monoclonal antibody (mAb), designated HORCF-CD3.1. Functional characterization confirmed its specificity through flow cytometry and Western blot, demonstrating robust binding to CD3 molecules. Furthermore, the mAb effectively induced T cell stimulation in vitro when applied as an anti-CD3 activator. These findings validate HORCF-CD3.1 as a versatile tool for ELISA, Western blot, and flow cytometry applications.DiscussionThe successful development of this species-specific antibody provides a foundation for advancing diagnostic and therapeutic strategies targeting T cell-related diseases in both humans and dogs.

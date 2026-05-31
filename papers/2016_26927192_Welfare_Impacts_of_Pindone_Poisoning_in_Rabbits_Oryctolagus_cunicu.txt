@@ -1,0 +1,7 @@
+TITLE: Welfare Impacts of Pindone Poisoning in Rabbits (Oryctolagus cuniculus).
+YEAR: 2016
+JOURNAL: 
+DOI: 10.3390/ani6030019
+SOURCE: EuropePMC/MED/26927192
+
+Control methods used to manage unwanted impacts of the European rabbit in Australia and New Zealand include the use of toxic bait containing the anticoagulant pindone. Towards increased certainty in evaluating the animal welfare impacts of pindone poisoning in rabbits, we recorded behavioral and post-mortem data from rabbits which ingested lethal quantities of pindone bait in a laboratory trial. Pindone poisoning in rabbits resulted in welfare compromise, primarily through functional impairments related to internal haemorrhage over a maximum duration of 7 days. Applying this data to a formal assessment framework for ranking animal welfare impacts indicated that pindone had relatively high severity and also duration of welfare impacts in comparison to other rabbit control methods.

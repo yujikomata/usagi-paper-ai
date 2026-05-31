@@ -1,0 +1,7 @@
+TITLE: Assessing the Efficacy of VLP-Based Vaccine against Epstein-Barr Virus Using a Rabbit Model.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/vaccines11030540
+SOURCE: EuropePMC/MED/36992124
+
+Epstein-Barr virus (EBV) is etiologically associated with a number of malignant and non-malignant conditions. Thus, a prophylactic vaccine against this virus could help to reduce the burden of many EBV-associated diseases. Previously, we reported that an EBV virus-like particle (VLP) vaccine was highly immunogenic and produced a strong humoral response in mice. However, since EBV does not infect mice, the efficacy of the VLP in preventing EBV infection could not be addressed. Here we examined, for the first time, the efficacy of the EBV-VLP vaccine using a novel rabbit model of EBV infection. Animals vaccinated with two doses of VLP elicited higher antibody responses to total EBV antigens compared to animals receiving one dose. Vaccinated animals also elicited both IgM and IgG to EBV-specific antigens, VCA and EBNA1. Analysis of peripheral blood and spleen for EBV copy number indicated that the viral load in both of these compartments was lower in animals receiving a 2-dose vaccine. However, the VLP vaccine was ineffective in preventing EBV infection. With several other EBV vaccine candidates currently at various stages of development and testing, we believe that the rabbit model of EBV infection could be a great platform for evaluating potential candidates.

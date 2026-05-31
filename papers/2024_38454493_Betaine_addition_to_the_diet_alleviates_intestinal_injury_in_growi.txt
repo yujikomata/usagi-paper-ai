@@ -1,0 +1,7 @@
+TITLE: Betaine addition to the diet alleviates intestinal injury in growing rabbits during the summer heat through the AAT/mTOR pathway.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1186/s40104-024-00998-6
+SOURCE: EuropePMC/MED/38454493
+
+BackgroundThe aim of this experiment was to investigate the effect of different levels of betaine (Bet) inclusion in the diet on the intestinal health of growing rabbits under summer heat. A total of 100 weaned Qixing meat rabbits aged 35 d with body weight of 748.61 ± 38.59 g were randomly divided into 5 treatment groups: control group (basal diet) and Bet groups (basal diet + 0.75, 1.0, 1.5 or 2.0 g/kg Bet). The average daily temperature in the rabbitry during the experiment was 30.48 °C and the relative humidity was 69.44%.ResultsDietary addition of Bet had no significant effect on growth performance and health status of growing rabbits (P > 0.05), but it increased ileal secretory immunoglobulin A content compared to the control under summer heat (P ConclusionsDietary addition of Bet can up-regulate the expression of anti-inflammatory factors through the AAT/mTOR pathway, improve the intestinal immune function, alleviate intestinal damage in growing rabbits caused by summer heat, and improve intestinal health.

@@ -1,0 +1,7 @@
+TITLE: Group A Streptococcus Vaccine Targeting the Erythrogenic Toxins SpeA and SpeB Is Safe and Immunogenic in Rabbits and Does Not Induce Antibodies Associated with Autoimmunity.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/vaccines11091504
+SOURCE: EuropePMC/MED/37766180
+
+Group A streptococcus (GAS) is a global pathogen associated with significant morbidity and mortality for which there is currently no licensed vaccine. Vaccine development has been slow, mostly due to safety concerns regarding streptococcal antigens associated with autoimmunity and related complications. For a GAS vaccine to be safe, it must be ensured that the antigens used in the vaccine do not elicit an antibody response that can cross-react with host tissues. In this study, we evaluated the safety of our GAS vaccine candidate called VaxiStrep in New Zealand White rabbits. VaxiStrep is a recombinant fusion protein comprised of streptococcal pyrogenic exotoxin A (SpeA) and exotoxin B (SpeB), also known as erythrogenic toxins, adsorbed to an aluminum adjuvant. The vaccine elicited a robust immune response against the two toxins in the rabbits without any adverse events or toxicity. No signs of autoimmune pathology were detected in the rabbits' brains, hearts, and kidneys via immunohistochemistry, and serum antibodies did not cross-react with cardiac or neuronal tissue proteins associated with rheumatic heart disease or Sydenham chorea (SC). This study further confirms that VaxiStrep does not elicit autoantibodies and is safe to be tested in a first-in-human trial.

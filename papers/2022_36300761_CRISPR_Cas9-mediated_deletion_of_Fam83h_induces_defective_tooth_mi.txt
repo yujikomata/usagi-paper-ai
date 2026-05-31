@@ -1,0 +1,7 @@
+TITLE: CRISPR/Cas9-mediated deletion of Fam83h induces defective tooth mineralization and hair development in rabbits.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.1111/jcmm.17597
+SOURCE: EuropePMC/MED/36300761
+
+Family with sequence similarity 83 members H (Fam83h) is essential for dental enamel formation. Fam83h mutations cause human amelogenesis imperfecta (AI), an inherited disorder characterized by severe hardness defects in dental enamel. Nevertheless, previous studies showed no enamel defects in Fam83h-knockout/lacZ-knockin mice. In this study, a large deletion of the Fam83h gene (900 bp) was generated via a dual sgRNA-directed CRISPR/Cas9 system in rabbits. Abnormal tooth mineralization and loose dentine were found in homozygous Fam83h knockout (Fam83h-/- ) rabbits compared with WT rabbits. In addition, reduced hair follicle counts in dorsal skin, hair cycling dysfunction and hair shaft differentiation deficiency were observed in Fam83h-/- rabbits. Moreover, X-rays and staining of bone sections showed abnormal bending of the ulna and radius and an ulnar articular surface with insufficient trabecular bone in Fam83h-/- rabbits. Taken together, these data are the first report of defective hair cycling, hair shaft differentiation and abnormal bending of the ulna and radius in Fam83h-/- rabbits. This novel Fam83h-/- rabbit model may facilitate understanding the function of Fam83h and the pathogenic mechanism of the Fam83h mutation.

@@ -1,0 +1,7 @@
+TITLE: Long-acting Injectable Aripiprazole (Abilify Maintena) Induced Rabbit Syndrome: A Case Report and Review of the Literature.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.9758/cpn.24.1194
+SOURCE: EuropePMC/MED/39820123
+
+Rabbit syndrome (RS), characterized by fine, rapid, rhythmic movements along the mouth's vertical axis, is typically linked to prolonged antipsychotic medication use. Emerging evidence suggests newer antipsychotics' involvement in RS, prompting investigation into its association with long-acting injectable antipsychotics (LAIs) for schizophrenia or bipolar disorder. We report a case of RS observed in a patient diagnosed with bipolar I disorder and treated with Abilify Maintena, highlighting the importance of vigilance in monitoring adverse effects. The patient, a 53-year-old male, experienced persistent manic episodes despite prior treatments. Upon initiation of Abilify Maintena 400 mg, RS symptoms manifested seven months later, remaining resistant to medication adjustments. This case emphasizes the significance of RS in LAIs-treated patients and emphasizes the need for further research into its mechanisms and optimal management strategies. Additionally, an updated review of RS associated with newer generation antipsychotics is provided to enhance understanding and clinical management.

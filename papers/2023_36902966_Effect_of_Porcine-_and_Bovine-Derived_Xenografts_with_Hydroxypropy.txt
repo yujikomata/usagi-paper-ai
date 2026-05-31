@@ -1,0 +1,7 @@
+TITLE: Effect of Porcine- and Bovine-Derived Xenografts with Hydroxypropyl Methylcellulose for Bone Formation in Rabbit Calvaria Defects.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ma16051850
+SOURCE: EuropePMC/MED/36902966
+
+In this study, hydroxypropyl methylcellulose (HPMC) was mixed with particle-type xenografts, derived from two different species (bovine and porcine), to increase the manipulability of bone grafts and compare the bone regeneration ability. Four circular defects with a diameter of 6 mm were formed on each rabbit calvaria, and the defects were randomly divided into three groups: no treatment (control group), HPMC-mixed bovine xenograft (Bo-Hy group), and HPMC-mixed porcine xenograft (Po-Hy group). At eight weeks, micro-computed tomography (µCT) scanning and histomorphometric analyses were performed to evaluate new bone formation within the defects. The results revealed that the defects treated with the Bo-Hy and the Po-Hy showed higher bone regeneration than the control group (p p > 0.05). Within the limitations of the present study, there was no difference in new bone formation between porcine and bovine xenografts with HPMC, and bone graft material was easily moldable with the desired shape during surgery. Therefore, the moldable porcine-derived xenograft with HPMC used in this study could be a promising substitute for the currently used bone grafts as it exhibits good bone regeneration ability for bony defects.

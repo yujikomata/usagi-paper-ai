@@ -1,0 +1,7 @@
+TITLE: Enhanced Drug Effect With Cutting Balloon Followed by Drug Coated Balloon in a Rabbit Model.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1002/ccd.31505
+SOURCE: EuropePMC/MED/40108985
+
+BackgroundDrug-coated balloon (DCB) are effective treatment options for patients with coronary artery disease and using of scoring or cutting balloon before the DCB usage were recommended. However, the effectiveness of lesion preparation with cutting balloons (CB) followed by DCB (CB + DCB) has not been evaluated before.AimsThe aim of the current study was to compare the biological effect of various types of balloon angioplasty in a healthy rabbit iliac artery model.MethodsEach of the four kinds of treatments as balloon angioplasty (BA), CB alone, DCB alone, and CB + DCB were performed in the healthy iliac arteries of 12 rabbits, which were euthanized after 14 days. The treated iliac arteries were sequentially cut, stained with hematoxylin and eosin and Movat Pentachrome, and histopathologically evaluated.ResultsThe depth of medial smooth muscle cell (SMC) loss score, an indicator of drug effect, was highest with CB + DCB, followed by DCB, CB, and BA (CB + DCB vs. DCB vs. CB vs. BA: 3.83 (3.67-4.00) vs. 3.17 (2.67-3.67), 1.67 (1.67-2.08) vs. 1.50 (1.00-1.67), p ConclusionsThe drug effect of DCB was enhanced when CB was used before DCB treatment, suggesting the effectiveness of the combination therapy of CB and DCB.

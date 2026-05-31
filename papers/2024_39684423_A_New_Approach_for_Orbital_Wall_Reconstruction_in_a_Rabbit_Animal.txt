@@ -1,0 +1,7 @@
+TITLE: A New Approach for Orbital Wall Reconstruction in a Rabbit Animal Model Using a Hybrid Hydroxyapatite-Collagen-Based Implant.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/ijms252312712
+SOURCE: EuropePMC/MED/39684423
+
+Reconstructing the orbit following complex craniofacial fractures presents significant challenges. Throughout the years, several materials have been used for orbital reconstruction, taking into account factors such as their durability, compatibility with living tissue, cost efficiency, safety, and capacity to be adjusted during surgery. Nevertheless, a consensus has not yet been reached on the optimal material for orbital restoration. This study investigates the potential of a hybrid hydroxyapatite-collagen (HAp-COL) material 3D-printed on Ti mesh to be used as an implant for orbital wall reconstruction. HAp-COL powder was synthesized using a high-pressure hydrothermal technique. The powder was further used to 3D-print HAp-COL structures on titanium mesh, with the latter having potential uses in orbital wall reconstruction. Biocompatibility was assessed by evaluating the effects of the HAp-COL material on the adhesion and proliferation of fibroblasts (3T3) and mesenchymal stem cells (MSCs) in culture. In vitro and in vivo results showed that HAp-COL is highly biocompatible and has a good integration of the implant in the bone. The findings reported in this study offer convincing evidence to support the use of our designed HAp-COL for the restoration of orbital wall fractures, with a high level of safety.

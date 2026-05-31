@@ -1,0 +1,7 @@
+TITLE: Combination of HSP90 Inhibitors and HSP70 Inducers Prevent Hydrochloric Acid-Induced Pulmonary Fibrosis in Rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ijms26020441
+SOURCE: EuropePMC/MED/39859156
+
+Combined therapies with Heat Shock Protein 90 (HSP90) inhibitors and Heat Shock Protein 70 (HSP70) inducers are gaining significant interest in cancer and cardiovascular research. Here, we tested the hypothesis that HSP90 inhibitors and HSP70 inducers, together, can block the development of pulmonary fibrosis. We exposed New Zealand White Rabbits to hydrochloric acid (HCl, 0.1 N, 1.5 mL/kg), one of the top five chemicals most commonly involved in accidental exposures and inhalation injuries worldwide, and treated animals with either the orally available HSP90 inhibitor TAS-116 (1.7 mg/kg 5x/week) or TAS-116 combined with the HSP70 inducer, geranylgeranyl acetone (GGA, 50 mg/kg, 3x/week). At 60 days post-HCl instillation, TAS and GGA treatment markedly reduced the degree of pulmonary fibrosis, lung dysfunction, and activation of profibrotic pathways. The use of HSP70 inducers may be a helpful tool to improve the profile of HSP90 inhibitors and reduce their minimal effective dose and side effects. Further investigation is required to explore the exact synergistic mechanism behind the antifibrotic profile of HSP90 inhibitors and HSP70 inducers.

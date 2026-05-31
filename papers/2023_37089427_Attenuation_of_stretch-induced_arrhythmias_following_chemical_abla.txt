@@ -1,0 +1,7 @@
+TITLE: Attenuation of stretch-induced arrhythmias following chemical ablation of Purkinje fibres, in isolated rabbit hearts.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3389/fphys.2023.1154157
+SOURCE: EuropePMC/MED/37089427
+
+Purkinje fibres (PFs) play an important role in some ventricular arrhythmias and acute ventricular stretch can evoke mechanically-induced arrhythmias. We tested whether Purkinje fibres, play a role in these arrhythmias. Pseudo-ECGs were recorded in isolated, Langendorff-perfused, rabbit hearts in which the left ventricular endocardial surface was also irrigated with Tyrode, via an indwelling catheter placed in the left ventricular lumen. The number and period of ectopic activations was measured during left ventricular lumen inflation via an indwelling fluid-filled balloon (500 μL added over 2 s and maintained for 15 s in total). Mechanically-induced arrhythmias occurred in 70% of balloon inflations: they were maximal in the first 5 s and ceased within 15 s. Brief, (10 s) irrigation of the left ventricular lumen with Lugol solution (IK/I2), via the indwelling catheter, reduced inflation-induced ectopics by 98% (p In silico modelling predicted ectopic sources originating in the endocardial region propagate to and through the Purkinje fibres network. Acute distention-induced ectopics are multi-focal, their attenuation by Lugol, their activation patterns and in silico modelling indicate a participation of Purkinje fibres in these arrhythmias.

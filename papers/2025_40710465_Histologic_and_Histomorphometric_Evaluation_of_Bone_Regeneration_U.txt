@@ -1,0 +1,7 @@
+TITLE: Histologic and Histomorphometric Evaluation of Bone Regeneration Using Human Allogeneic Bone Graft with or Without Mesenchymal Stem Cell-Conditioned Media in a Rabbit Calvarial Defect Model.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/jfb16070251
+SOURCE: EuropePMC/MED/40710465
+
+Alveolar bone loss due to trauma, extraction, or periodontal disease often requires bone grafting prior to implant placement. Although human allograft bone is widely used as an alternative to autograft, it has limited osteoinductive potential and a prolonged healing time. Mesenchymal stem cell-conditioned media (MSC-CM), rich in paracrine factors, has emerged as a promising adjunct to enhance bone regeneration. This study evaluated the regenerative effect of MSC-CM combined with human allograft bone in a rabbit calvarial defect model. Bilateral 8 mm defects were created in eight rabbits. Each animal received a human allograft alone (HB group) on one side and an allograft mixed with MSC-CM (HB+GF group) on the other. Histological and histomorphometric analyses were performed at 2 and 8 weeks postoperatively. Both groups showed new bone formation, but the HB+GF group demonstrated significantly greater bone regeneration at both time points (p < 0.05). New bone extended into the defect center in the HB+GF group. Additionally, greater graft resorption and marrow formation were observed in this group at 8 weeks. These findings suggest that MSC-CM enhances the osteogenic performance of human allograft bone and may serve as a biologically active adjunct for bone regeneration.

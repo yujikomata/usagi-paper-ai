@@ -1,0 +1,7 @@
+TITLE: A three-dimensional reconstructive study of pelvic cavity in the New Zealand rabbit (Oryctolagus cuniculus).
+YEAR: 2014
+JOURNAL: 
+DOI: 10.1155/2014/489854
+SOURCE: EuropePMC/MED/25379534
+
+The present study has been performed to reveal biometrical aspects and diameter-related differences in terms of sexes regarding pelvic cavity via three-dimensional (3D) reconstruction by using multidetector computed tomography (MDCT) images of pelvic cavity of the New Zealand rabbit. A total of 16 adult New Zealand rabbits, including 8 males and 8 females, were used in this study. Under anesthesia, the images obtained from MDCT were stacked and overlaid to reconstruct the 3D model of the pelvic cavity using 3D modeling software (Mimics 13.1). Measurements, such as the conjugate, transverse, and vertical diameters of the pelvic cavity, and the pelvic inclination were calculated and analyzed statistically. Biometrical differences of the pelvic diameters in New Zealand rabbits of both sexes were shown clearly. It was concluded that the pelvic diameters revealed by 3D modeling techniques can shed light on medical students who take both anatomy training and gynecological applications. The authors hope that the synchronization of medical approaches may give rise to novel diagnostic and therapeutic developments related to pelvic cavity.

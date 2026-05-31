@@ -1,0 +1,7 @@
+TITLE: Decreasing the Risk of Early Sub-Therapeutic Tacrolimus Troughs on Short-Term Outcomes in Low-Moderate Risk Kidney Transplant Recipients Receiving Rabbit Anti-Thymocyte Globulin Induction.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1111/ctr.70156
+SOURCE: EuropePMC/MED/40232869
+
+IntroductionOutcomes are poor in kidney transplant (KTx) recipients with sub-therapeutic tacrolimus troughs. It is unknown if rabbit anti-thymocyte globulin (rATG) induction delays the deleterious impact of early sub-therapeutic tacrolimus troughs. The study aims compared short-term graft outcomes of KTx recipients stratified by tacrolimus troughs at the time of discharge from index admission.MethodsSingle-center retrospective cohort study compared adult KTx recipients with sub-therapeutic versus therapeutic discharge tacrolimus troughs (defined as ResultsAmong 411 recipients included, 335 (81.5%) were discharged with a tacrolimus trough ConclusionKTx recipients receiving rATG induction, discharged with sub-therapeutic tacrolimus troughs (<8 ng/mL) have comparable short-term graft outcomes versus those discharged with therapeutic troughs (≥8 ng/mL). This suggests that delaying discharge to reach therapeutic troughs is not necessary.

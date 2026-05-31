@@ -1,0 +1,7 @@
+TITLE: Development of the Lacrimal Apparatus in the Rabbit (Oryctolagus cuniculus) and Its Potential Role as an Animal Model for Humans.
+YEAR: 2011
+JOURNAL: 
+DOI: 10.1155/2011/623186
+SOURCE: EuropePMC/MED/22567296
+
+Rabbits have been proposed as a model organism for the human lacrimal apparatus (LA), including the nasolacrimal duct (NLD), based principally on comparative studies of adult morphology; however, little is known about its development. The NLD first appears as an incomplete primordium in the subcutaneous region of the primordial eyelid and subsequently elongates to reach the naris. One posterior and three anterior orbital glands are present fetally although one of the anterior glands is soon lost. The NLD follows a tortuous path and passes through a bony canal consisting of lacrimal, maxilla, and maxilloturbinal bones at different regions. Although early developmental similarities exist to haplorhine primates, the narial opening of the NLD resembles strepsirrhines. This distinction, along with the ductal and glandular differences at the orbital end of the NLD, indicates that rabbits may be a poor model for LA drainage in primates, specifically humans.

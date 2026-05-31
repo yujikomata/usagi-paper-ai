@@ -1,7 +1,0 @@
-TITLE: The complete mitochondrial DNA sequence of the <i>Pentalagus furnessi</i> (Lagomorpha: Leporidae), an endemic species of Amami Ōshima, Japan.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.1080/23802359.2025.2552811
-SOURCE: EuropePMC/MED/41041299
-
-Pentalagus furnessi, an endemic relict rabbit restricted to Amami Ōshima and Tokunoshima Islands, Japan, is threatened by invasive carnivores, habitat loss, and roadkill. We report the first complete mitochondrial genome of P. furnessi obtained by next-generation sequencing, providing baseline data for conservation genetics. The mitochondrial genome (approximately 16 kb) encodes 13 protein-coding genes (PCGs), 22 tRNAs, two rRNAs, and a control region, with an overall A+T content of 62.8%. Start codons ATG/ATT and stop codons TAA/TAG were identified. Phylogenetic analysis using 13 PCGs revealed a distinct lineage, consistent with its monotypic genus status and supporting conservation efforts.

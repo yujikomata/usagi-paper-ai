@@ -1,0 +1,7 @@
+TITLE: Ramifications of Heat Stress on Rabbit Production and Role of Nutraceuticals in Alleviating Its Negative Impacts: An Updated Review.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/antiox12071407
+SOURCE: EuropePMC/MED/37507946
+
+Heat stress has become a widespread concern worldwide, which is a major environmental stress that causes substantial economic loss in the rabbit industry. Compared to other agricultural animals, rabbits are more sensitive to heat stress as they have fewer sweat glands and a thicker coat of fur, increasing the heat dissipation complexity. Thus, heat stress hurts rabbits' productivity, meat quality, reproductive performance, antioxidative properties, immune responsiveness, intestinal histomorphology, and microbiome. Nutraceuticals include vitamins, minerals, antioxidants, organic acids, fatty acids, probiotics, prebiotics, synbiotics, enzymes, and medicinal plants due to the possible impacts on maintaining common biological situations, strengthening immune response, and preventing illness, which ultimately led to an increase in productivity. Nutraceuticals have recently attracted a lot of attention to alleviate the adverse impacts of heat stress in rabbit farms. The objective of the current review is to provide acquaintance with the recent findings about the impact of heat stress on rabbit productivity and the advantages of dietary supplementation of nutraceuticals in mitigating it.

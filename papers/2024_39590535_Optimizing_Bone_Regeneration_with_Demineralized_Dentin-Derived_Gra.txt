@@ -1,0 +1,7 @@
+TITLE: Optimizing Bone Regeneration with Demineralized Dentin-Derived Graft Material: Impact of Demineralization Duration in a Rabbit Calvaria Model.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/jfb15110331
+SOURCE: EuropePMC/MED/39590535
+
+This study evaluated the regenerative potential of demineralized dentin-derived matrix (DDM) as a bone graft material in rabbit calvaria. DDM, sourced from extracted teeth, is emerging as an alternative to traditional grafts like allografts and xenografts. We aimed to identify the most effective demineralization protocol to optimize the regenerative capacity of DDM. Four groups were compared: a control group without grafts, a non-demineralized DDM group, and two demineralized DDM groups (15 and 30 min demineralization). Histomorphometric analysis was conducted in a randomized and blinded setting at 2, 4, and 8 weeks post-graft placement. The results revealed that the 15 min demineralized DDM group showed the most significant new bone formation (42.51% ± 6.40% at 8 weeks; p < 0.05), suggesting its potential as a highly effective regenerative graft material.

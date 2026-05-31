@@ -1,0 +1,7 @@
+TITLE: Mechanism of a rabbit monoclonal antibody broadly neutralizing SARS-CoV-2 variants.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1038/s42003-023-04759-5
+SOURCE: EuropePMC/MED/37012333
+
+Due to the continuous evolution of SARS-CoV-2, the Omicron variant has emerged and exhibits severe immune evasion. The high number of mutations at key antigenic sites on the spike protein has made a large number of existing antibodies and vaccines ineffective against this variant. Therefore, it is urgent to develop efficient broad-spectrum neutralizing therapeutic drugs. Here we characterize a rabbit monoclonal antibody (RmAb) 1H1 with broad-spectrum neutralizing potency against Omicron sublineages including BA.1, BA.1.1, BA.2, BA.2.12.1, BA.2.75, BA.3 and BA.4/5. Cryo-electron microscopy (cryo-EM) structure determination of the BA.1 spike-1H1 Fab complexes shows that 1H1 targets a highly conserved region of RBD and avoids most of the circulating Omicron mutations, explaining its broad-spectrum neutralization potency. Our findings indicate 1H1 as a promising RmAb model for designing broad-spectrum neutralizing antibodies and shed light on the development of therapeutic agents as well as effective vaccines against newly emerging variants in the future.

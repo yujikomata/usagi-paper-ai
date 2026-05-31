@@ -1,0 +1,7 @@
+TITLE: Assessing the osseointegration potential of a strontium releasing nanostructured titanium oxide surface: A biomechanical study in the rabbit tibia plateau model.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1002/cre2.812
+SOURCE: EuropePMC/MED/38044566
+
+ObjectivesTo investigate the impact of a Ti-Sr-O technology, applied to either a turned surface or an SLA surface, on the mechanical robustness of osseointegration, benchmarked against the SLActive surface.Material and methodsTi discs (6.25-mm-diameter and 2-mm-thick) with three different surfaces were inserted on the proximal-anterior part of the tibial plateau of adult Swedish loop rabbits: (I) turned surface modified with Ti-Sr-O (turned + Ti-Sr-O), (II) SLA surface modified with Ti-Sr-O (SLA + Ti-Sr-O), and (III) SLActive surface (SLActive). Following a healing period of 2 weeks and 4 weeks, the pull-out (PO) force needed to detach the discs from the bone was assessed, as a surrogate of osseointegration.ResultsThe SLActive surface exhibited statistically significant higher median PO forces, compared with the SLA + Ti-Sr-O surfaces at both 2- and 4 weeks post-op (p > .05). In this study, no single turned + Ti-Sr-O surface disk was integrated.ConclusionsThe tested Ti-Sr-O technology failed to enhance osseointegration; however, this finding may be related to the inappropriateness of the rabbit tibia plateau model for assessing third-generation implant surface technologies, due to the limited diffusion and clearance at the disk-bone interface.

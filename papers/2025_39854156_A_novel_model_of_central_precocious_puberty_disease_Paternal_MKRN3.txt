@@ -1,0 +1,7 @@
+TITLE: A novel model of central precocious puberty disease: Paternal MKRN3 gene-modified rabbit.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1002/ame2.12544
+SOURCE: EuropePMC/MED/39854156
+
+BackgroundMakorin ring finger protein 3 gene (MKRN3) gene mutation is the most common genetic cause of central precocious puberty (CPP) in children. Due to the lack of ideal MKRN3-modified animal model (MKRN3-modified mice enter puberty only 4-5 days earlier than normal mice), the related research is limited.MethodsTherefore, the MKRN3-modified rabbit was developed using CRISPR (clustered regularly interspaced short palindromic repeats) gene editing technology. The genotype identification and phenotype evaluation of MKRN3-modified rabbits were carried out.ResultsThe first estrus of MKRN3-modified female rabbits was observed ~27 days earlier than that of wild-type female rabbits, with a typical CPP phenotype. This study found increased gonadotropin releasing hormone (GnRH) and decreased gonadotropin inhibiting hormone (GnIH) in the hypothalamus of the CPP rabbit model with MKRN3 gene mutation. Although this study failed to fully clarify the pathogenesis of CPP caused by MKRN3 mutation, it found some differentially expressed genes and potential pathways through transcriptome sequencing.ConclusionsThis study established a novel CPP model: paternal MKRN3 gene-modified rabbit. It is hoped that the establishment of this model will help researchers better understand, treat, and prevent CPP in the future.

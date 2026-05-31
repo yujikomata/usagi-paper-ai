@@ -1,0 +1,7 @@
+TITLE: Influence of probiotic supplementation and rabbit line on growth performance, carcass yield, blood biochemistry and immune response under hot weather.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.5713/ab.24.0904
+SOURCE: EuropePMC/MED/40302681
+
+ObjectiveAn experiment was conducted to investigate the beneficial effect of probiotic supplementation via drinking water on growth performance, carcass yield, blood parameters, and immunity of two rabbit lines during the summer season.MethodsIn a 6-week probiotic supplementation trial, a total of 90 healthy growing rabbits having a similar weight (590.3±16 g) representing two lines (V-Line and Alexandria) were randomly allocated into three equal groups. Three levels of probiotics (0, 6.67×109 colony forming unit [CFU]/L and 13.35×109 CFU/L of Bacillus licheniformis) were administered through drinking water as non-supplemented, low, and high levels.ResultsA linearly increased body weight at 5 and 6 weeks of the experiment (p = 0.01 and pConclusionThe beneficial effects of probiotic supplementation via drinking water on rabbit performance under hot weather were identified as improved growth performance, an enhanced lipid profile, and an early increase in cell-mediated immunity in both rabbit lines that received a high level of the probiotics.

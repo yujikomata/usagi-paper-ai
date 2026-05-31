@@ -1,0 +1,7 @@
+TITLE: Heterologous combinations of VSV-GP and native-like trimers elicit autologous Tier 2 HIV antibodies in rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s41541-025-01334-3
+SOURCE: EuropePMC/MED/41398167
+
+Developing an effective human immunodeficiency virus (HIV) vaccine remains challenging due to difficulties to induce antibodies that neutralize the wide range of HIV-variants. Native-like HIV envelope (Env) trimers in a closed conformation represent promising immunogens. We evaluated the immunogenicity of the chimeric vesicular stomatitis virus-based vector VSV-GP encoding clade C membrane-tethered native-like trimers in heterologous prime/boost combinations with autologous protein. Infected cells displayed high levels of native-like trimers on the surface in a favorable conformation and native-like trimers were also efficiently incorporated into VSV-GP particles. Heterologous vector/protein immunizations outperformed homologous vector regimens, regardless of administration order. In rabbits, these regimens elicited Tier 1 and autologous Tier 2 neutralizing antibodies. Tier 2 neutralization was restricted to pseudoviruses matching the engineered Env-immunogen, with no cross-neutralization of parental Env-variants. Our findings support the use of VSV-GP as a potent platform for displaying native-like Env-trimers and highlight its potential in prime-boost strategies for HIV vaccine development.

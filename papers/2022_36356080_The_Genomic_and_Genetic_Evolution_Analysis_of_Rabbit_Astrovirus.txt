@@ -1,0 +1,7 @@
+TITLE: The Genomic and Genetic Evolution Analysis of Rabbit Astrovirus.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.3390/vetsci9110603
+SOURCE: EuropePMC/MED/36356080
+
+Rabbit astrovirus (RAstV) is a pathogen that causes diarrhea in rabbits, with high infection rate at various stages, which can often cause secondary or mixed infections with other pathogens, bringing great economic losses to the rabbit industry. In this study, 10 samples were collected from cases of rabbits with diarrhea on a rabbit meat farm in the Shandong area of China. The positive sample for astrovirus detected by RT-PCR was inoculated into an RK 13 cell line. A rabbit astrovirus strain named Z317 was successfully isolated, which produced an obvious cytopathic effect 48 h post-inoculation in the RK 13 cell line. The genome structure of this isolate was studied by high-throughput sequencing, showing that the Z317 strain had the highest similarity with the American strain TN/2208/2010, with 92.43% nucleotide homology, belonging to group MRAstV-23. The basic properties of the Z317 capsid (Cap) protein were analyzed, and 10 liner B cell epitopes were screened with the online biosoft Bepipred 2.0 and SVMTriP, including 445-464, 186-205, 655-674, 88-107, 792-811, 45-64, and 257-276 amino acids. This is the first contribution concerning RAstV genomes in China; more studies are needed to understand the diversity and impact of RAstV on rabbit health.

@@ -1,0 +1,7 @@
+TITLE: Heterologous microsatellite primers are informative for paca (Cuniculus paca), a large rodent with economic and ecological importance.
+YEAR: 2020
+JOURNAL: 
+DOI: 10.1186/s13104-020-05312-x
+SOURCE: EuropePMC/MED/33028373
+
+ObjectiveThis study was designed to facilitate genetic studies that would allow information on population structure and genetic diversity of natural or captive stocks of paca (Cuniculus paca), a species of ecological and socioeconomic importance, by testing cross-amplification of 20 heterologous microsatellite primer pairs developed for guinea pigs (Cavia porcellus) and capybara (Hydrochoerus hydrochaeris).ResultsThose primers that showed the best amplification profile in blood samples were subsequently applied to scats and saliva samples, to evaluate their efficiency. Of the 13 microsatellite pairs that amplified in blood, one-third (32%) were successfully amplified in saliva and scat samples. This initial work demonstrates successful cross-amplification in paca providing a solid and promising foundation for future genetic studies with this species. The ability to quantify genetic diversity using noninvasive samples from free-ranging paca is essential to developing applied management strategies for this large neotropical rodent that is not only a prey favored by wide-ranging carnivores [e.g., jaguar (Panthera onca), puma (Puma concolor)], but is also a species targeted by illegal hunting and wildlife trade.

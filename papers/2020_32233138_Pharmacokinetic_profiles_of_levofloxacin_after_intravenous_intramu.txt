@@ -1,0 +1,7 @@
+TITLE: Pharmacokinetic profiles of levofloxacin after intravenous, intramuscular and subcutaneous administration to rabbits (Oryctolagus cuniculus).
+YEAR: 2020
+JOURNAL: 
+DOI: 10.4142/jvs.2020.21.e32
+SOURCE: EuropePMC/MED/32233138
+
+Levofloxacin pharmacokinetic profiles were evaluated in 6 healthy female rabbits after intravenous (I/V), intramuscular (I/M), or subcutaneous (S/C) administration routes at a single dose of 5 mg/kg in a 3 × 3 cross-over study. Plasma levofloxacin concentrations were detected using a validated Ultra Performance Liquid Chromatography method with a fluorescence detector. Levofloxacin was quantifiable up to 10 h post-drug administration. Mean AUC0-last values of 9.03 ± 2.66, 9.07 ± 1.80, and 9.28 ± 1.56 mg/h*L were obtained via I/V, I/M, and S/C, respectively. Plasma clearance was 0.6 mL/g*h after I/V administration. Peak plasma concentrations using the I/M and S/C routes were 3.33 ± 0.39 and 2.91 ± 0.56 μg/mL. Bioavailability values, after extravascular administration were complete, - 105% ± 27% (I/M) and 118% ± 40% (S/C). Average extraction ratio of levofloxacin after I/V administration was 7%. Additionally, levofloxacin administration effects on tear production and osmolarity were evaluated. Tear osmolarity decreased within 48 h post-drug administration. All 3 levofloxacin administration routes produced similar pharmacokinetic profiles. The studied dose is unlikely to be effective in rabbits; however, it was calculated that a daily dose of 29 mg/kg appears effective for I/V administration for pathogens with MIC < 0.5 μg/mL.

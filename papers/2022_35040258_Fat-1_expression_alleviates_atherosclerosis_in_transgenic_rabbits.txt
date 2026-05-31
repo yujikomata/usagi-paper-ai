@@ -1,0 +1,7 @@
+TITLE: Fat-1 expression alleviates atherosclerosis in transgenic rabbits.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.1111/jcmm.17188
+SOURCE: EuropePMC/MED/35040258
+
+Atherosclerosis is the main cause of cardiovascular diseases. The Fat-1 gene can express the n-3 fatty acid desaturase, which converts n-6 polyunsaturated fatty acids (PUFA) to n-3 PUFAs. The role of n-3 PUFAs in atherosclerosis is widely debated. This study explored the effect of n-3 PUFAs on atherosclerosis in rabbits. In this study, atherosclerosis was induced in Fat-1 transgenic rabbits and their littermate (WT) rabbits by feeding a high-cholesterol diet containing 0.3% cholesterol and 3% soybean oil for 16 weeks. Plasma lipid, fatty acid and pathological analyses of atherosclerotic lesions were conducted. Fatty acid composition in the liver and muscle showed that n-3 PUFAs increased and n-6 PUFAs decreased in the Fat-1 group. Plasma high-density lipoprotein cholesterol (HDL-C) levels were significantly increased in the Fat-1 group, and the atherosclerotic lesion area of the aortic arch in Fat-1 transgenic rabbits was significantly reduced. Histological analysis showed that smooth muscle cells (SMCs) in atherosclerotic lesions decreased significantly. In conclusion, n-3 PUFAs improve atherosclerosis in Fat-1 transgenic rabbits, and this process may depend on the increase in plasma HDL-C and the decrease in the amount of SMCs in atherosclerotic plaques.

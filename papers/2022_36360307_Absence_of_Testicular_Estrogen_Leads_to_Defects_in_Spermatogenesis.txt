@@ -1,0 +1,7 @@
+TITLE: Absence of Testicular Estrogen Leads to Defects in Spermatogenesis and Increased Semen Abnormalities in Male Rabbits.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.3390/genes13112070
+SOURCE: EuropePMC/MED/36360307
+
+Estrogens are steroid hormones produced by the aromatization of androgens by the aromatase enzyme, encoded by the CYP19A1 gene. Although generally referred to as "female sex hormones", estrogen is also produced in the adult testes of many mammals, including humans. To better understand the function of estrogens in the male, we used the rabbit model which is an important biomedical model. First, the expression of CYP19A1 transcripts was localized mainly in meiotic germ cells. Thus, testicular estrogen appears to be produced inside the seminiferous tubules. Next, the cells expressing ESR1 and ESR2 were identified, showing that estrogens could exert their function on post-meiotic germ cells in the tubules and play a role during sperm maturation, since ESR1 and ESR2 were detected in the cauda epididymis. Then, CRISPR/Cas9 CYP19A1-/- genetically modified rabbits were analyzed. CYP19A1-/- males showed decreased fertility with lower sperm count associated with hypo-spermatogenesis and lower spermatid number. Germ/sperm cell DNA methylation was unchanged, while sperm parameters were affected as CYP19A1-/- males exhibited reduced sperm motility associated with increased flagellar defects. In conclusion, testicular estrogens could be involved in the spermatocyte-spermatid transition in the testis, and in the acquisition of sperm motility in the epididymis.

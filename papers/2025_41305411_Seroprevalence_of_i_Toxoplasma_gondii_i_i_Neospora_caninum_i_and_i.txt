@@ -1,0 +1,7 @@
+TITLE: Seroprevalence of <i>Toxoplasma gondii</i>, <i>Neospora caninum</i> and <i>Encephalitozoon cuniculi</i> in Red Foxes (<i>Vulpes vulpes</i>) from Italy.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/pathogens14111175
+SOURCE: EuropePMC/MED/41305411
+
+The ecological role and overlap with urban environments make wild carnivores useful epidemiological sentinels for several pathogens. The present study aimed to investigate the seroprevalence of Toxoplasma gondii, Neospora caninum and Encephalitozoon cuniculi in red foxes (Vulpes vulpes) from Central and Southern Italy. Sera from 120 foxes were analyzed using IFAT with a 1:20 cut-off value. Overall, seropositivity was highest for T. gondii (68.5%), followed by E. cuniculi (15.0%) and N. caninum (3.3%). Multivariable logistic regression models with stepwise selection identified age class and location as significant predictor factors for T. gondii exposure, with adults and red foxes from Southern Italy showing higher levels of prevalence. No significant associations with epidemiological risk factors were detected for E. cuniculi or N. caninum. Co-infections were detected in 15% of red foxes with a statistically significant positive association between T. gondii and E. cuniculi. These findings highlight that red foxes, being scavengers, are particularly exposed to food-borne pathogens, especially to T. gondii, and prove once again that they are reliable epidemiological sentinels for parasites that circulate at the wild-domestic interface.

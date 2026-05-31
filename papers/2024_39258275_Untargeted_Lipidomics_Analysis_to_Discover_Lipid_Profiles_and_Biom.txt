@@ -1,0 +1,7 @@
+TITLE: Untargeted Lipidomics Analysis to Discover Lipid Profiles and Biomarkers of Rabbit Acne Model and Reveal Action Mechanism of Isotretinoin.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.2147/dddt.s476649
+SOURCE: EuropePMC/MED/39258275
+
+BackgroundAcne vulgaris (AV), a chronic inflammatory pilosebaceous disorder, affects 80-90% of teenagers. This study aimed to discover lipid profiles and biomarkers of the rabbit ear acne model, and investigate the mechanism of isotretinoin in treating acne at the lipid level.MethodsUntargeted lipidomic analysis using ultra-high performance liquid chromatography system (UHPLC) coupled to q-extraction plus was performed to identify skin lipid metabolites in blank control (groups C), model group (group M) and isotretinoin group (group T). Multivariate statistical analysis was used to process the lipidomics data.ResultsA total of 43 lipid classes comprising 6989 lipid species were identified from the mass spectrometry data. The orthogonal partial least squares discriminant analysis (OPLS-DA) model demonstrated significant separation in skin lipidomic profiles between group M and group C. With variable influence on projection (VIP) > 1.0 and P-value ConclusionOur findings provide new insights into the role of lipid metabolism in the pathogenesis of acne and the action mechanism of isotretinoin.

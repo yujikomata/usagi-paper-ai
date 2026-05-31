@@ -1,0 +1,7 @@
+TITLE: Development of the Rabbit NASH Model Resembling Human NASH and Atherosclerosis.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/biomedicines11020384
+SOURCE: EuropePMC/MED/36830921
+
+Non-alcoholic steatohepatitis (NASH) is a chronic liver disease which may progress into liver fibrosis and cancer. Since NASH patients have a high prevalence of atherosclerosis and ensuing cardiovascular diseases, simultaneous management of NASH and atherosclerosis is required. Currently, rodents are the most common animal models for NASH and accompanying liver fibrosis, but there are great differences in lipoprotein profiles between rodents and humans, which makes it difficult to reproduce the pathology of NASH patients with atherosclerosis. Rabbits can be a promising candidate for assessing NASH and atherosclerosis because lipoprotein metabolism is more similar to humans compared with rodents. To develop the NASH model using rabbits, we treated the Japanese White rabbit with a newly developed high-fat high-cholesterol diet (HFHCD) containing palm oil 7.5%, cholesterol 0.5%, and ferrous citrate 0.5% for 16 weeks. HFHCD-fed rabbits exhibited NASH at 8 weeks after commencing the treatment and developed advanced fibrosis by the 14th week of treatment. In addition to hypercholesterolemia, atherosclerotic lesion developed in the aorta after 8 weeks. Therefore, this rabbit NASH model might contribute to exploring the concurrent treatment options for human NASH and atherosclerosis.

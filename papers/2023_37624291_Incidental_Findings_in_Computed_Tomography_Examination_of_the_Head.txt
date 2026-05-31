@@ -1,0 +1,7 @@
+TITLE: Incidental Findings in Computed Tomography Examination of the Head in Rabbits and Guinea Pigs.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/vetsci10080504
+SOURCE: EuropePMC/MED/37624291
+
+(1) Background: Rabbits and guinea pigs are popular pet animals and often undergo computed tomography (CT) examination for assessment of pathologies of the head. The goal of the study was to review CT examinations of the heads of rabbits and guinea pigs to identify and classify incidental findings. (2) Methods: 60 CT studies of the heads of rabbits and 65 of guinea pigs presented at 2 Institutions were reviewed and the indications for the study recorded. (3) Results: The presence of CT findings not directly related to the reason for the CT examination was present in 40/60 (66.7%) studies of rabbits and in 42/65 (64.4%) studies of guinea pigs. Most commonly, the incidental findings involved the ears, in 24/60 studies in rabbits and in 29/65 studies in guinea pigs. Incidental findings involved the nasal cavities, respectively, in 9 and 7 rabbits and guinea pigs. Soft tissue mineralization was present in 11 rabbits and 17 guinea pigs. (4) Conclusions: Based on the present study, incidental findings detected on CT studies are often present in rabbits and guinea pigs. Veterinarians should be aware of the possible clinical impact of these findings.

@@ -1,0 +1,7 @@
+TITLE: Comparing effects of tangerine-peel (Citrus reticulata Blanco) age and concentration on deep-fried rabbit meat: Impact on heterocyclic aromatic amines, amino acids, and flavor compound formation.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1016/j.fochx.2024.101902
+SOURCE: EuropePMC/MED/39469281
+
+Many nutritional experts recommend rabbit meat as a high-protein source. However, the high temperatures used to prepare deep-fried rabbit meat (DFRM) typically produce numerous heterocyclic aromatic amines (HAAs), a class of substances with carcinogenic risks. In this study, we chromatographically evaluate changes in the volatile compounds, amino acids, and HAAs in DFRM while employing tangerine peel (TP) as an additive. A total of 35 volatile organic compounds are detected in the TP, which increase the concentrations of sweet and umami amino acids in the DFRM. Remarkably, the TP substantially inhibits the IQ-type HAAs, particularly MeIQ, MeIQx, 4,8-DiMeIQx, and PhIP, which are produced during deep frying. Correlation analyses reveal that the histidine, aldehydes, and alcohols are strongly and positively correlated (P < 0.001) with the MeIQ, MeIQx, 4,8-DiMeIQx, and PhIP production. This study offers innovative and natural approaches for reducing HAA formation during the frying of rabbit meat.

@@ -1,0 +1,7 @@
+TITLE: First report of Thelazia callipaeda infection in wild European rabbits (Oryctolagus cuniculus) in Portugal.
+YEAR: 2016
+JOURNAL: 
+DOI: 10.1186/s13071-016-1526-1
+SOURCE: EuropePMC/MED/27160400
+
+BackgroundThelazia callipaeda is a zoonotic nematode that affects the eyes of domestic and wild animals, including dogs, cats and red foxes. This parasitic eye worm is transmitted by Phortica variegata, which is a zoophilic fruit fly spread in Europe. Two wild European rabbits (Oryctolagus cuniculus) found dead in north-eastern Portugal were submitted to necropsy.ResultsBoth animals presented gross lesions compatible with haemorrhagic viral disease. Eye examination revealed the presence of six worms (three in each animal, on both eyes). Out of the six nematodes, five females and one male were morphologically and molecularly identified as T. callipaeda.ConclusionsThis is the first report of T. callipaeda in wild rabbits from Portugal, which reveals a new host for this parasite in southern Europe and emphasizes the importance of including thelaziosis in the differential diagnosis of ocular alterations in both animals and humans from areas where the eye worm is endemic.

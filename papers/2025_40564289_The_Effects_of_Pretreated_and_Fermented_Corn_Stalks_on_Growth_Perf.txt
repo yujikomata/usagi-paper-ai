@@ -1,0 +1,7 @@
+TITLE: The Effects of Pretreated and Fermented Corn Stalks on Growth Performance, Nutrient Digestion, Intestinal Structure and Function, and Immune Function in New Zealand Rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15121737
+SOURCE: EuropePMC/MED/40564289
+
+This study investigates the efficacy of fermented corn straw as a viable corn substitute in rabbit diets, evaluating its impact on growth performance, intestinal health, cecal microbiota, and metabolite profiles to determine its potential for addressing corn shortages in animal husbandry. Over 35 days, 120 New Zealand rabbits were assigned to four treatments: (i) 12% corn (C100), (ii) 6% corn + 6% fermented straw (FS50), (iii) 12% fermented straw (FS100), and (iv) 6% corn + 6% dry straw (DS50). Fermented straw enhanced the rabbits' average daily feed intake (ADI) and average daily gain (ADG) and elevated cecal cellulase activity. It also downregulated TLR4 in the jejunum mucosa, upregulated MUC2 in the ileum mucosa, strengthened the intestinal barrier, and reduced the diarrhea index and incidence in weaned rabbits. Specific microbial families influenced amino acid and phospholipid concentrations, altering the cecal metabolic environment. In summary, replacing corn with fermented corn straw in rabbit diets significantly boosts ADG and ADI, potentially lowers the feed-to-gain ratio, and enhances cecal microbiota and metabolite profiles without compromising growth performance.

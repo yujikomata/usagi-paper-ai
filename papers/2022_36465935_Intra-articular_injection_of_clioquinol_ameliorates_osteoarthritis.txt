@@ -1,0 +1,7 @@
+TITLE: Intra-articular injection of clioquinol ameliorates osteoarthritis in a rabbit model.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.3389/fmed.2022.1028575
+SOURCE: EuropePMC/MED/36465935
+
+Osteoarthritis (OA) is characterized by the degeneration of articular cartilage. Decreased autophagy is tightly associated with chondrocyte death, which contributes to the progression of OA. Thus, pharmacological activation of autophagy may be a promising therapeutic approach for OA. Here, we discovered that clioquinol, an antibiotic, significantly induces autophagy in OA chondrocytes from human tissue and rabbit model. Meanwhile, clioquinol can also augment the expression of extracellular matrix (ECM) components and suppress inflammatory mediators to improve OA microenvironment. Intra-articular injection of clioquinol can greatly prevent or slow down the development of this disease in a trauma-induced rabbit model of osteoarthritis. Such protective effect induced by clioquinol was at least in part explained by decreasing chondrocyte apoptosis and increasing autophagy. This study reveals the therapeutic potential of clioquinol in OA treatment.

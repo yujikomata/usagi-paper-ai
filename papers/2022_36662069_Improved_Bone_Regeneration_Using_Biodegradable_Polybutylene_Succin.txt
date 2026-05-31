@@ -1,0 +1,7 @@
+TITLE: Improved Bone Regeneration Using Biodegradable Polybutylene Succinate Artificial Scaffold in a Rabbit Model.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.3390/jfb14010022
+SOURCE: EuropePMC/MED/36662069
+
+The treatment of extensive bone loss represents a great challenge for orthopaedic and reconstructive surgery. Most of the time, those treatments consist of multiple-stage surgeries over a prolonged period, pose significant infectious risks and carry the possibility of rejection. In this study, we investigated if the use of a polybutylene succinate (PBS) micro-fibrillar scaffold may improve bone regeneration in these procedures. In an in vivo rabbit model, the healing of two calvarial bone defects was studied. One defect was left to heal spontaneously while the other was treated with a PBS scaffold. Computed tomography (CT) scans, histological and immunohistochemical analyses were performed at 4, 12 and 24 weeks. CT examination showed a significantly larger area of mineralised tissue in the treated defect. Histological examination confirmed a greater presence of active osteoblasts and mineralised tissue in the scaffold-treated defect, with no evidence of inflammatory infiltrates around it. Immunohistochemical analysis was positive for CD56 at the transition point between healthy bone and the fracture zone. This study demonstrates that the use of a PBS microfibrillar scaffold in critical bone defects on a rabbit model is a potentially effective technique to improve bone regeneration.

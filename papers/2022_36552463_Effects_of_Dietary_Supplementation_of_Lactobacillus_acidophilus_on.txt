@@ -1,0 +1,7 @@
+TITLE: Effects of Dietary Supplementation of Lactobacillus acidophilus on Blood Parameters and Gut Health of Rabbits.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.3390/ani12243543
+SOURCE: EuropePMC/MED/36552463
+
+This study aimed to evaluate the effects of Lactobacillus acidophilus D2/CSL (L-1 × 109 cfu/kg feed/day) on biochemical parameters, faecal score (FS), cecal pH, gut morphometry, microbiota and cecal short-chain fatty acid (SCFAs) in rabbits. Three zootechnical trials were performed and in each trial 30 rabbits were allotted to two groups; a probiotic group (L) and a control group (C). At slaughter (day 45), samples of blood, duodenum, jejunum, ileum, liver and spleen were collected and submitted to histomorphometric analyses. Blood biochemical analyses, cecal microbiota and SCFAs determination were also performed. In trial 1 and 3, L. acidophilus D2/CSL did not affect productive parameters (p > 0.05). However, L group of trial 1 showed a lower morbidity and mortality compared to the control. In trial 2, C group showed a higher daily feed intake (p = 0.018) and a positive statistical tendency for live weight and average daily gain (p = 0.068). On the contrary, albumin was higher and ALFA-1 globulin was lower in the C group compared to L (p < 0.05). In all the trials, FS, cecal pH, histomorphometry, microbiota and SCFAs were unaffected. In conclusion, L. acidophilus D2/CSL did not impair growth performances, gut and rabbit’s health, reducing morbidity and mortality.

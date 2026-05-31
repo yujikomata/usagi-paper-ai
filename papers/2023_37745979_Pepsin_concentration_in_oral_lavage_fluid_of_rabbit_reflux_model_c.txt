@@ -1,0 +1,7 @@
+TITLE: Pepsin concentration in oral lavage fluid of rabbit reflux model constructed by dilating the lower esophageal sphincter.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1515/med-2023-0787
+SOURCE: EuropePMC/MED/37745979
+
+The aim of this study was to explore the changes in pH and pepsin concentrations in oral lavage fluid of rabbit reflux model. A total of 18 New Zealand rabbits were randomly divided into two groups. The lower esophageal sphincters (LESs) of the rabbits in the experimental group (EG) were dilated by balloon after the LESs were localized by manometry. The pH levels of the throat and the lower esophagus were monitored 1 week before and 2 weeks after inflation. Oral lavage fluid was collected 1 week before, and 2 and 8 weeks after inflation. The pH monitoring showed that the percentage of reflux time, the number of reflux events, and the longest time of reflux after the dilation (AE) in the EG were significantly higher than before the dilation (P P < 0.05). Based on receiver operating characteristic curve analysis, the best diagnostic threshold value was 30.3 ng/ml. The reflux model constructed by balloon inflation of the LES in rabbits is characterized by a decrease in throat pH and an increase in salivary pepsin concentration.

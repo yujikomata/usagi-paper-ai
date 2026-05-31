@@ -1,0 +1,7 @@
+TITLE: Inflammation-suppressing cornea-in-a-syringe with anti-viral GF19 peptide promotes regeneration in HSV-1 infected rabbit corneas.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1038/s41536-024-00355-1
+SOURCE: EuropePMC/MED/38429307
+
+Pathophysiologic inflammation, e.g., from HSV-1 viral infection, can cause tissue destruction resulting in ulceration, perforation, and ultimately blindness. We developed an injectable Cornea-in-a-Syringe (CIS) sealant-filler to treat damaged corneas. CIS comprises linear carboxylated polymers of inflammation-suppressing 2-methacryloyloxyethyl phosphorylcholine, regeneration-promoting collagen-like peptide, and adhesive collagen-citrate glue. We also incorporated GF19, a modified anti-viral host defense peptide that blocked HSV-1 activity in vitro when released from silica nanoparticles (SiNP-GF19). CIS alone suppressed inflammation when tested in a surgically perforated and HSV-1-infected rabbit corneal model, allowing tissue and nerve regeneration. However, at six months post-operation, only regenerated neocorneas previously treated with CIS with SiNP-GF19 had structural and functional features approaching those of normal healthy corneas and were HSV-1 virus-free. We showed that composite injectable biomaterials can be designed to allow regeneration by modulating inflammation and blocking viral activity in an infected tissue. Future iterations could be optimized for clinical application.

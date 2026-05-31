@@ -1,0 +1,7 @@
+TITLE: Water contact angle data and FTIR data of stem cell/tenocyte co-culture-derived secretome releasing electrospun tube; and adhesion data of fully transected and sutured rabbit Achilles tendons three weeks post-operation under application of such a tube.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1016/j.dib.2025.112188
+SOURCE: EuropePMC/MED/41210352
+
+Tendon ruptures may result in unsatisfactory outcomes, even after long rehabilitation programs and careful return to daily activities and sports. One major problem after a tendon rupture is the fibrotic adhesion formation to the adjacent tissue, which hampers proper motion and may end up in a permanent reduced range of motion. Following a cell-free approach, we cultivated rabbit adipose-derived stem cells (ASCs) and rabbit Achilles tenocytes in a ratio of 3:1 and incorporated the secretome harvested from this co-culture into an emulsion electrospun tubular DegraPol® fiber mesh. These tubes were characterized by thestatic and dynamic water contact angles and by FTIR spectra, with a comparison to tubes without secretome incorporation (control). Furthermore, we present adhesion data from an in vivo experiment, where these tubes were implanted around a fully transected rabbit Achilles tendon after suture at 3 weeks post-operation.

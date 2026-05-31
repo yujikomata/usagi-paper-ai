@@ -1,0 +1,7 @@
+TITLE: Efficacy of Low-Level Laser Therapy in a Rabbit Model of Rhinosinusitis.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ijms24010760
+SOURCE: EuropePMC/MED/36614203
+
+Little is known about alternative treatment options for rhinosinusitis (RS). We aimed to evaluate the efficacy of low-level laser therapy (LLLT) for RS in experimentally induced rabbit models of RS. A total of 18 rabbits were divided into four groups: a negative control group (n = 3), an RS group without treatment (n = 5, positive control group), an RS group with natural recovery (n = 5, natural recovery group), and an RS group with laser irradiation (n = 5, laser-treated group). Computed tomography and histopathological staining were performed for each group. mRNA and protein expression levels of local cytokines (IFN-γ, IL-17, and IL-5) were also measured. Tissue inflammation revealed a significant improvement in the laser-treated group compared with the RS and natural recovery groups (p < 0.01). In addition, sinus opacification in the CT scans and cytokine expression was reduced in the laser-treated group, though without statistical significance. LLLT could be an effective option for the management of RS concerning radiological, histological, and molecular parameters.

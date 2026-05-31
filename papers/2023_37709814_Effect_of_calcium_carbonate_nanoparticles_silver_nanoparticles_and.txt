@@ -1,0 +1,7 @@
+TITLE: Effect of calcium carbonate nanoparticles, silver nanoparticles and advanced platelet-rich fibrin for enhancing bone healing in a rabbit model.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1038/s41598-023-42292-x
+SOURCE: EuropePMC/MED/37709814
+
+This study aimed to evaluate the efficacy of calcium carbonate nanoparticles (CCNPs) to induce new bone formation in a critical size segmental bone defect in rabbit's radius when used alone, combined with silver nanoparticles (AgNPs) as a paste, or as a composite containing CCNPs, AgNPs, and advanced platelet-rich fibrin (A-PRF). Thirty-six adult apparently healthy male New Zealand White rabbits aging from 5 to 6 months and weighting 3.5 ± 0.5 kg were used. The animals were divided into four groups; control group, CCNPs group, CCNPs/AgNPs paste group, and CCNPs/AgNPs/A-PRF composite group. The animals were investigated at 4, 8, and 12 weeks post-implantation in which the healing was evaluated using computed tomographic (CT) and histopathological evaluation. The results revealed that CCNPs/AgNPs paste and CCNPs/AgNPs/A-PRF composite has a superior effect regarding the amount and the quality of the newly formed bone compared to the control and the CCNPs alone. In conclusion, addition of AgNPs and/or A-PRF to CCNPs has reduced its resorption rate and improved its osteogenic and osteoinductive properties.

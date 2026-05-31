@@ -1,0 +1,7 @@
+TITLE: A novel reverse transcription recombinase polymerase amplification assay for rapid detection of GI.1 genotype of rabbit hemorrhagic disease virus.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3389/fvets.2023.1056601
+SOURCE: EuropePMC/MED/36968474
+
+Rabbit Viral Hemorrhagic Disease (RHD) is a highly contagious and fatal infection, resulting in considerable economic losses to the rabbit industry. Consequently, it is essential to develop a fast and accurate diagnostic method for RHDV GI.1. In this study, a rapid simple reverse transcriptase recombinase polymerase amplification (RTRPA) for RHDV GI.1 was successfully developed using specific primers to RHDV GI.1 VP60 gene. Results indicated that the entire amplification process could be achieved in an isothermal condition at 40°C for 30 minutes, with good specificity and no reaction to other common rabbit disease pathogens, and a high sensitivity of upto 0.1LD50 of RHDV GI.1. Then, RT-RPA method was used to detect 1144 clinical samples, and the positive rates were 0.95%, 1.29% and 2.50% in Zaozhuang, Linyi, and Liaocheng in Shandong Province, respectively (the Fisher's exact test, P = 0.413), suggesting that there is no significant difference in RHDV GI.1 infection among the different regions. In conclusion, this study established a RT-RPA assay which is suitable for quick detection and monitoring of RHDV GI.1, thus making it a viable option for epidemiological surveillance.

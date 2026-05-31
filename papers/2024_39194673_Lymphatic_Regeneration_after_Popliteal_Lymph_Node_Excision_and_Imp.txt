@@ -1,0 +1,7 @@
+TITLE: Lymphatic Regeneration after Popliteal Lymph Node Excision and Implantation of Aligned Nanofibrillar Collagen Scaffolds: An Experimental Rabbit Model.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/jfb15080235
+SOURCE: EuropePMC/MED/39194673
+
+Lymphedema presents significant challenges to patients' quality of life, prompting the exploration of innovative treatments, such as collagen scaffolds, aimed at treating and reducing the risk of lymphedema. We aimed to evaluate the preventive and therapeutic efficacy and the lymphangiogenic potential of implanted aligned nanofibrillar collagen scaffolds (BioBridgeTM) following the induction of secondary lymphedema in a rabbit model. Thirty rabbits were divided into treatment (G1), prevention (G2), and control (G3) groups. Secondary lymphedema was induced in all groups. BioBridgeTM implantation was performed in G2 and G1 on days 0 and 60, respectively. Follow-ups included hindlimb circumference measurements and indocyanine green lymphography at 0, 60, and 90 days. None of the study rabbits exhibited dermal backflow on day 0 before surgery. At 60 days, the incidence rates of dermal backflow in G1, G2, and G3 were 100%, 44.4%, and 90%, respectively. Furthermore, at 90 days, the incidence rates were 22.2%, 44.4%, and 90%, respectively. New linear lymphatic observation was seen in rabbits with resolved dermal backflow. The findings of this study demonstrated the capacity of BioBridgeTM scaffolds to induce new lymphatic vessel formation and reduce dermal backflow in secondary lymphedema in a rabbit model.

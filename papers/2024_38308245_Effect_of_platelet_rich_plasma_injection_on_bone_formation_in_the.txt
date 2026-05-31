@@ -1,0 +1,7 @@
+TITLE: Effect of platelet rich plasma injection on bone formation in the expanded mid-palatal suture in rabbits: a randomized controlled animal study.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1186/s12903-024-03922-6
+SOURCE: EuropePMC/MED/38308245
+
+BackgroundMid-Palatal suture expansion needs long retention period due to delayed bone formation in the expanded suture. Platelet-rich plasma (PRP) is a concentrated source of growth factors which increase bone formation. The aim of this study was to evaluate the effect of PRP injection on bone formation in expanded mid palatal suture in rabbits.MethodsIn this prospective randomized controlled animal study, Twenty male rabbits (8-weeks-old) were subjected to mid-palatal expansion for 5 days. Animals were afterwards randomly divided into control group A & study group B. PRP was prepared and injected in the mid-palatal suture in animals belonging to group B only. After 6 weeks of retention, all animals were euthanized, and premaxillae were prepared for histological, histomorphometric and immunohistochemical analysis. Student t-test and paired t-test were used to compare the means of the two groups and within the same group respectively. Significance level set at p ≤ 0.05.ResultsHistomorphometric analysis revealed a significant increase (p ConclusionsIn rabbit model, PRP injection can accelerate new bone formation in the expanded mid-palatal suture when compared to the control. This could hopefully result in a more stable midpalatal expansion and a reduced retention period.

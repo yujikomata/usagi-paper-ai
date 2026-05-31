@@ -1,0 +1,7 @@
+TITLE: Hydrothermal Synthesis of Fluorapatite Coatings over Titanium Implants for Enhanced Osseointegration-An In Vivo Study in the Rabbit.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.3390/jfb13040241
+SOURCE: EuropePMC/MED/36412882
+
+This work aims at the development and characterization of fluorapatite coatings, innovatively prepared by the hydrothermal method, aiming for enhanced osseointegration of titanium implants. Fluoride-containing coatings were prepared and characterized by scanning and transmission electron microscopy, Fourier-transform infrared spectroscopy-attenuated total reflectance, and X-ray photoelectron spectroscopy. The biological response was characterized by microtomographic evaluation and histomorphometric analysis upon orthotopic implantation in a translational rabbit experimental model. Physic-chemical analysis revealed the inclusion of fluoride in the apatite lattice with fluorapatite formation, associated with the presence of citrate species. The in vivo biological assessment of coated implants revealed an enhanced bone formation process-with increased bone-to-implant contact and bone volume. The attained enhancement of the osteogenic process may be attributable to the conjoined modulatory activity of selected fluoride and citrate levels within the produced coatings. In this regard, the production of fluorapatite coatings with citrate, through the hydrothermal method, entails a promising approach for enhanced osseointegration in implant dentistry and orthopedic applications.

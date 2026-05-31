@@ -1,0 +1,7 @@
+TITLE: Changes in Disc Status and Condylar Regeneration After Intracapsular Condylar Fractures in Rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1111/odi.15238
+SOURCE: EuropePMC/MED/39737831
+
+BackgroundThe treatment procedure for intracapsular condylar fractures (ICF) is still being debated. The temporomandibular joint (TMJ) disc is a key factor for treating ICF. The study aims to investigate the changes in TMJ disc status and condylar cartilage regeneration following ICF in a rabbit model, to assist in planning treatment.MethodsAdolescent and adult rabbits received surgery on the left TMJs: (1) ICF with anterior disc displacement, (2) ICF with the removal of the ICF segment and disc. The animals were euthanized immediately, and at 4, 8, and 12 weeks after surgery. Their left TMJs were collected for histological, SOX 9 immunohistochemical, and micro-CT analyses.ResultsAll 36 TMJs (100%) showed anterior disc displacement at 4, 8, and 12 weeks after surgery. Also, condylar cartilage regeneration was observed in all 36 joints. Notably, partial regeneration of condylar cartilage was noted at 4 weeks after removal of the disc and ICF fractured segment in both adolescent and adult groups.ConclusionAnterior displaced disc after ICF in adolescent and adult rabbits exhibited sustained disc displacement without therapeutic intervention. TMJ disc and associated attachment are crucial in the condylar cartilage regeneration after ICF.

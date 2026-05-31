@@ -1,0 +1,7 @@
+TITLE: Double hit of foetal growth restriction and postnatal hyperoxia alters lung structure and function in a preterm rabbit model of bronchopulmonary dysplasia.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1371/journal.pone.0330717
+SOURCE: EuropePMC/MED/40857237
+
+Bronchopulmonary dysplasia (BPD) is a disease with a multi-factorial pathophysiology; however, current animal models lack complexity. We employed a double-hit model with an antenatal insult of foetal growth restriction paired with milder postnatal hyperoxia exposure. We induced foetal growth restriction (FGR) by injecting N(G)-nitro-L-arginine methyl ester (L-NAME) in the pregnant rabbit, and exposed preterm-born kittens to 70% hyperoxia for 7 days. L-NAME effectively induced FGR, and mortality rates were acceptable. The double-hit group exhibited adverse outcomes, including decreased lung compliance, increased airway resistance, and structural changes such as alveolar simplification and thickened septa. Gene expression analysis in the L-NAME group revealed downregulation of vascular growth factors, suggesting impaired vascular development. In contrast to traditional hyperoxia models, our double-hit approach enables lower hyperoxia exposure, aligning more closely with clinical practice guidelines in neonatology. The findings underscore the importance of antenatal factors in BPD pathophysiology and reinforce the need for refined animal models that accurately reflect the complexities of preterm lung development.

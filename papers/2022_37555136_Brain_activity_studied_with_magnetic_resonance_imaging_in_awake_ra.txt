@@ -1,0 +1,7 @@
+TITLE: Brain activity studied with magnetic resonance imaging in awake rabbits.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.3389/fnimg.2022.965529
+SOURCE: EuropePMC/MED/37555136
+
+We reviewed fMRI experiments from our previous work in conscious rabbits, an experimental preparation that is advantageous for measuring brain activation that is free of anesthetic modulation and which can address questions in a variety of areas in sensory, cognitive, and pharmacological neuroscience research. Rabbits do not struggle or move for several hours while sitting with their heads restrained inside the horizontal bore of a magnet. This greatly reduces movement artifacts in magnetic resonance (MR) images in comparison to other experimental animals such as rodents, cats, and monkeys. We have been able to acquire high-resolution anatomic as well as functional images that are free of movement artifacts during several hours of restraint. Results from conscious rabbit fMRI studies with whisker stimulation are provided to illustrate the feasibility of this conscious animal model for functional MRI and the reproducibility of data gained with it.

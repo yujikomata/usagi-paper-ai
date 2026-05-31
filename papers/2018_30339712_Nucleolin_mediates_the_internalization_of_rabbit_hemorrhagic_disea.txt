@@ -1,0 +1,7 @@
+TITLE: Nucleolin mediates the internalization of rabbit hemorrhagic disease virus through clathrin-dependent endocytosis.
+YEAR: 2018
+JOURNAL: 
+DOI: 10.1371/journal.ppat.1007383
+SOURCE: EuropePMC/MED/30339712
+
+Rabbit hemorrhagic disease virus (RHDV) is an important member of the Caliciviridae family and a highly lethal pathogen in rabbits. Although the cell receptor of RHDV has been identified, the mechanism underlying RHDV internalization remains unknown. In this study, the entry and post-internalization of RHDV into host cells were investigated using several biochemical inhibitors and RNA interference. Our data demonstrate that rabbit nucleolin (NCL) plays a key role in RHDV internalization. Further study revealed that NCL specifically interacts with the RHDV capsid protein (VP60) through its N-terminal residues (aa 285-318), and the exact position of the VP60 protein for the interaction with NCL is located in a highly conserved region (472Asp-Val-Asn474; DVN motif). Following competitive blocking of the interaction between NCL and VP60 with an artificial DVN peptide (RRTGDVNAAAGSTNGTQ), the internalization efficiency of the virus was markedly reduced. Moreover, NCL also interacts with the C-terminal residues of clathrin light chain A, which is an important component in clathrin-dependent endocytosis. In addition, the results of animal experiments also demonstrated that artificial DVN peptides protected most rabbits from RHDV infection. These findings demonstrate that NCL is involved in RHDV internalization through clathrin-dependent endocytosis.

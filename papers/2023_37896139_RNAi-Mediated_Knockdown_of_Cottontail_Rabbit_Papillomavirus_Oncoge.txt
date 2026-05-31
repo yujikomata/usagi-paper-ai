@@ -1,0 +1,7 @@
+TITLE: RNAi-Mediated Knockdown of Cottontail Rabbit Papillomavirus Oncogenes Using Low-Toxicity Lipopolyplexes as a Paradigm to Treat Papillomavirus-Associated Cancers.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/pharmaceutics15102379
+SOURCE: EuropePMC/MED/37896139
+
+The cottontail rabbit papillomavirus (CRPV)-associated VX2 carcinoma of the New Zealand White rabbit serves as a model system for human papillomavirus (HPV)-associated head and neck squamous cell carcinomas (HNSCCs). The aim of this study was to evaluate the tumor-inhibiting effect of RNAi-mediated knockdown of the CRPV oncogenes, E6 and E7, using siRNA-loaded lipopolyplexes (LPPs). VX2-carcinoma-derived cells were cultured for up to 150 passages. In addition, CRPV E6 and E7 oncogenes were transiently expressed in COS-7 cells. Efficiency and safety of LPPs were evaluated in both VX2 cells and the COS-7 cell line. Both of these in vitro CRPV systems were validated and characterized by fluorescence microscopy, Western blot, and RT-qPCR. Efficient knockdown of CRPV E6 and E7 was achieved in VX2 cells and COS-7 cells pretransfected with CRPV E6 and E7 expression vectors. Knockdown of CRPV oncogenes in VX2 cells resulted in reduced viability, migration, and proliferation and led to a G0/G1 block in the cell cycle. CRPV E6 and E7 siRNA-loaded LPPs could represent promising therapeutic agents serving as a paradigm for the treatment of papillomavirus-positive cancers and could be of value for the treatment of CRPV-associated diseases in the rabbit such as papillomas and cancers of the skin.

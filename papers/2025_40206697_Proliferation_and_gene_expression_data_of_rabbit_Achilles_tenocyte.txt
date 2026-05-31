@@ -1,0 +1,7 @@
+TITLE: Proliferation and gene expression data of rabbit Achilles tenocyte in vitro culture in the presence of high-molecular weight hyaluronic acid (1.01-1.8 MDa).
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1016/j.dib.2025.111459
+SOURCE: EuropePMC/MED/40206697
+
+Hyaluronic acid (HA) is a natural bio macromolecule and a good bio lubricant. As it is a predominant component of the synovial fluid, the aim was to explore the effects HA on rabbit Achilles tenocytes in vitro. The data set presents proliferation assessed by the Alamar Blue® assay; and gene expression of tenocytes that were cultured either with or without supplementation of high-molecular weight HA in a concentration of 1.4 mg/mL. There was a daily medium exchange with fresh HA supplementation. On days 3, 7 and 14 the following target genes were analysed and manifold induction was calculated against the control (no HA): Biglycan, Decorin, Aggrecan, Collagen 1A1, Collagen 1A2, Collagen 3, LOX, IL-6, TNF-α, PAR-2, ALOX-15, Tenascin-C, Tenomodulin, Mohawk, α-SMA, TIMP-1, MMP-2, MMP-9, and ki67. These data might be interesting for researchers working in the tendon field.

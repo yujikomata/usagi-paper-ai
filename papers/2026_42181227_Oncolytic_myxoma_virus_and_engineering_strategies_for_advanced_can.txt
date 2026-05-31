@@ -1,7 +1,0 @@
-TITLE: Oncolytic myxoma virus and engineering strategies for advanced cancer immunotherapy.
-YEAR: 2026
-JOURNAL: 
-DOI: 10.1016/j.isci.2026.115812
-SOURCE: EuropePMC/MED/42181227
-
-In cancer immunotherapy, oncolytic viruses (OVs) offer an alternative approach to kill malignant cells by inducing cancer-specific host immune system activation. Given the ongoing need for safe and effective viral vectors for immunotherapy, non-zoonotic animal viruses have attracted significant interest. Here, we review the oncolytic myxoma virus (MYXV) and emphasize its emerging role in cancer immunotherapy. We critically discuss recent advances in cancer therapy using MYXV, primarily focused on engineered viral modifications. Furthermore, we briefly review alternative delivery strategies for MYXV and its combination with other anticancer agents. We also compare several key features of MYXV with those of other well-characterized OVs. In this study, we explore the key preclinical milestones that must be achieved for the MYXV OV to successfully transition to clinical trials. Preclinical studies have indicated the promising oncolytic potential and satisfactory safety profile of MYXV, thus paving the way for human clinical trials.

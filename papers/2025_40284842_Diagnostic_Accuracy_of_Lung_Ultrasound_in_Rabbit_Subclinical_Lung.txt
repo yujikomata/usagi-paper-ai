@@ -1,0 +1,7 @@
+TITLE: Diagnostic Accuracy of Lung Ultrasound in Rabbit Subclinical Lung Lesions.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/vetsci12040340
+SOURCE: EuropePMC/MED/40284842
+
+Rabbits are commonly affected by subclinical lung diseases. Computed tomography (CT) is the gold standard for diagnosing rabbit lung diseases but is not widely available and requires anesthesia, delaying diagnosis. Lung ultrasound (LUS) has emerged as a radiation-free, bedside diagnostic tool in human and veterinary medicine, though its use in rabbit medicine is not routine. This study aimed to evaluate LUS for detecting subclinical lung lesions in rabbits. Thirty healthy, five-month-old male New Zealand white rabbits underwent lung ultrasound, exploring four regions in each hemithorax, followed by thoracic CT under sedation with midazolam and butorphanol. The ultrasound images were scored as positive or negative, and the CT exams were assessed for aeration using threshold masks. The results showed that 63% of rabbits had one or more affected regions in the ultrasound images, and 19% of the regions were positive. CT identified 54% of the regions as positive for poorly aerated tissue, with 26/30 rabbits showing at least one positive region. The sensitivity and specificity of LUS were 33.33% and 93.48%, respectively, with an accuracy of 67.92% for detecting subclinical lesions. While LUS demonstrated a high specificity, its sensitivity was low compared to CT, highlighting the need for further refinement in its use for rabbit respiratory disease diagnosis.

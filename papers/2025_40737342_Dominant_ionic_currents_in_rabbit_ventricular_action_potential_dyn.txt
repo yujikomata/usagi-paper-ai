@@ -1,0 +1,7 @@
+TITLE: Dominant ionic currents in rabbit ventricular action potential dynamics.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1371/journal.pone.0328261
+SOURCE: EuropePMC/MED/40737342
+
+Mathematical models of cardiac cell electrical activity include numerous parameters, making calibration to experimental data and individual-specific modeling challenging. This study applies Sobol sensitivity analysis, a global variance-decomposition method, to identify the most influential parameters in the Shannon model of rabbit ventricular myocyte action potential (AP). The analysis highlights the background chloride current ([Formula: see text]) as the dominant determinant of AP variability. Additionally, the inward rectifier potassium current ([Formula: see text]), fast/slow delayed rectifier potassium currents (IKr, [Formula: see text]), sodium-calcium exchanger current ([Formula: see text]), the slow component of the transient outward potassium current ([Formula: see text]), and L-type calcium current ([Formula: see text]) significantly affect AP biomarkers, including duration, plateau potential, and resting potential. Exploiting these results, a hierarchical reduction of the model is performed and demonstrates that retaining only six key parameters can capture sufficiently well individual biomarkers, with a coefficient of determination exceeding 0.9 for selected cases. These findings improve the utility of the Shannon model for personalized simulations, aiding applications like digital twins and drug response predictions in biomedical research.

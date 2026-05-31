@@ -1,0 +1,7 @@
+TITLE: Modeling-Facilitated Field Survey Discovers of a New Population of the Annamite Striped Rabbit in Kon Tum Province, Vietnam.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1002/ece3.70752
+SOURCE: EuropePMC/MED/39717637
+
+The Annamite striped rabbit (Nesolagus timminsi) is an Endangered lagomorph endemic to the Annamite Mountain Range in Vietnam and Laos, with much unknown about its distribution range. In this study, we used previously known records of the Annamite striped rabbit to construct distribution models using Maxent, a modeling approach that has been proven to be robust in identifying potential areas of undiscovered populations of targeted species. Using the optimal model results as a guideline to select the field site, we conducted a systematic camera trap survey in Dak Long Protection Forest, Kon Tum Province, Vietnam. We recorded the species in five events at two locations of the study site, and to the best of our knowledge this finding represents a new population of the rabbit in this region. Our discovery significantly expands the known range of the striped rabbit, and we discuss the implications of this finding for N. timminsi conservation. We also suggest several protected areas in the South of our discovery site that, according to our optimal model results, may harbor unknown populations of the Annamite striped rabbit, and hence they should be prioritized for future field surveys. Our finding also highlights the importance of modeling tools in biodiversity surveys, especially for elusive and poorly studied species.

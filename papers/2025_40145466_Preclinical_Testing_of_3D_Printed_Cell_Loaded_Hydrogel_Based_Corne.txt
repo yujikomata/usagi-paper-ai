@@ -1,0 +1,7 @@
+TITLE: Preclinical Testing of 3D Printed, Cell Loaded Hydrogel Based Corneal Substitutes on Rabbit Model.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1002/mabi.202400595
+SOURCE: EuropePMC/MED/40145466
+
+Many people lose their vision due to corneal stroma injuries of the eye and the golden solution is transplantation of allografts from donors. Unfortunately, the limited availability of donor tissue, risk of disease transmission, and immune rejection are serious handicaps. However, implants made of biomaterials can be used as substitutes. In this study, cell-loaded and cell-free, methacrylated gelatin (GelMA) implants are 3D printed and tested under in vitro conditions. The samples are physically characterized for their printability, equilibrium water content, compressive mechanical strength, and transparency; they retained 60%-80% of light transmission in the visible region as in the native corneas. In brief, they are suitable for further testing. Then cell loaded samples are tested in vivo on New Zealand white rabbits for 90 days. In the in vivo tests, these cell loaded, disk shaped implants are almost completely degraded and allowed reorganization of the tissue forming at the implantation site. Also, the immune response initially observed decreased in time and by the end of 90 days the tissue regained its normal, healthy architecture with multilayered, non-keratinized epithelium. It can be concluded that the implants developed in this study are promising for clinical use in corneal stroma recovery.
