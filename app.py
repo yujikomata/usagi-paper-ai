@@ -10,7 +10,7 @@ from anthropic import Anthropic
 
 try:
     from dotenv import load_dotenv
-    load_dotenv()
+    load_dotenv(override=True)  # .env の値を環境変数より優先
 except Exception:
     pass
 
@@ -48,9 +48,24 @@ SYSTEM = (
 )
 
 
+def to_search_query(question: str) -> str:
+    """論文は英語なので、検索用に質問を英語キーワードへ変換する。"""
+    try:
+        msg = get_client().messages.create(
+            model=MODEL,
+            max_tokens=80,
+            system="Translate the user's question into concise English search keywords for a scientific paper database about rabbits. Output only the keywords, no explanation.",
+            messages=[{"role": "user", "content": question}],
+        )
+        return msg.content[0].text.strip()
+    except Exception:
+        return question
+
+
 def build_context(question: str):
     col = get_collection()
-    res = col.query(query_texts=[question], n_results=TOP_K)
+    search_q = to_search_query(question)
+    res = col.query(query_texts=[search_q], n_results=TOP_K)
     docs = res["documents"][0]
     metas = res["metadatas"][0]
     blocks, sources = [], []
