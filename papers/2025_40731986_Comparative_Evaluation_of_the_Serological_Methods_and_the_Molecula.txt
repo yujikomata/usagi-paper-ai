@@ -1,0 +1,7 @@
+TITLE: Comparative Evaluation of the Serological Methods and the Molecular Genetics Techniques for the Diagnosis of <i>Encephalitozoon cuniculi</i> in Rabbits (<i>Oryctolagus cuniculus</i>).
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/microorganisms13071478
+SOURCE: EuropePMC/MED/40731986
+
+Encephalitozoon cuniculi is a microsporidian widely spread in rabbits (Oryctolagus cuniculus) and other species, including humans, causative of neurological disorders or remaining in a latent state in the host organism. The aim of this study was to estimate the prevalence of E. cuniculi in rabbits located in the North-Western region of Romania, and to run a comparative diagnosis for E. cuniculi by multiple methods. A total of 381 rabbits were included, originating from households, family farms and wildlife, which were subjected to serological and/or molecular genetics diagnostic methods for E. cuniculi identification. Seropositivity of 43.02% (151/351) was obtained by ELISA, together with a 45.45% (110/242) prevalence from urine, feces and organs by nested PCR. Additionally, a prevalence of 48.39% (15/31) was identified by a comparative real-time PCR (qPCR). The urinary bladder is firstly reported for molecular E. cuniculi diagnosis, with a positivity of 30.56% (11/36) by nested PCR. Despite the disagreement between the diagnostic methods, the present results highlight the level of pathogen dissemination among rabbits in North-Western Romania that represents a risk for not only rabbits and other animals, but also for the general public by its zoonotic character.

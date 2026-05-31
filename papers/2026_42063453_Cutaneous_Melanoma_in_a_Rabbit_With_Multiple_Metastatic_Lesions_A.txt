@@ -1,0 +1,7 @@
+TITLE: Cutaneous Melanoma in a Rabbit With Multiple Metastatic Lesions: A Case Report.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1155/crve/8573115
+SOURCE: EuropePMC/MED/42063453
+
+BackgroundNeoplasia is increasingly common in senior pet rabbits, with cutaneous melanoma being a rare but aggressive type. Its characteristics in rabbits are not fully understood.Case descriptionA 5-year-old rabbit initially presented with a cutaneous mass at the ear base. Despite surgical excision, it recurred rapidly with multiple facial/chest masses and pulmonary metastases, leading to euthanasia. Pathological evaluation confirmed malignant melanoma, revealing features such as high mitotic activity and lymphovascular invasion; immunohistochemistry provided the definitive diagnosis.Conclusion and clinical relevanceThis case highlights the highly aggressive and metastatic nature of cutaneous melanoma in rabbits, often resulting in a poor prognosis. Clinicians should be aware of melanoma's aggressive potential in rabbits. Surgical intervention alone may prove inadequate, and current treatment options in rabbits are limited. In this case, surgical intervention was not effective, likely because micrometastasis was already present. Treatment options remain limited, and euthanasia is often required in metastatic cases.

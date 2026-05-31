@@ -1,0 +1,7 @@
+TITLE: European Brown hare (<i>Lepus europaeus</i>) as an accidental host of <i>Trypanosoma pestanai</i>.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1016/j.ijppaw.2025.101079
+SOURCE: EuropePMC/MED/40475068
+
+In Europe, trypanosomes are not considered a serious threat to humans or domestic animals; however, their potential ecological impact on wildlife remains largely unknown. This study investigates presence of trypanosomes in European brown hare (Lepus europaeus) in Czechia, where this species is an important game species and plays a significant role in ecosystems. Using nested PCR targeting 18S rDNA, trypanosome DNA was detected in two of 435 blood samples, representing the first confirmation of trypanosomes in the genus Lepus. Subsequent sequencing identified Trypanosoma pestanai, a species previously reported in the European badger (Meles meles). These findings suggest that T. pestanai may have a broader host range than previously recognized, emphasizing the need for further research into its ecological impact and its potential transmission dynamics in wildlife populations.

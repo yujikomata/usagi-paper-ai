@@ -1,0 +1,7 @@
+TITLE: Rabbit-based experimental model for scalp reimplantation: advancing microsurgical training and translational research.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1590/acb403725
+SOURCE: EuropePMC/MED/40298656
+
+PurposeTo develop an experimental model of microsurgical scalp reimplantation in rabbits.MethodsTen male albino New Zealand rabbits (Oryctolagus cuniculus) were scalped and subjected to scalp reimplantation. The rabbits' scalp regions, including their ears, were surgically amputated. Based on a previous anatomical study, the superficial temporal artery and the central auricular vein were chosen for microanastomosis. Data on the morphometric parameters (vessel weight and caliber), surgical procedure (surgical time and number of stitches), and surgical recovery parameters (venous return, patency, and necrosis) were collected for up to 30 days postoperatively (PO) using a research protocol.ResultsMorphometric and surgical recovery parameters did not significantly differ in our sample. No animals died during the intraoperative period. Three animals were euthanized because they developed partial or total scalp necrosis. The venous return was impaired from three to ten days PO, with spontaneous regression after this period, which significantly improved (p = 0.02) after 14 days PO. Superficial necrosis was observed starting at two days PO with complete resolution by day 21 PO (p ConclusionThe rabbit provides a realistic biological model for training scalp reimplantation with high fidelity to human vascular structures.

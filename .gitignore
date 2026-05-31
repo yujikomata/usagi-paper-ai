@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+.venv/
+# chroma_db/ はクラウド公開時に論文DBが必要なため、あえてコミットします
+

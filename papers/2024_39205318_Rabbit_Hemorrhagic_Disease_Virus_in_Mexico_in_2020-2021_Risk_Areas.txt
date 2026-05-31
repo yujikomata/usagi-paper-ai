@@ -1,0 +1,7 @@
+TITLE: Rabbit Hemorrhagic Disease Virus in Mexico in 2020-2021: Risk Areas and Climatic Distribution.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/v16081344
+SOURCE: EuropePMC/MED/39205318
+
+Mexico is home to 14 species of lagomorphs, 6 of which are endemic. Studies on diseases affecting native lagomorphs are scarce, and in most cases, the impact on their populations remains largely unknown. Rabbit hemorrhagic disease virus (RHDV), especially the RHDV2 variant, causes a serious and extremely contagious disease, resulting in high mortality rates and major declines in wild lagomorph populations. The objectives of this study were to identify disease hotspots and critical biodiversity regions in Mexico through the combined use of disease information and lagomorph distribution maps and to determine the areas of greatest concern. In total, 19 states of Mexico recorded RHDV2 from April 2020 to August 2021, and 12 of them reported the wild species Sylvilagus audubonii, Lepus californicus, and unidentified Leporidae species. The distribution of RHDV2 in Mexico can be closely predicted from climatic variables. RHDV2 hotspots are located in the central-southern area of the Mexican Highlands and the Trans-Mexican Volcanic Belt, where the virus affects multiple species. This knowledge is essential for proposing specific actions to manage and preserve lagomorph populations at risk and address these issues as soon as possible.

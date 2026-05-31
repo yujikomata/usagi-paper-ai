@@ -1,0 +1,7 @@
+TITLE: Long-read metagenomic dataset from domestic rabbit manure and domestic rabbit manure-derived vermicompost.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1016/j.dib.2025.112425
+SOURCE: EuropePMC/MED/41561899
+
+This dataset describes samples collected from two Domestic Rabbit manure sources and three Domestic Rabbit manure-derived vermicompost bins. Three samples were taken from each and total DNA was isolated. Nanopore sequencing was used to collect data from all isolated DNA samples. After length and quality filtering, 181.5 gigabases (Gb) of sequencing data was collected across 15 samples. Streptomyces, Bradyrhizobium, Mesorhizobium, and Microbacterium were in the top 5 genera for all vermicompost samples, but two vermicompost samples had very high proportions of Escherichia and Mycobacterium. Vermicomposting can enable the development of beneficial microbial communities, but often lacking a thermophilic phase, may also allow for the growth of potentially pathogenic microbes. The vermicomposts described by this dataset contains both beneficial and potentially harmful microbial communities and may be used to support comparisons between composts and vermicomposts of different backgrounds for safety and utility.

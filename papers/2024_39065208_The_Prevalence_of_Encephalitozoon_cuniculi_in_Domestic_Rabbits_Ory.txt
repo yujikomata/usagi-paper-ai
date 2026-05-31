@@ -1,0 +1,7 @@
+TITLE: The Prevalence of Encephalitozoon cuniculi in Domestic Rabbits (Oryctolagus cuniculus) in the North-Western Region of Romania Using Serological Diagnosis: A Preliminary Study.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/microorganisms12071440
+SOURCE: EuropePMC/MED/39065208
+
+Encephalitozoon cuniculi is a microsporidian, domestic rabbits being the main host. The disease can be acute or subclinical, but treatment options are limited and usually with unrewarding results; therefore, diagnosis and prevention of encephalitozoonosis in rabbits are of the utmost importance. This study aims to obtain the first preliminary information of the prevalence of E. cuniculi in the north-western region of Romania. A total of 176 rabbits were clinically examined and 2 mL of blood was sampled from each. An enzyme-linked immunosorbent assay (ELISA) kit by Medicago (Medicago, Uppsala, Sweden) on the resulted blood serum was utilized. Statistical analysis of the results was conducted using the EpiInfo 2000 software (CDC, Atlanta, GA, USA). A total prevalence of 39.2% (69/176) was identified, with statistically significant differences in relation to the rabbits' clinical status, age, season of sampling, breeding system, body condition score and county of origin; the different family farms tested also had a statistically significant difference. This study gives the first preliminary information on this pathogen distribution on Romania's territory, but further studies need to be performed on larger regions to declare the prevalence in the country.

@@ -1,0 +1,7 @@
+TITLE: A first case of <i>Hepatozoon</i> infection in a wild Amami rabbit (<i>Pentalagus furnessi</i>) in Tokunoshima Island, Japan.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1016/j.ijppaw.2026.101209
+SOURCE: EuropePMC/MED/41777568
+
+We report the first confirmed Hepatozoon infection in a wild Amami rabbit, Pentalagus furnessi (Lagomorpha: Leporidae), an endangered species (IUCN Red List) native to the Amami Archipelago in southwestern Japan. Necropsy was performed on an adult male that was rescued on Tokunoshima Island after a presumed vehicular injury and subsequently died. Histopathological examination revealed meronts in the pulmonary, myocardial, and skeletal muscle tissues without an associated inflammatory response. Transmission electron microscopy confirmed the presence of intracellular meronts at various stages of asexual development. Based on morphological and molecular analyses, the protozoan was identified as Hepatozoon sp. (Apicomplexa: Adeleorina). Phylogenetic analysis revealed that the isolate clustered within a monophyletic clade of Hepatozoon felis. The detection of asexual reproductive stages indicates that Amami rabbits can support merogony and is consistent with their role as intermediate rather than paratenic hosts in the Hepatozoon life cycle. These results highlight the need for further investigation of the ecology, transmission dynamics, and conservation implications of protozoan infections in endangered wildlife.

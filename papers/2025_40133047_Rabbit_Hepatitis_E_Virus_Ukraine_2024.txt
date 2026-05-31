@@ -1,0 +1,7 @@
+TITLE: Rabbit Hepatitis E Virus, Ukraine, 2024.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3201/eid3104.250074
+SOURCE: EuropePMC/MED/40133047
+
+We identified hepatitis E virus (HEV) 3ra, a potentially zoonotic subtype, in rabbits in Ukraine, which highlights their potential role as reservoirs. Screening of rabbit fecal samples identified HEV-3ra. Public health services in this country should improve HEV surveillance and expand HEV sampling.

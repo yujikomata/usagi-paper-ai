@@ -1,0 +1,7 @@
+TITLE: The first complete mitochondrial genome of Sumatran striped rabbit Nesolagus netscheri (Schlegel, 1880), and its phylogenetic relationship with other Leporidae.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s41598-025-85212-x
+SOURCE: EuropePMC/MED/39814825
+
+Nesolagus netscheri, a Sumatran striped rabbit, is one of the rarest rabbits in the Leporidae family, and its genetic information is still limited. This study provides the first mitochondrial genome and molecular systematic characterization of the Sumatran striped rabbit, Nesolagus netscheri, Indonesia's rarest rabbit. It consists of a circular double-stranded DNA of 16,709 bp. It showed that the mitochondrial genome structure of N. netscheri is similar to that of N. timminsi. The mitochondrial genome of N. netscheri contained 22 transfer RNA (tRNA) genes, and all tRNA except for trnS1 showed a characteristic cloverleaf secondary structure. Evidence was found that the atp8 gene of N. netscheri is under positive selection pressure. The phylogenetic analysis shows Leporidae was monophyletic, with Nesolagus at the basal. The study indicates a split between N. netscheri and N. timminsi in the Late Pleistocene around 0.43 million years ago. This research is a fundamental reference for the conservation of the rarest lagomorph species and provides important information for future evolutionary studies in the Leporidae family.

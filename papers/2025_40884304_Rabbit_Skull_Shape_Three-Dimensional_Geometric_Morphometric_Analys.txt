@@ -1,0 +1,7 @@
+TITLE: Rabbit Skull Shape: Three-Dimensional Geometric Morphometric Analysis.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1002/vms3.70588
+SOURCE: EuropePMC/MED/40884304
+
+The objective of the present study was to analyse the three-dimensional shape of the cranium models of New Zealand rabbits and to determine the effects of sex on shape. To this end, a total of 12 rabbit craniums were used (six female and six male). After maceration, the craniums were scanned using a three-dimensional surface scanner to create models. The models were then marked with 23 landmarks (nine median line, 14 bilateral) using Stratovan Checkpoint software for shape analysis. Procrustes superimposition and principal component analysis were performed to determine shape variations, while Procrustes ANOVA was performed to determine dimorphic differences in size and shape. Discriminant function analysis was performed for the effect of gender on shape. The study's analysis revealed that PC1 accounted for 25.47% of the variation in principal component analysis, with this variation predominantly concentrated in the temporal region. These variations were followed by medial eye angle and incisive bone. While statistical differences in cranium shape were observed between the sexes, no significant differences in size were detected. Consequently, it was determined that gender exerts an influence on shape differences in rabbit cranium. It is hypothesised that the three-dimensional (3D) geometric morphometry method can be utilised for sex determination in rabbit craniums.

@@ -1,0 +1,7 @@
+TITLE: Mixed viral infections (Rotavirus, Herpesvirus and others) in European wild rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1016/j.vas.2025.100424
+SOURCE: EuropePMC/MED/39877803
+
+Infectious viral pathogens significantly impact wild Leporidae populations, particularly Oryctolagus cuniculus algirus, which was listed as 'Endangered' in 2019. Myxomatosis and rabbit haemorrhagic disease are major contributors to severe epizootics with limited long-lasting immunity. This study expanded beyond these well-documented viruses to include a broader spectrum of viruses in 36 wild rabbit carcasses (O. c. algirus) collected from the field in 2018, 2019, 2021 and 2024, and 32 wild rabbits hunted in 2017/2018. Using molecular techniques, we detected myxoma virus (MYXV) (58.3%), rabbit haemorrhagic disease virus 2 (RHDV2/GI.2) (52.8%), herpesviruses (22.2%) and rotaviruses (48.1%) in the rabbits found dead. Co-infection with MYXV and RHDV2 was found in 27.8% of cases, much higher than previously reported. All hunted rabbits tested negative for MYXV and rotavirus, one was positive for RHDV2 (3.13%) and six for herpesvirus (18.75%). No coronaviruses, adenoviruses or paramyxoviruses were detected. Herpesviruses in apparently healthy hunted rabbits suggests a low clinical impact but the potential for severe outcomes in the presence of other pathogens. This study represents the most comprehensive virological survey of O. c. algirus in Iberia and is the first to document triple and quadruple viral co-infections in rabbits.

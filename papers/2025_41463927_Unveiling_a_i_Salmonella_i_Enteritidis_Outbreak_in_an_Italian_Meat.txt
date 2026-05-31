@@ -1,0 +1,7 @@
+TITLE: Unveiling a <i>Salmonella</i> Enteritidis Outbreak in an Italian Meat Rabbit Farm: Histopathological Features and Epidemiological Investigation.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15243642
+SOURCE: EuropePMC/MED/41463927
+
+This study documents an outbreak of Salmonella enterica serovar Enteritidis (SE) on a commercial meat rabbit farm in Italy. Following the observation of increased mortality in kits and severe enteric symptoms across all age groups, SE was first isolated in early March 2024. A diagnostic and epidemiological investigation was subsequently undertaken to characterize the anatomo-histopathological features in deceased rabbits and to identify the source and transmission dynamics of the infection. Between March and December 2024, a total of 1550 rectal swabs from live rabbits, 60 environmental samples, and 168 carcasses were collected and subjected to microbiological analysis. SE-positivity rates ranged from 8.4% to 36.3%, depending on the sample type considered. Co-infections with Pasteurella multocida, Escherichia coli, and Staphylococcus spp. were also detected. Gross and histological lesions in SE-positive rabbits included fibrinonecrotizing enterocolitis, hepatosplenomegaly, and renal damage such as suppurative nephritis and tubulorrhexis. Despite the implementation of enhanced biosecurity protocols, SE re-emerged over time and across different pens. Given the zoonotic potential of SE, the outbreak described underscores the need for rabbit-specific Salmonella control programs to safeguard both animal and public health.

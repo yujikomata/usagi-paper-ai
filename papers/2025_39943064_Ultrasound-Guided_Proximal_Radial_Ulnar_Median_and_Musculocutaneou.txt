@@ -1,0 +1,7 @@
+TITLE: Ultrasound-Guided Proximal Radial, Ulnar, Median and Musculocutaneous (RUMM) Nerve Block Technique in Rabbit (Oryctolagus cuniculus) Cadavers: Medial vs. Lateral Approach.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15030294
+SOURCE: EuropePMC/MED/39943064
+
+This prospective, experimental, randomised, assessor-blinded cadaveric study was undertaken to describe the sono-anatomical features of the radial, ulnar, median and musculocutaneous (RUMM) nerves in rabbits and to develop and evaluate an ultrasound (US)-guided proximal RUMM block technique comparing a medial versus a lateral approach. A total of 13 adult rabbit cadavers were used. In Phase I of the study, four cadavers were used for anatomical dissection and to design and test a lateral and medial single injection point US-guided proximal RUMM block technique, while in Phase II, the medial and lateral approaches were randomly performed on nine cadavers administering 0.1 mL kg-1 injectate. After dissection, nerve staining was categorised as adequate (all nerves stained ≥4 mm) or inadequate (at least one nerve not stained or stained p p < 0.01) using the medial and lateral approach, respectively. Thus, a US-guided proximal RUMM block technique is feasible in rabbits, and the medial approach demonstrated evidence of a more consistent stain of the RUMM nerves.

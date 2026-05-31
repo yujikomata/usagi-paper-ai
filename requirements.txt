@@ -1,0 +1,6 @@
+streamlit>=1.40
+anthropic>=0.40
+chromadb>=0.5
+pypdf>=5.0
+requests>=2.31
+python-dotenv>=1.0

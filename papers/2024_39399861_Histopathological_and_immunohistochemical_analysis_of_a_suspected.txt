@@ -1,0 +1,7 @@
+TITLE: Histopathological and immunohistochemical analysis of a suspected extraskeletal osteosarcoma in a rabbit (Oryctolagus cuniculus).
+YEAR: 2024
+JOURNAL: 
+DOI: 10.29374/2527-2179.bjvm003324
+SOURCE: EuropePMC/MED/39399861
+
+An 8-year-old male rabbit (Oryctolagus cuniculus) presented with a subcutaneous mass in the proximal region of the fourth and accessory digit measuring 5.5 x 3.5 x 5.2cm. The mass was non-alopecic and exhibited irregular surface, ulceration and necrosis with predominantly pale and light brown coloring. Radiography revealed no involvement of bone and adjacent periosteum. The mass was marginally resected and the electrochemotherapy (ECT) was performed on the surgical bed. Histopathology and immunohistochemical analysis revealed positive reactions for Vimentin, Runx-2 and ki-67, leading to a diagnosis of extraskeletal osteosarcoma (ESOS). This report described a case of ESOS in a rabbit, thereby delineating its clinical presentation, anatomopathological characteristics, diagnostic modalities and recommended therapeutic interventions.

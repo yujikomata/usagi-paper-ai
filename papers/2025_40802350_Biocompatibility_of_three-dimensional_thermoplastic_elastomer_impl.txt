@@ -1,0 +1,7 @@
+TITLE: Biocompatibility of three-dimensional thermoplastic elastomer implants compared to that of the sternocephalic muscle flap in repairing partial tracheal defects in New Zealand white rabbits (Oryctolagus cuniculus).
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1590/acb405025
+SOURCE: EuropePMC/MED/40802350
+
+PurposeTo evaluate the effectiveness and biocompatibility of a three-dimensional (3D) thermoplastic elastomer (TPE) prosthesis for repairing partial tracheal defects using 3D printing with fused deposition modelling.MethodsThirty-two rabbits underwent partial resection of five tracheal rings and were divided into two groups: the muscular flap group (GFM), which received a sternocephalic muscle flap over the defect; and the TPE group (GTPE), which received a 3D-printed TPE prosthesis. Clinical evaluations were performed at seven, 15, 30, and 60 days postoperatively.ResultsCough was significantly more frequent in the GFM group (p = 0.035). Thermography showed no significant differences in surgical site temperatures between groups or time points. Tracheoscopy revealed more intraluminal secretions in the GTPE group (p = 0.006) and more exuberant tissue formation in the GFM group (p = 0.001). Complete epithelialization was observed in the GFM group after 60 days.ConclusionThe 3D TPE prosthesis demonstrated tissue compatibility and viability as an implant for partial tracheal defects, with minimal respiratory complications during the 60-day evaluation period.

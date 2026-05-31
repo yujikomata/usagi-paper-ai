@@ -1,0 +1,7 @@
+TITLE: Antemortem and Postmortem Diagnosis of Encephalitozoon cuniculi in a Pet Rabbit (Oryctolagus cuniculus)-A Case Report.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/pathogens13121122
+SOURCE: EuropePMC/MED/39770381
+
+Encephalitozoon cuniculi infection in rabbits represents a true challenge in both diagnosis and treatment of the disease. This study aims to describe and analyze all methods of identifying the presence of the microsporidian in a rabbit through antemortem and postmortem methods. The patient manifested clinical signs of vestibular disease and mild renal symptoms with no significant improvement under treatment, which finally led to euthanasia. Serological and molecular tests confirmed positivity for E. cuniculi in serum and urine, feces, brain, kidney and urinary bladder, respectively. Histopathological findings showed suggestive inflammatory lesions of encephalitis and nephritis and no changes in the eye globe and liver, but with no identification of microsporidian spores. This is the first complete case report of E. cuniculi in a rabbit in Romania, as well as the first report of urinary bladder molecular testing with a positive result, which facilitates for further diagnosis exploration for rabbits.

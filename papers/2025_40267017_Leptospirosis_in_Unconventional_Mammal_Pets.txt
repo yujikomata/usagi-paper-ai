@@ -1,0 +1,7 @@
+TITLE: Leptospirosis in Unconventional Mammal Pets.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/vetsci12030285
+SOURCE: EuropePMC/MED/40267017
+
+The demand for unconventional pets has markedly increased in recent years worldwide. Among them, many species of mammals are frequently kept in domestic environments in close contact with their owners. Pets often harbor zoonotic microorganisms without showing clinical signs; therefore, owners do not suspect that they can be a source of pathogens. Pets of several unconventional species may act mainly as maintenance hosts for leptospires; they are clinically silent but shed the spirochetes in their urine representing a serious risk of infection for people living in the same domestic area. However, their role as maintenance or incidental hosts seems variable in relation to the animal species, and it has not always been elucidated. No vaccines against Leptospira spp. are available for unconventional mammal pets, and so prophylaxis is based on rigorous hygienic measures and the identification of infected animals through indirect and/or direct diagnosis for leptospirosis.

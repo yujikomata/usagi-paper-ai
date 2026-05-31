@@ -1,0 +1,7 @@
+TITLE: First report of systemic round cell tumor, suspected lymphoma, in a wild Amami rabbit (Pentalagus furnessi) from Tokunoshima Island.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1292/jvms.25-0184
+SOURCE: EuropePMC/MED/40958561
+
+This study reports the first documented case of neoplasia in a wild Amami rabbit, an endangered species endemic to the Amami-Oshima and Tokunoshima Islands in Japan. In January 2018, a deceased Amami rabbit was found on a rural road on Tokunoshima Island. Necropsy revealed hemorrhage, cervical vertebral dislocation, generalized lymphadenopathy, a 5 × 5 cm mediastinal mass encasing the heart, and splenomegaly. The rabbit's death was presumed to be due to vehicle collisions following emaciation from systemic tumor progression. Histopathological examination showed significant proliferation of tumor cells like lymphocytes. Polymerase chain reaction analysis of the tumor did not detect retroviral or herpesviral sequences. This case highlights the importance of ongoing pathological surveillance and conservation efforts for this endangered species.

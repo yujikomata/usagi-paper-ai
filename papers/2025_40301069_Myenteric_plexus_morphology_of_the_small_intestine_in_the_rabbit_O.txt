@@ -1,0 +1,7 @@
+TITLE: Myenteric plexus morphology of the small intestine in the rabbit (Oryctolagus cuniculus).
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1292/jvms.25-0069
+SOURCE: EuropePMC/MED/40301069
+
+The myenteric plexus morphology, which varies depending on the morphology and motility of each intestinal segment, helps us to understand the intestinal physiology, however, it has not been reported in the rabbit small intestine. We, thus, investigated the myenteric plexus morphology in the rabbit small intestine using whole-mount preparations subjected to protein gene product 9.5 immunohistochemistry. The myenteric plexus was the most well-developed in the terminal part of the ileum, followed by the cranial duodenum and distal ileum. The other segments had significantly poorly developed myenteric plexuses than the terminal part of the ileum. Findings of this study may be useful to investigate the morphology of cells in the ganglia and their roles in the mechanisms underlying intestinal motor control.

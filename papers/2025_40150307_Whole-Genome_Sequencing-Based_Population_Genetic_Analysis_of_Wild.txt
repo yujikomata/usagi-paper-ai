@@ -1,0 +1,7 @@
+TITLE: Whole-Genome Sequencing-Based Population Genetic Analysis of Wild and Domestic Rabbit Breeds.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15060775
+SOURCE: EuropePMC/MED/40150307
+
+The European rabbit exists in the wild and has several highly bred domesticated forms. There are well-separated wild European rabbit populations, and intensive breeding has resulted in various forms and utilizations. In this work, we aimed to carry out an extended WGS-based population genomics study on several wild European rabbit populations and selected breeds. Utilizing multiple methods, we showed that although domestic and wild populations were clearly separated, there was evidence of admixture between them in France and Hungary. The populations showed various levels of inbreeding, with one of the Hungarian subpopulations having excess runs of homozygosity. We identified numerous variants fixed in either domestic or wild animals, two of which were found to be fixed at different alleles in the two populations. Some putatively selected regions did not overlap with any known genes in the rabbit genome, suggesting some importance to these intergenic sites. The enrichment of selected regions in certain types of transcription factor binding sites suggests a possible role for these regulatory elements during domestication. In addition, the new high-coverage rabbit whole-genome sequences may provide helpful material for further population genetics analyses.

@@ -1,0 +1,7 @@
+TITLE: Crimean-Congo Hemorrhagic Fever Virus Circulation in Wild European Rabbits, Portugal, 2018-2023.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3201/eid3110.250184
+SOURCE: EuropePMC/MED/41017065
+
+Crimean-Congo hemorrhagic fever virus is considered a public health risk in southwestern Europe. We surveyed serum samples from 667 European rabbits across Portugal, a rabbit species known to host immature Hyalomma lusitanicum ticks. We found low levels of virus antibodies (>1%), with a localized cluster reaching 5.77% in southern populations.

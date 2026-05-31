@@ -1,0 +1,7 @@
+TITLE: Effects of Heat Stress on Production Performance and Protein Metabolism of Skeletal Muscle in Meat Rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15172560
+SOURCE: EuropePMC/MED/40941355
+
+The purpose of this experiment was to study the effects of heat stress on the performance and protein metabolism of skeletal muscle in meat rabbits. A total of 160 New Zealand White rabbits aged 80 days with mean initial body weights of 2359 ± 200 g were randomly divided into a control group and a heat stress group. The experiment duration was 20 days. Heat stress treatment reduced the growth performance and slaughter performance of the rabbits (p p p p-value ≤ 0.05, 7 up-regulated proteins and 122 down-regulated proteins were screened. A gene ontology (GO) enrichment analysis of the differentially expressed proteins was performed. The most enriched specific GO terms among the differential proteins were response to stress, extracellular region, and protein binding in the biological process (BP), cellular component (CC), and molecular function (MF) categories, respectively, and the most enriched pathway was the PI3K/Akt signalling pathway. In conclusion, heat stress could reduce the carcass yield of meat rabbits, change the physical characteristics of the skeletal muscle, and influence protein metabolism by changing blood indices, potentially through the PI3K/Akt signalling pathway.

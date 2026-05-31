@@ -1,0 +1,7 @@
+TITLE: Occurrence of Encephalitozoon cuniculi and Encephalitozoon hellem in European Wild Rabbits (Oryctolagus cuniculus) in Southern Germany (Bavaria).
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/ani14192880
+SOURCE: EuropePMC/MED/39409829
+
+Encephalitozoon cuniculi and Encephalitozoon hellem are fungus-related, obligate intracellular pathogens belonging to the microsporidia. Both microorganisms occur in mammals, birds and even humans, thus revealing a zoonotic potential. Knowledge of their relevance in wild rabbits is very limited so far. Thus, the aim of the present study was to investigate the occurrence of E. cuniculi and E. hellem in wild rabbit populations in southern Germany (Bavaria). Therefore, blood and organ samples (brain/kidney) of 158 wild rabbits were investigated by immunofluorescence and PCR-based assays. Antibodies to E. cuniculi were detected in 24 of the 158 (15.2%) wild rabbits, while DNA of E. cuniculi was found in 7 (4.4%) and DNA of E. hellem was found in 3 (1.9%). Sequencing identified E. cuniculi genotype 1. This study provides the first E. cuniculi genotype determination in free-living wild rabbits worldwide and the first evidence of E. hellem in rabbits worldwide. Wild rabbits should, therefore, be regarded as a reservoir for both pathogens and, on the basis of molecular evidence from kidney tissue and presumed urine excretion, also as a source of infection for E. cuniculi for animals and humans.

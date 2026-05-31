@@ -1,0 +1,7 @@
+TITLE: Characterization of Leishmania infantum Isolates from Wild Leporids in the Community of Madrid (Spain).
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/vetsci13010001
+SOURCE: EuropePMC/MED/41600657
+
+In this research, 59 samples from 31 animals (19 European rabbits, 11 Iberian hares, and 1 cat) and an axenic culture of the Leishmania infantum isolate (MCAN/ES/97/10445, zymodeme ZM/MON-1) used as a reference were studied based on the analysis of kinetoplast minicircle (kDNA) restriction fragments by combining polymerase chain reaction and length polymorphisms (PCR-RFLP). This analysis was performed in parallel with polyacrylamide gel electrophoresis (PAGE) and capillary electrophoresis (CE), as well as in silico digestion of the abovementioned reference. These analyses did not reveal differences between the L. infantum isolates detected in the different samples of wild lagomorphs (rabbits and hares) from various areas of the Community of Madrid or with the axenically cultured promastigotes of the L. infantum isolate (MCAN/ES/97/10445, zymodeme ZM/MON-1) used as a reference. Consequently, it was proven that with the implemented approaches, only one isolate of L. infantum was responsible for infection in wild leporids and that these animals sustained the pathogen's life cycle, both in the area of the human leishmaniasis outbreak that has been occurring in the Community of Madrid since 2009 and outside of it. Additionally, this isolate has been circulating since at least the 1990s.

@@ -1,0 +1,7 @@
+TITLE: Complete genome sequences of two strains of <i>Pseudomonas fragi</i>, isolated from feces of a domestic rabbit (<i>Oryctolagus cuniculus</i>).
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1128/mra.00984-25
+SOURCE: EuropePMC/MED/41099507
+
+The complete genomes of Pseudomonas fragi strains LKYC.ZH and LKYC.Zb1, recovered from rabbit feces, were established by hybrid assembly: each comprises a single circular chromosome and circular plasmid, totaling 5,036,311 bp (59.06% G+C) and 5,249,147 bp (59.31% G+C), respectively.

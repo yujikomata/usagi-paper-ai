@@ -1,0 +1,7 @@
+TITLE: A case of anaplastic oligodendroglioma in a rabbit (Oryctolagus cuniculus).
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1292/jvms.24-0438
+SOURCE: EuropePMC/MED/39631956
+
+A 6-year-old male rabbit (Oryctolagus cuniculus) showed loss of appetite, right side rotating and the left side circling. The symptoms did not improve, and the rabbit died on the 2nd day after presentation. Histological evaluation of the brain revealed a non-demarcated high cellularity area of neoplastic cells in the midbrain. In the lesion, neoplastic proliferation of large pleomorphic cells with irregular nuclei and medium amount of cytoplasm with prominent atypia was observed. Most of the neoplastic cells were immunohistochemically positive for both Olig2 and vimentin, and filamentous structure was seen in the cytoplasm. To our knowledge, this is the first report of anaplastic oligodendroglioma in a pet rabbit.

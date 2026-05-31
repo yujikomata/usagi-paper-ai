@@ -1,0 +1,7 @@
+TITLE: Domestic European Rabbits <i>Oryctolagus cuniculus</i>: A Super-Highway for the Spread of Emergent Viral Diseases to Other Lagomorphs?
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1155/tbed/1129135
+SOURCE: EuropePMC/MED/40521303
+
+We propose that the worldwide spread of several viral diseases in European rabbits (Oryctolagus cuniculus) is facilitated by domestic rabbit meat production and associated international trade. This view is based on published records of the transfer of rabbit haemorrhagic disease viruses (RHDV/RHDV2) between countries and supported by data from the Food and Agriculture Organization (FAO) and the World Animal Health Information System (WAHIS) correlating the amount of rabbit meat produced and the number of rabbit haemorrhagic disease (RHD) outbreaks reported. Although RHDV was mainly confined to European rabbits, outbreak reporting rose after RDHV2 emerged and spread into many other lagomorph species. More than 80 species of native lagomorphs are now at risk from the disease in countries reporting RHD outbreaks. Our findings have implications for the maintenance of both industrial-scale cuniculture and village-scale production to combat poverty, for the future use of viruses for the biological control of pest rabbits and the conservation of native lagomorphs. Greater awareness of the risks of virus transfer in both directions between domestic rabbits and wild lagomorphs is important for future management of domestic rabbits and the conservation of native lagomorphs.

@@ -1,0 +1,7 @@
+TITLE: Near telomere to telomere genome assembly of Chinese yellow rabbit (Oryctolagus cuniculus).
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s41597-025-06058-6
+SOURCE: EuropePMC/MED/41233384
+
+Oryctolagus cuniculus (Fujian Yellow Rabbit; FJY), the only indigenous rabbit breed in China, known for its yellow coat, adaptability, and higher meat quality. However, comprehensive genomic datasets on O. cuniculus -FJY are lacking. In this study, we assembled the nearly full telomere-to-telomere (T2T) genome of O. cuniculus -FJY, 68% T2T, using PacBio HiFi, ONT ultra-long, and Hi-C data. The 2.88 Gb assembly was anchored into 23 chromosomes (21 autosomes, X and Y), with 99.80% of the sequence successfully assigned to chromosomal positions. Scaffold N50 reached 148.90 Mb, and glires BUSCO completeness of 98.3%. Repeats account for 47.09% of the genome. We identified 22,674 genes, with 99.74% functionally annotated. Additionally, we annotated 1,341 tRNAs, 922 rRNAs, 635 miRNAs, and 2,421 snRNAs. This genome represents the closest T2T rabbit genome and the first successful assembly of the Y chromosome in O. cuniculus. It not only enhances our understanding of the genetic diversity and evolutionary history of the domestication of rabbits, but also provides crucial data support for future breeding research on O. cuniculus-FJY.

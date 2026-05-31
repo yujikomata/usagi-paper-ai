@@ -1,0 +1,7 @@
+TITLE: Mechanisms and targets of harnessing <i>Culex pipiens</i>-specific antibodies as a novel vector control strategy.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.7555/jbr.39.20250135
+SOURCE: EuropePMC/MED/40441861
+
+Mosquito-borne diseases pose a significant global health threat, necessitating the development of innovative vector control strategies. In this study, we investigated the potential of harnessing host immunity against mosquitoes through vaccination. Using Culex pipiens ( C. pipiens) as a model, we demonstrated that polyclonal antibodies against C. pipiens abdominal protein extracts significantly impaired oviposition and increased mosquito mortality, primarily through the classical complement activation pathways. However, repeated exposure led to resistance, indicating potential adaptation. Proteomic analysis identified metabolic proteins as key targets, with Gene Ontology and Kyoto Encyclopedia of Genes and Genomes enrichment analyses highlighting their roles in carboxylic acid metabolism, tyrosine degradation, and the proteasome pathways. Notably, cross-species reactivity was revealed by Western blotting, showing strong binding of Culex-specific antibodies to Anopheles and Aedes abdominal proteins. This study provides mechanistic insights into antibody-based mosquito suppression, highlighting its potential as an innovative vector control strategy while underscoring the need for further research on resistance management and ecological impacts.

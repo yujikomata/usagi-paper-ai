@@ -1,0 +1,7 @@
+TITLE: First Detection of Benign Rabbit Caliciviruses in Chile.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/v16030439
+SOURCE: EuropePMC/MED/38543804
+
+Pathogenic lagoviruses (Rabbit hemorrhagic disease virus, RHDV) are widely spread across the world and are used in Australia and New Zealand to control populations of feral European rabbits. The spread of the non-pathogenic lagoviruses, e.g., rabbit calicivirus (RCV), is less well studied as the infection results in no clinical signs. Nonetheless, RCV has important implications for the spread of RHDV and rabbit biocontrol as it can provide varying levels of cross-protection against fatal infection with pathogenic lagoviruses. In Chile, where European rabbits are also an introduced species, myxoma virus was used for localised biocontrol of rabbits in the 1950s. To date, there have been no studies investigating the presence of lagoviruses in the Chilean feral rabbit population. In this study, liver and duodenum rabbit samples from central Chile were tested for the presence of lagoviruses and positive samples were subject to whole RNA sequencing and subsequent data analysis. Phylogenetic analysis revealed a novel RCV variant in duodenal samples that likely originated from European RCVs. Sequencing analysis also detected the presence of a rabbit astrovirus in one of the lagovirus-positive samples.

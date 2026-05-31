@@ -1,0 +1,7 @@
+TITLE: Comparative study of cytochrome P450 expression in the kidneys of Lepus yarkandensis and Oryctolagus cuniculus.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s41598-025-91603-x
+SOURCE: EuropePMC/MED/40011673
+
+Lepus yarkandensis is a desert hare of the Tarim Basin in western China, and it has strong adaptability to drought environments. Cytochrome P450s (CYP450s) are important metabolic enzymes, and their metabolites (19-hydroxyeicosatetraenoic acid (19-HETE), 20-HETE, and epoxyeicosatrienoic acids (EETs)) are important for regulating kidney water absorption and sodium excretion. This study aimed to investigate the expression of CYP450 enzymes in the kidneys of L. yarkandensis. Our results revealed significant upregulation of CYP2E1 in L. yarkandensis kidneys compared with Oryctolagus cuniculus kidneys, particularly on the basolateral plasma membrane of proximal convoluted tubule (PCT) and proximal straight tubule (PST) cells, as well as in the outer medullary collecting duct and in the beginning and middle sites of the inner medullary collecting duct. In contrast, the expression of CYP2C, CYP2J, CYP4A11, and CYP4F3 was notably downregulated in the kidneys of L. yarkandensis, primarily in the basolateral plasma membrane of PCT and PST cells. Additionally, the levels of 19-HETE are greater, whereas those of 20-HETE and EETs are lower in the kidneys of L. yarkandensis than in those of O. cuniculus. The altered expression patterns of these CYP450 enzymes suggest that L. yarkandensis has a greater capacity for renal water reabsorption.

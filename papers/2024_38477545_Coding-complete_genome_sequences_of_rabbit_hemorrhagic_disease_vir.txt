@@ -1,0 +1,7 @@
+TITLE: Coding-complete genome sequences of rabbit hemorrhagic disease virus type 2 detected in 2023 in Washington State indicate a divergent incursion into the United States.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1128/mra.01087-23
+SOURCE: EuropePMC/MED/38477545
+
+Three rabbit hemorrhagic disease virus type 2 (RHDV2) coding-complete genome sequences were obtained from domestic and wild rabbits in Washington State in June and July 2023. These three RHDV2 sequences are <82% identical to previous RHDV2 sequences in North America and likely indicate a discrete incursion.

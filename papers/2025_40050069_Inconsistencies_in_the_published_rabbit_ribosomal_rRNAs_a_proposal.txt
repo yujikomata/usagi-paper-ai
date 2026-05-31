@@ -1,0 +1,7 @@
+TITLE: Inconsistencies in the published rabbit ribosomal rRNAs: a proposal for uniformity in sequence and site numbering.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1261/rna.080294.124
+SOURCE: EuropePMC/MED/40050069
+
+Examination of all publicly available Oryctolagus cuniculus (rabbit) ribosome cryo-EM structures reveals numerous confusing inconsistencies. First, there are a plethora of single-nucleotide differences among the various rabbit 28S and 18S rRNA structures. Second, two nucleotides are absent from the NCBI Reference Sequence for the 18S rRNA gene. Moving forward, we propose using the Broad Institute's rabbit whole-genome shotgun sequence and numbering to reduce modeling ambiguity and improve consistency between ribosome models.
