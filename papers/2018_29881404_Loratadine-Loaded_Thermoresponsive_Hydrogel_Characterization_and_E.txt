@@ -1,0 +1,7 @@
+TITLE: Loratadine-Loaded Thermoresponsive Hydrogel: Characterization and Ex-vivo Rabbit Cornea Permeability Studies.
+YEAR: 2018
+JOURNAL: 
+DOI: 
+SOURCE: EuropePMC/MED/29881404
+
+Poor bioavailability of ophthalmic drops is mainly due to drainage through the nasal-lacrimal duct and a very low permeability through corneal epithelium. The aim of our study was to prepare and characterize an ocular hydrogel of loratadine, as an example of a lipophilic drug, to increase drug concentration and residence time at the site of action in the eye. In this study, a 23 full factorial design was employed to design and compare the properties of eight different loratadine containing hydrogel formulations. Results showed a significant correlation between the swelling and porosity ratios of the hydrogels and the Pluronic percentage and Pluronic/carbomer ratio in the formulations. Moreover, the release profiles showed fast and sustained release of all the formulations. Evaluation of hydrogels structure by the FT-IR technique indicated that Pluronic interacts with hydroxyl and carboxylic groups in carbomer, which is the main reason of the hydrogel network formation and interacts with loratadine.The permeation of loratadine through rabbit cornea showed that drug permeation percentages for the F2 and F7 formulations were 15 and 70 folds more than that of the control.

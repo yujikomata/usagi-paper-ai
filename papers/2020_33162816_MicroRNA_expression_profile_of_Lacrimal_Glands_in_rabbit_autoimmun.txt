@@ -1,0 +1,7 @@
+TITLE: MicroRNA expression profile of Lacrimal Glands in rabbit autoimmune dacryoadenitis model.
+YEAR: 2020
+JOURNAL: 
+DOI: 10.7150/ijms.50248
+SOURCE: EuropePMC/MED/33162816
+
+Purpose: To identify the differential expression of microRNAs (miRs) and the related gene networks and signal pathways in lacrimal glands (LGs) of rabbit autoimmune dacryoadenitis. Methods: Autoimmune dacryoadenitis in rabbits was induced by transferring activated peripheral blood lymphocytes (PBLs). The LGs of normal and model group rabbits were collected for small RNA sequencing. The most differentially expressed miRs were validated by quantitative real time-polymerase chain reaction (qRT-PCR). Further, bioinformatics analysis including target gene prediction, Gene Ontology (GO) terms and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analyses were performed. Results: A total of 15 miRs were differentially expressed in the LGs of rabbit autoimmune dacryoadenitis relative to normal controls. GO and KEGG analysis revealed that most target genes of these dysregulated miRs were implicated in MAPK signaling pathway. Conclusion: Our results showed for the first time the differentially expressed miRs and the related pathways involved in the pathogenesis of rabbit autoimmune dacryoadenitis. These results may contribute to elucidating molecular pathogenesis of Sjögren's syndrome (SS) dry eye.

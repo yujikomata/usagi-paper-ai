@@ -1,0 +1,7 @@
+TITLE: Evaluating the Functionality of Conjunctiva Using a Rabbit Dry Eye Model.
+YEAR: 2016
+JOURNAL: 
+DOI: 10.1155/2016/3964642
+SOURCE: EuropePMC/MED/27088007
+
+Purpose. To assess the conjunctival functionality in a rabbit dry eye (DE) model. Methods. Nictitating membrane, lacrimal and Harderian glands were surgically excised from male New Zealand white rabbits using minimally invasive surgery. Fluorescein/rose Bengal staining of ocular surface (OS) and Schirmer test were done before (BE) and after excision (AE). The expression of interleukin- (IL-) 1β, tumor necrosis factor- (TNF-) α, and MUC5AC proteins were estimated by immunoblotting from conjunctival impression cytology specimens. MUC5AC mRNA was quantified as well. The effect of epithelial sodium channel (ENaC) blockers on tear production and potential differences (PD) of OS were assessed under anesthesia in rabbits with and without surgery. Results. Increase in corneal and conjunctival staining was observed 1 month AE compared to BE. Schirmer tests failed to show decrease in tear production. Elevated IL-1β, and TNF-α, 1 month AE indicated inflammation. MUC5AC expression was elevated 1 month AE. ENaC blockers did not improve tear production in rabbit eyes AE but characteristic changes in PD were observed in rabbits with surgery. Conclusions. DE biomarkers are important tools for OS assessment and MUC5AC expression is elevated in rabbit DE. PD measurement revealed significant electrophysiological changes in rabbits with surgery.

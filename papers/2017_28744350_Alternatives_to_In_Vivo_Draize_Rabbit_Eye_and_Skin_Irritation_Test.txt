@@ -1,0 +1,7 @@
+TITLE: Alternatives to In Vivo Draize Rabbit Eye and Skin Irritation Tests with a Focus on 3D Reconstructed Human Cornea-Like Epithelium and Epidermis Models.
+YEAR: 2017
+JOURNAL: 
+DOI: 10.5487/tr.2017.33.3.191
+SOURCE: EuropePMC/MED/28744350
+
+Human eyes and skin are frequently exposed to chemicals accidentally or on purpose due to their external location. Therefore, chemicals are required to undergo the evaluation of the ocular and dermal irritancy for their safe handling and use before release into the market. Draize rabbit eye and skin irritation test developed in 1944, has been a gold standard test which was enlisted as OECD TG 404 and OECD TG 405 but it has been criticized with respect to animal welfare due to invasive and cruel procedure. To replace it, diverse alternatives have been developed: (i) For Draize eye irritation test, organotypic assay, in vitro cytotoxicity-based method, in chemico tests, in silico prediction model, and 3D reconstructed human cornea-like epithelium (RhCE); (ii) For Draize skin irritation test, in vitro cytotoxicity-based cell model, and 3D reconstructed human epidermis models (RhE). Of these, RhCE and RhE models are getting spotlight as a promising alternative with a wide applicability domain covering cosmetics and personal care products. In this review, we overviewed the current alternatives to Draize test with a focus on 3D human epithelium models to provide an insight into advancing and widening their utility.

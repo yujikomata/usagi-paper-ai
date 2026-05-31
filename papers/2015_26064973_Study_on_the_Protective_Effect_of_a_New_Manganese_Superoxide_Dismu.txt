@@ -1,0 +1,7 @@
+TITLE: Study on the Protective Effect of a New Manganese Superoxide Dismutase on the Microvilli of Rabbit Eyes Exposed to UV Radiation.
+YEAR: 2015
+JOURNAL: 
+DOI: 10.1155/2015/973197
+SOURCE: EuropePMC/MED/26064973
+
+We present a study on the protective effects against UV radiation of a gel formulation containing a new recombinant form of manganese superoxide dismutase on the conjunctiva and corneal epithelia of rabbit eyes. The integrity of the microvilli of both ocular tissues has been considered as an indicator of the health of the tissues. Samples, collected by impression cytology technique, were added of 80 µL of a gel formulation containing superoxide dismutase (2.0 µg/mL) and irradiated with UV rays for 30 minutes and were evaluated with scanning electron microscopy. Wilcoxon test was used to verify the possible occurrence of statistically significant differences between damage for treated and nontreated tissues. Application of gel produces a significant reduction of damage by UV irradiation of ocular epithelia; both epithelia present a significant reduction of damaged microvilli number if treated with the superoxide dismutase gel formulation: the p values (differences between damage found for treated and nontreated both ocular tissues) for conjunctiva and cornea samples were p ≪ 0.01 and p ≪ 0.0001, respectively, at confidence level of 95%. The administration of this gel formulation before UV exposure plays a considerable protective role in ocular tissues of rabbit eye with a significant reduction of the damage.

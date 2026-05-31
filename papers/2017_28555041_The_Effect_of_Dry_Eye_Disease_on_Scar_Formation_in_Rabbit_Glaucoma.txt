@@ -1,0 +1,7 @@
+TITLE: The Effect of Dry Eye Disease on Scar Formation in Rabbit Glaucoma Filtration Surgery.
+YEAR: 2017
+JOURNAL: 
+DOI: 10.3390/ijms18061150
+SOURCE: EuropePMC/MED/28555041
+
+The success rate of glaucoma filtration surgery is closely related to conjunctival inflammation, and the main mechanism of dry eye disease (DED) is inflammation. The aim of this study was to evaluate the effect of DED on bleb scar formation after rabbit glaucoma filtration surgery. Sixteen New Zealand white rabbits were randomly divided into control and DED groups. A DED model was induced by twice-daily topical administration of 0.1% benzalkonium chloride (BAC) drops for three weeks. Ocular examinations were performed to verify the DED model. Surgical effects were assessed, and histologic assessments were performed on the 28th postoperative day. Higher fluorescein staining scores, lower basal tear secretion levels and goblet cell counts, and increased interleukin 1β (IL-1β) levels were observed in the DED group. The DED eyes displayed significantly higher intraocular pressure (IOP)% on the 14th postoperative day; a smaller bleb area on days 14, 21 and 28; and a shorter bleb survival time. Moreover, proliferating cell nuclear antigen (PCNA) and alpha-smooth muscle actin (α-SMA) levels were significantly increased in the DED group. These results demonstrate that DED promotes filtering bleb scar formation and shortens bleb survival time; these effects may be mediated via IL-1β.

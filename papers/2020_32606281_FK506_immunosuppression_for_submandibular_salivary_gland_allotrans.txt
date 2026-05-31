@@ -1,0 +1,7 @@
+TITLE: FK506 immunosuppression for submandibular salivary gland allotransplantation in rabbit.
+YEAR: 2020
+JOURNAL: 
+DOI: 10.5125/jkaoms.2020.46.3.197
+SOURCE: EuropePMC/MED/32606281
+
+ObjectivesWe compared the outcomes of two different doses of FK506 (tacrolimus) for immunosuppression in submandibular salivary gland (SMG) allotransplantation.Materials and methodsThree SMG allotransplantation groups were established (n=6 per group) as follows: allograft rejection control (Allo-Ctrl), low dose (0.08 mg/kg) of FK506 (FK506-L), and high dose (0.16 mg/kg) of FK506 (FK506-H). Allograft survival and rejection were assessed by clinical observation, interleukin-2 levels as determined by enzyme-linked immunosorbent assay, blood sampling for complete blood count (CBC), and histological evaluation.ResultsBody weight and anorexia were higher in the FK506-H group but without a significant difference compared with the FK506-L population. CBC revealed a non-significantly reduced number of changes in the FK506-L group. Four glands in the FK506-H group and two glands in the FK506-L group were viable and functioning post-transplantation.ConclusionThe survival rate of allotransplanted glands was higher in conjunction with the high dose of 0.16 mg/kg of FK506, with no major difference in the side-effect profile when compared with the low dose of 0.08 mg/kg short-term outcomes.

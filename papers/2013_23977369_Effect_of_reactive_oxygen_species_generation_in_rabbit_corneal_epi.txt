@@ -1,0 +1,7 @@
+TITLE: Effect of reactive oxygen species generation in rabbit corneal epithelial cells on inflammatory and apoptotic signaling pathways in the presence of high osmotic pressure.
+YEAR: 2013
+JOURNAL: 
+DOI: 10.1371/journal.pone.0072900
+SOURCE: EuropePMC/MED/23977369
+
+It is generally accepted that high osmotic pressure (HOP) of lacrimal fluid is the core mechanism causing ocular inflammation and injury. However, the association between HOP and the regulation of cell inflammatory response and apoptotic pathways remains unclear. In the present study, we used HOP to interfere with in vitro cultured rabbit corneal epithelial cells, and found that HOP increased the generation of reactive oxygen species (ROS) in rabbit corneal epithelial cells, and increased ROS in turn induced the activation of JNK inflammatory signaling pathway, which further promoted the expression of pro-inflammatory factor NF-κβ and induced the generation of inflammatory factor IL-1β and TNF-α. In addition, HOP-induced ROS in rabbit corneal epithelial cells regulated the CD95/CD95L-mediated cell apoptotic signaling pathway by activating JNK inflammatory signaling pathway. These findings may serve as new theoretical basis and a new way of thinking about the treatment of ocular diseases, especially dry eye.

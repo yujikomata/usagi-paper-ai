@@ -1,0 +1,7 @@
+TITLE: Rabbit and mouse models of HSV-1 latency, reactivation, and recurrent eye diseases.
+YEAR: 2012
+JOURNAL: 
+DOI: 10.1155/2012/612316
+SOURCE: EuropePMC/MED/23091352
+
+The exact mechanisms of HSV-1 establishment, maintenance, latency, reactivation, and also the courses of recurrent ocular infections remain a mystery. Comprehensive understanding of the HSV-1 disease process could lead to prevention of HSV-1 acute infection, reactivation, and more effective treatments of recurrent ocular disease. Animal models have been used for over sixty years to investigate our concepts and hypotheses of HSV-1 diseases. In this paper we present descriptions and examples of rabbit and mouse eye models of HSV-1 latency, reactivation, and recurrent diseases. We summarize studies in animal models of spontaneous and induced HSV-1 reactivation and recurrent disease. Numerous stimuli that induce reactivation in mice and rabbits are described, as well as factors that inhibit viral reactivation from latency. The key features, advantages, and disadvantages of the mouse and rabbit models in relation to the study of ocular HSV-1 are discussed. This paper is pertinent but not intended to be all inclusive. We will give examples of key papers that have reported novel discoveries related to the review topics.

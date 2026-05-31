@@ -1,0 +1,7 @@
+TITLE: Microbial metagenomic approach uncovers the first rabbit haemorrhagic disease virus genome in Sub-Saharan Africa.
+YEAR: 2021
+JOURNAL: 
+DOI: 10.1038/s41598-021-91961-2
+SOURCE: EuropePMC/MED/34210997
+
+Rabbit Haemorrhagic Disease (RHD) causes high morbidity and mortality in rabbits and hares. Here, we report the first genomic characterization of lagovirus GI.2 virus in domestic rabbits from sub-Saharan Africa. We used an unbiased microbial metagenomic Next Generation Sequencing (mNGS) approach to diagnose the pathogen causing the suspected outbreak of RHD in Ibadan, Nigeria. The liver, spleen, and lung samples of five rabbits from an outbreak in 2 farms were analyzed. The mNGS revealed one full and two partial RHDV2 genomes on both farms. Phylogenetic analysis showed close clustering with RHDV2 lineages from Europe (98.6% similarity with RHDV2 in the Netherlands, and 99.1 to 100% identity with RHDV2 in Germany), suggesting potential importation. Subsequently, all the samples were confirmed by RHDV virus-specific RT-PCR targeting the VP60 gene with the expected band size of 398 bp for the five rabbits sampled. Our findings highlight the need for increased genomic surveillance of RHDV2 to track its origin, understand its diversity and to inform public health policy in Nigeria, and Sub-Saharan Africa.

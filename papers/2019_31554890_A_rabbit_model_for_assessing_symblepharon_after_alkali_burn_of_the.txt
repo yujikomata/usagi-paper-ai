@@ -1,0 +1,7 @@
+TITLE: A rabbit model for assessing symblepharon after alkali burn of the superior conjunctival sac.
+YEAR: 2019
+JOURNAL: 
+DOI: 10.1038/s41598-019-50286-x
+SOURCE: EuropePMC/MED/31554890
+
+Symblepharon due to chemical burns affects ocular surface health, and there are currently no satisfactory treatments. To improve our understanding of symblepharon, an appropriate animal model is urgently needed. We established a rabbit model of superior conjunctival sac alkaline burn to evaluate symblepharon severity. Alkali burns were induced in rabbits by contacting the superior conjunctival sac with 2 N NaOH-soaked semicircle filter paper (10 mm diameter) for 60 s, 90 s or 120 s. Clinical and histological features were examined, symblepharon severity was evaluated via conjunctival sac depth (grade I - IV) and volume measurements (grade a-d) post-injury at 4 weeks. With increasing alkali burn duration, corneal perforation and symblepharon severity increased. The 60 s group manifested a sub-conjunctiva scar. The 90 s group featured localized adhesion. The 120 s group was characterized by extensive scar hyperplasia and adhesion. The rabbit model exhibited stable and reliable symblepharon following an alkali burn of the superior conjunctival sac. For further research, 90 s is a suitable duration for conjunctival sac burn. The volume measured using conjunctival sac casting was considered when developing a successful evaluation system for symblepharon severity.

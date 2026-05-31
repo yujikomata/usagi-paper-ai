@@ -1,0 +1,7 @@
+TITLE: Noncontact Optical Measurement of Aqueous Humor Glucose Levels and Correlation with Serum Glucose Levels in Rabbit.
+YEAR: 2021
+JOURNAL: 
+DOI: 10.3390/bios11100387
+SOURCE: EuropePMC/MED/34677343
+
+The noninvasive measurement of serum glucose levels has been investigated for the monitoring of blood sugar control in diabetes. In our study, we aimed to develop a novel noncontact glucometer (NCGM) utilizing an optical approach to measure the intraocular aqueous humor glucose levels in the anterior chamber of rabbit eyes. The NCGM consists of a hybrid optical system that simultaneously measures near-infrared absorption and the polarized rotatory distribution of glucose molecules in the aqueous humor. In vitro optical measurements demonstrated that NCGM measurements had high precision and repeatability for different glucose levels, including 50 mg/dL (14.36%), 100 mg/dL (-4.05%), 200 mg/dL (-5.99%), 300 mg/dL (4.86%), 400 mg/dL (-2.84%), 500 mg/dL (-0.11%), and 600 mg/dL (4.48%). In the rabbit experiments, we found a high correlation between aqueous glucose levels and serum glucose levels, with a mean difference of 8 mg/dL. According to the testing results, the in vivo NCGM measurement of aqueous humor glucose levels also displayed a high correlation with serum glucose levels, with a mean difference of 29.2 mg/dL. In conclusion, aqueous humor glucose levels were accurately measured using the NCGM, and the results correlated with serum glucose levels.

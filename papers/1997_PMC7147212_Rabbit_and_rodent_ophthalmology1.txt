@@ -1,0 +1,7 @@
+TITLE: Rabbit and rodent ophthalmology1
+YEAR: 1997
+JOURNAL: 
+DOI: 10.1016/s1055-937x(97)80021-7
+SOURCE: EuropePMC/PMC/PMC7147212
+
+Ocular disorders of rabbits and rodents are caused by genetic defects, infections, nutritional eficiencies, congenital malformations, as well as environmental and management problems. Their investigation and diagnosis rely on implementation of diagnostic approaches and instrumentation used commonly for other companion animal species. Special considerations of importance include the small size of the eye in some species, necessitating use of magnification for accurate assessment, and the vulnerability of some species to complications of parenteral and even topical antibiotic and anti-inflammatory therapy.

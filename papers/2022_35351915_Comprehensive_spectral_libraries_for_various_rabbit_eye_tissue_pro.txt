@@ -1,0 +1,7 @@
+TITLE: Comprehensive spectral libraries for various rabbit eye tissue proteomes.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.1038/s41597-022-01241-5
+SOURCE: EuropePMC/MED/35351915
+
+Rabbits have been widely used for studying ocular physiology and pathology due to their relatively large eye size and similar structures with human eyes. Various rabbit ocular disease models, such as dry eye, age-related macular degeneration, and glaucoma, have been established. Despite the growing application of proteomics in vision research using rabbit ocular models, there is no spectral assay library for rabbit eye proteome publicly available. Here, we generated spectral assay libraries for rabbit eye compartments, including conjunctiva, cornea, iris, retina, sclera, vitreous humor, and tears using fractionated samples and ion mobility separation enabling deep proteome coverage. The rabbit eye spectral assay library includes 9,830 protein groups and 113,593 peptides. We present the data as a freely available community resource for proteomic studies in the vision field. Instrument data and spectral libraries are available via ProteomeXchange with identifier PXD031194.

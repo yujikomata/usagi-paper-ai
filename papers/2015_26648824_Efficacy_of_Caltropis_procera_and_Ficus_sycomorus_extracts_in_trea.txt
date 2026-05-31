@@ -1,0 +1,7 @@
+TITLE: Efficacy of Caltropis procera and Ficus sycomorus extracts in treating MRSA (methicillin-resistant Staphylococcus aureus)-keratitis in rabbit.
+YEAR: 2015
+JOURNAL: 
+DOI: 10.17179/excli2015-350
+SOURCE: EuropePMC/MED/26648824
+
+MRSA-induced keratitis in rabbit was used to evaluate the therapeutic effect of F. sycomorus leaves and C. procera latex extracts. Within the 6 rabbit groups tested, group 1 received sterilized saline, while other groups (2 to 6) received 100 μl of intrastromal injections of 1.5×10(3) colony forming unit (cfu) ml(-1) of methicillin-resistant Staphylococcus aureus (MRSA). After 12 hours, groups 3 to 6 also received chloramphenicol, aqueous extract of C. procera latex, aqueous and alcoholic extracts of F. sycomorus leaves, respectively 3 times daily for 12 successive days. The tested extracts inhibited MRSA growth in vitro (i.e. on culture medium). Colony counts in cornea discs from groups 3 to 6 were significantly reduced (P ≤ 0.001) compared to group 2 (untreated). Clinical signs of keratitis were observed on group 2 until the end of experiment. In groups 3 to 6, gradual recovery was observed and signs disappeared by the 12(th) DPI (days post inoculation). Only mild symptoms persisted in group 5 (aqueous extract of leaves). In group 3 and 5, cornea, iris, ciliary body and conjunctiva showed mild leukocytic infiltration and depigmentation of melanin cells while recovery of cornea and iris was observed in groups 4 and 6. In conclusion, the used extracts have potential therapeutic effects on MRSA-induced keratitis in rabbit.

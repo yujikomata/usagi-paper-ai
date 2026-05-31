@@ -1,0 +1,7 @@
+TITLE: Effect of Topically Administered Chitosan-N-acetylcysteine on Corneal Wound Healing in a Rabbit Model.
+YEAR: 2017
+JOURNAL: 
+DOI: 10.1155/2017/5192924
+SOURCE: EuropePMC/MED/28695002
+
+PurposeThe present study was performed to investigate the effect of topically administered chitosan-N-acetylcysteine (C-NAC) on corneal wound healing in a rabbit model.MethodsA total of 20 New Zealand White rabbits were included in the randomized, masked, placebo-controlled experiment. A monocular epithelial debridement was induced by manual scraping under general anesthesia. Animals were randomized to receive either C-NAC two times daily or placebo. Monitoring of corneal wound healing was performed with ultra-high-resolution optical coherence tomography (OCT) and epithelial fluorescein staining. Measurements were done immediately after and up to 72 hours after wound induction.ResultsNo difference in wound size was found immediately after surgical debridement between the C-NAC group and the placebo group. Wound healing was significantly faster in the C-NAC group compared to the placebo group (p r = 0.94).ConclusionsAdministration of C-NAC containing eye drops twice daily leads to a faster corneal wound healing in a rabbit model of corneal debridement as compared to placebo. Ultra-high-resolution OCT is considered a noninvasive, dye-free alternative to conventional fluorescein staining in assessing corneal wound healing also in humans.

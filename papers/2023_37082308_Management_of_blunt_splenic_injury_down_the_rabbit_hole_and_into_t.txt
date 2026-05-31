@@ -1,7 +1,0 @@
-TITLE: Management of blunt splenic injury: down the rabbit hole and into the bucket.
-YEAR: 2023
-JOURNAL: 
-DOI: 10.1136/tsaco-2023-001119
-SOURCE: EuropePMC/MED/37082308
-
-Management of splenic trauma has changed dramatically over the past 30 years. Many of these advances were driven by the Memphis team under the leadership of Dr. Timothy Fabian. This review article summarizes some of those changes in clinical care, especially related to nonoperative management and angioembolization.

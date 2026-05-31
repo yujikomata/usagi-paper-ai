@@ -1,0 +1,7 @@
+TITLE: Arthroscopic Biceps Tenotomy Using a Single Portal for Working and Viewing: A Rabbit Model and Technique.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.1016/j.eats.2022.01.019
+SOURCE: EuropePMC/MED/35782833
+
+Biceps tenotomy (BT) is a common surgery used to address anterior shoulder pain and joint dysfunction in humans. Using animal models to simulate human conditions is an effective and essential research strategy to further understand histologic and biomechanical processes that occur after BT, including the pathology of the detached biceps, secondary tendinopathic conditions of the rotator cuffs, and glenohumeral functional changes. This Technical Note presents a comprehensive step-by-step description of an arthroscopic BT procedure in rabbits. This technique is particularly beneficial, as the mini-invasive arthroscopic technique in a rabbit model is similar to that performed in humans. which resulted in less scarring and injuries to other adjacent structures in comparison with open surgery.

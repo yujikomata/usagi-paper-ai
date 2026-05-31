@@ -1,0 +1,7 @@
+TITLE: Astragalus Ⅳ ameliorates the dry eye injury in rabbit model via MUC1-ErbB1 pathway.
+YEAR: 2021
+JOURNAL: 
+DOI: 10.4081/ejh.2021.3198
+SOURCE: EuropePMC/MED/33792228
+
+The therapeutic effects and potential mechanisms of astragaloside IV on a rabbits dry eye model induced by benzalkonium chloride (BAC) was examined. In our study, a BAC-induced dry eye rabbit model was treated with eye drops containing astragaloside IV (5, 10 μM) or solvent four times a day. The clinical evaluations, such as tear break-up time (BUT) and Schirmer tear test (STT), were performed on days 0, 7, 14, 21, and 28. On day 28, the cornea and bulbar conjunctiva tissues (left eye and right eye) were collected with histology, and immunofluorescent staining conducted. The levels of MUC1 and ErbB1in the corneas were determined by real-time quantitative PCR (qRT-PCR) and the proteins levels of MUC1 and ErbB1 were detected by Western blot. It was demonstrated that both astragaloside IV (5, 10 μM) treatments resulted in an increased STT and BUT on days 7, 14, 21 and 28. Additionally, the astragaloside IV (5, 10 μM)-treated group showed increasing PAS-positive goblet cells than model group (0 μM). Moreover, the MUC1 in model group (0 μM) was decreased, while the expression of MUC1 in astragaloside IV (5, 10 μM) group was increased. Furthermore, astragaloside IV had a protective effect on BAC-induced rabbits' dry eye and demonstrated clinical improvements, which indicated that astragaloside IV served as a potential protective agent in the clinical treatment of dry eye.

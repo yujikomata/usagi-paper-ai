@@ -1,0 +1,7 @@
+TITLE: Optimization of a Rabbit Dry Eye Model Induced by Topical Instillation of Benzalkonium Chloride.
+YEAR: 2020
+JOURNAL: 
+DOI: 10.1155/2020/7204951
+SOURCE: EuropePMC/MED/32566267
+
+PurposeTo optimize a rabbit dry eye model induced by topical instillation of benzalkonium chloride (BAC), reduce the days of instillation of the original model by increasing the concentration of BAC from 0.1% to 0.2%.Materials and methodsAn experimental, prospective, and randomized study was performed on 10 male New Zealand white rabbits, divided into two groups, considering both eyes: 5 rabbits as control (n = 10) and 5 rabbits with 0.2% BAC treatment (n = 10). Saline solution (control) and 0.2% BAC were instilled for 5 consecutive days, twice daily. Tear secretion with and without anesthesia, tear breakup time, tear osmolarity, corneal staining, conjunctival hyperemia, density of goblet cells, height of mucin cloud, and transcript levels of IL-6 were measured before and after the treatment.ResultsAfter the instillation of 0.2% BAC for 5 consecutive days, there was a significant increase in tear secretion without anesthesia (P P P P=0.005) compared to the control group. Conversely, there was a decrease in tear secretion with anesthesia (P P=0.007), tear osmolarity (P P P ConclusionsThe topical instillation of 0.2% BAC for 5 consecutive days, twice daily, was a proper procedure to induce a rabbit dry eye model, reducing the number of days of instillation compared to the original model (14 days).
