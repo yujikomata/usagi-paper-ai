@@ -23,7 +23,7 @@ BASE = os.path.dirname(__file__)
 PAPERS_DIR = os.path.join(BASE, "papers")
 COLLECTION = "usagi_papers"
 MODEL = "claude-sonnet-4-6"
-TOP_K = 6
+TOP_K = 10
 CHUNK_SIZE = 1200
 CHUNK_OVERLAP = 200
 
@@ -70,7 +70,8 @@ def get_collection():
         for j, ch in enumerate(_chunk(body)):
             if len(ch.strip()) < 50:
                 continue
-            docs.append(ch)
+            # タイトルをチャンク先頭に付与し、論文タイトルの語も検索対象にする
+            docs.append(f"{title}\n{ch}")
             metas.append({"title": title, "year": header.get("year", "")})
             ids.append(f"{fname}_{j}")
     for i in range(0, len(docs), 200):
