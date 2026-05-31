@@ -1,7 +1,0 @@
-TITLE: Bird mortality on high-speed railways: lessons from two large contrasting species.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.1038/s41598-025-12012-8
-SOURCE: EuropePMC/MED/40998848
-
-Collisions are the chief effect of transport infrastructures on vertebrate populations, but their relevance in high-speed railways (HSR) is largely unknown. We analyzed Great Bustard (Otis tarda) and Eurasian Eagle-owl (Bubo bubo) mortality along two 5-km stretches of a Spanish HSR. Five fresh bustards and 10 owl carcasses were collected during 40 weeks of monitoring over two years, plus older remains of 14 bustards and 17 owls more. Relevant mortalities of both bird species thus occur, and according to complementary results differences in local use of the infrastructure explain their spatial patterns. Bustards die at points where they fly across optimizing their local movements, while owls probably die while hunting the abundant rabbits present on railway verges. The case alerts about potential bird mortality due to HSR and exemplifies how impact prediction, evaluation, and mitigation must accommodate species' characteristics to be successful.

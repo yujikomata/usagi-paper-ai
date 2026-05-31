@@ -1,7 +1,0 @@
-TITLE: Sequencing and analysis of the complete mitochondrial genome of Ochotona hyperborea from China and its phylogenetic analysis.
-YEAR: 2021
-JOURNAL: 
-DOI: 10.1080/23802359.2021.1934137
-SOURCE: EuropePMC/MED/34124354
-
-The complete mitogenome sequence of Ochotona hyperborea was determined using long PCR. The genome was 17,063 bp in length and contained 13 protein-coding genes, two ribosomal RNA genes, 22 transfer RNA genes, one origin of L strand replication, and one control region. The overall base composition of the heavy strand is A (31.1%), C (28.7%), T (26.3%), and G (13.9%). The base compositions present clearly the A-T skew, which is most obvious in the control region and protein-coding genes. Mitochondrial genome analyses based on MP, ML, NJ, and Bayesian analyses yielded identical phylogenetic trees. This study verifies the evolutionary status of Ochotona hyperborea in Ochotonidae at the molecular level. The mitochondrial genome would be a significant supplement for the Ochotona hyperborea genetic background. The eight Ochotona species formed a monophyletic group with the high bootstrap value (100%) in all examinations.

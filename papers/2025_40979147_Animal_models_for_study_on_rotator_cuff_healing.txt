@@ -1,7 +1,0 @@
-TITLE: Animal models for study on rotator cuff healing.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.5312/wjo.v16.i9.110320
-SOURCE: EuropePMC/MED/40979147
-
-Rotator cuff tears are highly prevalent, and there is an urgent need to understand their healing mechanisms to improve treatment outcomes for patients. This editorial aims to summarize the roles and limitations of common animal models (including rodents, rabbits, sheep, dogs, and primates) and second-look arthroscopy in rotator cuff healing research. Different animal models offer distinct advantages and disadvantages. For example, rodent models are cost-effective and suitable for genetic studies but have anatomical differences from humans. Rabbit models are favored for their relatively large tendon size and ease of surgical manipulation, yet they still deviate from human shoulder anatomy in some aspects. Larger animals like sheep and dogs have more similar shoulder structures to humans but come with high costs and challenges in maintaining consistent experimental conditions. Second-look arthroscopic studies have provided evidence for the effectiveness of current surgical techniques. Animal models will continue to play a crucial role in further exploring the local microenvironment of the rotator cuff, which is expected to help develop more effective strategies to promote healing.

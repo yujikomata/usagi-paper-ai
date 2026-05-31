@@ -1,7 +1,0 @@
-TITLE: A New Way to Engineer Cell Sheets for Articular Cartilage Regeneration.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.3390/jfb16120437
-SOURCE: EuropePMC/MED/41440614
-
-BackgroundArticular cartilage has limited self-repair capacity. While thermoresponsive poly N-isopropyl acrylamide (pNIPAAm)-based Cell Sheet Engineering (CSE) is a promising scaffold-free strategy, its inherent material properties pose limitations. This study developed and validated a novel, non-thermoresponsive CSE platform for functional cartilage regeneration.MethodsA culture platform was fabricated by grafting the biocompatible polymer poly gamma-glutamic acid (γ-PGA) and a disulfide-containing amino acid onto porous PET membranes. This design enables intact cell sheet detachment with its native extracellular matrix (ECM) via specific cleavage of the disulfide bonds by a mild reducing agent.ResultsThe hydrated substrate exhibited a biomimetic stiffness (~16.2 MPa) that closely mimics native cartilage. The platform showed superior biocompatibility and supported the cultivation of multi-layered rabbit chondrocyte sheets rich in Collagen II and Glycosaminoglycans. Critically, in a rabbit full-thickness defect model, transplanted autologous cell sheets successfully regenerated integrated, hyaline-like cartilage at 12 weeks, as confirmed by MRI, CT, and histological analyses.ConclusionsThis novel CSE platform, featuring highly biomimetic stiffness and a gentle, chemically specific detachment mechanism, represents a highly promising clinical strategy for repairing articular cartilage defects.

@@ -1,7 +1,0 @@
-TITLE: The Historical Baseline of Hard Tick Records in Spain (1985-2024).
-YEAR: 2025
-JOURNAL: 
-DOI: 10.3390/pathogens14020173
-SOURCE: EuropePMC/MED/40005548
-
-Ticks are important vectors of pathogens, producing diseases in animals and humans. The planning of information campaigns or prevention programs is heavily based on the knowledge of highly detailed data on tick distribution. This study reports unpublished data on the distribution of more than 30,000 tick specimens, collected by active surveys in the years 1985-2024 in Spain, from 2285 surveys in 1636 unique sites, providing coordinates with variable accuracy. The report covers new records of Dermacentor marginatus, Dermacentor reticulatus, Haemaphysalis punctata, Haemaphysalis sulcata, Hyalomma marginatum, Hyalomma lusitanicum, Ixodes ricinus, Rhipicephalus bursa, Rhipicephalus hibericus, and Rhipicephalus sanguineus (either s.s. or s.l.). Other species were sporadically collected. Many specimens have been re-examined for accurate identification according to current taxonomic views, mainly in the genus Rhipicephalus. We summarized this newly available information using the Köppen-Geiger climate classification. This compilation of unpublished tick records pinpoints the importance of the systematic monitoring of ticks. It is intended as the baseline over which the ongoing national tick collection program is built in order to track the long-term changes of tick distribution in Spain, because of the land use changes, the spread of invasive vertebrates, or the climate trends.

@@ -1,7 +1,0 @@
-TITLE: A Simplified Method for Calculating Surface Area of Mammalian Erythrocytes.
-YEAR: 2024
-JOURNAL: 
-DOI: 10.3390/mps7010011
-SOURCE: EuropePMC/MED/38392685
-
-Knowledge of the geometric quantities of the erythrocyte is useful in several physiological studies, both for zoologists and veterinarians. While the diameter and volume (MCV) are easily obtained from observations of blood smears and complete blood count, respectively, the thickness and surface area are instead much more difficult to measure. The precise description of the erythrocyte geometry is given by the equation of the oval of Cassini, but the formulas deriving from it are very complex, comprising elliptic integrals. In this article, three solids are proposed as models approximating the erythrocyte: sphere, cylinder and a spheroid with concave caps. The volumes and surface areas obtained with these models are compared to those effectively measured. The spheroid with concave caps gives the best approximation and can be used as a simple model to determine the erythrocyte surface area. With this model, a simple method that allows one to estimate the surface area by knowing only the diameter and MCV is proposed.

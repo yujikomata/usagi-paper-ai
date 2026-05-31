@@ -1,7 +1,0 @@
-TITLE: Advances and applications of genome-edited animal models for severe combined immunodeficiency.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.24272/j.issn.2095-8137.2024.195
-SOURCE: EuropePMC/MED/39846200
-
-Severe combined immunodeficiency disease (SCID), characterized by profound immune system dysfunction, can lead to life-threatening infections and death. Animal models play a pivotal role in elucidating biological processes and advancing therapeutic strategies. Recent advances in gene-editing technologies, including zinc-finger nucleases (ZFNs), transcription activator-like effector nucleases (TALENs), CRISPR/Cas9, and base editing, have significantly enhanced the generation of SCID models. These models have not only deepened our understanding of disease pathophysiology but have also driven progress in cancer therapy, stem cell transplantation, organ transplantation, and infectious disease management. This review provides a comprehensive overview of current SCID models generated using novel gene-editing approaches, highlighting their potential applications in translational medicine and their role in advancing biomedical research.

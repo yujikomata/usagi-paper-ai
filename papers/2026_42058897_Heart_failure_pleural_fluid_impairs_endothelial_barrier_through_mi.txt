@@ -1,7 +1,0 @@
-TITLE: Heart failure pleural fluid impairs endothelial barrier through miR 501-3p mediated ZO 1 remodeling.
-YEAR: 2026
-JOURNAL: 
-DOI: 10.1016/j.isci.2026.115549
-SOURCE: EuropePMC/MED/42058897
-
-Heart failure (HF) is frequently accompanied by pleural effusion, yet the biological impact of HF-associated pleural fluid on vascular endothelial function remains unclear. Here, we show that HF pleural fluid impairs endothelial barrier integrity and angiogenic capacity in human umbilical vein endothelial cells. Functional assays revealed increased permeability, reduced migration, and altered tube formation following treatment with patient-derived pleural fluid. Mechanistically, HF pleural fluid increased reactive oxygen species production and inflammatory signaling while downregulating tight junction protein ZO-1. Small RNA profiling identified miR-501-3p as a key mediator of these effects. Gain- and loss-of-function experiments demonstrated that miR-501-3p directly regulates ZO-1 expression and contributes to barrier disruption. These findings establish a microRNA-dependent mechanism linking HF pleural fluid to endothelial dysfunction and suggest a potential molecular pathway contributing to vascular complications in HF.

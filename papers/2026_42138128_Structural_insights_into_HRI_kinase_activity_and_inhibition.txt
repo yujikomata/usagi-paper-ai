@@ -1,7 +1,0 @@
-TITLE: Structural insights into HRI kinase activity and inhibition.
-YEAR: 2026
-JOURNAL: 
-DOI: 10.1042/bst20250541
-SOURCE: EuropePMC/MED/42138128
-
-Haem-regulated inhibitor (HRI) is emerging as a potential therapeutic target in several disease areas, including cancers such as multiple myeloma and neurodegenerative disease. As one of four related mammalian kinases that phosphorylate the mRNA translation machinery substrate eIF2α, it has a central role in sensing several disparate proteotoxic stresses and preventing subsequent rounds of protein production. In this review, we will examine the latest research on the structural and molecular basis of HRI inhibition and activation, examining both regulatory biological interactions with proteins and cofactors. What emerges is that despite almost 75 years since the first identification of HRI, we still know remarkably little about how this kinase functions and is regulated.

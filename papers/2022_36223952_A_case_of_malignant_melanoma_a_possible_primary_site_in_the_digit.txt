@@ -1,7 +1,0 @@
-TITLE: A case of malignant melanoma, a possible primary site in the digit, with systemic metastasis in a mini-Rex.
-YEAR: 2022
-JOURNAL: 
-DOI: 10.1292/jvms.22-0181
-SOURCE: EuropePMC/MED/36223952
-
-We report a case of systemic metastasis of malignant melanoma in a mini-Rex (Oryctolagus cuniculus). The animal presented with lameness of the right hind limb, swelling of popliteal lymph node, and a black mass on the first digit. Paralysis of hindlimbs and forelimbs, dysuria, and dysphagia progressed over time, and the rabbit died on day 35 from the first visit. At necropsy, many black lesions were observed in multiple organs including the marrow of most bones. Histopathologically, the tumor cells had highly atypical nuclei of various sizes and an abundant eosinophilic cytoplasm, and some cells contained melanin granules. These cells were positive for PNL2 and S-100, melanoma markers, by immunohistochemistry. This is the first report of malignant melanoma in a mini-Rex with severe malignancy and systemic metastasis including the bone marrow.

@@ -1,7 +1,0 @@
-TITLE: Animal models of hemorrhage, parameters, and development of hemostatic methods.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.1186/s42826-025-00239-5
-SOURCE: EuropePMC/MED/39901216
-
-Hemorrhage is a prevalent side effect of various injuries and can be life-threatening in certain instances. It is categorized into compressible and non-compressible types, each necessitating distinct modeling, laboratory assessments, and hemostatic approaches. This study utilized the keywords Hemorrhage, Bleeding, Animal Modeling, and Hemostat in reputable databases. The findings indicate that femoral artery hemorrhage and hepatic parenchymal hemorrhage are the predominant modeling techniques for compressible and non-compressible bleeding, respectively. Furthermore, it is noted that animal models of compressible hemorrhages are primarily situated in superficial body areas to investigate dressing or additive hemostats, while non-compressible hemorrhage models, typically located in visceral organs, are employed to examine adhesive or surgical instrument-based hemostats.

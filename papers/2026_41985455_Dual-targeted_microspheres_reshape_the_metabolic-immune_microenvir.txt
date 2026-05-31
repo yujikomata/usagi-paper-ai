@@ -1,7 +1,0 @@
-TITLE: Dual-targeted microspheres reshape the metabolic-immune microenvironment to reverse post-embolization dilemmas in hepatocellular carcinoma.
-YEAR: 2026
-JOURNAL: 
-DOI: 10.1016/j.xcrm.2026.102748
-SOURCE: EuropePMC/MED/41985455
-
-Transarterial embolization (TAE) efficacy in hepatocellular carcinoma (HCC) is limited by post-embolization hypoxia-driven angiogenesis and metabolic reprogramming. To address this, we develop pH-responsive gelatin microspheres (GMs) encapsulating zinc sulfide (ZnS) nanoparticles (ZnS-encapsulated gelatin microspheres [ZnS@GMs]) for the dual delivery of hydrogen sulfide (H2S) gas and Zn2+ ions. ZnS@GMs inhibit tumor growth through suppression of the hypoxia-inducible factor-1α (HIF-1α)/vascular endothelial growth factor (VEGF) axis and glycolytic metabolism, alongside promoting vascular normalization and immune activation. Mechanistically, H2S disrupts mitochondrial respiration, increasing oxygen levels and destabilizing HIF-1α, whereas Zn2+ inhibits hexokinase and lactate dehydrogenase, depleting ATP and biosynthetic intermediates. Furthermore, ZnS@GMs induce immunogenic cell death, which triggers dendritic cell maturation, cytotoxic T cell infiltration, and macrophage repolarization, thereby enhancing the efficacy of anti-PD-1 therapy. In a rabbit orthotopic liver tumor model, intra-arterial infusion of ZnS@GMs confirms potent antitumor effects and effective embolic performance. This work establishes ZnS@GMs as a multifunctional platform to overcome TAE resistance in HCC.

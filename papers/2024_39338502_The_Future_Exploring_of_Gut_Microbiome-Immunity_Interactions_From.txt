@@ -1,7 +1,0 @@
-TITLE: The Future Exploring of Gut Microbiome-Immunity Interactions: From In Vivo/Vitro Models to In Silico Innovations.
-YEAR: 2024
-JOURNAL: 
-DOI: 10.3390/microorganisms12091828
-SOURCE: EuropePMC/MED/39338502
-
-Investigating the complex interactions between microbiota and immunity is crucial for a fruitful understanding progress of human health and disease. This review assesses animal models, next-generation in vitro models, and in silico approaches that are used to decipher the microbiome-immunity axis, evaluating their strengths and limitations. While animal models provide a comprehensive biological context, they also raise ethical and practical concerns. Conversely, modern in vitro models reduce animal involvement but require specific costs and materials. When considering the environmental impact of these models, in silico approaches emerge as promising for resource reduction, but they require robust experimental validation and ongoing refinement. Their potential is significant, paving the way for a more sustainable and ethical future in microbiome-immunity research.

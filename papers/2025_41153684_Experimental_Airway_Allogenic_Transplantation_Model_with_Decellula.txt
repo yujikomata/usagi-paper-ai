@@ -1,7 +1,0 @@
-TITLE: Experimental Airway Allogenic Transplantation Model with Decellularized Cryopreserved Tracheas.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.3390/biomedicines13102401
-SOURCE: EuropePMC/MED/41153684
-
-Background/Objectives: Tracheal replacement remains an unmet necessity in airway pathology treatment. We describe a decellularization and cryopreservation tracheal replacement protocol tested in vivo. Methods: A prospective experimental cohort study is conducted in which tracheas from white New Zealand rabbits (n = 32) are decellularized and cryopreserved, sterilized with gamma radiation, and tutorized with a stent. Bilateral, pedicled fasciomuscular flaps are harvested, implanting one cryopreserved and one non-cryopreserved in each of 16 rabbits, dividing them into four groups (remaining tracheas implanted at 2, 4, 8, and 12 weeks, respectively). After removal, the tracheas are both histologically and biomechanically evaluated. Results: Decellularization is effective, with minimal effects on the biomechanical characteristics of the trachea. Implantation results in a well-vascularized organ, with no inflammatory or tissular rejection cellular response. Organs achieve all basal histological and biomechanical characteristics within 8 weeks of implantation, with no differences observed between cryopreserved and non-cryopreserved scaffolds. Conclusions: The present decellularization and cryopreservation protocol yields biocompatible, well-tolerated by the host tracheas with analogous histological and biomechanical characteristics to native ones.

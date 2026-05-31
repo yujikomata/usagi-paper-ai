@@ -1,7 +1,0 @@
-TITLE: Detection of SARS-CoV-2 RNA in a Zoo-Kept Red Fox (Vulpes vulpes).
-YEAR: 2024
-JOURNAL: 
-DOI: 10.3390/v16040521
-SOURCE: EuropePMC/MED/38675864
-
-Many different animal species are susceptible to SARS-CoV-2, including a few Canidae (domestic dog and raccoon dog). So far, only experimental evidence is available concerning SARS-CoV-2 infections in red foxes (Vulpes vulpes). This is the first report of SARS-CoV-2 RNA detection in a sample from a red fox. The RT-qPCR-positive fox was zoo-kept together with another fox and two bears in the Swiss Canton of Zurich. Combined material from a conjunctival and nasal swab collected for canine distemper virus diagnostics tested positive for SARS-CoV-2 RNA with Ct values of 36.9 (E gene assay) and 35.7 (RdRp gene assay). The sample was analysed for SARS-CoV-2 within a research project testing residual routine diagnostic samples from different animal species submitted between spring 2020 and December 2022 to improve knowledge on SARS-CoV-2 infections within different animal species and investigate their potential role in a One Health context. Within this project, 246 samples from 153 different animals from Swiss zoos and other wild animal species all tested SARS-CoV-2 RT-qPCR and/or serologically negative so far, except for the reported fox. The source of SARS-CoV-2 in the fox is unknown. The fox disappeared within the naturally structured enclosure, and the cadaver was not found. No further control measures were undertaken.

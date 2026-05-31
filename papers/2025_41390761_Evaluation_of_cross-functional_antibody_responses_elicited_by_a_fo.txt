@@ -1,7 +1,0 @@
-TITLE: Evaluation of cross-functional antibody responses elicited by a four-component GMMA Shigella vaccine.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.1038/s41541-025-01305-8
-SOURCE: EuropePMC/MED/41390761
-
-Shigella is a major cause of morbidity and mortality in children in low- and middle-income countries. The O-antigen (OAg) component of the lipopolysaccharide is considered a protective antigen, however, their diversity challenges vaccine development, since more than 50 OAg serotypes have been identified. No licensed vaccine against shigellosis is available. A 4-component GMMA-based vaccine, altSonflex1-2-3, delivering S. sonnei and S. flexneri 1b, 2a and 3a OAg has been developed. Coverage is expected against non-vaccine serotypes, due to cross-reactivity, mediated by structural similarities among S. flexneri OAg. The vaccine is currently being tested in phase I and II clinical trials. In this work, sera from mice, rats, and rabbits injected with altSonflex1-2-3 were analyzed for their ability to bind to and kill S. flexneri serotypes not included in the vaccine. Results obtained were compared to corresponding results from vaccinated European adults. While no cross-reactive antibodies were measured in mouse sera, the antibodies elicited by altSonflex1-2-3 in rats, rabbits and humans were able to bind and kill the tested S. flexneri X, Y, 6, 4a and 5b strains. A study in African children and infants will confirm how data from animal models may predict the immune response in different age groups.

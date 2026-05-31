@@ -1,7 +1,0 @@
-TITLE: Study on the Mechanism of Buyang Huanwu Decoction in Treating Ischemic Stroke by Regulating the NLRP3/Caspase-1 Signaling Pathway.
-YEAR: 2026
-JOURNAL: 
-DOI: 10.3390/ph19040567
-SOURCE: EuropePMC/MED/42075823
-
-Aim: This study investigates how Buyang Huanwu Decoction (BHD) protects against cerebral ischemic damage by targeting the NLRP3/Caspase-1 pathway. Methods: The fingerprint of BHD was analyzed by HPLC-UV. Migratory chemicals in BHD-containing cerebrospinal fluid (BHD-CCSF) were analyzed by ultra-performance liquid chromatography-quadrupole-time of flight-mass spectrometry (UPLC-Q-TOF-MS). The effects of BHD on the NLRP3/Caspase-1 pathway, IL-18 and IL-1β levels in oxygen and glucose deprivation/reperfusion (OGD/R) cells were assessed by Western blot and ELISA. Cerebral infarction severity in permanent middle cerebral artery occlusion (pMCAO) mice was assessed by mNSS scores and staining. Protein and mRNA levels of the NLRP3/Caspase-1 pathway and inflammatory factors (IL-18, IL-1β) were measured. Results: BHD-containing serum (BHD-CS), BHD-CCSF, and Calycosin (Cal) reduced NLRP3, Caspase-1, ASC, GSDMD proteins, IL-18 and IL-1β in OGD/R cells. In pMCAO mice, BHD decreased pathway-related proteins and mRNA and inflammatory factors and alleviated brain injury. Conclusions: BHD ameliorates cerebral ischemia by inhibiting the NLRP3/Caspase-1 pathway, thereby suppressing pyroptosis and inflammation.

@@ -1,7 +1,0 @@
-TITLE: Allies in the Skin Defense System: The Role of Thread Cells in the Evolution of Hagfish (Myxiniformes).
-YEAR: 2025
-JOURNAL: 
-DOI: 10.3390/biology14121662
-SOURCE: EuropePMC/MED/41463435
-
-The skin of vertebrates serves as a crucial interface with the external environment. In fish, it performs various functions, mainly offering protection against pathogens through the action of specialized cells. Cyclostomes, such as hagfish, lack scales and rely heavily on mucus for defense. These jawless vertebrates possess specialized glands that produce a unique mucous exudate when threatened, forming a thick slime that can clog the gills of predators. This substance, composed of mucus and filamentous proteins, offers hagfish a distinct evolutionary advantage and may explain their survival among extinct agnates. These proteins are produced in the cytoplasm of epidermal thread cells, which are unique to hagfish and contain coiled, intermediate filaments. Despite extensive research on thread cell morphology, their roles remain poorly understood. This study investigates the putative defense function of epidermal thread cells in three hagfish species, Eptatretus cirrhatus (J. R. Forster, 1801), Eptatretus stoutii (Lockington, 1878), and Myxine glutinosa (Linnaeus, 1758), using immunohistochemistry, confocal microscopy, and bioinformatics techniques to better understand their contribution to hagfish immunity and ecological resilience.

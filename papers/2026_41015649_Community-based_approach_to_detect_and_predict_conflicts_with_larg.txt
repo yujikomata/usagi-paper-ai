@@ -1,7 +1,0 @@
-TITLE: Community-based approach to detect and predict conflicts with large carnivores in human-dominated landscape.
-YEAR: 2026
-JOURNAL: 
-DOI: 10.1007/s13280-025-02241-6
-SOURCE: EuropePMC/MED/41015649
-
-Understanding context-specific drivers and mechanisms of human-wildlife interactions is crucial to designing effective conservation strategies. Community-based data provides valuable insights for adaptive management efforts aimed at fostering coexistence in shared landscapes. This study analyzed 611 reports of grey wolves and brown bears recorded by rural communities in the Carpathians (Poland). Bears and wolves were recorded in 6% and 12% of all built-up areas within the study region, respectively. These species exploited anthropogenic food resources (53% of all reports), interacting with pets, livestock, and wild animals found within human settlements. The probability of carnivore reports increased with the number of previous observations and was influenced by prior successful food acquisition. The observed pattern highlights the importance of habituation and food conditioning for effective management of carnivores in human-dominated landscapes. Engaging local communities in monitoring carnivore presence can facilitate early conflict detection, providing a foundation for effective coexistence strategies.

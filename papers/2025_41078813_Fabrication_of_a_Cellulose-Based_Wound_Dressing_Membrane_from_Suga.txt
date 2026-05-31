@@ -1,7 +1,0 @@
-TITLE: Fabrication of a Cellulose-Based Wound Dressing Membrane from Sugarcane Bagasse Biowaste.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.1021/acsomega.5c04589
-SOURCE: EuropePMC/MED/41078813
-
-Plant-based biopolymers are considered biocompatible and nontoxic. In this work, a cellulose membrane was fabricated from sugarcane bagasse and characterized physicochemically and biologically. The structural study by Fourier-transform infrared spectroscopy and thermogravimetric analysis confirmed that the fabricated membrane was mainly composed of cellulose. The membrane could rapidly absorb water with a swelling ratio of approximately 600% in the first 60 min. Biodegradation evaluation revealed that the membrane degraded as time passed, with a weight loss of 11% at day 28 of the study. For the biocompatibility evaluation, results showed that the fabricated membrane could support human dermal fibroblast proliferation. The primary toxicity test (in vitro) indicated nontoxic potential of the fabricated cellulose membrane. An in vivo skin irritation test was performed on rabbit skin. After 72 h, no sign of irritation (edema or erythema) was observed. Results suggest the potential use of the fabricated cellulose membrane for wound dressing application.

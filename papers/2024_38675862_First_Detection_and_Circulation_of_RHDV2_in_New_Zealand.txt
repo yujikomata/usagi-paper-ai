@@ -1,7 +1,0 @@
-TITLE: First Detection and Circulation of RHDV2 in New Zealand.
-YEAR: 2024
-JOURNAL: 
-DOI: 10.3390/v16040519
-SOURCE: EuropePMC/MED/38675862
-
-Rabbit haemorrhage disease virus 2 (RHDV2) is a highly pathogenic lagovirus that causes lethal disease in rabbits and hares (lagomorphs). Since its first detection in Europe in 2010, RHDV2 has spread worldwide and has been detected in over 35 countries so far. Here, we provide the first detailed report of the detection and subsequent circulation of RHDV2 in New Zealand. RHDV2 was first detected in New Zealand in 2018, with positive samples retrospectively identified in December 2017. Subsequent time-resolved phylogenetic analysis suggested a single introduction into the North Island between March and November 2016. Genetic analysis identified a GI.3P-GI.2 variant supporting a non-Australian origin for the incursion; however, more accurate identification of the source of the incursion remains challenging due to the wide global distribution of the GI.3P-GI.2 variant. Furthermore, our analysis suggests the spread of the virus between the North and South Islands of New Zealand at least twice, dated to mid-2017 and around 2018. Further phylogenetic analysis also revealed a strong phylogeographic pattern. So far, no recombination events with endemic benign New Zealand rabbit caliciviruses have been identified. This study highlights the need for further research and surveillance to monitor the distribution and diversity of lagoviruses in New Zealand and to detect incursions of novel variants.

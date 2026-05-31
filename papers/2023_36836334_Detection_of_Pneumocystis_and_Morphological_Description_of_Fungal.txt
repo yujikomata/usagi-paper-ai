@@ -1,7 +1,0 @@
-TITLE: Detection of Pneumocystis and Morphological Description of Fungal Distribution and Severity of Infection in Thirty-Six Mammal Species.
-YEAR: 2023
-JOURNAL: 
-DOI: 10.3390/jof9020220
-SOURCE: EuropePMC/MED/36836334
-
-Pneumocystis spp. are thought to adapt to the lungs of potentially all mammals. However, the full host range, fungal burden and severity of infection are unknown for many species. In this study, lung tissue samples originating from 845 animals of 31 different families of eight mammal orders were screened by in situ hybridization (ISH) using a universal 18S rRNA probe for Pneumocystis, followed by hematoxylin and eosin (H&E) staining for determining histopathological lesions. A total of 216 (26%) samples were positive for Pneumocystis spp., encompassing 36 of 98 investigated mammal species, with 17 of them being described for the first time for the presence of Pneumocystis spp. The prevalence of Pneumocystis spp. as assessed by ISH varied greatly among different mammal species while the organism load was overall low, suggesting a status of colonization or subclinical infection. Severe Pneumocystis pneumonia seemed to be very rare. For most of the Pneumocystis-positive samples, comparative microscopic examination of H&E- and ISH-stained serial sections revealed an association of the fungus with minor lesions, consistent with an interstitial pneumonia. Colonization or subclinical infection of Pneumocystis in the lung might be important in many mammal species because the animals may serve as a reservoir.

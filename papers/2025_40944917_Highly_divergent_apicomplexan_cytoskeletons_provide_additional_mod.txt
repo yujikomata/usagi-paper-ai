@@ -1,7 +1,0 @@
-TITLE: Highly divergent apicomplexan cytoskeletons provide additional models for actin biology.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.1111/febs.70263
-SOURCE: EuropePMC/MED/40944917
-
-Actin is one of the most conserved, abundant and central molecules in eukaryotes. The assembly of monomeric actin into filaments provides the molecular basis for a variety of cellular functions, including muscle contraction, intracellular trafficking, cell shape, division and motility, with classical eukaryotic model systems providing critical insights into these processes. Apicomplexan parasites are a phylum of unicellular eukaryotes with complex life cycles and highly divergent actin cytoskeletons. Their divergent sequences and structures result in overlapping yet different biochemical properties compared to classical systems, providing the opportunity to gain insight into the breadth of actin function and regulation by its binding proteins. These divergent systems also allow the opportunity to identify key sequence determinants for specific biochemical functions. In this review, we highlight the remarkable divergence of the actin cytoskeleton by comparing apicomplexan to classical cell systems, emphasising the valuable knowledge gained by studying these systems to advance our understanding of actin biology across eukaryotes.

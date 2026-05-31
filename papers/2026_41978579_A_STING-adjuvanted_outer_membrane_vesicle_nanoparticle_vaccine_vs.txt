@@ -1,7 +1,0 @@
-TITLE: A STING-adjuvanted outer membrane vesicle nanoparticle vaccine vs. <i>Klebsiella pneumoniae</i> elicits broad capsule-type cross-protection.
-YEAR: 2026
-JOURNAL: 
-DOI: 10.1093/pnasnexus/pgag092
-SOURCE: EuropePMC/MED/41978579
-
-Klebsiella pneumoniae (Kp) is a leading cause of hospital- and community-acquired infections and is increasingly resistant to last-line antibiotics, positioning it as a World Health Organization-designated priority pathogen. Vaccine development has been hindered by the extensive diversity of Kp exopolysaccharide capsules. We developed a cellular nanoparticle (CNP) platform in which bacterial outer membrane vesicles (OMVs) are stably coated onto a STING (stimulator of interferon genes)-adjuvanted nanoparticle core (CNP-KpSTING). The resulting ∼100-nm nanoparticles are homogenous and optimized for recruitment and activation of antigen-presenting cells in draining lymph nodes. CNP-KpSTING vaccination elicited robust antibody responses, enhanced neutrophil-mediated bacterial clearance, and conferred cross-protection against heterologous Kp capsule types in vitro and in lethal pneumonia models. Passive transfer of postvaccination sera reduced bacterial burden and inflammatory cytokines in the lungs of infected mice. These findings establish CNP-KpSTING as a versatile platform that addresses key antigenic barriers inherent to Kp and support OMV-CNPs as a promising foundation for broadly protective vaccines against multidrug-resistant gram-negative pathogens.

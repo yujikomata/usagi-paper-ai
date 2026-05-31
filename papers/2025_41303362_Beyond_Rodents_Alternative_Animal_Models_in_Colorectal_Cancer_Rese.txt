@@ -1,7 +1,0 @@
-TITLE: Beyond Rodents: Alternative Animal Models in Colorectal Cancer Research.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.3390/ijms262210874
-SOURCE: EuropePMC/MED/41303362
-
-Colorectal cancer (CRC) is the third most common cancer worldwide, imposing a significant burden on public health. Despite the use of various therapeutic strategies, the prognosis for patients with metastatic and drug-resistant CRC remains poor, which underscores the need for further investigations into cancer mechanisms to develop more effective treatments. Rodents, particularly mice, are the most frequently used animal models for CRC research. However, as the demand for more precise simulations and higher ethical standards in animal experimentation grows, the applicability of rodent models may face increasing limitations. This review highlights a variety of non-rodent animals, including model organisms such as zebrafish (Danio rerio), fruit flies (Drosophila melanogaster), and Caenorhabditis elegans (C. elegans), as well as the chorioallantoic membrane (CAM) model and mammals such as rabbits (Oryctolagus cuniculus), dogs (Canis lupus familiaris), and pigs (Sus scrofa domesticus), which have been utilized in CRC research. Each of these alternatives offers specific advantages in certain areas of cancer research. Their use has enabled new insights into the mechanisms of carcinogenesis, metastasis, and drug resistance in CRC, as well as the development of novel therapies.

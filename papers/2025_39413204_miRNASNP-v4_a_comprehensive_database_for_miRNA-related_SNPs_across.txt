@@ -1,7 +1,0 @@
-TITLE: miRNASNP-v4: a comprehensive database for miRNA-related SNPs across 17 species.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.1093/nar/gkae888
-SOURCE: EuropePMC/MED/39413204
-
-Single nucleotide polymorphisms (SNPs) within microRNAs (miRNAs) and their target binding sites can influence miRNA biogenesis and target regulation, thereby participating in a variety of diseases and biological processes. Current miRNA-related SNP databases are often species-limited or based on outdated data. Therefore, we updated our miRNASNP database to version 4 by updating data, expanding the species from Homo sapiens to 17 species, and introducing several new features. In miRNASNP-v4, 82 580 SNPs in miRNAs and 24 836 179 SNPs in 3'UTRs of genes across 17 species were identified and their potential effects on miRNA secondary structure and target binding were characterized. In addition, compared to the last release, miRNASNP-v4 includes the following improvements: (i) gene enrichment analysis for gained or lost miRNA target genes; (ii) identification of miRNA-related SNPs associated with drug response and immune infiltration in human cancers; (iii) inclusion of experimentally supported immune-related miRNAs and (iv) online prediction tools for 17 animal species. With the extensive data and user-friendly web interface, miRNASNP-v4 will serve as an invaluable resource for functional studies of SNPs and miRNAs in multiple species. The database is freely accessible at http://gong_lab.hzau.edu.cn/miRNASNP/.

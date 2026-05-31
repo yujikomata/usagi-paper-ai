@@ -1,7 +1,0 @@
-TITLE: The spermatozoon neck role in infertility and intracytoplasmic sperm injection outcomes.
-YEAR: 2026
-JOURNAL: 
-DOI: 10.1007/s10815-025-03769-y
-SOURCE: EuropePMC/MED/41489787
-
-The mammalian spermatozoon neck is a unique structure that functions during spermatid differentiation and spermatozoa swimming, and its contents are critical for post-fertilization embryogenesis. Mutations in proteins localizing to the neck connecting piece (the modified pericentriolar material) result in acephalic spermatozoa. In contrast, mutations in proteins localizing to the centriole often produce abnormal tail morphology. Acephalic spermatozoa can be categorized based on the exact location of the neck breakpoint. Here, we classify 24 proteins known to cause acephaly in human and mice spermatozoa into five different acephalic types, depending on where the breakpoint occurs. We also discuss other proteins found in the spermatozoon neck, which may result in spermatozoa acephaly. The relationship between the exact location of the neck's break and intracytoplasmic sperm injection (ICSI) outcomes is explored in the context of the spermatozoon centrosome's role. We conclude that to understand this relationship, future research should investigate DNA, phospholipase C zeta, and centriole functionality, in addition to the location of the acephalic breakpoint in the patient's sperm.

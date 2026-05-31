@@ -1,7 +1,0 @@
-TITLE: Cell Surface Vimentin Is an Attachment Factor That Facilitates Equine Arteritis Virus Infection In Vitro.
-YEAR: 2026
-JOURNAL: 
-DOI: 10.3390/v18010113
-SOURCE: EuropePMC/MED/41600875
-
-Our laboratory identified the susceptible allelic variant of equine CXCL16 protein (EqCXCL16S) as an entry receptor for equine arteritis virus (EAV). However, EAV has a broad host cell tropism and infects cells that lack EqCXCL16S. Thus, we hypothesized that EAV interacts with other host cell protein(s) that facilitate EAV infection. A virus overlay protein-binding assay in combination with a Far-Western blot from EAV-susceptible equine pulmonary artery endothelial cells (EECs) and equine dermal fibroblasts (E. Derm) identified a 57 kDa protein, present in the membrane fraction of the protein lysate, as a possible EAV-binding protein. Subsequent LC-MS/MS analysis identified this 57 kDa protein as vimentin. Screening of different mammalian cell lines has shown that only cells expressing vimentin are susceptible to EAV infection. Pre-treatment of EECs with an anti-vimentin polyclonal antibody and Withaferin A partially inhibit EAV infection. Finally, the overexpression of equine vimentin (EqVim) in HEK-293 cells increases their susceptibility to EAV infection. Overall, our data strongly indicate that EAV binds to the host cell protein equine vimentin, which actively participates in EAV infection, potentially serving as an attachment factor. The data suggest that EAV interacts with various host cell proteins to achieve its diverse cell tropism.

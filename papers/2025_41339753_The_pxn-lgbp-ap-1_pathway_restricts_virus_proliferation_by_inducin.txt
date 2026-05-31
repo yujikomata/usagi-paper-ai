@@ -1,7 +1,0 @@
-TITLE: The pxn-lgbp-ap-1 pathway restricts virus proliferation by inducing the expression of Cru1 in crayfish.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.1038/s42003-025-09133-1
-SOURCE: EuropePMC/MED/41339753
-
-Viruses replicate intracellularly, and extracellular proteins may play a crucial role in preventing viral infections. Peroxinectin (PXN), a myeloperoxidase homolog, is activated extracellularly and possesses peroxidase and cell adhesion activity, defending against bacterial infection through the prophenoloxidase (proPO) system. However, the mechanism of PXN in antiviral immunity requires further study. In this study, PXN was found to be secreted into the hemolymph of crayfish (Procambarus clarkii) to recognize VP28 of white spot syndrome virus (WSSV), which then interacts with LPS and β-1,3-glucan binding protein (LGBP) to activate activator protein-1 (AP-1). AP-1 in the nucleus induced the transcription of crustin1 (Cru1). Cru1 exerts its antiviral function by binding to VP28 and subsequently inhibiting the assembly and reinfection of WSSV. These results indicate that the PXN-LGBP-AP-1-Cru1 pathway restricts virus proliferation by inducing the expression of Cru1, representing a mechanism distinct from the previously reported antibacterial immunity mediated by PXN and LGBP.

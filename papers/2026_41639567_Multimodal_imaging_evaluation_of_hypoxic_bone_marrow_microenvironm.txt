@@ -1,7 +1,0 @@
-TITLE: Multimodal imaging evaluation of hypoxic bone marrow microenvironment and type H vascular injury in diabetes.
-YEAR: 2026
-JOURNAL: 
-DOI: 10.1038/s41598-026-37164-z
-SOURCE: EuropePMC/MED/41639567
-
-Type 1 diabetes mellitus (T1DM) can lead to severe diabetic osteopathy, largely driven by alterations in the bone marrow hypoxic microenvironment and damage to type H vessels. This study employed multimodal imaging-including DCE-MRI, Micro-CT, and USPIO-enhanced MRI-to enable early in vivo assessment of hypoxic changes and type H vessel impairment in a T1DM rabbit model. Experiments involved 20 rabbits with alloxan-induced T1DM and controls, evaluated four months post-modeling. Imaging revealed significant differences in bone marrow microcirculatory perfusion and vascular permeability in T1DM rabbits, along with elevated USPIO uptake and regional heterogeneity that correlated with type H vessel distribution. Accompanying pathological changes were confirmed via immunofluorescence, qPCR, and transmission electron microscopy, suggesting an association of the AGEs/ROS-HIF-1α-VEGF pathway with these microvascular lesions. Our findings offer visual and quantitative imaging evidence to inform future clinical strategies targeting type H vessel hypoxia in diabetic osteopathy.

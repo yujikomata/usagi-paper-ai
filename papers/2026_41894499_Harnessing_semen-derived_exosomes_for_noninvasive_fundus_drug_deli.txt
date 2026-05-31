@@ -1,7 +1,0 @@
-TITLE: Harnessing semen-derived exosomes for noninvasive fundus drug delivery: A paradigm for exosome-based ocular fundus therapeutics.
-YEAR: 2026
-JOURNAL: 
-DOI: 10.1126/sciadv.adw7275
-SOURCE: EuropePMC/MED/41894499
-
-Exosomes, despite their promise as drug carriers for crossing biological barriers, remain underexplored for noninvasive posterior ocular delivery. Here, we demonstrate that semen-derived exosomes (SEVs) penetrate ocular barriers effectively, owing to their epidermal growth factor expression, which mediates reversible tight-junction disruption. SEVs reach the posterior segment via dual corneal and conjunctival routes. Using this, we engineered FA-SEVs@CMG eye drops, where SEVs are modified with folic acid (FA) and loaded with a nanozyme system (CMG) composed of carbon dots, manganese dioxide, and glucose oxidase. This eye drop leverages SEVs' excellent penetration ability and FA's targeting effect to enhance drug delivery to retinoblastoma (RB) cells. Internalized CMG induces intense oxidative stress, disrupts the autophagy-apoptosis balance, and triggers RB cell self-destruction. In vivo, FA-SEVs@CMG effectively inhibits RB growth while preserving retinal function. This work establishes the first SEV-based platform for noninvasive posterior segment delivery, offering a transformative strategy for treating posterior ocular diseases.

@@ -1,7 +1,0 @@
-TITLE: Evaluation of Maxibloc Bone Grafts Biocompatibility and Osteoconductivity: An Animal Study.
-YEAR: 2024
-JOURNAL: 
-DOI: 10.4103/jpbs.jpbs_505_24
-SOURCE: EuropePMC/MED/40061725
-
-ContextAlveolar bone resorption poses a significant challenge in rehabilitating edentulous patients. Ridge augmentation materials can stimulate bone growth in deficient areas.AimTo evaluate the biocompatibility and osteoconductivity of maxibloc bone grafts in rabbits.Materials and methodsMaxibloc was packed into bony voids created surgically in the mandible and femur of rabbits, which were sacrificed at the fourth, eighth, and twelfth weeks. Radiography and histopathology evaluations assessed the osteoconductivity; hematology and toxicology evaluations assessed the biocompatibility of maxibloc.ResultsRadiography revealed bone formation and homogenization without osteolysis. Histopathology revealed new bone formation with osteoblasts, fibrous and collagen tissue, cartilage formation, and no foreign body reaction or inflammation. Hematology revealed stable hemoglobin concentration, white blood cell count, eosinophil count, and absence of leucocytosis. Toxicology revealed elevated mortality rates at higher doses, whereas lower doses were safe. Animals exhibited no signs of systemic toxicity or behavioral changes.ConclusionsMaxibloc has demonstrated biocompatibility and osteoconductivity, presenting as a promising alloplastic bone graft.

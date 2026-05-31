@@ -1,7 +1,0 @@
-TITLE: No compelling evidence that vaccination with streptococcus pyogenes group A carbohydrate elicits cross-reactive rheumatic fever autoantibodies.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.1038/s41541-025-01272-0
-SOURCE: EuropePMC/MED/41184285
-
-We reviewed 70 years of research defining the specificity of anti-group A carbohydrate (GAC) monoclonal and polyclonal antibodies and antibodies raised against other S. pyogenes components reacting with GAC. While some rheumatic fever associated autoantibodies react with N-Acetyl-β-D-glucosamine sidechains of GAC and cross-react with tissues, these appear to be a consequence, not the cause, of autoimmunity. We propose GAC be considered further as a broadly protective group A streptococcal vaccine. (70 words).

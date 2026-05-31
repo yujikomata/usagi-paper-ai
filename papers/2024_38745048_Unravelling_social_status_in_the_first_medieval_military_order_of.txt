@@ -1,7 +1,0 @@
-TITLE: Unravelling social status in the first medieval military order of the Iberian Peninsula using isotope analysis.
-YEAR: 2024
-JOURNAL: 
-DOI: 10.1038/s41598-024-61792-y
-SOURCE: EuropePMC/MED/38745048
-
-Medieval Iberia witnessed the complex negotiation of religious, social, and economic identities, including the formation of religious orders that played a major role in border disputes and conflicts. While archival records provide insights into the compositions of these orders, there have been few direct dietary or osteoarchaeological studies to date. Here, we analysed 25 individuals discovered at the Zorita de los Canes Castle church cemetery, Guadalajara, Spain, where members of one of the first religious orders, the Order of Calatrava knights, were buried between the 12th to 15th centuries CE. Stable carbon (δ13C) and nitrogen (δ15N) isotope analyses of bone collagen reveal dietary patterns typical of the Medieval social elite, with the Bayesian R model, 'Simmr' suggesting a diet rich in poultry and marine fish in this inland population. Social comparisons and statistical analyses further support the idea that the order predominantly comprised the lower nobility and urban elite in agreement with historical sources. Our study suggests that while the cemetery primarily served the order's elite, the presence of individuals with diverse dietary patterns may indicate complexities of temporal use or wider social interaction of the medieval military order.

@@ -1,7 +1,0 @@
-TITLE: Magnetic-driven multifunctional optoelectronic catheter for in vivo chemical mapping and precisely guided-tumor therapy.
-YEAR: 2026
-JOURNAL: 
-DOI: 10.1038/s41467-026-70529-6
-SOURCE: EuropePMC/MED/41807458
-
-Precision tumor theranostic in minimally invasive interventions still face challenges such as poor navigational flexibility and limited functional integration. Here, we present a 2.5 mm magnetic-driven multifunctional optoelectronic catheter (MDMOC) fabricated via 3D multi-axis printing for in situ tumor mapping and therapy. The MDMOC integrates magnetic navigation, targeted drug delivery, localized photodynamic therapy, X-ray trackable imaging, and multiplexed biosensing of metabolites and ions. Its magneto-optical-electric-fluid multimodal design enables navigation through complex pathways, simultaneously monitoring biomarkers across the tumor microenvironment and delivering localized therapy. In rabbit and mouse tumor models, the MDMOC distinguished tumor from normal tissue, guided precise therapy, and minimized systemic side effects. In a Bama pig model, it achieved accurate navigation, multiparametric sensing, and targeted contrast agent delivery in complex anatomy. By integrating diagnostic and therapeutic functions with remote magnetic control, the MDMOC provides a versatile platform for real-time, precision-guided tumor diagnosis and therapy.

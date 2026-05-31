@@ -1,7 +1,0 @@
-TITLE: Breastfeeding, bonding, and olfaction: unlocking the potential of mother-infant odour exchange.
-YEAR: 2026
-JOURNAL: 
-DOI: 10.1016/j.ebiom.2025.106086
-SOURCE: EuropePMC/MED/41422601
-
-Breastfeeding is crucial for infant survival, growth, and health, and it enhances maternal-infant bonding and well-being. However, breastfeeding rates typically fall below international targets, partly due to a high prevalence of latching difficulties, intermittent sucking, refusing the breast, or poor milk supply. Here, we propose that such uniquely human difficulties might be ameliorated by recognising, understanding, and facilitating the olfactory mechanisms that, in other mammals, regulate breastfeeding initiation and maternal-infant relationships in the first weeks of life. We briefly review evidence that odour mediates nipple-searching and suckling behaviour in other species, summarise the comparable evidence in humans, and outline pathways that could potentially reap hitherto unrealised benefits of olfactory communication between human mothers and neonates. We argue that enhanced awareness of such odour exchange could inform and enable changes in both policy and practice that might improve breastfeeding success and maternal-infant bonding, ultimately contributing to reduced infant mortality worldwide.

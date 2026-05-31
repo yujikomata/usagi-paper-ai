@@ -1,7 +1,0 @@
-TITLE: Pharmacological Enhancement of Integrated Stress Response Confers Protection in Calcific Aortic Valve Disease.
-YEAR: 2026
-JOURNAL: 
-DOI: 10.1016/j.jacbts.2025.101433
-SOURCE: EuropePMC/MED/41401678
-
-Previous studies have shown that Nox4 activates eIF2α/ATF4 signaling during the integrated stress response (ISR) and protects heart injury. However, their roles in calcific aortic valve disease (CAVD) remain unclear. Here, we show that both ATF4 and Nox4 are up-regulated in porcine aortic valve interstitial cells (AVIC) and in human aortic valves with CAVD. Nox4 knockdown promotes while Nox4 overexpression suppresses CAVD by modulating ISR. Importantly, ISR activators Guanabenz and Sephin1 effectively attenuate AVIC osteoblastic-like differentiation and mitigate CAVD in rabbits and mice, respectively. These findings highlight that pharmacological enhancement of the ISR is a promising therapeutic strategy for CAVD.

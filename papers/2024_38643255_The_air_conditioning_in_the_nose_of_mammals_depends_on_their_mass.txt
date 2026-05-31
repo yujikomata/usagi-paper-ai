@@ -1,7 +1,0 @@
-TITLE: The air conditioning in the nose of mammals depends on their mass and on their maximal running speed.
-YEAR: 2024
-JOURNAL: 
-DOI: 10.1038/s41598-024-59768-z
-SOURCE: EuropePMC/MED/38643255
-
-The nose of the mammals is responsible for filtering, humidifying, and heating the air before entering the lower respiratory tract. This conditioning avoids, notably, dehydration of the bronchial and alveolar mucosa. However, since this conditioning is not perfect, exercising in cold air can induce lung inflammation, both for human and non-human mammals. This work aims to compare the air conditioning in the noses of various mammals during inspiration. We build our study on computational fluid dynamics simulations of the heat exchanges in the lumen of the upper respiratory tract of these mammals. These simulations show that the efficiency of the air conditioning in the nose during inspiration does not relate only to the mass m of the mammal but also to its maximal running speed v. More precisely, the results allow establishing a scaling law relating the efficiency of air conditioning in the nose of mammals to the ratio v / log 10 ( m )   . The simulations also correlate the resistance to the flow in the nose to the efficiency of this air conditioning. The obtained scaling law allows predicting the air temperature at the top of the trachea during inspiration for nasal-breathing mammals, and thus notably for humans of various ages.

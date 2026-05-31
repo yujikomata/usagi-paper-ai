@@ -1,7 +1,0 @@
-TITLE: A new analogous organ in bony fishes and amphibians: an anatomical structure related with the cerebrospinal fluid circulation.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.1038/s41598-025-89599-5
-SOURCE: EuropePMC/MED/39955354
-
-The myodural bridge (MDB) was described as a dense fibrous tissue connecting the suboccipital musculature with the spinal dura mater. Now, the concept of the MDB was perceived as an exact anatomical structure likely essential for cerebrospinal fluid (CSF) circulation. The MDB has been shown to be universal across mammals, reptiles, and birds. To determine the existence of the MDB in other vertebrates on morphological study, representatives in amphibians and bony fishes were examined. It was found that the dense fibrous tissue connected the interarcuales muscle (IAR) and the spinal dura mater in the Xenopus laevis. In four examined fish species, somatic muscle fibers were directly anchored to the vertebral canal membrane. This observation led to the hypothesis that, during movement, these muscles may exert a pulling force on the membrane, generating negative pressure. It is speculated that this may serve as the driving force for CSF circulation. Thus, this connection suggests a functional similarity to the MDB observed in other vertebrate species. Based on this finding, the study proposes the MDB as a functionally analogous structure with a universal existence in amphibians and bony fishes.

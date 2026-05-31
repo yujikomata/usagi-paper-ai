@@ -1,7 +1,0 @@
-TITLE: Temporal activity and detection rates of chilla (Lycalopex griseus) in Tierra del Fuego, Argentina.
-YEAR: 2024
-JOURNAL: 
-DOI: 10.1002/ece3.11586
-SOURCE: EuropePMC/MED/38882529
-
-Designing mitigation strategies for invasive species requires a clear understanding of their ecology and behaviour. Chilla (or grey fox; Lycalopex griseus) were introduced to Isla Grande de Tierra del Fuego (Tierra del Fuego Island) in 1951 to control European rabbit (Oryctolagus cuniculus) populations. Although this management strategy was unsuccessful, the chilla spread across the island and are now considered invasive. Despite this, there is a lack of research concerning their ecology and behavioural patterns, particularly on the Argentinian side of the island. We assessed the detection rates and temporal activity patterns of chillas using camera traps in the Argentinian region of Tierra del Fuego Island. Chilla had average detection rates of 61.7 (SD ± 33.3, range = 13.5-105.7) per 100 trap nights. Although analysis by clock time suggested cathemeral activity patterns, when analysed by sun time the chillas exhibited distinct nocturnal activity patterns. These findings offer the first information on the detection rates of chilla on the Argentinian side of Tierra del Fuego Island and reveal new insights into their temporal activity patterns, providing an important basis for future research that may aid the development of more effective management and conservation strategies.

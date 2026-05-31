@@ -1,7 +1,0 @@
-TITLE: Response of an Apex Mammalian Predator to an Emergence of 13-Year Periodical Cicadas.
-YEAR: 2026
-JOURNAL: 
-DOI: 10.3390/ani16030454
-SOURCE: EuropePMC/MED/41681435
-
-Emergences of periodical cicadas constitute intense, short-duration resource pulses that can produce significant functional and numerical responses among insectivorous species that prey on them. The response of coyotes, apex predators in Illinois USA, to an emergence of 13-year periodical cicadas was investigated in 1989. Coyotes are not strongly insectivorous. However, during a 4-week period coinciding with peak emergence, cicadas were present in 85.9% of coyote scats (n = 71 scats) and 49% of scats contained only cicadas. Compared to the same time period in 1986-88 (n = 276 scats), use of all other food items was significantly lower in 1989 as was dietary diversity and overlap. This alteration in coyote foraging patterns constituted a strong functional response to the cicada emergence. The high abundance of cicadas combined with their ease of capture and consumption resulted in cicadas being an energetically efficient item for coyotes to forage upon. It is unknown whether other aspects of coyote life history (e.g., space use, activity patterns) also were affected or whether reduced predation pressure resulted in any effects on populations of their usual prey species.

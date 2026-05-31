@@ -1,7 +1,0 @@
-TITLE: The blood-sucking tick Ixodes hexagonus reveals dietary stable isotope signatures of mammalian hosts.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.1371/journal.pone.0327245
-SOURCE: EuropePMC/MED/40608734
-
-Ticks are obligate haematophagous ('blood-sucking') ectoparasites that are capable of retaining host dietary traces post-moult, providing an opportunity to investigate parasite-host interactions and explore their potential as non-invasive subsampling techniques. However, research on the preservation of biochemical host signatures within whole engorged parasites remains limited. Here, we examine stable isotope ratios of nitrogen (δ15N) and carbon (δ13C) across different tick tissues (exoskeleton vs. blood meal) and between whole ticks and one of their hosts, the European polecat Mustela putorius. Additionally, carbon and nitrogen weight percentages (wt%) are assessed to explore potential biochemical changes linked to blood meal digestion. Our findings showed that the isotopic composition of tick exoskeleton and blood meal differed significantly, with exoskeletons potentially reflecting a previous host. Whole engorged ticks showed a close δ15N relationship to their host, consistent with that of trophic enrichment, while the observed δ13C values were more variable. These findings enhance our understanding of how haematophagous parasites preserve host dietary signatures and, with further research, could support their use as a valuable alternative to invasive sampling methods, particularly when destructive sampling is not feasible.

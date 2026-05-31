@@ -1,7 +1,0 @@
-TITLE: First report of a novel polymorphism and genetic characteristics of the leporine prion protein (PRNP) gene.
-YEAR: 2023
-JOURNAL: 
-DOI: 10.3389/fvets.2023.1229369
-SOURCE: EuropePMC/MED/37808111
-
-Transmissible spongiform encephalopathies (TSEs) have been reported in a broad spectrum of hosts. The genetic polymorphisms and characteristics of the prion protein (PRNP) gene have a vital impact on the development of TSEs. Notably, natural TSE infection cases have never been reported in rabbits, and genetic variations of the leporine PRNP gene have not been investigated to date. To identify leporine PRNP gene polymorphism, we performed amplicon sequencing in 203 rabbits. We report a novel single nucleotide polymorphism on the leporine PRNP gene. In addition, we performed a comparative analysis of amino acid sequences of prion protein (PrP) across several hosts using ClustalW2. Furthermore, we evaluated the effect of changes of unique leporine PrP amino acids with those conserved among various species using Swiss-Pdb Viewer. Interestingly, we found seven unique leporine amino acids, and the change of unique leporine amino acids with those conserved among other species, including S175N, Q221K, Q221R, A226Y, A230G, and A230S, was predicted to reduce hydrogen bonds in leporine PrP.

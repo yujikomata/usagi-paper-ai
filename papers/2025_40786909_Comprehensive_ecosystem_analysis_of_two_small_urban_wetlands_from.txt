@@ -1,7 +1,0 @@
-TITLE: Comprehensive ecosystem analysis of two small, urban wetlands from Costa Rica.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.3897/bdj.13.e154073
-SOURCE: EuropePMC/MED/40786909
-
-Urban wetlands, although important ecosystems for biodiversity, are highly vulnerable due to human activities. This work aims to study the water quality and the biodiversity present in two small, urban wetlands in Costa Rica, comparing the information collected with that reported for similar wetlands across the Neotropics. We performed a thorough literature review and field visits to elaborate a species list of terrestrial vertebrates and plants. We also analysed water samples from both wetlands to determine the water quality of the study sites. We also assembled a species list extracted from literature referring to urban wetlands. We identified a total of 453 species from our study sites (160 plants and 293 animals), with a low percentage (41%) of shared species between both sites. Fourteen species are considered threatened and two species are endemic to Costa Rica. We found low similarity amongst urban wetlands across the Neotropics. The water from both wetlands showed signs of contamination, such that they are considered for conservation of nature. We suggest that the conservation of urban wetlands should be part of the policies of local governments and more efforts for environmental education should be carried out to protect this type of ecosystem.

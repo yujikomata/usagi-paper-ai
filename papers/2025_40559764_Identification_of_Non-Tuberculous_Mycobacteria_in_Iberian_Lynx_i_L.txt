@@ -1,7 +1,0 @@
-TITLE: Identification of Non-Tuberculous Mycobacteria in Iberian Lynx (<i>Lynx pardinus</i>) and Their Impact on Its Health.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.3390/vetsci12060527
-SOURCE: EuropePMC/MED/40559764
-
-The Iberian lynx (Lynx pardinus) population has been increasing in recent years thanks to the collaboration of several associations within the framework of the Life Lynxconnect project, which promotes captive breeding for the subsequent release of specimens into the environment. It is therefore important to know their population status, the diseases to which these animals are exposed, and how they affect their repopulation. In this sense, this study aims to study how the presence of mycobacteria affects the lynx population in Extremadura (southwest of Spain). To this end, blood samples, tracheal swabs, and tracheobronchial washings from live-captured lynxes, as well as mediastinal and mesenteric lymph nodes from roadkill animals, were collected. The association between the presence of mycobacteria and various factors-including body condition, age, sex, and blood parameters-was subsequently evaluated. Up to date, our findings show the absence of tuberculosis (TB) in all lynxes tested, while they seem to be reservoirs of non-tuberculous mycobacteria (NTM), mainly M. lentiflavum, the most isolated species. Nonetheless, these mycobacteria appear to have no significant effect on the health condition of the animals.

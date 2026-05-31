@@ -1,7 +1,0 @@
-TITLE: Ticks: Biology, Habitat, Threats and Protection Methods.
-YEAR: 2026
-JOURNAL: 
-DOI: 10.3390/biology15060497
-SOURCE: EuropePMC/MED/41892257
-
-The most common species of tick in Europe is the castor bean tick (Ixodes ricinus), which is found in forests, parks, and gardens and is active almost all year round. Ticks are among the most important arthropods and vectors of disease, transmitting a wide range of parasites that sometimes lead to the death of infected organisms. The peak incidence of tick-borne diseases occurs between May and September; however, due to global warming, people are increasingly exposed to tick-borne diseases throughout the year. In order to increase the possibility of preventing the transmission of diseases by ticks, it is necessary to become thoroughly familiar with the life cycle of ticks and the environment in which they live. Vaccines are available for some diseases, such as tick-borne encephalitis, while others require a highly specific diagnosis. Another major problem is the long period between the tick bite, which often goes unnoticed or is even ignored by the patient or the doctor, and the development of tick-borne diseases. Increasing attention is being paid to the prevention of tick-borne diseases through prevention of tick bites, quick tick removal, use of repellents, appropriate land management, vaccinations, and the use of plants as natural acaricides.

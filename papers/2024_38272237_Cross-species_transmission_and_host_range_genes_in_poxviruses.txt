@@ -1,7 +1,0 @@
-TITLE: Cross-species transmission and host range genes in poxviruses.
-YEAR: 2024
-JOURNAL: 
-DOI: 10.1016/j.virs.2024.01.007
-SOURCE: EuropePMC/MED/38272237
-
-The persistent epidemic of human mpox, caused by mpox virus (MPXV), raises concerns about the future spread of MPXV and other poxviruses. MPXV is a typical zoonotic virus which can infect human and cause smallpox-like symptoms. MPXV belongs to the Poxviridae family, which has a relatively broad host range from arthropods to vertebrates. Cross-species transmission of poxviruses among different hosts has been frequently reported and resulted in numerous epidemics. Poxviruses have a complex linear double-strand DNA genome that encodes hundreds of proteins. Genes related to the host range of poxvirus are called host range genes (HRGs). This review briefly introduces the taxonomy, phylogeny and hosts of poxviruses, and then comprehensively summarizes the current knowledge about the cross-species transmission of poxviruses. In particular, the HRGs of poxvirus are described and their impacts on viral host range are discussed in depth. We hope that this review will provide a comprehensive perspective about the current progress of researches on cross-species transmission and HRG variation of poxviruses, serving as a valuable reference for academic studies and disease control in the future.

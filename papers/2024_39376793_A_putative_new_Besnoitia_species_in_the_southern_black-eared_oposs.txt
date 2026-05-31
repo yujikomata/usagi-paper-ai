@@ -1,7 +1,0 @@
-TITLE: A putative new Besnoitia species in the southern black-eared opossum Didelphis aurita.
-YEAR: 2024
-JOURNAL: 
-DOI: 10.1016/j.ijppaw.2024.100998
-SOURCE: EuropePMC/MED/39376793
-
-Besnoitia spp. are cyst-forming coccidian parasites with a broad host range, infecting various wild and domestic animal species. Northamerican opossums (Didelphis virginiana) are severely affected by the infection with B. darlingi. This study presents a case of infection with Besnoitia in a road-killed female southern black-eared opossum (Didelphis aurita) in Misiones, Argentina. Many 0.5-1 mm cysts were observed in several muscles and visceral organs and were microscopically identified in skeletal muscles, tongue, and heart. Histological analysis disclosed multiple spherical cysts with a myriad of bradyzoites like-cells and a well-defined cyst wall. A small number of degenerate and ruptured cysts, surrounded by mild to moderate inflammation were observed. Genomic DNA from an individual cyst and muscle was extracted and ITS1 marker and 18S rRNA gene fragments from sarcocystid protozoa were successfully amplified by PCR and sequenced. The 18S sequence exhibited 100% identity with sequences of B. darlingi and B. oryctofelisi. Comparison of the complete ITS1 sequence (259 bp) revealed an identity of 99.2% with B. oryctofelisi and 97.7% with B. darlingi. This result together with the phylogeny positioning, suggest that the Besnoitia sp. in the present case differ from B. darlingi, being closely related with B. oryctofelisi.

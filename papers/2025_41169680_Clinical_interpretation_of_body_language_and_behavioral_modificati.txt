@@ -1,7 +1,0 @@
-TITLE: Clinical interpretation of body language and behavioral modifications to recognize pain in domestic mammals.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.3389/fvets.2025.1679966
-SOURCE: EuropePMC/MED/41169680
-
-Nonhuman animals use nonverbal cues to communicate their mental state about positive and negative events, including pain. Pain is a multidimensional process that elicits behavioral changes aimed at preventing further damage and promoting healing. These changes include restrictions on movement and/or activity, as well as adopting body postures to relieve pain. Additionally, changes in the ear and tail position have been associated with pain perception and are considered a sign of pain in several domestic species. Thus, this review aims to critically analyze and discuss the behavioral modifications and body language expressions associated with pain in domestic animals, with a particular emphasis on changes in tail position, ear posture, and overall postural dynamics. This review also aims to highlight the essential role of veterinarians and animal scientists in recognizing these subtle non-verbal indicators during clinical evaluation, thereby fostering early detection and effective pain management through more precise observational assessment.

@@ -1,7 +1,0 @@
-TITLE: Oxidizable amino acids around cytochrome P450 hemes.
-YEAR: 2026
-JOURNAL: 
-DOI: 10.1016/j.jinorgbio.2025.113119
-SOURCE: EuropePMC/MED/41129952
-
-Cytochrome P450 enzymes (also designated with the prefix CYP) catalyze oxygenation reactions on a wide array of organic substrates. The reaction cycle involves two high-potential intermediates that are oxidized one and two electrons above the resting enzyme. We have suggested that hole transfer along chains of tryptophan, tyrosine, and cysteine residues can prevent enzyme damage by these intermediates when reaction with substrate fails. This work is an examination of the distributions of tryptophan, tyrosine, and cysteine residues closest to the heme in the structures of 188 P450 enzymes. Tyrosine residues tend to be closest in bacterial enzymes, whereas tryptophan residues dominate in eukaryotic enzymes. A tryptophan residue hydrogen-bonded to the D-propionate of the heme is a common structural motif in eukaryotes. A tryptophan in a similar location in the bacterial CYP102A1 enzyme has been shown in prior work to extend the lifetime of the enzyme during turnover. The eukaryotic tryptophan residues might perform a similar protective role.

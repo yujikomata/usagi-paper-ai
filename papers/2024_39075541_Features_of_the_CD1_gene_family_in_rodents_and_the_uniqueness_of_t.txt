@@ -1,7 +1,0 @@
-TITLE: Features of the CD1 gene family in rodents and the uniqueness of the immune system of naked mole-rat.
-YEAR: 2024
-JOURNAL: 
-DOI: 10.1186/s13062-024-00503-z
-SOURCE: EuropePMC/MED/39075541
-
-Cluster of Differentiation 1 (CD1) proteins are widely expressed throughout jawed vertebrates and present lipid antigens to specific CD1-restricted T lymphocytes. CD1 molecules play an important role in immune defense with the presence or absence of particular CD1 proteins frequently associated with the functional characteristics of the immune system. Here, we show the evolution of CD1 proteins in the Rodentia family and the diversity among its members. Based on the analysis of CD1 protein-coding regions in rodent genomes and the reconstruction of protein structures, we found that Heterocephalus glaber represents a unique member of the suborder Hystricomorpha with significant changes in protein sequences and structures of the CD1 family. Multiple lines of evidence point to the absence of CD1d and CD1e and probably a dysfunctional CD1b protein in Heterocephalus glaber. In addition, the impact of CD1d loss on the CD1d/Natural killer T (NKT) cell axis in the naked mole-rat and its potential implications for immune system function are discussed in detail.

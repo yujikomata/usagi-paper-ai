@@ -1,7 +1,0 @@
-TITLE: Phenotype response for the invasive <i>Petaurus notatus</i> in Tasmania.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.1093/jmammal/gyaf074
-SOURCE: EuropePMC/MED/41404498
-
-A mainland native nocturnal arboreal glider Petaurus notatus (Krefft's Glider) was introduced to Tasmania in the 1830s as a pet and its subsequent escape and landscape spread has been associated with the predation of endemic and migratory birds. Using geometric morphometrics, we assessed whether P. notatus experienced a phenotypic response, visible in their skull, after introduction to Tasmania. We found significant skull form variation between Tasmanian (n = 57) and Victorian (n = 102) glider specimens. Specifically, there is an increase in rostrum length-particularly at the mid-cranium-a dorsal shift of the frontal bones, and increase in posterior angle of the coronoid process on the mandible. Whether this morphological change is associated with a dietary shift towards carnivory or because of multiple ecological pressures is unclear. However, similar morphological variations identified in the Tasmanian specimens have previously been linked to an increase in carnivory in other species as noted by other researchers.

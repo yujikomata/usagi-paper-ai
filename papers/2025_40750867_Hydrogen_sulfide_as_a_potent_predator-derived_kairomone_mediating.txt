@@ -1,7 +1,0 @@
-TITLE: Hydrogen sulfide as a potent predator-derived kairomone mediating fear-related responses in mice.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.1038/s42003-025-08592-w
-SOURCE: EuropePMC/MED/40750867
-
-Olfaction plays a critical role in survival across species, notably in threat detection. Volatile olfactory molecules signaling the presence of a danger in the environment share a specific chemical signature, particularly sulfur-containing moieties detected by the mouse olfactory Grueneberg ganglion (GG) neurons. Our study focuses on one of the most toxic air pollutant, hydrogen sulfide (H2S). We reveal here a novel facet of H2S which acts as a danger signal, a kairomone alerting the prey for the presence of nearby predators as H2S can originate from meat-eater secretions. H2S activates the cyclic nucleotide-gated channels (CNGA3) present on the sensory cilia of GG neurons. This direct channel opening lets calcium into the cells ensuring neuronal activation and signal transmission to specific brain regions associated with stress and fear-related behaviors. Moreover, using GG-axotomized mice, we demonstrate the biological relevance of GG neurons to detect H2S. These results give new insights into predator-prey dynamics and danger communication which is fundamental for the survival of the species.

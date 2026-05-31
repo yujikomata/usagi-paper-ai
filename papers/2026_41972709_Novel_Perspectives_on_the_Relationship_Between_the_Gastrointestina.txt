@@ -1,7 +1,0 @@
-TITLE: Novel Perspectives on the Relationship Between the Gastrointestinal Mucus Barrier and Soybean Agglutinin.
-YEAR: 2026
-JOURNAL: 
-DOI: 10.3390/cells15070620
-SOURCE: EuropePMC/MED/41972709
-
-The gastrointestinal mucus barrier (GIMB) is a gelatinous structure consisting primarily of mucins, water, and cathelicidin. Such a structure is the first line of defense against pathogens in the intestinal cavity and acts an important environment for the survival and reproduction of symbiotic flora. Mucin is mainly synthesized and secreted by intestinal goblet cells, forming a slime layer with different structures throughout the intestinal tract. The process of mucin synthesis and secretion is regulated by many factors, and there are some differences in the physical and chemical properties of the GIMB among animal species. Furthermore, recent studies have shown a close relationship among the mucus barrier, gastrointestinal diseases, and tumors. Soybean agglutinin (SBA) is a major glycoprotein in soybean that is closely related with the detection, prevention, and treatment of disease and cancer. Current studies indicate a close relationship between SBA and the GIMB, particularly at the molecular level and through species-specific differences in mucin glycan structures. Existing evidence shows that these differences affect the binding affinity and antinutritional effects of SBA. The novel relations between SBA and GIMB may become new targets for disease treatment.

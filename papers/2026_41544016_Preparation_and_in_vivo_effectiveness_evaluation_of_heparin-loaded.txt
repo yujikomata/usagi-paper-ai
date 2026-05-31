@@ -1,7 +1,0 @@
-TITLE: Preparation and in vivo effectiveness evaluation of heparin-loaded PLGA@PCL core-shell fiber small-diameter vascular grafts.
-YEAR: 2026
-JOURNAL: 
-DOI: 10.1371/journal.pone.0337192
-SOURCE: EuropePMC/MED/41544016
-
-Cardiovascular disease has become the leading cause of death. It is the common goal for researchers worldwide to develop small-diameter vascular grafts (SDVGs) which could meet clinical needs. In this study, PLGA@PCL core-shell structural fibrous SDVGs was fabricated by coaxial electrospinning process, and then the surface heparinization of the vascular material was carried out after H2N-PEG-NH2 fixed on sodium hydroxide-treated electro-spun PCL tubes. Finally, the long-term patency and tissue regeneration of the grafts were evaluated in vivo through the rabbit carotid artery replacement model. The results indicate that the heparin-modified PLGA@PCL core-shell structural fibrous SDVGs achieved long-term patency and the arrangement of collagen and elastin in the neointima was similar to the native vessel in the rabbits after 9 months. After 3 months postoperatively, endothelialization was almost complete, and vascular calcification was also observed. It can be concluded that surface heparinization is a feasible modification method for in situ tissue-engineered vascular grafts, and controlling the occurrence of vascular calcification is another important issue to be solved in the development of SDVGs, and it is also the focus of our next research work.

@@ -1,7 +1,0 @@
-TITLE: Distinct phenotype of SARS-CoV-2 Omicron BA.1 in human primary cells but no increased host range in cell lines of putative mammalian reservoir species.
-YEAR: 2024
-JOURNAL: 
-DOI: 10.1016/j.virusres.2023.199255
-SOURCE: EuropePMC/MED/38389324
-
-SARS-CoV-2's genetic plasticity has led to several variants of concern (VOCs). Here we studied replicative capacity for seven SARS-CoV-2 isolates (B.1, Alpha, Beta, Gamma, Delta, Zeta, and Omicron BA.1) in primary reconstituted airway epithelia (HAE) and lung-derived cell lines. Furthermore, to investigate the host range of Delta and Omicron compared to ancestral SARS-CoV-2, we assessed replication in 17 cell lines from 11 non-primate mammalian species, including bats, rodents, insectivores and carnivores. Only Omicron's phenotype differed in vitro, with rapid but short replication and efficient production of infectious virus in nasal HAEs, in contrast to other VOCs, but not in lung cell lines. No increased infection efficiency for other species was observed, but Delta and Omicron infection efficiency was increased in A549 cells. Notably replication in A549 and Calu3 cells was lower than in nasal HAE. Our results suggest better adaptation of VOCs towards humans, without an extended host range, and may be relevant to the search for the putative intermediate host and reservoirs prior to the pandemic.

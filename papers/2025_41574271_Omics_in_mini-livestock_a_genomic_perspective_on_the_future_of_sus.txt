@@ -1,7 +1,0 @@
-TITLE: Omics in mini-livestock: a genomic perspective on the future of sustainable food systems.
-YEAR: 2025
-JOURNAL: 
-DOI: 10.3389/fgene.2025.1740301
-SOURCE: EuropePMC/MED/41574271
-
-Mini-livestock refers to small vertebrates and invertebrates used as human food, animal feed, or for other beneficial purposes. They represent sustainable alternatives to conventional livestock, whose potential is now being revealed through advances in omics technologies. Omics approaches such as genomics, transcriptomics, proteomics, metabolomics, and epigenomics provide comprehensive insights into growth, reproduction, adaptation, and disease resistance of these species, enabling the identification of genetic markers to enhance breeding efficiency and to improve productivity. However, the application of omics technologies in mini-livestock remains limited due to challenges such as high costs, lack of reference genomes, and limited bioinformatics resources. Overcoming these barriers will be crucial for fully harnessing the potential of mini-livestock in improving global food security and environmental sustainability.

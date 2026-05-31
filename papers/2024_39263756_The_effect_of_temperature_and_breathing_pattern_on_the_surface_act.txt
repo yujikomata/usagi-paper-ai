@@ -1,7 +1,0 @@
-TITLE: The effect of temperature and breathing pattern on the surface activity of ground squirrel pulmonary surfactant.
-YEAR: 2024
-JOURNAL: 
-DOI: 10.1242/jeb.249280
-SOURCE: EuropePMC/MED/39263756
-
-This study investigates how hibernation affects the surface activity of pulmonary surfactant with respect to temperature and breathing pattern. Surfactant was isolated from a hibernating species, the 13-lined ground squirrel, and a homeotherm, the rabbit, and analysed for biophysical properties on a constrained sessile drop surfactometer. The results showed that surfactant from ground squirrels reduced surface tension better at low temperatures, including when mimicking episodic breathing, as compared with rabbit surfactant. In addition, low temperature adaptation was also observed using only the hydrophobic components of surfactant from ground squirrels. Overall, the data support the conclusion that ground squirrel surfactant has adapted to maintain surface activity during low temperature episodic breathing patterns, and that temperature adaptation is maintained with the hydrophobic components of the surfactant.
