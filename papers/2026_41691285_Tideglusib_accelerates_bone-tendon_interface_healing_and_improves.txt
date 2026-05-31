@@ -1,0 +1,7 @@
+TITLE: Tideglusib accelerates bone-tendon interface healing and improves mechanical strength in a rabbit rotator cuff tear model: an experimental study.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1186/s13018-026-06717-3
+SOURCE: EuropePMC/MED/41691285
+
+BackgroundThe present study aimed to investigate the effects of the glycogen synthase kinase-3 (GSK-3) inhibitor tideglusib on bone-tendon interface healing in a rabbit model of rotator cuff injury, based on biomechanical and histological assessments.MethodsFourteen New Zealand rabbits underwent supraspinatus tendon detachment to establish a chronic rotator cuff tear model. After six weeks, surgical repair was performed. In the right shoulders, tideglusib was administered at the bone-tendon junction prior to performing the primary repair (drug group), whereas the left shoulders underwent primary repair without biological augmentation (control group). Seven animals were included in the group subjected to biomechanical tension testing, and six for histological evaluation.ResultsBiomechanical evaluation demonstrated that the tideglusib group showed significantly higher load-to-failure values compared with the control group the control group (p ConclusionLocal application of tideglusib positively enhances tendon-bone healing both biomechanically and histologically. Further studies are warranted to explore its potential clinical applications.

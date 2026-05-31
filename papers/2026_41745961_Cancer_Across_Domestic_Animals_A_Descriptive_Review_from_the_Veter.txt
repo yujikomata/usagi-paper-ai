@@ -1,0 +1,7 @@
+TITLE: Cancer Across Domestic Animals: A Descriptive Review from the Veterinarian's Perspective.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.3390/vetsci13020167
+SOURCE: EuropePMC/MED/41745961
+
+Cancer is a disease characterised by uncontrolled cell growth, that affects not only humans but also a wide range of animal species, and even plants. In this review, we explore and discuss the published literature about cancer across domestic animals. Most existing cancer across species studies have been conducted by researchers who are not familiar with the diagnosis and treatment of cancer in domestic animals, and the veterinary perspective is rarely included. Moreover, many scientists remain unaware of the value of clinical data obtained from spontaneous cancer in domestic animals. In this review, we examine, summarise, and comment on the available literature investigating cancer across different species, with a focus on domestic animals, including herbivores, carnivores, and omnivores. We also analyse the potential influence of body size, metabolism, environment, and genetic background on cancer risk across species. Understanding both cancer sensitivity and resistance mechanisms in different animals may help bridge current knowledge gaps between veterinarians, researchers, and human oncologists. Ultimately, these insights may support the development of more effective cancer prevention and treatment strategies in animals and humans, emphasising the One Health-One Cancer approach.

@@ -1,0 +1,7 @@
+TITLE: Study of ubiquitin C-terminal hydrolase-L1, glial fibrillary acidic protein, and interleukin-6 levels in an experimental head trauma model in rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.15441/ceem.24.383
+SOURCE: EuropePMC/MED/41531410
+
+ObjectiveThe study investigates experimental brain trauma in rabbits, assessing levels of ubiquitin C-terminal hydrolase-L1 (UCH-L1), glial fibrillary acidic protein (GFAP), and interleukin 6 (IL-6) in serum and cerebrospinal fluid (CSF) and compares these biomarkers among trauma groups.MethodsThirty rabbits were randomized to a control group (n=6) or to mild-, moderate-, and severe-trauma groups (n=8 each) created by dropping 200, 350, or 500 g weights, respectively, onto their skulls using a modified Marmarou impact acceleration model. CSF and venous blood samples were collected at 0, 12, and 24 hours after injury; UCH-1 L, GFAP, and IL-6 concentrations in CSF and serum were quantified by enzyme-linked immunosorbent assays, and group differences were analyzed with a Friedman test followed by Dunn-Bonferroni correction.ResultsNeither CSF nor serum concentration of GFAP, IL-6, or UCH-L1 differed from those of controls after mild trauma. Severe head trauma produced markedly higher GFAP and IL-6 concentrations in CSF compared with the control group (PConclusionSerum UCH-L1 differentiated moderate and severe trauma from controls in a rabbit model, whereas CSF GFAP and IL-6 levels reflected severe injury. Validation in larger preclinical and clinical studies is warranted.

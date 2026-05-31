@@ -1,0 +1,7 @@
+TITLE: First report of <i>Fasciola hepatica</i> seroprevalence and risk factors in European bison <i>(Bison bonasus)</i>.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.2478/jvetres-2025-0020
+SOURCE: EuropePMC/MED/40552033
+
+IntroductionFasciola hepatica is a trematode that infects ruminants worldwide. It is also the infectious agent of a zoonosis, fasciolosis, which is considered to be a re-emerging disease. There is no data about F. hepatica seroprevalence in European bison (Bison bonasus); however, complex population health monitoring is particularly important in protected species such as this. Addressing the need for this surveillance, the aim of this study was to assess for the first time the seroprevalence of F. hepatica in Polish free-living European bison populations and identify risk factors for infection.Material and methodsBetween 2020 and 2024, serum samples were collected from 119 free-ranging European bison from mountains and lowland areas. Serum samples were tested with a commercial ELISA to detect antibodies to Fasciola hepatica, and the data yielded were statistically analysed.ResultsThe study revealed F. hepatica seropositivity in 20/119 animals (16.8%), with higher herd seroprevalence in lowland groups, and higher individual seroprevalence in females and animals from lowland areas.ConclusionOur study shows that a serological examination may be a useful and convenient diagnostic tool in assessing the F. hepatica exposure of the European bison population, especially when performing epizootic and retrospective studies.

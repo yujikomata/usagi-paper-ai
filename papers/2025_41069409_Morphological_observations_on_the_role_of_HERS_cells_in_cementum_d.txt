@@ -1,0 +1,7 @@
+TITLE: Morphological observations on the role of HERS cells in cementum development of rabbit molars.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3389/fbioe.2025.1659704
+SOURCE: EuropePMC/MED/41069409
+
+ObjectiveTo investigate the relationship between cementum development and epithelial stem cells in rabbit molars, as well as the associated morphological characteristics.MethodsA total of 25 New Zealand white rabbits were selected and divided into five age groups (14 days, 21 days, 28 days, 50 days, and 8 months). The developmental process of cementum was examined using micro-computed tomography (micro-CT), scanning electron microscopy (SEM), and histological methods.ResultsCementum in rabbit molars was classified into three types: acellular extrinsic fiber cementum (AEFC), cellular intrinsic fiber cementum (CIFC), and cellular mixed stratified cementum (CMSC). With increasing age, both the bone volume fraction (BV/TV) and bone mineral density of the cementum significantly increased (P ConclusionThe cementum of rabbit molars surrounds the enamel. With increasing age, both the volume and density of the cementum continue to increase, and its functions differ significantly based on its classification. EMT is not the principal mechanism involved.

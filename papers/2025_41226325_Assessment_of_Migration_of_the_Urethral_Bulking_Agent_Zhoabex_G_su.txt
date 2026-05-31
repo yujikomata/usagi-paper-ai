@@ -1,0 +1,7 @@
+TITLE: Assessment of Migration of the Urethral Bulking Agent Zhoabex G<sup>®</sup> from the Urethral Injection Site to the Distant Organs in a Rabbit Model.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ijms262110286
+SOURCE: EuropePMC/MED/41226325
+
+Hyaluronic acid (HA)-based urethral bulking agents are promising for the treatment of stress urinary incontinence (SUI), but migration risks to distant organs remain a concern. This study evaluated the migration and cytotoxicity of Zhoabex G®, an HA-based bulking agent, in a female rabbit model. Twenty-seven female New Zealand white rabbits were randomized into control (no injection), sham (saline), and experimental (Zhoabex G®) groups (n = 9 each). After 5 months, tissues from the kidney, lung, liver, and spleen were analyzed using quantitative RT-PCR for hyaluronan synthase (HAS1, HAS2, HAS3) and hyaluronidase (HYAL2) gene expression, and ELISA for HA concentrations. No significant differences in gene expression were observed across groups (p ≥ 0.05, range: 0.166-0.997), with experimental fold change values near sham baselines (e.g., kidney HAS2: 0.987 ± 0.071, p = 0.422). Similarly, HA concentrations showed no group differences (p = 0.577; e.g., kidney: 119.2-121.8 ng/mL), reflecting organ-specific basal levels. These findings indicate that Zhoabex G® remains localized at the urethral injection site, with no evidence of migration or cytotoxicity in distant organs. The biodegradable and non-particulate nature of Zhoabex G® further supports its safety for SUI treatment, warranting further clinical investigation.

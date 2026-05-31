@@ -1,0 +1,7 @@
+TITLE: Predicting the severity of eye damage induced in rabbits after sulfur mustard vapor exposure.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1016/j.toxrep.2025.102159
+SOURCE: EuropePMC/MED/41280361
+
+Sulfur mustard (SM) is a chemical blistering warfare agent for which there exists no specific treatment or antidote. Almost 90 % of exposed victims show ocular lesions. Indeed, eyes are the most sensitive organs to airborne exposure. To improve medical care for victims by offering them a prognosis of lesion severity, we evaluated different parameters to predict the severity of SM-induced ocular lesions in a rabbit model. We followed the procedure for SM vapor exposure only on the right cornea of female New Zealand white rabbits using vial caps. Macroscopic eye observations and standardized measurements were performed on the anterior and posterior segments until D35 post-exposure. We set up a severity score based on non-invasive anterior segment observations and measurements, which led to the identification of two subgroups of SM-exposed rabbits: rabbits with severe and moderate ocular lesions. This severity score could be helpful in predicting the progression of SM-induced ocular injuries since subgroups split as early as D7. Our score can thus be used to investigate predictive SM ocular biomarkers and to test new therapeutics.

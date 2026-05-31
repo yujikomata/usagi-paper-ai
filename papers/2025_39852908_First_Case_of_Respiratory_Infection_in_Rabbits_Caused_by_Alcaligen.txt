@@ -1,0 +1,7 @@
+TITLE: First Case of Respiratory Infection in Rabbits Caused by Alcaligenes faecalis in Romania.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/vetsci12010033
+SOURCE: EuropePMC/MED/39852908
+
+Alcaligenes faecalis is a Gram-negative, obligate aerobic bacillus commonly found in environmental settings, particularly in soil and water, as well as within the intestinal microbiota of humans and various animal species. This bacterium has the potential to act as an opportunistic pathogen, capable of causing severe infections in both humans and animals, which can sometimes result in fatal outcomes. Notably, A. faecalis is often characterized by a high degree of antibiotic resistance, complicating treatment efforts. In the current study, we present a case involving a 3-month-old male rabbit that developed a generalized infection, ultimately leading to the animal's death. Despite the administration of broad-spectrum systemic antibiotics, the treatment was ineffective in salvaging the animal's health. The isolated strain of A. faecalis demonstrated resistance to all tested antibiotics, underscoring the challenges associated with managing infections caused by this pathogen. This case highlights the significant impact of A. faecalis as an emerging threat in veterinary medicine, where its inherent antibiotic resistance further exacerbates the difficulty of effective treatment.

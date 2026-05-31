@@ -1,0 +1,7 @@
+TITLE: Exosomal miRNA-218-5p derived from low-passage dermal papilla cells modulates hair follicle growth and development.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1016/j.ncrna.2026.01.004
+SOURCE: EuropePMC/MED/41585345
+
+Exosomes are nanoscale particles that participate in multiple biological processes and are secreted by various cell types. Exosomes derived from dermal papilla cells (DPC-Exos) regulate hair follicle (HF) growth and development. In this study, HF development-related genes were significantly expressed in low-passage dermal papilla cells (DPCs). Low-passage DPC-Exos promoted hair follicle stem cell (HFSC) proliferation. After the collection of DPC-Exos, miRNA sequencing identified 36 differentially expressed (DE) miRNAs between low-passage and high-passage DPC-Exos. Among these, miR-218-5p was significantly upregulated in low-passage DPC-Exos and dysregulated HF growth and development-related gene expression in HFSCs. Furthermore, the transport mechanism of exosomal miR-218-5p from DPCs is into HFSCs was verified. RNA sequencing of HFSCs treated with exosomal miR-218-5p identified differentially expressed genes (DEGs). The results indicated involvement of miR-218-5p in signaling pathways related to HF growth and development. Additionally, in vitro HF organ culture experiments demonstrated that exosomal miR-218-5p actively promotes hair growth. In summary, low-passage DPC-Exos enhance HFSC proliferation. Exosomal miR-218-5p may serve as a biomarker and therapeutic target for human hair disorders and as a tool to improve wool production in mammals.

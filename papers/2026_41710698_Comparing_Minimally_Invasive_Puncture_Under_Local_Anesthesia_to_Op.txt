@@ -1,0 +1,7 @@
+TITLE: Comparing Minimally Invasive Puncture Under Local Anesthesia to Open Laparotomy Under General Anesthesia for Establishing a Rabbit VX2 Liver Tumor Model.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.2147/jhc.s588361
+SOURCE: EuropePMC/MED/41710698
+
+PurposeTo compare ultrasound-guided percutaneous puncture under local anesthesia (LA) versus open laparotomy under general anesthesia (GA) for establishing a rabbit VX2 liver tumor model, evaluating efficacy, safety, animal welfare, and tumor biology.MethodsTwenty-eight rabbits were randomly assigned to Group A (ultrasound-guided percutaneous under LA, n = 14) or Group B (open surgery under GA, n = 14). Parameters compared included anesthesia and operation time, intraoperative blood loss, surgical trauma, postoperative complications, mortality, tumor implantation success rate, tumor volume, and tumor characteristics were evaluated via imaging and histopathological analysis.ResultsCompared to Group B, Group A demonstrated significantly shorter anesthesia preparation time (61.00 ± 6.70 s vs 632.60 ± 67.84 s, P P P P = 0.037) and abdominal wall invasion (0% vs 35.7%, P = 0.045). Group A also exhibited favorable trends in postoperative infection and mortality rates.ConclusionUltrasound-guided percutaneous puncture under LA is a superior method for creating the VX2 liver model. It is faster, less invasive, reduces bleeding and tumor dissemination risk, maintains equivalent tumorigenicity, and better adheres to animal welfare principles.

@@ -1,0 +1,7 @@
+TITLE: Breed-Specific Responses of Rabbit Semen to Chilling Storage: Sperm Quality, Acrosome Status, and Oxidative Stress Biomarkers.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15162384
+SOURCE: EuropePMC/MED/40867712
+
+Artificial insemination (AI) in rabbits depends largely on chilled semen storage, but the physiological responses to chilling and associated biochemical changes in seminal plasma (SP) remain poorly understood, particularly across breeds. This study aimed to compare the semen preservation capacity of Algerian local population (LAP) and New Zealand White (NZW) rabbits and to explore the relationship between SP oxidative stress biomarkers and sperm traits during 72 h of chilled storage at 5 °C. Semen pools (nine/breed) were evaluated at 0, 4, 24, 48, and 72 h for motility, viability, and acrosome status. Oxidative stress markers were also assessed in the SP, including malondialdehyde (MDA), reactive oxygen metabolites (ROMs), superoxide dismutase (SOD), glutathione peroxidase (GPX), and catalase (CAT). LAP sperm showed higher motility (p p p p p > 0.05). These results demonstrate that LAP rabbits exhibit better resilience to chilled storage compared to NZW and highlight the potential value of CAT and SOD activities as indicators of sperm resilience during chilled storage. Further studies are required to validate and extend these findings, with the aim of improving semen preservation strategies.

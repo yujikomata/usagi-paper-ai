@@ -1,0 +1,7 @@
+TITLE: Effects of Multiple Metaphyseal Hole Creation on Long Bone Growth in a Rabbit Model.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.3349/ymj.2025.0111
+SOURCE: EuropePMC/MED/41560384
+
+PurposeLong bone overgrowth after pediatric skeletal injury or surgery is well recognized, whereas growth suppression without physeal injury is rare. This study aimed to evaluate the effects of creating multiple metaphyseal holes on bone growth and elucidate the underlying mechanisms in a rabbit model.Materials and methodsSingle and dual metaphyseal holes were created in the left tibiae of immature rabbits and filled with bone wax. In the one-hole group, a hole was drilled 10 mm below the physis. In the two-hole group, an additional hole was made 5 mm below the first. Rabbits were assigned to sham (n=8), one-hole (n=8), and two-hole (n=8) groups. Tibial lengths were measured radiographically. Histologic evaluation and CD31 immunofluorescence were used to assess new bone formation and angiogenesis. Growth change was calculated as the percentage difference between the operated and contralateral limbs.ResultsThe one-hole group showed significantly greater overgrowth than the sham group (1.041±1.022 mm vs. 0.027±0.342 mm, p=0.021), while the two-hole group demonstrated significant growth suppression (-0.988±0.484 mm vs. 0.027±0.342 mm, pConclusionA single metaphyseal hole promotes overgrowth, whereas an additional hole suppresses growth, likely through vascular disruption. These findings provide insights into bone growth regulation and its underlying mechanisms.

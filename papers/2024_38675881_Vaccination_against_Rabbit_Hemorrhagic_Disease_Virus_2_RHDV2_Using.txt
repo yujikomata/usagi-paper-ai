@@ -1,0 +1,7 @@
+TITLE: Vaccination against Rabbit Hemorrhagic Disease Virus 2 (RHDV2) Using a Baculovirus Recombinant Vaccine Provides Durable Immunity in Rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/v16040538
+SOURCE: EuropePMC/MED/38675881
+
+Rabbit hemorrhagic disease virus 2 (RHDV2) emerged in the United States in 2018 and has spread in both domestic and wild rabbits nationwide. The virus has a high mortality rate and can spread rapidly once introduced in a rabbit population. Vaccination against RHDV2 provides the best protection against disease and should be considered by all rabbit owners. Here, we investigate the duration of immunity provided by vaccination with the Medgene Platform conditionally licensed commercial vaccine 6 months following the initial series. Rabbits received either the vaccination or a placebo and were challenged with RHDV2 6 months later. All vaccinated rabbits survived challenge whereas 18/19 non-vaccinated controls succumbed to infection within 10 or fewer days post-challenge. These results demonstrate lasting immunity following vaccination with the Medgene RHDV2 vaccine.

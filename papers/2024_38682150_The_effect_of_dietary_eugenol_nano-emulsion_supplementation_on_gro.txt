@@ -1,0 +1,7 @@
+TITLE: The effect of dietary eugenol nano-emulsion supplementation on growth performance, serum metabolites, redox homeostasis, immunity, and pro-inflammatory responses of growing rabbits under heat stress.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.5455/ovj.2024.v14.i3.10
+SOURCE: EuropePMC/MED/38682150
+
+BackgroundHeat stress (HS) is a main abiotic stress factor for the health and welfare of animals. Recently, the use of nano-emulsion essential oils exhibited a promising approach to mitigate the detrimental impacts of abiotic and biotic stresses, ultimately contributing to the global aim of sustainable livestock production.AimThe current study was piloted to assess the impact of eugenol nano-emulsion (EUGN) supplementation on growth performance, serum metabolites, redox homeostasis, immune response, and pro-inflammatory reactions in growing rabbits exposed to HS.MethodsA total of 100 male weaning rabbits aged 35 days were divided into 4 treatments. Rabbits were fed the diet with EUGN at different concentrations: 0 (control group; EUGN0), 50 (EUGN50), 100 (EUGN100), and 150 (EUGN150) mg/kg diet for 8 weeks under summer conditions.ResultsDietary EUGN levels significantly improved (p p p p p ConclusionThis study shows that EUGN can be used as a novel feed additive to enhance the growth performance, immune variables, and antioxidants, and reduce the inflammatory response of growing rabbits exposed to thermal stress.

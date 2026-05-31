@@ -1,0 +1,7 @@
+TITLE: Precocious Eimeria magna transgenically expressing RHDV P2 subdomain induces immune responses in rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s41541-025-01223-9
+SOURCE: EuropePMC/MED/40707472
+
+Rabbit coccidiosis and rabbit haemorrhagic disease (RHD) pose major threats to the rabbit industry, causing significant economic losses. Developing a multivalent vaccine to concurrently protect rabbits against Eimeria and RHDV infections would provide dual protection through a single immunization protocol. Here, we utilized a precocious line of E. magna (EmagPWT) as a vaccine vector to express P2 subdomain of RHDV capsid protein VP60. We constructed three transgenic parasites expressing (i) RHDV1-P2 subdomain, (ii) RHDV2-P2 subdomain, and (iii) 2 copies of P2 subdomains from both RHDV1 and RHDV2. We found that all transgenic parasites elicited detectable neutralizing antibodies and robust mucosal immune response following secondary immunization. In conclusion, our results indicate genetically manipulated precocious Eimeria parasite expressing heterologous antigens, such as P2 subdomain, holds promise as a vector for developing a multivalent vaccine against RHD and Eimeria infections in rabbits.

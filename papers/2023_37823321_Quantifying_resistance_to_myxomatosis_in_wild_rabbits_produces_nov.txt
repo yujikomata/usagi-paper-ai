@@ -1,0 +1,7 @@
+TITLE: Quantifying resistance to myxomatosis in wild rabbits produces novel evolutionary insights.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1017/s0950268823001668
+SOURCE: EuropePMC/MED/37823321
+
+Wild rabbits in Australia developed genetic resistance to the myxoma virus, which was introduced as a biological control agent. However, little is known about the rate at which this evolutionary change occurred. We collated data from challenge trials that estimated rabbit resistance to myxomatosis in Australia and expressed resistance on a continuous scale, enabling trends in its development to be assessed over 45 years up to 1995. Resistance initially increased rapidly, followed by a plateau lasting ten years, before a second rapid increase occurred associated with the introduction of European rabbit fleas as myxoma virus vectors. By contrast, in the United Kingdom, where rabbit flea vectors were already present when the myxoma virus initially spread, resistance developed more slowly. No estimates of rabbit resistance to myxomatosis have been made for almost 30 years, despite other highly lethal rabbit pathogens becoming established worldwide. Continued testing of wild-caught rabbits in Australia to determine current levels of resistance to myxomatosis is recommended to assess its current effectiveness for managing pest rabbits. Given the economic and environmental significance of invasive rabbits, it would be remiss to manage such biological resources and ecosystem services poorly.

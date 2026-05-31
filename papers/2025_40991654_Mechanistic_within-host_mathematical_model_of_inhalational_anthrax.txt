@@ -1,0 +1,7 @@
+TITLE: Mechanistic within-host mathematical model of inhalational anthrax.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1371/journal.pcbi.1013439
+SOURCE: EuropePMC/MED/40991654
+
+We present a mathematical model of the dynamics of Bacillus anthracis bacteria within the lymph nodes and blood of a host, following inhalation of an initial dose of spores. We also incorporate the dynamics of protective antigen, which is the binding component of the anthrax toxin produced by the bacteria. The model offers a mechanistic description of the early infection dynamics of inhalational anthrax, while its stochastic nature allows us to study the probabilities of different outcomes (for example, how likely it is that the infection will be cleared for a given inhaled dose of spores) in order to explain dose-response data for inhalational anthrax. The model is calibrated via a Bayesian approach, using in vivo data from New Zealand white rabbit and guinea pig infection studies, enabling within-host parameters to be estimated. We also leverage incubation-period data from the Sverdlovsk 1979 anthrax outbreak to show that the model can accurately describe human time-to-symptoms data under reasonable parameter regimes. Finally, we derive a simple approximate formula for the probability of symptom onset before time t, assuming that the number of inhaled spores has a Poisson distribution.

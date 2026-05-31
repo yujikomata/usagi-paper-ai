@@ -1,0 +1,7 @@
+TITLE: Rabbit Does as a Model for Studying Plasma Metabolomic Adaptations Across Reproductive Stages: Insights from Parturition to Weaning.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.3390/vetsci13050497
+SOURCE: EuropePMC/MED/42188967
+
+Metabolomics is increasingly applied in veterinary molecular biology to investigate physiological adaptations in animals. In this study, rabbit does were used as a model to explore plasma metabolomic changes associated with key reproductive stages, specifically parturition and weaning. Using an untargeted metabolomics approach, 48 plasma samples were analyzed to characterize metabolic differences between these physiological states: parturition (n = 24) and weaning (n = 24). The experiment was conducted between February and November 2019. Distinct metabolomic profiles were observed between stages, with variations detected in metabolites associated with lipid metabolism, energy homeostasis, and cellular metabolic pathways. Distinct changes included higher plasma levels of Betaine and alpha-CEHC at parturition, while weaning was characterized by elevated levels of 4-Pyridoxic acid, Proline betaine, Allysine, modified phospholipids, and other nitrogenous and lipophilic metabolites, reflecting stage-specific metabolic adaptations. These results contribute to the understanding of metabolic regulation during reproduction and lactation in mammals and highlight the usefulness of the rabbit as an experimental model in veterinary molecular and physiological research.

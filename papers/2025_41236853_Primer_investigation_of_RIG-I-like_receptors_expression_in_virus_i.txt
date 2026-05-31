@@ -1,0 +1,7 @@
+TITLE: Primer investigation of RIG-I-like receptors expression in virus infection with the acute character.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1177/17534259251394124
+SOURCE: EuropePMC/MED/41236853
+
+This study investigates the expression of RIG-I-like receptors (RLRs) - RIG-I, MDA5, and LGP2 - in Lagovirus europaeus/GI.2 infections causing Rabbit Hemorrhagic Disease. Despite over 30 years of study, the acute pathogenesis remains incompletely understood. Lack of in vitro culture systems hampers vaccine development. The experiment, conducted on European rabbits, reveals a significant increase in RLR expression during infection, particularly in organs associated with severe pathology. The findings suggest a pivotal role for RLRs, especially RIG-I, in the host's defense against Lagovirus europaeus. Further research is needed to unravel the complete molecular pathway and associated factors, offering potential insights for therapeutic interventions.

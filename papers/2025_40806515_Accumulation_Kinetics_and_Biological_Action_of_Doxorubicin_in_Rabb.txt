@@ -1,0 +1,7 @@
+TITLE: Accumulation Kinetics and Biological Action of Doxorubicin in Rabbit Intervertebral Discs.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ijms26157386
+SOURCE: EuropePMC/MED/40806515
+
+Doxorubicin (DOX) is widely used for the treatment of several tumors, but considerable dose-dependent side effects on many normal tissues, including bones, have been reported. The aim of the present study was to follow for the first time the kinetics of DOX accumulation/clearance in the non-vascularized intervertebral disc (IVD), as well as to assess the drug's biological action in the annulus fibrosus (AF) and nucleus pulposus (NP) IVD cells and tissues. DOX was administered intravenously to rabbits before the isolation of IVDs, in which DOX quantification was performed using a highly sensitive LC-HRMS/MS analytical method. The effect of the drug on IVD cells' physiology was assessed in vitro, while IVD tissue quality post-DOX administration was studied in vivo through histological analysis. DOX delivery was found significantly lower in the IVD compared to the highly vascularized skin, declining from the outer AF to the inner NP. The low DOX concentrations reaching the IVDs had marginal effects on cells' viability, intracellular redox status, and p38 MAPK activation, while they did not evoke cellular senescence. Most importantly, the drug did not negatively affect ECM integrity, as collagen and proteoglycan content remained stable in vitro and in vivo.

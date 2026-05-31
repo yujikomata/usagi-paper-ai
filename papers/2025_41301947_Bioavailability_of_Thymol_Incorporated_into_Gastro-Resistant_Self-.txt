@@ -1,0 +1,7 @@
+TITLE: Bioavailability of Thymol Incorporated into Gastro-Resistant Self-Emulsifying Pellets in Rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15223238
+SOURCE: EuropePMC/MED/41301947
+
+Thymol gastro-resistant self-emulsifying pellets were used to achieve thymol targeted release on the side of the intestine with the most intensive absorption to enhance its oral bioavailability. Forty-eight rabbits (35 d of age) were divided into two groups fed with a standard diet containing gastro-resistant enteric pellets (control, CG; without thymol, initial live weight 1350.0 ± 18.0, and experimental, EG; with thymol 250 mg/kg, initial live weight 1352.0 ± 19.9 g). The experiment lasted 28 days: thymol was administered for 21 days and then withdrawn for 7 days. Thymol was significantly higher in duodenal wall (DW) than in plasma during both periods (p = 0.0053, p s = 0.9333, p p = 0.0182, p = 0.0003) and muscle (p = 0.0236, p = 0.0004) indicates its efficient accumulation. Thymol in gastro-resistant form prevented its degradation due to adverse conditions in the stomach and ensured its release at the site of greatest absorption in the small intestine.

@@ -1,0 +1,7 @@
+TITLE: Gram-Scale Synthesis of Hafnium-Rich Carbon Dots for Preclinical Computed Tomography Imaging Across Various Systems.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1002/advs.202517986
+SOURCE: EuropePMC/MED/41619262
+
+Hafnium (Hf) has emerged as a promising element for next-generation computed tomography (CT) contrast agents owing to its high X-ray attenuation coefficient and favorable biocompatibility. However, scalable synthesis of Hf-based imaging probes with sufficiently high metal content for large-animal preclinical studies remains challenging. Here, we report a facile air-assisted pyrolysis strategy for the gram-scale synthesis of Hf-rich carbon dots (Hf-rCDs). The resulting Hf-rCDs exhibit a high Hf content (40.7%), robust batch productivity (>2 g per batch), ultra-small hydrodynamic size (∼3.2 nm), excellent aqueous solubility (up to 600 mg mL- 1; 244 mg Hf mL- 1), and superior X-ray attenuation performance. Importantly, Hf-rCDs demonstrate rapid renal clearance within 2 h post-injection, supporting a favorable biosafety profile. In vivo CT imaging reveals outstanding contrast enhancement across multiple physiological systems, including the circulatory, urinary, gastrointestinal, and lymphatic systems. Notably, Hf-rCDs enable high-resolution visualization of cervical vasculature in swine, highlighting their strong translational potential. Collectively, these results establish Hf-rCDs as a compelling alternative to conventional iodine-based contrast agents for advanced CT imaging.

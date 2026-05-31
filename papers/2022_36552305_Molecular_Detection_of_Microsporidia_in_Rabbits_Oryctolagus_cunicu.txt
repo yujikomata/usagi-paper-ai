@@ -1,0 +1,7 @@
+TITLE: Molecular Detection of Microsporidia in Rabbits (Oryctolagus cuniculus) in Tenerife, Canary Islands, Spain.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.3390/biology11121796
+SOURCE: EuropePMC/MED/36552305
+
+Enterocytozoon bieneusi and Encephalitozoon spp. are microsporidia with zoonotic potential that have been identified in humans, as well as in a large group of wild and domestic animals. Several wildlife species have been studied as reservoirs of zoonotic microsporidia in mainland Spain, including the European rabbit (Oryctolagus cuniculus). Due to a lack of data on microsporidia infection in wildlife on the Canary Islands, the aim of this work was to analyze the prevalence and identify the species of microsporidia in rabbits in Tenerife. Between 2015 and 2017, a total of 50 fecal samples were collected from rabbits in eight municipalities of Tenerife, Canary Islands, Spain. Seven of the fifty samples (14%) were amplified using nested polymerase chain reaction (PCR) targeting the partial sequence of the 16S rRNA gene, the internal transcribed spacer (ITS) region, and the partial sequence of the 5.8S rRNA gene. Sanger sequencing reveals the presence of Encephalitozoon cuniculi genotype I in two samples (4%), and undescribed microsporidia species in five samples (10%). This study constitutes the first molecular detection and genotyping of E. cuniculi in rabbits in Spain.

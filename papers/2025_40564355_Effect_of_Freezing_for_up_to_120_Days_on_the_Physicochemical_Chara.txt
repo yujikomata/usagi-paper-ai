@@ -1,0 +1,7 @@
+TITLE: Effect of Freezing for up to 120 Days on the Physicochemical Characteristics of Hamburgers Made from Botucatu Rabbit Does Slaughtered at Different Ages.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15121805
+SOURCE: EuropePMC/MED/40564355
+
+This study evaluated the effect of freezing for up to 120 days on the physicochemical and technological properties of hamburgers made from Botucatu rabbit does slaughtered at 3, 12, and 24 months of age. The parameters were evaluated as follows: surface color (L*, a*, b*), pH using an insertion pH meter, cooking loss using a grill, storage loss based on weight differences, shear force in cooked samples using a texture analyzer, shrinkage percentage, chemical composition (moisture, protein, lipids, and ash), and lipid oxidation, determined by measuring the concentration of malondialdehyde in the burgers at different storage intervals (0, 60, and 120 days) under freezing conditions (-18 °C). The results indicated that increased storage time and animal age reduced tenderness and increased lipid content (p < 0.05). Burgers made from younger does showed higher levels of lipid oxidation. Age also influenced color (greater redness and lower lightness in older animals) and chemical composition, with older does producing burgers with higher protein and lower moisture and mineral content. However, all samples remained within the limits established by Brazilian legislation. This study recommends using meat from does of different ages for hamburger production, as all variations met the required legal standards.

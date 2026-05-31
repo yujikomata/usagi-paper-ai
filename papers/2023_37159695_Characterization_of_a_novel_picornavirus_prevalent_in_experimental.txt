@@ -1,0 +1,7 @@
+TITLE: Characterization of a novel picornavirus prevalent in experimental rabbits (Oryctolagus cuniculus).
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1016/j.heliyon.2023.e15702
+SOURCE: EuropePMC/MED/37159695
+
+Here, using viral metagenomic method a novel picornavirus (named UJS-2019picorna, GenBank accession number OP821762) was discovered in fecal and blood samples of experimental rabbits (Oryctolagus cuniculus). The complete genome size of UJS-2019picorna is 7832 bp excluding the poly(A)-tail, with GC content of 44.00% and a nucleotide composition of 28.0% A, 28.0% U, 21.5% G, and 22.5% C. The viral genome has a typical picornavirus organization pattern from the 5'-3' direction: VPg-5' UTR-(L)-P1, (VP4-VP2-VP3-VP1)-P2, (2 A-2B-2C)-P3, (3 A-3B-3C-3D)-3' UTR-poly(A). The P1 region of UJS-2019picorna is related to Erbovirus with amino acid identity of 37.31%, while the P2 and P3 regions are the closest to Bopivirus with amino acid identity of 35.66%-39.53%. According to the Picornaviridae Study Group guidelines, UJS-2019picorna should be presumed to be a new genus belonging to the Picornaviridae family. Epidemiologic study revealed that this novel picornavirus was prevalent in a cohort of experimental rabbits, with prevalence rate of 23.68% (9/38) in feces and 18.4% (7/38) in blood samples. Further work is required to elucidate whether this virus is pathogenic to rabbits and whether it has influence on studies using rabbits as experimental animal.

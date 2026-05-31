@@ -1,0 +1,7 @@
+TITLE: A case report of an Amami rabbit (Pentalagus furnessi) infected with Leptospira interrogans.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1292/jvms.25-0037
+SOURCE: EuropePMC/MED/41016750
+
+Leptospirosis, a global zoonosis caused by Leptospira spirochetes, has been isolated from various wild mammals. This study evaluated clinical and pathological changes in an adult male Amami rabbit (Pentalagus furnessi) infected with Leptospira interrogans. In the present study, interstitial nephritis and Leptospira antigen were observed in the kidney of an Amami rabbit. There were no lesions associated with Leptospira infection in other organs examined. Further study is needed to determine the pathogenic effect of Leptospira infection in this animal species.

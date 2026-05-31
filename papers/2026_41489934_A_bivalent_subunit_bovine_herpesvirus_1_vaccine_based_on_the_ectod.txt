@@ -1,0 +1,7 @@
+TITLE: A bivalent subunit bovine herpesvirus 1 vaccine based on the ectodomains of glycoproteins D and B elicits robust protective immunity against infection in a rabbit model.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1080/01652176.2025.2607414
+SOURCE: EuropePMC/MED/41489934
+
+Bovine alphaherpesvirus 1 (BoHV-1) is the causative agent of infectious bovine rhinotracheitis and reproductive disorders causing significant economic losses in the cattle industry. Both BoHV-1 glycoproteins B (gB) and D (gD) are targets of neutralizing antibodies and desirable antigens for subunit vaccine. In this study, a bivalent subunit vaccine was generated based on the ectodomain of gD and gB expressed by baculoviruses system. Compared with the inactivated vaccine, the bivalent subunit vaccine induced higher neutralizing antibody levels against both the BoHV-1 reference strain and the virulent BoHV-1 field strain. Following intranasally challenge with BoHV-1 J2303, the clinical signs and virus excretion were significantly reduced in rabbits vaccinated with this subunit vaccine whereas severe clinical symptoms appeared in the non-vaccinated rabbits, indicating that the bivalent subunit vaccine provides complete protection against virulent BoHV-1 infection. Considering that the respiratory symptoms caused by J2303 in rabbits is highly similar and even identical to those of cattle, our findings suggest that the bivalent subunit vaccine based on combination of gD with gB protein have promising application to BoHV-1control programs.

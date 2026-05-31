@@ -1,0 +1,7 @@
+TITLE: Dietary Omega-3 Supplementation with Linseed and <i>Padina pavonica</i> Protects Rabbit Spermatozoa Against In Vitro LPS-Induced Damage.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.3390/antiox15030289
+SOURCE: EuropePMC/MED/41897435
+
+Omega-3 polyunsaturated fatty acids (n-3 PUFAs) are recognized for their beneficial effects on male fertility. This study evaluated the protective effects of dietary n-3 PUFAs from extruded linseed, alone or combined with the alga Padina pavonica, against in vitro lipopolysaccharide (LPS)-induced sperm dysfunction in rabbits. Twelve bucks were fed for 60 days a control diet (CNT), a diet containing 5% extruded linseed (L), or 5% extruded linseed plus 0.2% P. pavonica extract (LPP). Ejaculates were exposed in vitro to increasing LPS concentrations (0, 400, and 600 µg/mL), and sperm motility was evaluated at 0, 1, 2, and 4 h using computer-assisted sperm analysis. LPS markedly impaired sperm motility in the CNT group, increasing the percentage of static spermatozoa (p p p < 0.05). Dietary n-3 PUFA supplementation also attenuated LPS-induced TLR4 activation and reduced lipid peroxidation, as indicated by lower seminal TBARS levels. No histological alterations were detected in the male reproductive tract. These findings indicate that n-3 PUFA supplementation, particularly linseed combined with algae, mitigates LPS-induced sperm dysfunction in vitro.

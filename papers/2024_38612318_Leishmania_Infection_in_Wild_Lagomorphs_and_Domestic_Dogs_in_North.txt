@@ -1,0 +1,7 @@
+TITLE: Leishmania Infection in Wild Lagomorphs and Domestic Dogs in North-East Spain.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/ani14071080
+SOURCE: EuropePMC/MED/38612318
+
+Leishmania infantum is a zoonotic protozoan parasite distributed worldwide that is transmitted by phlebotomine sandflies. Dogs are the main reservoir for human infections. However, in recent years, the capacity of lagomorphs to contribute to Leishmania transmission has been confirmed. The present study aimed to assess Leishmania spp. exposure and infection in lagomorphs and sympatric domestic dogs in NE Spain. Sera from European hares, European rabbits, and rural dogs were tested for antibodies against L. infantum using an in-house indirect ELISA. PCR analysis targeting Leishmania spp. was performed in spleens from L. europaeus. Antibodies against Leishmania spp. were detected in all the species analyzed. Total sample prevalence was significantly higher in O. cuniculus (27.9%) than in L. europaeus (2.0%). Results of the PCR were all negative. The present study expands knowledge about Leishmania infections in free-ranging lagomorphs in the Iberian Peninsula, suggesting a more important role of O. cuniculus in the study area. Given the strong correlation between lagomorph densities and human leishmaniasis outbreaks in Spain, the high rabbit and human densities in NE Spain, and the high Leishmania spp. seroprevalence in rabbits, it becomes imperative to establish surveillance programs for lagomorphs in this region.

@@ -1,0 +1,7 @@
+TITLE: Typing of <i>Leishmania</i> isolates from vectors and leporids of the Madrid (Spain) outbreak.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1017/s0031182023001336
+SOURCE: EuropePMC/MED/38105582
+
+In 2009, a large outbreak of leishmaniasis, associated with environmental changes, was declared near Madrid (Spain), in which Phlebotomus perniciosus was the vector, whereas the main reservoirs were hares and rabbits. Analysis of isolates from humans, vectors and leporids from the focus identified the Leishmania infantum ITS-Lombardi genotype. However, multilocus enzyme electrophoresis (MLEE), the reference technique for Leishmania typing, and sequencing of the hsp70 gene, a commonly used marker, were not performed. In the present study, 19 isolates from P. perniciosus (n = 11), hares (n = 5) and rabbits (n = 3) from the outbreak area, all characterized as ITS-Lombardi in previous studies, were analysed by MLEE and hsp70 sequencing. The hsp70 results confirmed that all the analysed strains are L. infantum. However, by MLEE, 4 different zymodemes of L. infantum were identified based on variable mobilities of the NP1 enzyme: MON-34 (NP1100, n = 11), MON-80 (NP1130, n = 6), MON-24 (NP1140, n = 1) and MON-331 (NP1150, n = 1). The relative frequency of these zymodemes does not correspond to their usual occurrence in Spain. Moreover, MON-34 and MON-80 were found in P. perniciosus, hares and rabbits for the first time. These findings continue to provide insights into the outbreak and call for further studies with a higher number of strains.

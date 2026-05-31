@@ -1,0 +1,7 @@
+TITLE: Dietary Chlorogenic Acid Supplementation Alleviates Heat Stress-Induced Intestinal Oxidative Damage by Activating Nrf2 Signaling in Rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/antiox15010002
+SOURCE: EuropePMC/MED/41596061
+
+Heat stress (HS) significantly threatens the sustainability of the rabbit industry, primarily by inducing oxidative damage to the intestine, which compromises both the health and productivity of rabbits. Chlorogenic acid (CGA) belongs to a major class of natural polyphenols and possesses significant antioxidant properties. This study aimed to elucidate the protective effects and underlying mechanisms of CGA against HS-induced intestinal damage in rabbits. In vivo, compared with the HS group, CGA significantly elevated serum CAT and SOD activities (p p HO-1, SOD1) and upregulation of apoptosis-related genes (Bax, caspase-3) (p occludin, ZO-1) downregulation (p < 0.05) by activating Nrf2 signaling. Specific inhibition of Nrf2 significantly abolished CGA's protective effects. These results strongly suggest that CGA alleviates HS-induced intestinal oxidative damage and maintains barrier integrity via Nrf2 signaling. This finding offers a safe nutritional intervention to enhance HS resistance and growth performance in rabbits, addressing a key constraint to the sustainability of the rabbit industry amid global warming.

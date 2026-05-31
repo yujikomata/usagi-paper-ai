@@ -1,0 +1,7 @@
+TITLE: New Anti-RSV Nucleoprotein Monoclonal Antibody Pairs Discovered Using Rabbit Phage Display Technology.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/antib12040073
+SOURCE: EuropePMC/MED/37987251
+
+Human respiratory syncytial virus (hRSV) is one of the major contagious viruses and causes complicated respiratory issues, especially in young children. The sensitive and fast detection of hRSV is critical for taking the most effective actions. In the present study, rabbit antibodies against the hRSV nucleoprotein (NP) were developed using phage display technology. A female rabbit was immunized with an hRSV strain A2 recombinant NP. A Fab library was built and sorted during two successive panning rounds for strain B and the A2 NP (recombinant preparations), respectively. The choice of candidates was performed using ELISA on the two NP strains. The obtained library was 3 × 106 cfu/mL, with an insertion rate of >95%. The two panning rounds permitted an enrichment factor of 100. ELISA screening allowed us to obtain 28 NP-specific Fab candidates. Among them, 10 retained candidates were reformatted into rabbit full IgG; thereafter, pairing tests on the recombinant strains and native lysate samples were performed. After the pairing tests on the recombinant strains, 53 pairs were identified. Eleven pairs were identified as being able to detect RSVs from native lysates. This work presents new high-potential monoclonal antibodies mAbs (mAbs), which would benefit from lateral flow testing data with patient materials.

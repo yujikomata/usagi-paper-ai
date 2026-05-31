@@ -1,0 +1,7 @@
+TITLE: Dental Disease in Rabbits (Oryctolagus cuniculus) and Its Risk Factors-A Private Practice Study in the Metropolitan Region of Chile.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ani13040676
+SOURCE: EuropePMC/MED/36830463
+
+Rabbits (Oryctolagus cuniculus) have elodont dentition, a characteristic that predisposes them to the development of Acquired Dental Disease (ADD), which is a multifactorial disease. The aim of this study was to assess the risk factors for ADD in domestic pet rabbits. To do this, a retrospective analysis of 1420 rabbits treated at a private practice during 2018-2021 was performed. For this, several variables were retrieved from clinical records, in addition to signology at the time of diagnosis. ADD was found on 25.4% of rabbits, mostly on their cheek teeth. In addition, age (OR = 1.029; 95% CI = 1.023-1.035; p p p = 0.012) and consuming hay in the diet (OR = 0.323; 95% CI = 0.220-0.473; p < 0.001) were protective factors. In conclusion, ADD has a high prevalence and is usually underdiagnosed, highlighting the need for an exhaustive evaluation of patients during the clinical examination. This study improves our knowledge of ADD and its prevention.

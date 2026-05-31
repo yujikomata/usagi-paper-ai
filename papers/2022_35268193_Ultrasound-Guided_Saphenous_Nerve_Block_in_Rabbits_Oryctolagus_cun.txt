@@ -1,0 +1,7 @@
+TITLE: Ultrasound-Guided Saphenous Nerve Block in Rabbits (Oryctolagus cuniculus): A Cadaveric Study Comparing Two Injectate Volumes.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.3390/ani12050624
+SOURCE: EuropePMC/MED/35268193
+
+Ultrasound-guided (US-guided) loco-regional anesthesia techniques allow direct visualization and blockade of sensory nerves. The saphenous nerve (SN), a terminal branch of the femoral nerve (FN), is strictly a sensory nerve for which electrical locator devices are ineffective for localization as no effector muscle contractions can be evoked. US-guided SN block in species other than rabbits produces hind-limb analgesia without affecting FN motor function. The aims of this study were to develop a US-guided SN block technique in rabbits and to compare the spread obtained using two different dye volumes. Twelve hind-limbs from six cadavers (1.62 ± 0.1 kg) were included; after randomization, the SN block was performed on the right or left hind-limb, injecting 0.05 mL kg-1 or 0.1 mL kg-1 of tissue dye in lidocaine (1:50 v:v). Subsequent dissections allowed nerve staining measurements. All SNs were identified, and 17.8 ± 4.6% and 31.0 ± 8.9% of the SN length were stained using low-volume and high-volume of the dye, respectively. Regardless of the volume used, the SN was consistently stained while the motor branch of the FN was not. This US-guided technique may provide hind-limb analgesia without affecting FN motor function in rabbits undergoing mid-distal hind-limb surgeries.

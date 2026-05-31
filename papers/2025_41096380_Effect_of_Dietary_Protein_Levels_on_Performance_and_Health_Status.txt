@@ -1,0 +1,7 @@
+TITLE: Effect of Dietary Protein Levels on Performance and Health Status of Adult Companion Rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15192784
+SOURCE: EuropePMC/MED/41096380
+
+Three isoenergy diets with different crude protein (CP) levels (H = 175, M = 173, and L = 165 g/kg, as is), were fed to 117 sex balanced rabbits (coloured dwarf breed) from 28 to 45 weeks of age. Feed intake, body weight, and fatness were unaffected by the dietary treatment. By reducing dietary CP content, rabbits in group L had a significantly reduced proportion of digestible protein (DP) relative to maintenance requirements compared to group H; p p p p < 0.001). Contrarily, the energy balance was positive in males (+57.9 kJ DE/d) and negative in females (-20.3 kJ DE/d). In conclusion, a dietary CP level of 165 g/kg is considered adequate for adult companion rabbits at maintenance. It is therefore advisable to diversify diets by sex to better meet their nutritional requirements.

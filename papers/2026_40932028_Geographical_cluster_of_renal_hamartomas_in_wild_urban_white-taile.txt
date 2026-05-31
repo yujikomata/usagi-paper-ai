@@ -1,0 +1,7 @@
+TITLE: Geographical cluster of renal hamartomas in wild urban white-tailed jackrabbits (<i>Lepus townsendii</i>).
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1177/03009858251367402
+SOURCE: EuropePMC/MED/40932028
+
+To understand diseases of wild urban jackrabbits (Lepus townsendii), we autopsied 130 individuals that died near roadways in Calgary, Alberta, Canada. Renal hamartomas were present in 8 of 130 hares (6.2%; 95% confidence interval: 3.2%-11.7%). Most were unilateral (7/8); one case had bilateral lesions. Hamartomas are benign, tumor-like lesions comprised of normal tissue elements in abnormal amounts and arrangements. Macroscopically, hamartomas were white, tan, or pink-red, well-circumscribed, singular or multilobular, expansile nodules in the cortex or corticomedullary junction. Histologically, renal hamartomas consisted of well-demarcated mature stromal tissue with fibrous tissue and occasionally, adipocyte differentiation. These results represent a unique temporal and geographical cluster of a renal anomaly in an urban wildlife population. Renal hamartomas were not identified in other large studies of diseases in free-ranging leporids including hares. Contributing factors to this cluster remain unknown.

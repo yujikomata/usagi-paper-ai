@@ -1,0 +1,7 @@
+TITLE: <i>Poecilobdella manillensis</i> ameliorates atherosclerosis by inhibiting endothelial cell pyroptosis.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1016/j.athplu.2025.12.004
+SOURCE: EuropePMC/MED/41503135
+
+ObjectiveLeeches and other herbs may improve atherosclerosis symptoms. This study explores Poecilobdella manillensis'effect on AS.MethodsIn vivo used high-fat diet + rabbit carotid balloon injury model, with Poecilobdella manillensis at 0.1, 0.4, 0.8 g/day. In vitro, aortic endothelial cells were treated with ox-LDL to establish AS model, then with animal group sera to assess P.manillensis effects on AS and explore mechanisms.ResultsThe in vivo findings indicated that P.manillensis is capable of lowering blood lipid levels and exhibiting anti-thrombotic properties. Additionally, P.manillensis significantly alleviated pathological damage and lipid deposition in the common carotid artery, and reduced apoptosis of the common carotid artery smooth muscle cells. Further assays revealed that P.manillensis markedly decreased the levels of PI3K, p-AKT, NF-κB p65, NLRP3, Caspase-1, eNOS, GSDMD, IL-1β, and IL-18. In vitro results demonstrated that serum containing P.manillensis significantly enhanced cell activity and ATP production while decreasing the apoptosis rate, IL-1β, IL-18, LDH, and ROS, PI3K, p-AKT, NF-κB p65, NLRP3, Caspase-1, GSDMD, and ASC levels.ConclusionBoth in vivo and in vitro studies have confirmed that P.manillensis ameliorates endothelial damage and inflammatory responses in AS, with involvement of the PI3K/AKT and NF-κB signaling pathways.

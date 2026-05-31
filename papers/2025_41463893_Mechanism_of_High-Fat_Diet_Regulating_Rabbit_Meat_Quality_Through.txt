@@ -1,0 +1,7 @@
+TITLE: Mechanism of High-Fat Diet Regulating Rabbit Meat Quality Through Gut Microbiota/Gene Axis.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15243608
+SOURCE: EuropePMC/MED/41463893
+
+With the improvement of living standards, people's awareness of health care is becoming stronger and stronger. Rabbit meat is a very high-quality and healthy meat, but its consumption is low due to its poor flavor. To explore the regulatory mechanism of nutrition on the meat quality of rabbits, twenty-four rabbits were fed a control diet or a high-fat (5 percent lard) diet over 15 days. The contents and tissues of the jejunum were subjected to 16S sequencing and mRNA transcriptome sequencing, respectively. The results indicated that there were significant differences in species diversity through beta diversity analysis (p p p p Alloprevotella may influence drip loss and cooked meat rate by changing the expression of PHGDH through correlation analysis. In addition, Coprococcus may influence IMF by changing the expression of NEDD4, ANGPTL3, and CYP8B1. These results indicated that a high-fat diet changed the species and composition of bacteria in the rabbit jejunum. Alloprevotella and Coprococcus may influence rabbit meat quality and flavor by changing PHGDH, NEDD4, ANGPTL3, and CYP8B1 gene expression in the host. This study laid a molecular foundation for the improvement of rabbit meat quality through nutritional diets.

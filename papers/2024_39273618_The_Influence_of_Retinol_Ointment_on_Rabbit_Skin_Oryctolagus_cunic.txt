@@ -1,0 +1,7 @@
+TITLE: The Influence of Retinol Ointment on Rabbit Skin (Oryctolagus cuniculus) Ion Transport-An In Vitro Study.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/ijms25179670
+SOURCE: EuropePMC/MED/39273618
+
+Retinoids are known to improve the condition of the skin. Transepithelial transport of sodium and chloride ions is important for proper skin function. So far, the effect of applying vitamin A preparations to the skin on ion transport has not been evaluated. In the study, electrophysiological parameters, including transepithelial electric potential (PD) and transepithelial resistance (R), of rabbit skin specimens after 24 h exposure to retinol ointment (800 mass units/g) were measured in a modified Ussing chamber. The R of the fragments incubated with retinol was significantly different than that of the control skin samples incubated in iso-osmotic Ringer solution. For the controls, the PD values were negative, whereas the retinol-treated specimens revealed positive PD values. Mechanical-chemical stimulation with the use of inhibitors of the transport of sodium (amiloride) or chloride (bumetanide) ions revealed specific changes in the maximal and minimal PD values measured for the retinol-treated samples. Retinol was shown to slightly modify the transport pathways of sodium and chloride ions. In particular, an intensification of the chloride ion secretion from keratinocytes was observed. The proposed action may contribute to deep hydration and increase skin tightness, limiting the action of other substances on its surface.

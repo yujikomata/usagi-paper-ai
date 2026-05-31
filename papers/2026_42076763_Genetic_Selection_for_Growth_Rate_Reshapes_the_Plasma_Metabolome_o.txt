@@ -1,0 +1,7 @@
+TITLE: Genetic Selection for Growth Rate Reshapes the Plasma Metabolome of Rabbit Does Derived from Vitrified Embryos: Insights into Nutrient Metabolism and Productive Efficiency.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.3390/vetsci13040391
+SOURCE: EuropePMC/MED/42076763
+
+In response to the growing global demand for food, intensive genetic selection programs have been implemented to improve livestock efficiency and productivity. Understanding how such selection alters metabolism across nutritional stages is essential for optimizing feeding strategies. In this study, we examined the impact of long-term genetic selection for growth rate (GR) on the plasma metabolome of reproductive female rabbits using an untargeted metabolomics approach. Two vitrified-rederived populations from the same paternal line but separated by 18 generations of GR selection (R19V and R37V) were compared under identical environmental and nutritional conditions. We analyzed 48 plasma samples, showing that GR selection significantly influenced the metabolomic profile. Notably, R37V does exhibited a 76% increase in phospholipid LysoPE (0:0/20:4) concentrations (p < 0.0001) than R19V. GR selection affected key metabolites related to lipid metabolism and energy balance, reflecting potential changes in nutrient utilization efficiency. These findings highlight the interplay between genetics and nutrient efficiency in shaping the metabolome, offering insights that may support nutritional management in genetically improved livestock.

@@ -1,0 +1,7 @@
+TITLE: First description of sarcoptic mange in an Iberian hare (Lepus granatensis).
+YEAR: 2021
+JOURNAL: 
+DOI: 10.1016/j.crpvbd.2021.100021
+SOURCE: EuropePMC/MED/35284901
+
+The Iberian hare (Lepus granatensis) is a popular small game species in the Iberian Peninsula, and it has never been reported to be affected by sarcoptic mange. An adult female Iberian hare with overt skin lesions on forelimbs and ventral thorax, suggestive of sarcoptic mange, was culled in Quart de les Valls municipality in the Valencian Community, Spain, in 2019. Skin scrapings were digested in 10% KOH solutions to confirm the presence of mites. Ten Sarcoptes microsatellite markers were used to characterize the genetic structure of mites obtained from the hare, and from sympatric and allopatric wild rabbits (Oryctolagus cuniculus) and red foxes (Vulpes vulpes). A total of 56 alleles were counted across the 10 microsatellite loci. Six private alleles were found at four loci (Sarms 33, 38, 41, 45). The multivariate analysis characterized three main clusters, corresponding to mites collected on foxes originating from Catalonia, foxes from Valencia and the hare plus wild rabbits. To our knowledge, this is the first reported case of sarcoptic mange in the Iberian hare. The origin was molecularly traced back to contacts with endemically infected wild rabbits. We encourage further investigations on cross-transmissibility of S. scabiei between wild rabbits and the diverse representatives of Lepus spp.

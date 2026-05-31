@@ -1,0 +1,7 @@
+TITLE: Convergent evolution in Afrotheria and non-afrotherians demonstrates high evolvability of the mammalian inner ear.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1038/s41467-024-52180-1
+SOURCE: EuropePMC/MED/39285191
+
+Evolutionary convergence in distantly related species is among the most convincing evidence of adaptive evolution. The mammalian ear, responsible for balance and hearing, is not only characterised by its spectacular evolutionary incorporation of several bones of the jaw, it also varies considerably in shape across modern mammals. Using a multivariate approach, we show that in Afrotheria, a monophyletic clade with morphologically and ecologically highly disparate species, inner ear shape has evolved similar adaptations as in non-afrotherian mammals. We identify four eco-morphological trait combinations that underlie this convergence. The high evolvability of the mammalian ear is surprising: Nowhere else in the skeleton are different functional units so close together; it includes the smallest bones of the skeleton, encapsulated within the densest bone. We suggest that this evolvability is a direct consequence of the increased genetic and developmental complexity of the mammalian ear compared to other vertebrates.

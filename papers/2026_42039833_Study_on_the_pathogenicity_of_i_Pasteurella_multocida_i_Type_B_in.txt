@@ -1,0 +1,7 @@
+TITLE: Study on the pathogenicity of <i>Pasteurella multocida</i> Type B in large-eared white rabbits.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.3389/fmicb.2026.1796165
+SOURCE: EuropePMC/MED/42039833
+
+To investigate the pathogenicity of Pasteurella multocida (Pm) Type B in large-eared white rabbits, the Pm strain C45-2 (C45-2) was used to infect rabbits. The clinical symptoms and post-mortem pathological changes of the rabbits were observed. Multiple tissues were collected from the deceased rabbits for pathological sectioning and immunohistochemical (IHC) staining. Additionally, quantitative real-time PCR (qPCR) was employed to detect the load of C45-2 in each tissue. The results showed that the minimum lethal dose (MLD) of the C45-2 to rabbits was 5 CFU. After infection, the rabbits exhibited typical Pm infection symptoms, including hemorrhage in multiple tissues and splenomegaly with dark coloration. The results of IHC and qPCR indicated that the C45-2 was more concentrated in the heart, spleen, and intestinal lymph node tissues of the infected rabbits. This study evaluated the pathogenicity of the C45-2 in infected rabbits, providing fundamental support for in-depth research on the pathogenic mechanism and vaccine development of Pm Type B.

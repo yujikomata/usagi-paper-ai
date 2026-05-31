@@ -1,0 +1,7 @@
+TITLE: A retrospective study on subcutaneous malignant peripheral nerve sheath tumors in 14 domestic rabbits (Oryctolagus cuniculus) treated surgically between 2008 and 2021.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1292/jvms.23-0230
+SOURCE: EuropePMC/MED/37952973
+
+A retrospective study involving 14 pet rabbits histopathologically diagnosed with malignant peripheral nerve sheath tumors (MPNSTs) was conducted. The age at diagnosis was 4-12 years, with a median age of 8.6 years. All rabbits had solid subcutaneous tumor masses in varied locations. Surgical excision of the tumors was performed in all cases. Recurrence was observed in 10 cases (71%), and postoperative metastasis to the lung was suspected in 4 cases (29%). The postoperative mean and median survival times were 11 months and 9 months, respectively. Hence, MPNSTs should be considered in the differential diagnosis for subcutaneous masses in rabbits and it is essential to inform the owners of the potentially high recurrence and metastasis rates.

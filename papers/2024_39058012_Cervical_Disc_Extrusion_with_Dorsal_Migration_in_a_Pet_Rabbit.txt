@@ -1,0 +1,7 @@
+TITLE: Cervical Disc Extrusion with Dorsal Migration in a Pet Rabbit.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/vetsci11070328
+SOURCE: EuropePMC/MED/39058012
+
+An 8-year-old rabbit presented with a 5-day history of acute difficulty in walking. Neurological examination revealed tetraparesis, proprioceptive deficits in both pelvic limbs and the right thoracic limb, decreased withdrawal reflex on the right thoracic limb and hyperreflexia in the pelvic limbs. A cervico-thoracic (C6-T2) localization was suspected. Computer tomography (CT) and magnetic resonance imaging (MRI) scans were performed, revealing a right dorsolateral extradural lesion at the C6-C7 intervertebral disc space. Additionally, meningeal and paravertebral contrast enhancement was observed on MRI, while periosteal reaction was evident at the right C6-C7 facet joint on CT. The findings were primarily consistent with spinal cord compression due to the presence of extruded disc material. Following conservative treatment failure, a right-sided C6-C7 hemilaminectomy was performed to remove the compression and sample the extradural material. Histological examination confirmed the presence of degenerated and partially mineralized disc material mixed with granulation tissue. This is the first reported case of cervical disc extrusion in a rabbit, confirmed by histological examination.

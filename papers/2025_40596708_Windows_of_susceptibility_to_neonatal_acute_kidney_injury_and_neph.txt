@@ -1,0 +1,7 @@
+TITLE: Windows of susceptibility to neonatal acute kidney injury and nephron loss in a rabbit model.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s41598-025-08685-w
+SOURCE: EuropePMC/MED/40596708
+
+Nephrogenesis is completed before term birth, but preterm infants continue this process postnatally. It is unknown if preterm neonates are more susceptible to acute kidney injury (AKI) immediately after birth (during nephrogenesis) or later in postnatal development, and if this AKI timing impacts nephron number. Rabbits were exposed to gentamicin (100 mg/kg intraperitoneal) and indomethacin (5 mg/kg orally) on postnatal day (P) 0-3 (early-exposed) or P6-9 (late-exposed). Animals were euthanized three hours after last nephrotoxin dose or at 6 weeks of life. Histologic injury was assessed, and Kidney injury marker 1 (Kim1) expression was quantified. At 6 weeks, blood urea nitrogen (BUN) and serum creatinine (SCr) levels were measured. Ex vivo MRI imaging was performed with automated quantitation of nephron numbers. AKI was induced in early and late-exposed rabbits. At 6 weeks, we identified a mean of 170,972 glomeruli in the controls (n = 5), 159,655 in the early-exposed (n = 4), and 145,748 glomeruli in the late-exposed group (n = 3, a 14.8% reduction compared to control, p = 0.01). Late-exposed rabbits had elevated BUN and SCr relative to early-exposed. This study suggests that exposure to nephrotoxins during early postnatal nephrogenesis causes AKI but may have less impact on long-term nephron number than exposure during nephron maturation.

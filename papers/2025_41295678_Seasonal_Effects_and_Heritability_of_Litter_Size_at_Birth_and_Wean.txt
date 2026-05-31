@@ -1,0 +1,7 @@
+TITLE: Seasonal Effects and Heritability of Litter Size at Birth and Weaning in Commercial Rabbits in Central Mexico (2015-2021).
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/vetsci12111040
+SOURCE: EuropePMC/MED/41295678
+
+Reproductive performance in rabbits is highly sensitive to seasonal environmental variation and management practices, while the proportion of variance attributable to additive genetics for litter-level traits is typically low. The objective of this study was to evaluate the effects of year and season on litter size at birth (BR), litter size at weaning (WR), and weaning rate (WT), and to estimate the heritability of these traits in a commercial rabbit farm. A total of 770 kindling events recorded between 2015 and 2021 were analyzed. The mixed model for BR included the fixed effects of year and season, and the random effects of sire and residual error. The model for WR included the same structure, with BR added as a covariate. Least-squares means for fixed effects were used for pairwise comparisons using Tukey's test. Year and season effects were significant for BR (p p p < 0.075). Heritability estimates from the sire variance component were low: 0.01 for BR, 0.04 for WR, and 0.05 for WT. These results indicate that phenotypic variation in prolificacy in this population was predominantly driven by interannual and seasonal environmental factors, as well as perinatal management practices, while the additive genetic contribution was marginal.

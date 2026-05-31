@@ -1,0 +1,7 @@
+TITLE: Exenatide Is Neuroprotective in a New Rabbit Model of Hypoxia-Ischemia.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/cells14211715
+SOURCE: EuropePMC/MED/41227362
+
+Hypoxia-ischemia is a serious perinatal complication affecting neonates globally. Animal models have increased the understanding of its pathophysiology and have been used to investigate potential therapies. Exenatide, clinically used for the treatment of type 2 diabetes mellitus, also protects the rodent brain from hypoxia-ischemia. The rabbit brain has an earlier neurodevelopmental maturation than rodents, as well as similar postnatal maturation to humans. We hereby introduce a new, reproducible hypoxia-ischemia model in rabbit kits at postnatal day (P) 3-4. Following hypoxia-ischemia, rabbit kits received different exenatide concentrations: 170 μg/g (2-dose) or 500 μg/g (1- or 2-dose), or vehicle. The brains were collected seven days later for histological assessment showing that 500 μg/g exenatide, either as a 1- or 2-dose regimen, reduced brain tissue loss by 90% in hypoxia-ischemia experiments both at P3 and P4. A second cohort received a 1-dose 500 μg/g of exenatide or vehicle, and were sacrificed at different early time-points for glucose, ketone bodies, body weight, and temperature measurements. Our results showed a transient 2-fold increase in ketone bodies (0.6 to 1.3 mmol/L) at 6 h. Exenatide did not affect glucose, body temperature or weight gain and appears to be safe and well tolerated in the rabbit model of hypoxia-ischemia.

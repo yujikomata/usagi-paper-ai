@@ -1,0 +1,7 @@
+TITLE: Development of a high-yield Rabbit line for enhanced animal pharming.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1186/s40659-025-00653-y
+SOURCE: EuropePMC/MED/41373007
+
+Animal pharming involves producing recombinant protein drugs using transgenic animals. The United States Food and Drug Administration (FDA) has approved certain drugs produced in the milk of transgenic Rabbits. Traditionally, these pharming Rabbits have been developed using conventional transgenic technology, which often results in an unpredictable success rate, uncontrollable transgene insertion sites, varying copy numbers, and generally low recombinant protein yields, typically 1-2 g/L or lower. We hypothesized that utilizing the promoter of a native major milk protein gene to drive transgene expression could significantly enhance yield. To test this, we developed a rabbit line that expresses tdTomato under the control of the CSN2 gene promoter, responsible for encoding β-casein, the most abundant protein in Rabbit milk. We successfully generated knock-in founder Rabbits using CRISPR/Cas9-mediated knock-in technology, augmented by the homology-directed repair (HDR)-promoting small molecule RS-1. These founder Rabbits were able to transmit the knock-in allele to their offspring, producing both heterozygous and homozygous tdTomato knock-in Rabbits. Remarkably, the recombinant protein yield reached 15-20 g/L in the milk of homozygous animals. Our work demonstrates a promising strategy to enhance recombinant protein production in Rabbit pharming.

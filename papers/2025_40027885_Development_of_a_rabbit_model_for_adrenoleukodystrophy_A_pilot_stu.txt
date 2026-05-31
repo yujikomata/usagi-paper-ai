@@ -1,0 +1,7 @@
+TITLE: Development of a rabbit model for adrenoleukodystrophy: A pilot study on gene therapy using rAAV9.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1016/j.omtn.2025.102469
+SOURCE: EuropePMC/MED/40027885
+
+X-linked adrenoleukodystrophy (X-ALD) is a common peroxisomal disorder caused by mutations in the ABCD1 gene, leading to the accumulation of very long-chain fatty acids (VLCFAs). This progressive neurodegenerative disease manifests in three primary forms: childhood-acquired cerebral demyelination (CALD), adult myelopathy (AMN), and primary adrenal cortical insufficiency. Bone marrow transplantation effectively halts disease progression only in the early stages of CALD. A thorough investigation of the pathophysiology of X-ALD has been hampered by the lack of a reliable animal model. Valid animal models of X-ALD are urgently needed. To address this, we used CRISPR-Cas9 technology to knock out the ABCD1 gene and established a novel rabbit model of X-ALD. The mutants exhibited elevated serum levels of hexacosanoic acid (C26:0), lignoceric acid (C24:0), and an increased C26:0/C22:0 ratio, as well as significant white matter demyelination in the brain and spinal cord. We also investigated rAAV9-based gene therapy in this model and found a significant reduction in VLCFAs. This study introduces CRISPR-Cas9-mediated ABCD1 gene knockout rabbits as a novel animal model. It comprehensively evaluates the short-term outcomes and safety of rAAV-based gene therapy for X-ALD, providing a promising approach to explore the molecular and pharmacological mechanisms of the disease.

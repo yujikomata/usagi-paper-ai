@@ -1,0 +1,7 @@
+TITLE: Phylogenetic Analysis of NEAT1 and MALAT1 Long Non-Coding RNAs Highlights Structure-Function Relationships in Paraspeckle Biology.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1093/molbev/msaf265
+SOURCE: EuropePMC/MED/41363149
+
+Paraspeckles are nuclear bodies essential for gene regulation and stress response, and they are built upon the long non-coding RNA NEAT1. Together with the syntenic MALAT1, these are the only lncRNAs that use the tRNA-processing machinery for maturation, yet they differ in function and evolutionary conservation. To investigate these differences, we identified NEAT1 and MALAT1 orthologs across 545 mammals. For NEAT1, we found that G-quadruplexes, short motifs interacting with DBHS proteins and TDP-43, long gene length, and self-complementary regions are highly conserved features that likely stabilize paraspeckle integrity. Transposable elements also contributed structural modules potentially recognized by DBHS proteins, underscoring their role in NEAT1 evolution. The NEAT1Short isoform was present in all orthologs, and the TDP-43-mediated isoform switch appears to be conserved. In contrast, MALAT1 function likely relies on its conserved primary sequence and regions under purifying selection. This is the first large-scale phylogenetic study of NEAT1-a lncRNA that lacks sequence similarity between orthologs while maintaining functional and syntenic conservation.

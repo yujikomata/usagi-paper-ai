@@ -1,0 +1,7 @@
+TITLE: Comparative effects of sous vide cooking on physicochemical properties, volatile compound profiles, and metabolomic changes between rex and Hyla rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1016/j.fochx.2025.103337
+SOURCE: EuropePMC/MED/41431724
+
+To evaluate the effects of sous vide cooking (SV) and breed differences on rabbit meat quality, this study employed gas chromatography-ion mobility spectrometry (GC-IMS) and widely targeted metabolomics to systematically compare the physicochemical properties, oxidative stability, volatile organic compounds (VOCs), and metabolites changes of Chuanbai Rex rabbit (CR) and Hyla rabbit (HR) after SV cooking. Following SV cooking, CR exhibited significantly lower cooking loss and higher springiness and chewiness compared to HR (P < 0.05). VOCs analysis showed an increased proportion of aldehydes in SV-treated meat, with aldehydes and alcohols contributing most to the characteristic flavor. Metabolomics further revealed a greater upregulation of amino acids and its metabolites in CR. KEGG enrichment analysis indicated that these differential metabolites were mainly involved in ABC transporters, arginine biosynthesis, and glycerophospholipid metabolism pathways. This study provides valuable insights for optimizing rabbit meat processing and promoting the development of rabbit industry.

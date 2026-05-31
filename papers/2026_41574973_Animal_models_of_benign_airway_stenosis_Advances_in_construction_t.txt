@@ -1,0 +1,7 @@
+TITLE: Animal models of benign airway stenosis: Advances in construction techniques, evaluation systems, and perspectives.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1002/ame2.70126
+SOURCE: EuropePMC/MED/41574973
+
+The incidence of benign airway stenosis (BAS) is on the rise, and current treatment options are associated with a significant risk of restenosis. Therefore, there is an urgent need to explore new and effective prevention and treatment methods. Animal models serve as essential tools for investigating disease mechanisms and assessing novel therapeutic strategies, and the scientific rigor of their construction and validation significantly impacts the reliability of research findings. This paper systematically reviews the research progress and evaluation systems of BAS animal models over the past decade, aiming to provide a robust foundation for the optimized construction of BAS models, intervention studies, and clinical translation. This effort is intended to facilitate the innovation and advancement in BAS prevention and treatment strategies.

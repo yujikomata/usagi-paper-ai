@@ -1,0 +1,7 @@
+TITLE: Assessment of the Thyroid Profile in the Iberian Lynx (<i>Lynx pardinus</i>).
+YEAR: 2026
+JOURNAL: 
+DOI: 10.3390/vetsci13030278
+SOURCE: EuropePMC/MED/41893694
+
+The Iberian lynx (Lynx pardinus), once considered the most endangered felid, has shown demographic recovery thanks to intensive conservation measures. Over the past two decades, large physiological datasets have supported both clinical management and research, yet thyroid function has remained comparatively underexplored. This study provides the first reference intervals (RI) for total thyroxine (TT4) and thyroid-stimulating hormone (TSH) in captive and wild lynxes, and assesses the effects of age, sex, and environment. Serum samples from 71 individuals (32 captive, 39 wild; 32 females, 39 males) were analysed, including 32 young adults, 14 adults, and 25 geriatric animals. TT4 was measured by enzyme immunoassay, and TSH using chemiluminescence. TT4 RI was 0.80-2.00 µg/dl (captive) and 0.70-2.20 µg/dl (wild) (p = 0.065). TSH RI was 0.00-1.10 ng/ml (captive) and 0.00-0.10 ng/ml (wild), showing a significant difference (p p = 0.018), while no sex difference appeared in wild lynxes (p = 0.408). Age had no significant effect on TT4 (p = 0.462) or TSH (p = 0.739). Findings confirmed that environment and sex (captivity) influenced thyroid parameters, while age did not. These values are crucial for health monitoring and endocrine assessment in this endangered species.

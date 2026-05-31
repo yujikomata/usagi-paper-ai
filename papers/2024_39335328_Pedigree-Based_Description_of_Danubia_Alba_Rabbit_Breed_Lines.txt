@@ -1,0 +1,7 @@
+TITLE: Pedigree-Based Description of Danubia Alba Rabbit Breed Lines.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/ani14182740
+SOURCE: EuropePMC/MED/39335328
+
+The diversity of livestock animal breeds is an integral part of global biodiversity and requires careful management for sustainability and future availability. Avoiding inbreeding is a crucial aspect of mating of breeding animals. Our aims were to describe the quality of the pedigree, generation interval, gene origin, inbreeding, and effective population size of Danubia Alba rabbit lines. Line "D" is the maternal, whereas lines "C" and "X" are used as the paternal lines. The pedigree information was followed back from the actual breeding rabbits up to the founder animals. The rabbits having offspring in 2023 were chosen as reference populations for each line. The complete generation equivalent (GenCom) was 17.68 for line "C", 18.32 for line "D", and 17.49 for line "X", respectively. The maximum number of generations (GenMax) was above 30 for each line. The estimated bottleneck effect is mostly the result of selection and not a real genetic loss. The Wright inbreeding coefficient (F_Wright) was the highest for the "X" line rabbits, whereas it was the lowest for the line "D". Kalinowski's decomposition of inbreeding showed that it originated mostly from the past; the current fixation of alleles was quite similar for the line "C" and "D". Based on the predicted effective population sizes, it seems that there is no problem in maintaining of Danubia Alba lines.

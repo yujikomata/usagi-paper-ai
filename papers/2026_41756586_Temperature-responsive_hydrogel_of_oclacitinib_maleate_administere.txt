@@ -1,0 +1,7 @@
+TITLE: Temperature-responsive hydrogel of oclacitinib maleate administered via the rectum in rabbit.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.3389/fvets.2026.1767033
+SOURCE: EuropePMC/MED/41756586
+
+BackgroundThe extensive and intense itching caused by skin diseases can significantly diminish the quality of life for companion animals. Oral administration of oclacitinib maleate is recognized as an important treatment for alleviating itching. Oral medications are affected by the animal's temperament and swallowing ability.MethodsIn this study, we developed a temperature-responsive hydrogel containing oclacitinib maleate for rectal administration, and we evaluated its therapeutic potential for treating itching through pharmacokinetic analysis using rabbits as test subjects.ResultsPharmacokinetic results indicated that the transrectal administration of OM T-R Hydrogel effectively increased the blood concentration of oclacitinib maleate (Tmax = 87 min, Cmax = 37 ng/mL, t1/2λz = 762 min). Furthermore, the OM T-R Hydrogel demonstrated no rectal mucosal irritation, confirming its safety for clinical use.ConclusionIn conclusion, this paper successfully investigated a promising novel drug delivery system to alleviate pruritus in dogs and cats.

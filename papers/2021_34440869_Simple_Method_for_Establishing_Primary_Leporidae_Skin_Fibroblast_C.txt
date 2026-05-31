@@ -1,0 +1,7 @@
+TITLE: Simple Method for Establishing Primary Leporidae Skin Fibroblast Cultures.
+YEAR: 2021
+JOURNAL: 
+DOI: 10.3390/cells10082100
+SOURCE: EuropePMC/MED/34440869
+
+Commercial hare and rabbit immortalized cell lines are extremely limited regarding the many species within the lagomorpha order. To overcome this limitation, researchers and technicians must establish primary cell cultures derived from biopsies or embryos. Among all cell types, fibroblasts are plastic and resilient cells, highly convenient for clinical and fundamental research but also for diagnosis, particularly for viral isolation. Here, we describe a fast and cheap method to produce primary fibroblast cell cultures from leporid species, using dispase II, a protease that allows dermal-epidermal separation, followed by a simple enzymatic digestion with trypsin. This method allows for the establishment of an in vitro cell culture system with an excellent viability yield and purity level higher than 85% and enables the maintenance and even immortalization of leporid fibroblastic cells derived from tissues already differentiated.

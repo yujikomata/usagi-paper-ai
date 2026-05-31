@@ -1,0 +1,7 @@
+TITLE: Animal models for age-related osteoporosis.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1159/000546107
+SOURCE: EuropePMC/MED/40418907
+
+BackgroundOsteoporosis is a frequent age-related skeletal disorder, wielding an enormous influence on the quality of life of many women, but also men. Osteoporosis results from a shifted ratio between the activity of osteoblasts and osteoclasts resulting in an increased degradation of bone. This leads to a systemic impairment of bone mass and microarchitecture. Currently only a small number of patients with osteoporosis is treated adequately, making the disease an enormous economic burden. This implies the urgent need of developing new treatment strategies and application mechanisms. Therefore, animal models are of great importance for the investigation and treatment of bone diseases.SummaryIn this narrative review we focus on animal models specially used for age-related osteoporosis including mice, fish and large animal models.Key messageWith this manuscript we want to contribute to the identification of novel treatment strategies for the treatment of age-related osteoporosis.

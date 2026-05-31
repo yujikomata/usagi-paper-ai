@@ -1,0 +1,7 @@
+TITLE: The Impact of Diclofenac Gel on Ion Transport in the Rabbit (Oryctolagus cuniculus) Skin: An In Vitro Study.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/molecules28031332
+SOURCE: EuropePMC/MED/36770998
+
+Diclofenac belongs to the non-steroidal anti-inflammatory drugs with analgesic, antipyretic and anti-inflammatory effects. Diclofenac administration on the skin may be associated with the appearance of side effects. The study aimed to evaluate the impact of diclofenac gel on transepithelial electrophysiological parameters of the 55 rabbit abdomen skin specimens. The electric parameters were analyzed in a modified Ussing chamber. The resistance (R) of the skin specimens treated with diclofenac gel significantly increased, which could be related to the reduction in the water content in intercellular spaces and, consequently, tighter adhesion of the cells. Increased electric potential (PD) was also observed in the skin specimens treated with diclofenac gel. The increase in both R and PD measured under stationary conditions was most likely caused by a transient and reversible increase in sodium ion transport, as the R and PD values decreased after the diclofenac gel was washed away. However, diclofenac gel did not affect the maximum and minimum PDs measured during stimulations. Therefore, it seems that diclofenac gel does not affect the perception of stimuli in the model system used.

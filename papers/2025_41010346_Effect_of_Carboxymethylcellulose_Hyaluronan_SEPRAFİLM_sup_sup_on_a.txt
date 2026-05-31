@@ -1,0 +1,7 @@
+TITLE: Effect of Carboxymethylcellulose Hyaluronan (SEPRAFİLM<sup>®</sup>) on an Arthrofibrosis Model Created in Rabbit Knees.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/life15091405
+SOURCE: EuropePMC/MED/41010346
+
+Purpose: This study aimed to evaluate the efficacy of carboxymethylcellulose (Seprafilm®) for the prevention and treatment of arthrofibrosis in rabbit knees, as well as to investigate its underlying mechanisms of action against fibrosis and adhesion formation. Methods: Sixteen male New Zealand white rabbits were randomly divided into two groups: a control group and a treatment group that received Seprafilm® following surgically induced arthrofibrosis in the knee joint. Macroscopic and histological assessments were performed to evaluate adhesion, fibrosis, inflammation, and edema. Results: In the control group, macroscopic adhesion was severe in five rabbits (62.5%), moderate in two (25%), and minimal in one (12.5%). No macroscopic adhesion was observed in the Seprafilm® group. The mean adhesion score was 2.5 ± 0.75 in the control group versus 0 in the treatment group (p ® group exhibited only minimal fibrosis (p Conclusions: Seprafilm® was effective in reducing both macroscopic and histological signs of adhesion and fibrosis in a rabbit arthrofibrosis model. These findings suggest its potential as a preventive and therapeutic agent in managing arthrofibrosis.

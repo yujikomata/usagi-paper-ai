@@ -1,0 +1,7 @@
+TITLE: Effects of Different Levels of Licorice Residue and Sweet Sorghum on Pellet Feed Quality, Intestinal Morphology, Cecal Volatile Fatty Acids, and Microorganisms in Meat Rabbits.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.3390/microorganisms14040868
+SOURCE: EuropePMC/MED/42075265
+
+This study evaluated how varying proportions of licorice residue and sweet sorghum affect pellet quality, growth performance, intestinal morphology, and cecal microflora in 120 healthy 30-day-old Ira rabbits, which were randomly assigned to five groups (six replicates of four rabbits each). Five experimental diets were formulated, each containing 30% licorice residue and sweet sorghum (with licorice residue at 0%, 25%, 50%, 75%, or 100% w/w) and 70% other components. We found that licorice residue level significantly affected pellet hardness, powder content, and volumetric weight (p p p p < 0.05). At the phylum level, Firmicutes were most enriched. At the genus level, Faecousia and SFMI01 abundance increased with higher licorice residue. LEfSe analysis confirmed that varying licorice residue levels influenced cecal microbial composition from phylum to genus. The addition of 25% licorice residue to the diet can improve the growth performance of meat rabbits and improved both intestinal tissue morphology and the cecal microbiota of meat rabbits.

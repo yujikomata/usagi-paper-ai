@@ -1,0 +1,7 @@
+TITLE: Sustained intraocular pressure lowering from suprachoroidal injection of a latanoprost lipid nanoparticle delivery system in the rabbit.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.3389/fmed.2026.1776626
+SOURCE: EuropePMC/MED/41868229
+
+BackgroundCurrent treatments for glaucoma to lower intraocular pressure (IOP) are dependent on patient adherence and bioavailability after bypassing ocular barriers. Our study investigated the safety and efficacy of a liposomal nanocarrier for sustained release of latanoprost injected into the suprachoroidal space in the rabbit eye.MethodsDutch-Belt rabbits were injected with a single dose of 150 μL of 2 mg/mL of liposomal latanoprost formulation into the suprachoroidal space. The eyes were clinically monitored for adverse events and the IOP recorded.ResultsIOP reduced from baseline to 8 h post liposomal latanoprost injection by 28% (5.1 ± 2.12 mmHg), reaching a maximum of 40% (7.2 ± 1.9 mmHg) at Day 5. Low IOP was sustained until Day 56 returning to baseline at Day 90. Safety assessment of the eyes showed no adverse events and good tolerability of the drug.ConclusionA single dose of liposomal latanoprost into the suprachoroidal space can lower the IOP for up to 56 days making it a promising therapeutic agent for sustained delivery drugs to the suprachoroidal space.

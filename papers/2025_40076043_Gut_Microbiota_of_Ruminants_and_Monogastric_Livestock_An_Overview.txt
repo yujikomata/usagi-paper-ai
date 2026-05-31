@@ -1,0 +1,7 @@
+TITLE: Gut Microbiota of Ruminants and Monogastric Livestock: An Overview.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15050758
+SOURCE: EuropePMC/MED/40076043
+
+The diversity and composition of the gut microbiota are widely recognized as fundamental factors influencing the well-being and productivity of domestic animals. Advancements in sequencing technologies have revolutionized studies in this research field, allowing for deeper insights into the composition and functionality of microbiota in livestock. Ruminants and monogastric animals exhibit distinct digestive systems and microbiota characteristics: ruminants rely on fermentation, while monogastrics use enzymatic digestion, and monogastric animals have simpler stomach structures, except for horses and rabbits, where both processes coexist. Understanding the gut microbiota's impact and composition in both animal types is essential for optimizing production efficiency and promoting animal health. Following this perspective, the present manuscript review aims to provide a comprehensive overview of the gut microbiota in ruminants (such as cattle, sheep, and goats) and monogastric animals (including horses, pigs, rabbits, and chickens).

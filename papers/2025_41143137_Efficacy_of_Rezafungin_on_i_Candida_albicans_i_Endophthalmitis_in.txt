@@ -1,0 +1,7 @@
+TITLE: Efficacy of Rezafungin on <i>Candida albicans</i> Endophthalmitis in a Rabbit Model.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.20411/pai.v10i2.873
+SOURCE: EuropePMC/MED/41143137
+
+BackgroundEndophthalmitis, a severe infection of the intraocular tissues that can result in permanent loss of vision if not immediately treated, is often caused by fungi, namely Candida albicans. Treatment options are limited due to a lack of ocular penetration of antifungal drugs. Rezafungin, an echinocandin antifungal with a long half-life, which was recently approved by the US Food and Drug Administration (FDA), has shown efficacy against candidiasis.MethodsIn this study, using a rabbit model, we compared rezafungin, micafungin, and voriconazole in a hematogenous C. albicans endophthalmitis rabbit model. Fungal burden was determined in the aqueous humor, vitreous humor, choroid-retina, and the kidneys of infected rabbits; eye lesions were visualized by indirect ophthalmoscopy.ResultsNo fungal growth was detected in the aqueous humor, vitreous humor, or choroid-retina of rabbits treated with 10 mg/kg rezafungin at the time of fungal inoculation. Additionally, rabbits given 10 mg/kg rezafungin showed the lowest kidney fungal burden (average log colony-forming units [CFUs]/g of ConclusionTaken together, these results indicate that rezafungin was effective at reducing the acute fungal burden and subsequent eye lesions caused by C. albicans-induced endophthalmitis.

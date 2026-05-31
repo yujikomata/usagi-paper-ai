@@ -1,0 +1,7 @@
+TITLE: Establishing a rabbit sham model of cervical esophageal surgery for circumferential esophageal transplantation.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.4285/ctr.25.0032
+SOURCE: EuropePMC/MED/41030141
+
+BackgroundThis study was performed to establish a rabbit model for esophageal surgery in the treatment of cervical esophageal diseases. The necessary steps for postoperative treatment and esophageal examination were detailed.MethodsThis study aimed to confirm the feasibility of the surgical procedure in rabbits and develop a postoperative management protocol. Six New Zealand White rabbits underwent esophagectomy and end-to-end anastomosis of the cervical esophagus under general anesthesia. Postoperatively, the rabbits were fed a specially formulated therapeutic liquid diet for 3 to 7 days. Recovery was monitored for 8 weeks, after which the rabbits were euthanized. Esophagography and endoscopy were conducted during the first postoperative week to assess healing.ResultsOf the six rabbits that underwent surgery, two died from nonsurgical complications within 7 days after the operation. Of the remaining rabbits, two were diagnosed with esophageal stricture via esophagography and underwent endoscopy after the first postoperative week. The final two rabbits completed the 8-week postoperative period without complications.ConclusionsEsophageal surgery and postoperative treatment in rabbits require careful attention. We anticipate that this study will provide valuable and practical information for researchers conducting esophageal studies using rabbits.

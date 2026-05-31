@@ -1,0 +1,7 @@
+TITLE: Erector Spinae Plane Block for Perioperative Analgesia in a Rabbit.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/vetsci12100984
+SOURCE: EuropePMC/MED/41150124
+
+This clinical case report explores the use of an erector spinae plane (ESP) block to provide perioperative analgesia in a rabbit undergoing spinal decompression surgery. A 6-year-old, 2 kg, spayed, female mixed-breed rabbit presented with acute-onset paraplegia secondary to intervertebral disc extrusion and compressive myelopathy at the L2-L3 disc space. Following neurologic examination and diagnostic evaluation, the patient underwent decompressive surgery at the L2-L3 level. An ultrasound-guided ESP block was performed at the L3 level, with 0.4 mL/kg of ropivacaine 0.5% administered bilaterally. The technique successfully provided intraoperative analgesia and maintained stable hemodynamics without complications. Postoperatively, the rabbit showed a smooth recovery with no need for opioid analgesia. The use of the ESP block was effective in reducing perioperative pain and opioid requirements, highlighting its potential role in multimodal analgesia in rabbits. Further studies are warranted to confirm the safety and efficacy of ESP blocks in this species.

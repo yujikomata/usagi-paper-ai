@@ -1,0 +1,7 @@
+TITLE: New Genotype G3 P[8] of Rotavirus Identified in a Mexican Gastroenteric Rabbit.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/v16111729
+SOURCE: EuropePMC/MED/39599844
+
+Rotavirus species A (RVA) is a major cause of acute viral gastroenteritis in young humans and diverse animal species. The study of the genetic characteristics of RVAs that infect rabbits (Oryctolagus cuniculus) (lapine strain [LRV]) has been limited, and, to date, the most common and epidemiologically important combinations of G/P genotypes in rabbits have been reported to be G3 P[14] and G3 P[22]. In this study, a rotavirus species A detected from an outbreak of enteritis in a Mexican commercial rabbitry was genotypically characterized. Based on sequence and phylogenetic analysis of the VP7 and VP4 genes, the strain identified in this study (C-3/15) demonstrated a G3 P[8] genotype of rotavirus, which had not previously been reported in rabbits. Moreover, both genes were closely related to human, not lapine, rotaviruses. The G3 genotype has been reported in a wide variety of hosts, including humans and rabbits, whereas the P[8] genotype has only been reported in humans. Because this combination of genotypes has never been identified in rabbits, it is proposed that the finding presented here is possibly the result of an interspecies transmission event. This is the first work to study the molecular characteristics of rotaviruses in rabbits in Mexico, as well as the identification of human G3 and P[8] genotypes in a rabbit with enteric disease.

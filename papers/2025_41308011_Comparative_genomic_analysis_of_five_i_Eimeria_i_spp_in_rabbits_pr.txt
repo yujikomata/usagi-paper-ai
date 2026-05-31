@@ -1,0 +1,7 @@
+TITLE: Comparative genomic analysis of five <i>Eimeria</i> spp. in rabbits provides insights into coccidian tissue tropism.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1099/mgen.0.001576
+SOURCE: EuropePMC/MED/41308011
+
+Eimeria spp. are common coccidian parasites of a wide range of vertebrates, causing diarrhoea, poor weight gain and significant mortality in domestic animals and birds. However, there is a paucity of genomic data on these important pathogens. Of the 11 common Eimeria species in rabbits, only Eimeria stiedae invades biliary epithelial cells rather than the intestine, and the determinants of coccidian tissue tropism remain unclear. In this study, we sequenced the genomes of five common rabbit Eimeria species, including E. stiedae, Eimeria flavescens, Eimeria intestinalis, Eimeria magna and Eimeria media. Comparative genomic analysis reveals that the genome of E. stiedae appears more compact than the genomes of intestinal Eimeria species. It shows reductions in the numbers of rhoptry proteins, dense granule proteins, microneme adhesive repeats and TA4 surface antigens, suggesting that surface and invasion-associated proteins may be involved in the tissue tropism of Eimeria spp. In addition, E. stiedae-specific motifs are identified in a cluster of hypothetical surface antigens. These data provide not only new insights into the biological characteristics of coccidia but also valuable resources for functional research and drug and vaccine development.

@@ -1,0 +1,7 @@
+TITLE: Antibodies directed against extracellular loops of FadL orthologs disrupt outer membrane integrity and neutralize infectivity of <i>Treponema pallidum</i>, the syphilis spirochete.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3389/fimmu.2025.1724458
+SOURCE: EuropePMC/MED/41550954
+
+A vaccine is urgently needed to curtail the global epidemic of syphilis, a sexually transmitted infection caused by the spirochetal pathogen Treponema pallidum (TPA). Protective antibodies must target extracellular loops (ECLs) of TPA outer membrane proteins (OMPs). Immune rabbit serum (IRS) and antibodies elicited by immunization with a Pyrococcus furiosus thioredoxin (PfTrx) scaffold displaying ECLs from BamA (TP0326) and three FadLs (TP0856, TP0858 and TP0865) inhibited growth and metabolic activity of spirochetes during in vitro cultivation. Flow cytometric analysis of GFP-expressing TPA using the membrane impermeable dye propidium iodide revealed that IRS and growth-inhibiting ECL-specific antibodies disrupted the spirochete's fragile outer membrane. Spirochetes incubated with IRS or growth-inhibiting ECL-specific antibodies produced no or only transient lesions with markedly reduced bacterial burdens following intradermal inoculation into rabbits, confirming neutralization of infectivity. This study advances efforts to define immune correlates of protection to guide rational development of a multivalent, ECL-based syphilis vaccine.

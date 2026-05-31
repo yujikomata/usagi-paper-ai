@@ -1,0 +1,7 @@
+TITLE: Inflammasome Activation Differences Underpin Different <i>Mycobacterium tuberculosis</i> Infection Outcomes.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1002/mco2.70486
+SOURCE: EuropePMC/MED/41287823
+
+The clinical outcome of Mycobacterium tuberculosis (Mtb) infection ranges from latent/nonprogressive disease to active/progressive tuberculosis (TB), but the cellular events contributing to these variable outcomes remain unknown. Here, we report that progressive Mtb infection is associated with upregulation of guanylate-binding protein-1 (GBP1), hypoxia-inducible factor-1 alpha (HIF-1α), and elevated NLR family pyrin domain-containing (NLRP3) inflammasome activation pathways. Using rabbit lungs and primary rabbit and human macrophages, as well as human monocytic THP-1-derived macrophages for infection with Mtb strains (H37Rv, HN878, or CDC1551) that differ in virulence, we show that NLRP3 inflammasome activation by HIF-1α and GBP1 leads to elevated mitochondrial stress, apoptosis, and necrosis during progressive infection by HN878. These biological functions and pathways are dampened during nonprogressive TB in rabbit lungs, and in primary rabbit and human macrophages infected by CDC1551. These findings are consistent with and confirmed by Mtb infection studies of macrophages knocked down for HIF-1α or GBP1 expression. Our study indicates that differences in HIF-1α- and GBP1-mediated NLRP3 inflammasome activation influence the outcome of Mtb infection in the host.

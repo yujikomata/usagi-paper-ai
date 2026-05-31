@@ -1,0 +1,7 @@
+TITLE: Potential of Natural Feed Additives in Reducing Gaseous Emissions and Environmental Footprint in Rabbit Housing Systems.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.3390/ani16081147
+SOURCE: EuropePMC/MED/42071916
+
+Reducing the environmental impact of animal production is a major challenge in the context of climate change and sustainable agriculture. Although rabbit farming is generally considered less resource-intensive than other livestock systems, it still contributes to emissions of ammonia (NH3), hydrogen sulfide (H2S), and methane (CH4), which can negatively affect air quality and the climate. This study aimed to evaluate whether dietary supplementation with selected natural feed additives could mitigate gaseous emissions and lower the environmental footprint of rabbit production. An experimental feeding trial was conducted in which gaseous emissions from rabbit housing were monitored, and the gas composition of feces was analyzed. Emissions were quantified and expressed as carbon dioxide equivalents (CO2e) to allow comparative assessment of environmental impact. The inclusion of natural feed additives significantly reduced the emission of gaseous pollutants compared with the control diet, resulting in a lower calculated environmental footprint of the production system. These findings indicate that targeted modification of rabbit diets using natural feed ingredients can be an effective strategy for reducing harmful gaseous emissions and enhancing the environmental sustainability of rabbit farming.

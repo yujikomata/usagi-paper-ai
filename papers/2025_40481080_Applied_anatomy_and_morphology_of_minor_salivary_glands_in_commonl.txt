@@ -1,0 +1,7 @@
+TITLE: Applied anatomy and morphology of minor salivary glands in commonly used experimental animals.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s41598-025-04516-0
+SOURCE: EuropePMC/MED/40481080
+
+This study aimed to describe the anatomy and histology of minor salivary glands (MSGs) in commonly used experimental animals. Oral mucosal tissues containing MSGs were dissected and sampled. The sialomucin nature was examined and the expression patterns of aquaporin (AQP) family were assessed. MSGs were widely distributed beneath the oral mucosa in all four species, mainly as mucous glands, with mixed seromucinous glands in dogs and miniature pigs. Serous glands were found in the anterior lingual glands of miniature pigs. The duct system typically included terminal and excretory ducts, with cuboidal, columnar, or pseudostratified columnar epithelium seen in the ducts of rabbits and miniature pigs. The secretion in rats, pigs, and dogs was primarily neutral sialomucin, while rabbits exhibited a dominance of acid sialomucin. The mRNA expressions of AQP1, 3-5, and 8 were detected in the buccal glands of all species, with AQP5 being the most dominant. This study provided detailed insights into the anatomical distribution and histological characteristics of MSGs in rats, rabbits, miniature pigs, and dogs. These findings offer a fundamental basis for veterinary research related to MSGs and could aid in the development of relevant animal models for future studies.

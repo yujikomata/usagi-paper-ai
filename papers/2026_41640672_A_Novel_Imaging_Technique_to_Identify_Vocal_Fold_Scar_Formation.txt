@@ -1,0 +1,7 @@
+TITLE: A Novel Imaging Technique to Identify Vocal Fold Scar Formation.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1002/lio2.70350
+SOURCE: EuropePMC/MED/41640672
+
+IntroductionA non-invasive test to accurately diagnose and quantify vocal fold (VF) scarring from other confounding pathologies would be advantageous to reduce the need for operative diagnostic laryngoscopy. Dynamic optical contrast imaging (DOCI) technology uses tissue autofluorescence to obtain real-time information of tissue composition. In this study, we describe a novel application of DOCI to identify scar tissue formation in rabbit VFs.MethodsRabbits underwent endoscopic unilateral VF cordectomy to induce scar formation. After 2 months, VFs were excised and a bench-top DOCI (UCLA) system was employed to capture images from sections. Results were verified with histologic staining for scar tissue.ResultsThe DOCI system was capable of distinguishing healthy VF from contralateral scarred VF with discriminating power at the 405 low-pass filter (LPF), 440, 460-532, and 560-580 nm wavelengths (p ConclusionOur study demonstrated that DOCI technology can discriminate between normal and scarred VFs noninvasively and in real time with similar accuracy to that of histological analysis. This work lays the foundation for the development of a DOCI-based endoscope for diagnosis and quantification of VF scar formation as well as a tool to measure treatment response.

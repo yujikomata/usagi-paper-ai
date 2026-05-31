@@ -1,0 +1,7 @@
+TITLE: Comparative Analysis of Meat Quality in Minxinan Black Rabbit and Hyla Rabbit Using Integrated Transcriptomics and Proteomics.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15243616
+SOURCE: EuropePMC/MED/41463901
+
+The Minxinan black rabbit (MBR) is a valuable genetic resource in China. In this study, we compared meat quality between indigenous MBR and introduced Hyla rabbit (CIR) using multi-omics and phenotypic analyses. We identified 1175 differentially expressed genes (DEGs) and 327 differentially expressed proteins (DEPs) with 32 overlapping. Antioxidant-related pathways (glutathione metabolism, peroxidase activity, and HIF-1) were enriched, with upregulated superoxide dismutase 1 (SOD1) and gamma (γ)-glutamylcyclotranserase (GGCT) (p a*), yellowness (b*), melanin, and myoglobin (p p < 0.05), which regulate meat flavor. MBR demonstrated superior antioxidant capacity, color, and flavor, thus providing a scientific foundation for optimizing conservation strategies.

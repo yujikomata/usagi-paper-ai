@@ -1,0 +1,7 @@
+TITLE: A Fresh Look at Islet Isolation from Rabbit Pancreases.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/ijms251910669
+SOURCE: EuropePMC/MED/39408998
+
+Islet transplantation represents a promising therapeutic approach for diabetes management, yet the isolation and evaluation of pancreatic islets remain challenging. This study focuses on the isolation of islets from rabbit pancreases, followed by a comprehensive assessment of their viability and functionality. We developed a novel method for isolating islet cells from the pancreas of adult rabbits. We successfully isolated viable islets, which were subsequently evaluated through a combination of viability assays, an insulin enzyme-linked immunosorbent assay (ELISA), and fluorescence lifetime imaging microscopy (FLIM). The viability assays indicated a high percentage of intact islets post-isolation, while the insulin ELISA demonstrated robust insulin secretion in response to glucose stimulation. FLIM provided insights into the metabolic state of the islets, revealing distinct fluorescence lifetime signatures correlating with functional viability. Our findings underscore the potential of rabbit islets as a model for studying islet biology and diabetes therapy, highlighting the efficacy of combining traditional assays with advanced imaging techniques for comprehensive functional assessments. This research contributes to the optimization of islet isolation protocols and enhances our understanding of islet functional activity dynamics in preclinical settings.

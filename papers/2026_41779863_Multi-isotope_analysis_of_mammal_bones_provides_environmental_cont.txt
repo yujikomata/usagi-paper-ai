@@ -1,0 +1,7 @@
+TITLE: Multi-isotope analysis of mammal bones provides environmental context for the adoption of agriculture in the Tehuacan Valley of Mexico.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1126/sciadv.adw9222
+SOURCE: EuropePMC/MED/41779863
+
+The domestication and global spread of maize (Zea mays) are pivotal processes in world history. Yet, despite the current importance of maize in global nutrition, food security, and trade, much of its origins remain debated. This paper addresses environmental explanations for the initial intensification of maize agriculture by reconstructing the paleoenvironment of the Tehuacan Valley, Puebla, Mexico. Multi-isotope analysis (δ13Cap, δ18Oap, δ13Ccol, and δ15Ncol) of deer (Odocoileus virginianus) and rabbit (Sylvilagus spp.) bones from archaeological deposits produces proxy environmental data relevant to the botanical composition of the landscape, precipitation, and temperature. Results indicate that maize cultivation began in the Tehuacan Valley during a relatively wet period, while agricultural intensification and social complexity emerged several centuries later, during a possible dry/wet transition. Stable isotope results are contextualized within broader paleoclimate and archaeological records. This study enhances our understanding of the environmental setting in which agricultural intensification first occurred in Mesoamerica and contributes to discussions on the origins of farming more broadly.

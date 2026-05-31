@@ -1,0 +1,7 @@
+TITLE: The Effects of FTO on the Proliferation and Differentiation of Rabbit Preadipocytes.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15131909
+SOURCE: EuropePMC/MED/40646807
+
+FTO expression correlates with adipose tissue development in rabbits, yet its regulatory role in preadipocyte differentiation remains poorly understood. Therefore, we employed transcriptome sequencing to identify 422 differentially expressed genes (DEGs) between the FTO overexpression group and the FTO-negative control group. Multi-omics evidence from proliferation assays (CCK-8), protein verification (WB), gene quantification (qPCR), and lipid staining (Oil Red O) established FTO as a positive regulator of rabbit preadipocyte development with gain-of-function enhancing and loss-of-function impeding differentiation. In conclusion, FTO regulates the proliferation and differentiation of rabbit preadipocytes, providing deeper insights into livestock energy metabolism and physiological functions. These findings hold significant implications for healthy animal farming, high-quality livestock product production, and the prevention and control of metabolic diseases in animals.

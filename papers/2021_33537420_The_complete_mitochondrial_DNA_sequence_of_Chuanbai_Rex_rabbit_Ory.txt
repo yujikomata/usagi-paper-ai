@@ -1,0 +1,7 @@
+TITLE: The complete mitochondrial DNA sequence of Chuanbai Rex rabbit (Oryctolagus cuniculus).
+YEAR: 2021
+JOURNAL: 
+DOI: 10.1080/23802359.2020.1848476
+SOURCE: EuropePMC/MED/33537420
+
+Chuanbai Rex Rabbit (Oryctolagus cuniculus domesticus) is a hybrid breed in Sichuan, China. In this study, we reveal the mitochondrial genome sequence of the Chuanbai Rex Rabbit for the first time. The length of the mitochondrial genome is 17,179 bp and contains 2 ribosomal RNA genes, 14 protein-coding genes, 22 transfer RNA genes, and 1 D-loop sequence. We further provide a phylogenetic tree showing relationships among Chuanbai Rex Rabbit and other Leporidae species.

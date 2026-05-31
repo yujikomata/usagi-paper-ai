@@ -1,0 +1,7 @@
+TITLE: Comparison of three rebound tonometers in rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s41598-025-28990-8
+SOURCE: EuropePMC/MED/41462550
+
+This study compared the performance of three rebound tonometers (iFalcon Tonovet, iCare Tonovet Plus, Reichert Tono-Vera Vet) for measuring intraocular pressure (IOP) in normal rabbit eyes, where a wide range of intraocular pressure (approx. 11-86 mmHg) was established and regulated via an intracameral needle connected to a saline manometer. Intraocular pressure measurements were performed on 10 eyes of New Zealand White rabbits using each of the three tonometers mentioned above. Measurements were taken at pressures ranging from 11 to 86 mmHg, yielding a total of 298 datasets. Statistical analysis of the intraocular pressure values obtained: iFalcon (32.5 ± 13.9 mmHg), iCare (33.6 ± 14.3 mmHg), Reichert (31.4 ± 12.0 mmHg) (p = 0.138). High overall agreement was observed (R2 0.95-0.98). However, trend differences existed: iFalcon slightly underestimated iCare, especially at higher IOP; Reichert read higher than iFalcon below 23 mmHg but lower above; Reichert also read higher than iCare below 18 mmHg but lower above. The novel iFalcon demonstrated stable performance. All three devices show good agreement for rabbit IOP monitoring, but clinicians should be aware of trend differences at low and high pressures, potentially applying corrections when switching devices during longitudinal studies.

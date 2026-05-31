@@ -1,0 +1,7 @@
+TITLE: Systemic Toxicity of L-Mimosine in Rabbits: A Non-Rodent Model for Safety Assessment.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1002/jat.4913
+SOURCE: EuropePMC/MED/40905530
+
+L-mimosine is a non-protein amino acid primarily found in the Mimosoideae subfamily, with high concentrations in Leucaena leucocephala and Mimosa pudica. These plants are widely used in both human and animal nutrition, as well as in phytotherapeutic applications. While the toxic effects of L-mimosine have been extensively studied in ruminants, its impact on monogastric species remains unexplored. Given the widespread use of these plants and the limited knowledge regarding L-mimosine toxicity in monogastric animals, this study aimed to investigate its toxicological effects in non-rodent monogastric species by assessing its subacute toxicity. To achieve this, L-mimosine was extracted from L. leucocephala seeds and administered orally, incorporated into the feed, at doses of 25, 40, and 60 mg/kg for 28 days in male rabbits. Although no clinical, biochemical, hormonal, or macroscopic alterations were observed, histopathological analyses revealed dose-dependent lesions in the liver, kidneys, thyroid, and spleen. These findings suggest that rabbits may be particularly susceptible to the toxic effects of L-mimosine.

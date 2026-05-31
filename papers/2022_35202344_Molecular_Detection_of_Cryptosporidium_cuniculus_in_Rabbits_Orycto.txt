@@ -1,0 +1,7 @@
+TITLE: Molecular Detection of Cryptosporidium cuniculus in Rabbits (Oryctolagus cuniculus) from Tenerife, Canary Islands, Spain.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.3390/vetsci9020091
+SOURCE: EuropePMC/MED/35202344
+
+Cryptosporidium cuniculus is a zoonotic parasite responsible for cryptosporidiosis cases and outbreaks in both humans and rabbits. Since there are no molecular Cryptosporidium spp. infection data in rabbits (Oryctolagus cuniculus) from Spain, our aim was to gather information about this parasite in wild European rabbits from Tenerife, Canary Islands (Spain). A total of 100 faecal samples were collected from rabbits from eight municipalities of Tenerife. Microscopic analysis showed that 4.0% of the samples presented structures compatible with Cryptosporidium oocyst. A nested polymerase chain reaction (PCR) targeting 18S ribosomal RNA (rRNA) gene fragments was carried out, and sequencing confirmed the identity of C. cuniculus in one sample (1.0%). The sample was successfully subtyped using nested PCR analysis of the 60-kDa glycoprotein (gp60) gene as the subtype VbA26R3. This study confirms the presence of C. cuniculus in wild rabbits from Tenerife, providing new information on the occurrence of this zoonotic parasite. Further studies are required to better understand the epidemiology of Cryptosporidium spp. in wild rabbits in Spain and their possible public health repercussions.

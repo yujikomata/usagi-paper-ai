@@ -1,0 +1,7 @@
+TITLE: Structural and functional studies of rabbit SAMD9 reveal a distinct tRNase module that underlies the antiviral activity.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1371/journal.ppat.1013118
+SOURCE: EuropePMC/MED/40743315
+
+Human SAMD9 and SAMD9L (collectively SAMD9/9L) are large cytoplasmic proteins with antiviral and antiproliferative activities, recently shown to regulate protein synthesis by specifically depleting phenylalanine tRNA (tRNAPhe). The enzymatic activity of human SAMD9 (hSAMD9) resides within its N-terminal tRNase domain, which depends on three essential basic residues for tRNA binding and biological activity. While these residues are highly conserved across mammalian SAMD9/9L, lagomorph SAMD9 orthologs uniquely harbor a charge-reversal acidic residue at one of three sites, a change known to inactivate hSAMD9/9L. Here, we show that despite this variation, rabbit SAMD9 (rSAMD9) potently restricts vaccinia virus replication and specifically reduces tRNAPhe levels, mirroring hSAMD9. However, unlike hSAMD9, rSAMD9's minimal tRNase module extends beyond the homologous tRNase domain (amino acid 158-389) to include the SIR2 region. Additional basic residues, one unique to rSAMD9, were also found to be important for its antiviral activity. The crystal structure of rSAMD9158-389 closely resembles hSAMD9156-385, though with difference in loop conformations. These findings demonstrate that lagomorph SAMD9 preserves core tRNA-targeting and antiviral functions despite a key residue variation and the need for an extended tRNase module.

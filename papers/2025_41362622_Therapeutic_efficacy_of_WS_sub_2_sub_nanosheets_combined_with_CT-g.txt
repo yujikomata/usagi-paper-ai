@@ -1,0 +1,7 @@
+TITLE: Therapeutic efficacy of WS<sub>2</sub> nanosheets combined with CT-guided microwave ablation in rabbit VX2 liver tumor model.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1016/j.isci.2025.113971
+SOURCE: EuropePMC/MED/41362622
+
+Computed tomography (CT)-guided percutaneous microwave ablation (MWA) serves as a standard approach for hepatocellular carcinoma (HCC) treatment, yet faces challenges of higher recurrence rates when treating tumors in special anatomical locations. This study evaluated tungsten disulfide (WS2) nanosheets combined with CT-guided MWA for treating rabbit VX2 liver tumors. WS2 nanosheets were synthesized and demonstrated excellent microwave thermal effects and CT imaging capability in vitro. In animal studies, the combination therapy significantly enhanced tumor necrosis and apoptosis rates compared to MWA alone, while also activating systemic antitumor immunity as evidenced by increased cytotoxic T lymphocyte (CD8+ T cell) infiltration. The findings suggest WS2 nanosheets improve MWA efficacy through enhanced energy absorption and immune activation, offering a promising combinatorial strategy for HCC treatment.

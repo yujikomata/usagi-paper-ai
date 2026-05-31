@@ -1,0 +1,7 @@
+TITLE: DMRT1 is a testis-determining gene in rabbits and is also essential for female fertility.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.7554/elife.89284
+SOURCE: EuropePMC/MED/37847154
+
+DMRT1 is the testis-determining factor in several species of vertebrates, but its involvement in mammalian testes differentiation, where SRY is the testis-determining gene, remains ambiguous. So far, DMRT1 loss-of-function has been described in two mammalian species and induces different phenotypes: Disorders of Sex Development (46, XY DSD) in men and male infertility in mice. We thus abolished DMRT1 expression by CRISPR/Cas9 in a third species of mammal, the rabbit. First, we observed that gonads from XY DMRT1-/- rabbit fetuses differentiated like ovaries, highlighting that DMRT1 is involved in testis determination. In addition to SRY, DMRT1 is required in the supporting cells to increase the expression of the SOX9 gene, which heads the testicular genetic cascade. Second, we highlighted another function of DMRT1 in the germline since XX and XY DMRT1-/- ovaries did not undergo meiosis and folliculogenesis. XX DMRT1-/- adult females were sterile, showing that DMRT1 is also crucial for female fertility. To conclude, these phenotypes indicate an evolutionary continuum between non-mammalian vertebrates such as birds and non-rodent mammals. Furthermore, our data support the potential involvement of DMRT1 mutations in different human pathologies, such as 46, XY DSD as well as male and female infertility.

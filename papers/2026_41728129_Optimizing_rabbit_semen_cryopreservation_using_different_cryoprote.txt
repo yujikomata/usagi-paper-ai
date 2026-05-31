@@ -1,0 +1,7 @@
+TITLE: Optimizing rabbit semen cryopreservation using different cryoprotectants in a Tris-based extender.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.3389/fvets.2026.1768333
+SOURCE: EuropePMC/MED/41728129
+
+This experiment investigates the potential effects of different cryoprotectant molecules, such as glycerol (GL) and dimethyl sulfoxide (DMSO), added to a Tris-based extender focusing on assessing sperm quality, antioxidant status, acrosome integrity, apoptosis, semen microbiota of post-thawed rabbit semen, and in vivo fertility trial in rabbit does. The Tris-based extender was supplemented with various cryoprotectants to form the following five experimental treatments: 4% DMSO (DM4), 4% DMSO+50 mM trehalose (DMTR), 4% DMSO+50 mM sucrose (DMSU), 4% glycerol (GL4), or a mixture of 2% DMSO + 2% glycerol (DMGL2). The results indicate that the DM4 group had better results for progressive motility, viability, and membrane integrity (p p p p p p p p > 0.05). The cryo-tolerance of rabbit spermatozoa was significantly improved by modifying the freezing extender to include 4% DMSO enriched with either 50 mM Trehalose or 50 mM Sucrose. This optimized formulation enhanced post-thaw parameters, specifically leading to higher sperm kinematics (e.g., motility and velocity), preserved acrosome integrity, and a reduction in apoptosis-like changes. The mechanism for this protective effect is attributed to the synergistic action of DMSO and the disaccharides in mitigating oxidative stress by enhancing the activity of intrinsic antioxidant defenses within the spermatozoa.

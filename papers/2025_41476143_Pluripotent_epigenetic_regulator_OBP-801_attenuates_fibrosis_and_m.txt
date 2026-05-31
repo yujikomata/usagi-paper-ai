@@ -1,0 +1,7 @@
+TITLE: Pluripotent epigenetic regulator OBP-801 attenuates fibrosis and maintains lower intraocular pressure in a rabbit PRESERFLO MicroShunt surgery model.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s41598-025-34244-4
+SOURCE: EuropePMC/MED/41476143
+
+The inhibition of fibrosis in filtering blebs is indispensable for lowering intraocular pressure (IOP) after PRESERFLO MicroShunt surgery (PMS). We previously reported the anti-fibrotic effect of OBP-801 (OBP) on a filtering bleb in a rabbit glaucoma filtration surgery model using a 22-gauge cannula. In this study, we investigated the effect of OBP after PMS in rabbit eyes for the development of a new practically applicable anti-fibrotic treatment. This study involved 19 Japanese white rabbits that underwent PMS in the right eye, with those eyes divided into 3 groups: (1) intraoperative subconjunctival injection of 0.02% mitomycin-C (MMC) (n = 6), (2) postoperative instillation of 100 nM OBP eye drops (n = 7), or (3) a balanced salt solution (BSS) control (n = 6). Bleb morphology and IOP were monitored for 12 weeks postoperative, with the bleb tissues then undergoing evaluation of fibrosis and Western blot analysis. A lower postoperative IOP was maintained in the OBP-group eyes, and at 12 weeks postoperative, the IOP was significantly lower in that group than in the BSS and MMC groups (p < 0.01). OBP-treated eyes showed no adverse effects and reduced levels of alpha-smooth muscle actin and collagen deposition, thus suggesting that OBP is a promising candidate for improving surgical outcomes post PMS.

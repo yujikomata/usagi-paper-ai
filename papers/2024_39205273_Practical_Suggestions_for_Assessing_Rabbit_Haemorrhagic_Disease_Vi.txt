@@ -1,0 +1,7 @@
+TITLE: Practical Suggestions for Assessing Rabbit Haemorrhagic Disease Virus 2 Risk to Endangered Native Lagomorphs in North America and Southern Africa.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/v16081299
+SOURCE: EuropePMC/MED/39205273
+
+A new form of the rabbit haemorrhagic disease virus, RHDV2, first observed in European rabbits, has spread widely among different species of hares in Europe, jackrabbits and cottontails in North America, and hares in southern Africa. However, only limited surveillance studies have been undertaken so far. It is suggested that methods developed for controlling the disease in farmed rabbits in Europe and studying the efficacy of RHDV as a biological control agent in Australia could facilitate epidemiological research on those recently affected lagomorph species. This would enable the assessment of the risk of RHDV2 to native lagomorphs, including endangered species, and the determination of the main host species of RHDV2. Because RHDV2 has not spread equally through all lagomorph species, epidemiological studies could give insights into factors important for determining host susceptibility.

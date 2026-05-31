@@ -1,0 +1,7 @@
+TITLE: <i>Babesia hegotelforum</i> sp. nov., a zoonotic <i>Babesia</i> species previously referred to as <i>Babesia sp</i>. <i>MO1</i>.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1080/22221751.2026.2637280
+SOURCE: EuropePMC/MED/41790956
+
+A zoonotic Babesia species previously referred to as Babesia sp. MO1 is formally described and named here as Babesia hegotelforum sp. nov. This taxon is distinct from Babesia divergens based on genome-wide sequence divergence, phylogenetic placement, host associations, and clinical presentation. The parasite infects erythrocytes of humans, and eastern cottontail rabbits (Sylvilagus floridanus), and is transmitted by Ixodes dentatus. The holotype consists of a Giemsa-stained thin blood smear and cryopreserved infected erythrocytes from the cloned isolate BML-Bh-B12 at ≤10 passages in continuous in vitro culture. Paratype material includes five additional clones (BML-Bh-H1, BML-Bh-F12, BML-Bh-H6, BML-Bh-A3, and BML-Bh-F1) derived from BEI Resources strain NR-50441, along with the original mixed isolate NR-50441. This species description meets the requirements of the International Code of Zoological Nomenclature and establishes Babesia hegotelforum sp. nov. as a distinct species of clinical and epidemiological significance in North America.

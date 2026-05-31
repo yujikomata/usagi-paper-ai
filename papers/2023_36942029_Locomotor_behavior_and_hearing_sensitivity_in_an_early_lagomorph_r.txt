@@ -1,0 +1,7 @@
+TITLE: Locomotor behavior and hearing sensitivity in an early lagomorph reconstructed from the bony labyrinth.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1002/ece3.9890
+SOURCE: EuropePMC/MED/36942029
+
+The structure of the bony labyrinth is highly informative with respect to locomotor agility (semicircular canals [SCC]) and hearing sensitivity (cochlear and oval windows). Here, we reconstructed the agility and hearing sensitivity of the stem lagomorph Megalagus turgidus from the early Oligocene of the Brule Formation of Nebraska (USA). Megalagus has proportionally smaller SCCs with respect to its body mass compared with most extant leporids but within the modern range of variability, suggesting that it was less agile than most of its modern relatives. A level of agility for Megalagus within the range of modern rabbits is consistent with the evidence from postcranial elements. The hearing sensitivity for Megalagus is in the range of extant lagomorphs for both low- and high-frequency sounds. Our data show that by the early Oligocene stem lagomorphs had already attained fundamentally rabbit-like hearing sensitivity and locomotor behavior, even though Megalagus was not a particularly agile lagomorph. This is likely because Megalagus was more of a woodland dweller than an open-habitat runner. The study of sensory evolution in Lagomorpha is practically unknown, and these results provide first advances in understanding the primitive stages for the order and how the earliest members of this clade perceived their environment.

@@ -1,0 +1,7 @@
+TITLE: The Influence of Different Anatomical Sites on the Characteristics and Differentiation Capacity of Rabbit Adipose-Derived Mesenchymal Stem Cells.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1155/vmi/7537562
+SOURCE: EuropePMC/MED/42180164
+
+Adipose tissue possesses great potential for regenerative therapy, making it an important source of mesenchymal stem cells (MSCs). However, studies regarding the characteristics of rabbit adipose-derived MSCs (Rab-ADMSCs) obtained from various anatomical areas remain limited. This study aims to investigate the influence of different anatomical sites of adipose tissue on the characteristics, behavior, and differentiation capacity of Rab-ADMSCs. Three two-month-old male White New Zealand rabbits served as donors. Rab-ADMSCs were obtained from two different anatomical sites, namely, the mesenteric and interscapular areas. The cells were characterized according to their morphology, proliferation rate, clonogenicity, tri-lineage differentiation capacity, and MSC surface marker expression. The results of this study revealed no morphological differences between Rab-ADMSCs from two sites. In contrast, variations were noted in several characteristics including cellular behavior, clonogenicity, and tri-lineage differentiation potential. Phenotypic evaluation on MSC surface markers revealed differences in the expression of CD29 and 49f. In conclusion, the different anatomical sites may influence the characteristics and behavior of Rab-ADMSCs.

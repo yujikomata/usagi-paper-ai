@@ -1,0 +1,7 @@
+TITLE: Epitope mapping of a neutralizing antibody against rabbit hemorrhagic disease virus GI.2.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1186/s13567-025-01505-z
+SOURCE: EuropePMC/MED/40176146
+
+In 2010, rabbit hemorrhagic disease virus (RHDV) GI.2 emerged, and unlike RHDV GI.1, it caused mortality in young rabbits, while existing vaccines were not fully protective. The GI.2-specific monoclonal antibody (mAb) 2D9 has been used as a tool to discriminate between these viruses in diagnostic tests. In this study, we mapped the binding epitope for 2D9 on the GI.2 The VP60 capsid protein demonstrated the neutralizing capacity of this mAb, which was able to prevent GI.2 infections in an experimental challenge. Our results suggest that external loops (1, 4 and 5) in the P2 subdomain of VP60 contribute to the discontinuous neutralizing epitope recognized by mAb 2D9. Moreover, analysis of naturally occurring RHDV GI.2 isolates revealed key residues involved in mAb 2D9 binding that are under selective pressure. The findings described in this work provide valuable information regarding our understanding of virus neutralization and immune escape, which may help in the development of novel antiviral compounds.

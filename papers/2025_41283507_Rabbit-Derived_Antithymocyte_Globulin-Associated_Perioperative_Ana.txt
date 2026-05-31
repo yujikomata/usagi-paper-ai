@@ -1,0 +1,7 @@
+TITLE: Rabbit-Derived Antithymocyte Globulin-Associated Perioperative Anaphylaxis in Renal Transplantation: A Multidisciplinary Perspective on Pathophysiology, Clinical Presentation, and Management.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/antib14040092
+SOURCE: EuropePMC/MED/41283507
+
+Rabbit antithymocyte globulin is one of the most commonly used agents for induction immunosuppression in renal transplantation. It has contributed significantly to improved allograft survival and has a favorable safety profile. Despite its advantages, rabbit antithymocyte globulin carries a rare but potentially life-threatening risk of anaphylaxis, which can lead to severe morbidity and mortality. Anaphylaxis is an acute and dramatic complication that requires prompt recognition and immediate management. In this review, we discuss the pathophysiology, clinical features, and management of rabbit antithymocyte globulin-associated anaphylaxis. We have also included practical insights from our clinical experience to guide early recognition and management, aiming to help clinicians safely manage this critical adverse event.

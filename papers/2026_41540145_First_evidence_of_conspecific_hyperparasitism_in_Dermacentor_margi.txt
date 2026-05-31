@@ -1,0 +1,7 @@
+TITLE: First evidence of conspecific hyperparasitism in Dermacentor marginatus nymphs feeding on a rabbit under experimental conditions.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1007/s10493-025-01103-w
+SOURCE: EuropePMC/MED/41540145
+
+Hyperparasitism in ticks, particularly in nymphs of the order Ixodidae, is a rare phenomenon. In our laboratory tick colony, female rabbits are used as a blood source for the ticks, housing them under controlled conditions. Feeding Dermacentor marginatus nymphs monitoring was performed daily, and engorged and detached ticks were collected and stored in desiccators at constantly 24 ± 2 °C and 85-90% relative humidity (16 h light/8 hours dark). Nymphs suspected of conspecific hyperparasitism were preserved in ethanol for analysis and imaging. This study presents the first documented case of hyperparasitism in D. marginatus and contributes to the limited literature on hyperparasitism in Ixodidae nymphs. While such cases are observed in controlled tick colonies, their occurrence in the wild, especially in Ixodidae, is extremely rare compared to Argasidae ticks. Furthermore, the frequency of this phenomenon in the wild and its possible eco-epidemiological significance remain poorly understood.

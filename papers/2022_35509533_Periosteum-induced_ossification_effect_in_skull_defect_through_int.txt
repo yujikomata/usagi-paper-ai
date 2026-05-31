@@ -1,0 +1,7 @@
+TITLE: Periosteum-induced ossification effect in skull defect through interleukin-8 and NF-κB pathway: An experimental study with Oryctolagus cuniculus rabbits.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.25259/sni_62_2022
+SOURCE: EuropePMC/MED/35509533
+
+BackgroundThe purpose of this study was to analyze the response of inflammatory cytokines interleukin-8 (IL-8) and NF-κB to the closure of skull defect with periosteum as a scaffolding material in bone healing used after surgery.MethodsThirty Oryctolagus cuniculus rabbits underwent a craniotomy to create a 20 mm diameter round defect in the parietal bones. The parietal bones were returned to its place and stabilized by an internal plate fixation. The defects were either left empty or implanted with periosteum. At 6 weeks, the specimens were euthanized and examined.ResultsHistological examination showed a more well-developed formation of woven bone in the periosteum group. Immunohistochemical examinations showed that the use of periosteum in the closure of skull defects reduced the NF-κB and IL-8 response which affected the ossification process.ConclusionThe experiment showed that the use of periosteum was linked with IL-8 and NF-κB downregulation toward ossification effects at any point throughout the trial. Periosteum usage might be beneficial as a scaffolding material in bone healing for autograft cranioplasty in animal model and could be applied to clinical practice.

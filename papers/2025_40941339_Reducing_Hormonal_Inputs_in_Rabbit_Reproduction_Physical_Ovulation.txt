@@ -1,0 +1,7 @@
+TITLE: Reducing Hormonal Inputs in Rabbit Reproduction: Physical Ovulation Induction with a 3D-Printed Cannula.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15172544
+SOURCE: EuropePMC/MED/40941339
+
+This study evaluated the effectiveness of a 3D-printed cannula in inducing ovulation in female rabbits without exogenous GnRH analogues. A total of 325 inseminations were performed across different physiological stages: nulliparous, multiparous lactating, and multiparous non-lactating does. Two insemination methods were compared: a physical stimulation technique using the 3D-printed cannula and a control method involving hormonal induction with buserelin acetate. Females were either synchronized with eCG or left untreated. Delivery rates and litter sizes were recorded to assess fertility outcomes. Results indicated that the insemination procedure had a noticeable effect on delivery rate, with the control group showing greater rates (79%) compared to the cannula group (65%). In conclusion, these findings suggest that physical stimulation via the cannula can induce ovulation without exogenous hormones. This hormone-free approach offers a promising and welfare-friendly alternative for rabbit artificial insemination, aligning with efforts to reduce hormone use in livestock production. Further optimization of cannula design and technique may improve results, particularly in less responsive groups, supporting sustainable and ethical reproductive management.

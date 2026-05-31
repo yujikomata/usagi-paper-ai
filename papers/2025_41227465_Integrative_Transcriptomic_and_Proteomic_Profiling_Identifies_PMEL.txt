@@ -1,0 +1,7 @@
+TITLE: Integrative Transcriptomic and Proteomic Profiling Identifies PMEL as a Critical Regulator of Melanogenesis in Rex Rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15213135
+SOURCE: EuropePMC/MED/41227465
+
+Coat color is a crucial production trait for fur-bearing animals and significantly influences their economic value. The remarkable diversity of coat colors in rex rabbits not only provides a wide range of market options but also serves as an essential resource for investigating the genetic mechanisms underlying coat color formation. In this study, we conducted integrated transcriptomic and proteomic profiling of skin tissues from black and white Rex Rabbits, revealing the presence of 52 co-expressed genes/proteins. Proteomic analysis revealed a significant upregulation of PMEL (p = 0.030, FC = 2.194), while transcriptomic data indicated an even more pronounced upregulation (p = 0.028, FC = 35.279). Therefore, PMEL (Premelanosome Protein) may serve as a pivotal regulator of melanogenesis in Rex Rabbits. Our findings indicate that PMEL overexpression in melanocytes increases melanin content, promotes melanocyte proliferation, and enhances the expression of melanin-related genes (MITF, TYR, TYRP1, and GPNMB) while inhibiting melanocyte apoptosis. Conversely, PMEL knockdown significantly reduces melanin content, melanocyte proliferation, and the expression of melanin-related genes while promoting melanocyte apoptosis. These findings suggest that PMEL contributes to melanogenesis in Rex Rabbits.

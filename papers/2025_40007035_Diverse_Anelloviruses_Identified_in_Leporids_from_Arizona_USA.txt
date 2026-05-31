@@ -1,0 +1,7 @@
+TITLE: Diverse Anelloviruses Identified in Leporids from Arizona (USA).
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/v17020280
+SOURCE: EuropePMC/MED/40007035
+
+The communities of viruses studied in rabbits and hares (family Leporidae) have largely been those with clinical significance. Consequently, less is known broadly about other leporid viruses. Anelloviruses (family Anelloviridae) are likely commensal members of the single-stranded DNA virome in mammals. Here, we employ a viral metagenomic approach to identify DNA viruses of leporids and the ticks feeding on them in Arizona, USA. We characterize five complete anellovirus genomes from four leporids belonging to the black-tailed jackrabbit (Lepus californicus, n = 3) and the desert cottontail (Sylvilagus audubonii, n = 1). All five anellovirus genomes share > 69% orf1 gene pairwise nucleotide identity with those found in Iberian hares and thus belong to the species Aleptorquevirus lepor1. Accordingly, we expand the known host range of this anellovirus species to include Iberian hares in Europe and black-tailed jackrabbit and desert cottontail in the USA. We also sequenced the complete mitochondrial genomes of the four leporid hosts (Sylvilagus audubonii, n = 1; Lepus californicus, n = 3) and two ticks (Dermacentor parumapertus, n = 2) found feeding on two black-tailed jackrabbits. These results expand the diversity of anelloviruses in leporids while giving insight into the host genetics of leporids and ticks in Arizona, USA.

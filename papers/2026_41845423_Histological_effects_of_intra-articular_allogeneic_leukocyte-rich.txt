@@ -1,0 +1,7 @@
+TITLE: Histological effects of intra-articular allogeneic leukocyte-rich and leukocyte-poor platelet-rich plasma in healthy rabbit knees: an exploratory study.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1186/s13104-026-07767-w
+SOURCE: EuropePMC/MED/41845423
+
+ObjectivePlatelet-rich plasma (PRP) is used to treat knee osteoarthritis and cartilage injuries, but its effects on healthy joint tissues are unclear. This exploratory study compared histological responses to allogeneic leukocyte-rich (LR) and leukocyte-poor (LP) PRP versus saline in healthy rabbit knees.ResultsEighteen knees from nine healthy male Japanese white rabbits received a single intra-articular injection of saline, LR-PRP (Vets), or LP-PRP (Cellaid) (n = 6 knees/group). At 4 weeks, trochlear cartilage and suprapatellar pouch synovium were evaluated by hematoxylin-eosin histology. Chondrocyte nuclei were counted in a predefined cartilage region (0.538 cm²) and synovitis scored using the OARSI rabbit system (0-11). PRP composition was not quantitatively characterized; LR/LP labels were kit-based. Mean chondrocyte counts were 345 ± 100, 365 ± 70, and 394 ± 23 nuclei/0.538 cm², and mean synovial lesion scores were 2.67 ± 1.21, 2.50 ± 1.52, and 2.17 ± 0.41 in the saline, LR-PRP, and LP-PRP groups, respectively. In mixed-effects models accounting for within-rabbit correlation, no contrast remained statistically significant after Holm adjustment. Mild synovial changes were observed in all groups.

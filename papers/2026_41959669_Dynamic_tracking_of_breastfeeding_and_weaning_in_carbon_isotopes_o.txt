@@ -1,0 +1,7 @@
+TITLE: Dynamic tracking of breastfeeding and weaning in carbon isotopes of tooth enamel.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1016/j.isci.2026.115350
+SOURCE: EuropePMC/MED/41959669
+
+Stable carbon isotopes are fundamental for dietary and life-history reconstructions across living and fossil mammals. However, commonly used enamel-diet isotopic offsets are primarily derived from large herbivores and rarely account for breastfeeding in developing teeth. We present controlled feeding experiments using mother-pup pairs of four rodent species to quantify dynamic change in the carbon isotope composition of tooth enamel during early development. Breastfeeding induces a 13C depletion of up to 4 per mil in early-forming teeth. The weaning signal is propagated from the first molar (m1) through m3 with a progressive change from milk to a fully adult diet, with a "half-life" of about 20 days for the rodents. Despite lipid-rich dietary influence, the offset between enamel and progressively changing diet stabilizes at 12.1 per mil in small mammals, consistent with enrichment values measured in later-forming teeth. This framework advances our understanding of life-history strategies and the ecology of mammals in the past.

@@ -1,0 +1,7 @@
+TITLE: Determination of diurnal rhythm of salivary corticosterone concentration in the domestic rabbit (Oryctolagus cuniculus f. domestica) using a non-invasive method.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1038/s41598-023-33575-4
+SOURCE: EuropePMC/MED/37076522
+
+There are many advantages associated with the determination of the level of corticosterone in rabbits from saliva, since this is a non-invasive sample collection method that does not affect their welfare and provides a reliable reflection of the state of the animal at a given moment without the results being distorted as they may be, for example, when blood samples are taken. The aim of this study was to determine the diurnal rhythm in the concentration of corticosterone in the saliva of the domestic rabbit. Saliva samples were taken from six domestic rabbits five times during the daytime (at 6:00, 9:00, 12:00, 15:00 and 18:00) over the course of three consecutive days. The levels of corticosterone in the saliva of the individual rabbits displayed a diurnal rhythm during the course of the day, with a significant increase between 12:00 and 15:00 (p < 0.05). No statistically significant difference in the concentrations of corticosterone in the saliva of the individual rabbits was demonstrated. Although the basal value of corticosterone is not known in rabbits and is difficult to determine, the results of our study show the pattern of fluctuations in the concentration of corticosterone in the saliva of rabbits during the daytime.

@@ -1,0 +1,7 @@
+TITLE: A Welfare Assessment Tool to Harmonize Care and Management for Research Rabbits.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.3390/ani16081229
+SOURCE: EuropePMC/MED/42071995
+
+Animal welfare assessment is a vital component of working with animals in a research environment and is a growing expectation. Rabbits are a common species worked with in biomedical research, but information on rabbit welfare and best practices are limited, making it difficult to assess welfare. To address this gap, a rabbit welfare assessment tool was developed within an international contract research organization and commercial breeder. The tool contained 134 descriptors including input- and output-based measures of welfare across six categories: physical, behavioral, environmental, training, procedural, and culture of care. Benchmarking assessments occurred in March and September 2025, assessing 13 facilities across seven countries. In March, overall scores were in the range of 70-92%, with high scores in the physical category (avg: 97%) and the most room for improvement in training (avg: 73%). In September, overall scores were in the range of 77-88%, with the highest score in the physical category (avg: 98%) and the most room for improvement in culture of care (avg: 74%). The results of the assessments identified strengths in rabbit management programs, as well as identified areas needing refinement. The results allow for development of facility and organizational level goals to improve rabbit welfare and create a culture of continuous improvement.

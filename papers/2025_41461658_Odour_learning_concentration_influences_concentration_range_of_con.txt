@@ -1,0 +1,7 @@
+TITLE: Odour learning concentration influences concentration range of conditioned response in newborn rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s41598-025-28326-6
+SOURCE: EuropePMC/MED/41461658
+
+Newborn mammals must adapt to the chemically complex environment by detecting and prioritizing relevant stimuli. In rabbits, the mammary pheromone (MP) emitted by lactating females triggers a typical behaviour in newborns, helping them to locate the nipples, suck and survive. The MP also promotes very rapid learning of other odorants by associative conditioning. In this study, MP-induced learning was used to investigate the neonatal detection and recognition abilities of two odorants very different in volatility, ethyl isobutyrate and ethyl maltol, across concentrations ranging from 10- 5 to 10- 25 g/ml. The results show, firstly, that the odorants could be learned even at very low concentrations; and secondly, that a process of generalisation of the odorant quality was effective after learning over a wide range of concentrations. However, the degree of generalisation depended on the concentration at which the odorants had been learned, with quality and intensity becoming closely interdependent for very low concentrations of learning. Taken together, these data highlight the remarkable adaptability of the olfactory perceptual and cognitive systems of newborn rabbits, enabling them not only to rapidly learn new odorants, but also to attribute qualities to them that depend on the quality perceived at the learning concentration.

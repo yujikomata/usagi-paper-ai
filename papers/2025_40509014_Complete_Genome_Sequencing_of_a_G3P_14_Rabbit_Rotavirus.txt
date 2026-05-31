@@ -1,0 +1,7 @@
+TITLE: Complete Genome Sequencing of a G3P[14] Rabbit Rotavirus.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15111548
+SOURCE: EuropePMC/MED/40509014
+
+Group A rotaviruses (RVAs) are a major cause of acute dehydrating diarrhea in infants and young animals worldwide. In rabbits, RVAs are associated with enteric disease, likely in combination with other pathogens. We report the identification and characterization of a lapine RVA strain in an Italian rabbit breeding farm. Increased mortality rates associated with enteric symptoms were reported in the facility in post-weaning rabbits around 40 days of age. By quantitative RT-PCR, an RVA strain was identified in the intestinal contents of deceased rabbits. A PCR-based enrichment protocol coupled with Nanopore sequencing allowed the reconstruction of the nearly complete genome of a rabbit RVA strain, Rabbit-wt/ITA/36-9/2022/G3P[14], with a genotype constellation (G3-P[14]-I2-R2-C2-M3-A9-N2-T6-E5-H3) conserved among lapine RVAs. Each of the 11 gene segments displayed high nucleotide identity and phylogenetic clustering with lapine rotavirus strains, as well as two Belgian human G3P[14] strains, which had been shown to have a zoonotic (lapine) origin. However, the NSP2 gene of strain 36-9 clustered closer with a group of rare human G3P[9] strains, suggesting a common path during their evolution. Gathering sequence data on animal RVAs is pivotal to reconstructing the history of homologous and heterologous RVAs in various mammals, including humans.

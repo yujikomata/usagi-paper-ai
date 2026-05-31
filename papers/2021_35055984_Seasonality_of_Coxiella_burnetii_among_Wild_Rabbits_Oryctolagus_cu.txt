@@ -1,0 +1,7 @@
+TITLE: Seasonality of Coxiella burnetii among Wild Rabbits (Oryctolagus cuniculus) and the Hyalomma lusitanicum (Acari: Ixodidae) in a Meso-Mediterranean Ecosystem.
+YEAR: 2021
+JOURNAL: 
+DOI: 10.3390/pathogens11010036
+SOURCE: EuropePMC/MED/35055984
+
+(1) Background: Q fever is a worldwide zoonosis caused by Coxiella burnetii that have cases reported in humans and animals almost everywhere. The aim of this study was to describe the seasonality of Coxiella burnetii in the wild rabbit (Oryctolagus cuniculus) and the tick Hyalomma lusitanicum in a meso-Mediterranean ecosystem. (2) Methods: two populations of wild rabbits that differ in whether or not they share habitat with ungulates, mainly red deer (Cervus elaphus) were sampled for a year to collect ticks, blood and vaginal or anal swabs. Presence of C. burnetii DNA in swabs and the tick H. lusitanicum was determined by PCR and serum antibodies by ELISA. (3) Results: C. burnetii DNA was detected in 47.2% of 583 rabbits, in 65.5% of sera, and in more than half of the H. lusitanicum. There were small variations according to sex and age of the rabbits but significant according to the habitat (4) Conclusions: The results indicate that C. burnetii circulates freely between wild rabbits and H. lusitanicum and the sylvatic cycle in meso-Mediterranean environments relies in the presence of wild rabbits and H. lusitanicum above all if sharing habitat with red deer.

@@ -1,0 +1,7 @@
+TITLE: Glucose Tolerance Test (GTT) Curves of Water and Ethanol Extracts of Whole Body Apis mellifera jemenitica.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.12688/f1000research.166622.2
+SOURCE: EuropePMC/MED/41585459
+
+BackgroundThis article explored the chemical constituents of water and ethanol extracts from the whole body of A. m. jemenitica honeybee drones and workers, investigating their effects on glucose tolerance test (GTT) curves through feeding experiments conducted on Oryctolagus cuniculus male rabbits.MethodsChemical analysis of the extracts was performed using infrared (IR) spectroscopy alongside the spectral database of organic compounds.ResultsThe water extract revealed a richer diversity of natural products (38 compounds) compared to the ethanol extract (12 compounds). Notably, the water extract comprised various bioactive molecules, including sugars and their derivatives, phenolic compounds, alkaloids, quinones, amino acid derivatives, dipeptides, and organometallic compounds. In contrast, the ethanol extract primarily contained sugar derivatives, phenolic compounds, alkaloids, and pesticides. The water extract decreased the blood glucose level and transformed the GTT curve from a convex to a concave shape.ConclusionThe blood glucose-lowering effect of the water extract may be attributed to the anti-diabetic properties of its dipeptides, phenolic compounds and alkaloid contents.

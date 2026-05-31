@@ -1,0 +1,7 @@
+TITLE: Genome assembly of Helan Shan pika (Ochotona argentata): a key resource for endangered species conservation.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1186/s12864-026-12526-z
+SOURCE: EuropePMC/MED/41545957
+
+The Helan Shan pika (Ochotona argentata), endemic to a small region in China, represents a unique case of a species with a restricted distribution that is vulnerable to anthropogenic threats and rapid environmental changes. Despite its endangered status, genomic research on O. argentata remains limited. In this study, we present the first genome assembly of O. argentata with high genome contiguity and gene-space completeness, with a total assembly size of 2.22 Gb and 24,374 annotated genes. Genome synteny analysis revealed strong sequence conservation between the O. argentata and previously sequenced American pika (O. princeps) genome, while also allowing us to characterize its sex chromosomes. Additionally, population demography analysis indicated a notable population decline in O. argentata approximately 300,000 to 500,000 years ago, coinciding with the mid-Pleistocene glacial period. Furthermore, we identified an increased genetic load in O. argentata, likely driven by its highly restricted range and low genetic diversity. Our study provides the first genomic resource for O. argentata, essential for understanding the molecular processes underlying endemism and local adaptation in the endangered Helan Shan pika.

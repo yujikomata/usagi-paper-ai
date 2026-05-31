@@ -1,0 +1,7 @@
+TITLE: Origin, Genetic Diversity, and Population Structure of Rabbits (Oryctolagus cuniculus) in Kenya.
+YEAR: 2019
+JOURNAL: 
+DOI: 10.1155/2019/7056940
+SOURCE: EuropePMC/MED/31781636
+
+To evaluate the origin, genetic diversity, and population structure of domesticated rabbits in Kenya, a 263-base pair region of mtDNA D-loop region of 111 rabbits sampled from Kakamega, Vihiga, and Bungoma counties in the western region, Laikipia and Nyandarua counties in the central region, and Kitui, Machakos, and Makueni in the eastern region of the country were analyzed. The average haplotype (0.40702) and nucleotide (0.01494) diversities observed were low, indicating low genetic diversity of domesticated rabbits in Kenya. This study resolved 5 unique haplotypes in the mtDNA D-loop region. A population genetic structure distinguishing Europe grouping and domesticated rabbits in Kenya was obtained on incorporating 32 known haplotypes. Domesticated rabbits in Kenya clustered together with rabbits from other geographic regions, suggesting common origin. The results suggested that the Kenyan domesticated rabbits may have originated from Europe. Integration of exotic breeds into breeding programmes could have contributed to the low genetic diversity. These results provide useful information for breeding and conservation decisions by the relevant stakeholders in the agriculture industry in Kenya.

@@ -1,0 +1,7 @@
+TITLE: Apoptosis activation during Lagovirus europaeus/GI.2 infection in rabbits.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3389/fmicb.2023.1308018
+SOURCE: EuropePMC/MED/38333074
+
+Rabbit Haemorrhagic Disease (RHD) is a severe disease caused by Lagovirus europaeus/GI.1 and GI.2. Immunological processes such as apoptosis are important factors involved in the pathogenesis of Rabbit Haemorrhagic Disease (RHD). The process of programmed cell death has been quite well characterized in infection with GI.1 strains, but apoptosis in infection with GI.2 strains has not been widely studied. This is particularly important as several studies have shown that significant differences in the host immune response are observed during infection with different strains of Lagovirus europaeus. In this study, we analyzed the gene expression, protein levels and activity of key apoptotic cell death factors in the spleen, kidney, lung, and heart of rabbits. As a result, we showed that there is a significant increase in caspase-3, Bax, Bcl2 and Bax/Bcl2 mRNA gene expression ratio in organs of infected animals. Our results show also increased levels of cleaved caspase-3, caspase-6 and PARP. Moreover, significant activity of caspase-3 was also detected. Our results indicate that caspase-3, caspase-6 and genes coding Bcl2 family proteins play a key role in the apoptotic response in Lagovirus europaeus/GI.2 infection in organs that are not the target of virus replication.

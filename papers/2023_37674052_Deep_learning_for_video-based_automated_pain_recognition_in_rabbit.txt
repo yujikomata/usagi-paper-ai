@@ -1,0 +1,7 @@
+TITLE: Deep learning for video-based automated pain recognition in rabbits.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1038/s41598-023-41774-2
+SOURCE: EuropePMC/MED/37674052
+
+Despite the wide range of uses of rabbits (Oryctolagus cuniculus) as experimental models for pain, as well as their increasing popularity as pets, pain assessment in rabbits is understudied. This study is the first to address automated detection of acute postoperative pain in rabbits. Using a dataset of video footage of n = 28 rabbits before (no pain) and after surgery (pain), we present an AI model for pain recognition using both the facial area and the body posture and reaching accuracy of above 87%. We apply a combination of 1 sec interval sampling with the Grayscale Short-Term stacking (GrayST) to incorporate temporal information for video classification at frame level and a frame selection technique to better exploit the availability of video data.

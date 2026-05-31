@@ -1,0 +1,7 @@
+TITLE: Effects of Different Forms of Milk Thistle Supplementation in Rabbit Diets on Stress-Induced Physiological Responses.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15243582
+SOURCE: EuropePMC/MED/41463867
+
+This study evaluated the effects of thermal and noise stress on rabbits (90 HYLA hybrids), focusing on physiological responses, production performance, and welfare. Three dietary treatments were compared: a control diet (C), a diet supplemented with milk thistle seed cake (SMT), and a diet containing fermented milk thistle seed cake (FMT). The aim was to assess whether these feed additives could mitigate the adverse effects of environmental stress. Health status was monitored through clinical observation and analysis of biochemical indicators, including enzymes, lipid and protein metabolism markers, and total antioxidant status. Thermal stress at the onset of fattening influenced average daily gain, feed intake, and carcass yield, while dietary intervention modulated these effects. The FMT group demonstrated the lowest feed intake and most efficient feed conversion during later growth stages, but had lower slaughter weight compared with the control. In contrast, rabbits fed the SMT diet achieved the highest slaughter weight and superior growth efficiency. These findings suggest that milk thistle, particularly in combination with probiotic fermentation, can enhance feed utilization, growth performance, and stress resilience in rabbits, contributing to more sustainable and welfare-oriented production systems.

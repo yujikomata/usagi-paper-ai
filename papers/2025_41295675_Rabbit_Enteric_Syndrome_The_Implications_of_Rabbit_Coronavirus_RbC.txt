@@ -1,0 +1,7 @@
+TITLE: Rabbit Enteric Syndrome: The Implications of Rabbit Coronavirus (RbCoV) and Lapine Bocaparvovirus (LBoV) in Rabbitries of Spain.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/vetsci12111037
+SOURCE: EuropePMC/MED/41295675
+
+The actual role of certain viruses, such as coronavirus (RbCoV) and parvovirus (LBoV), in the digestive diseases of rabbitries remains poorly understood. For this reason, we conducted three different studies. In the detection frequency study, carried out using samples from both sick and healthy animals from farms with recurrent enteric problems, the presence and Cq values obtained by qPCR for these two viruses supported their implication in digestive disorders. In the lesional study, performed on samples from farms experiencing enteric disease outbreaks, the presence of lesions characteristic of both viruses was confirmed, along with other viral, bacterial, and parasitic agents that may have exacerbated the condition. Finally, in the epidemiological study, using samples from rabbits of different ages from farms with enteric problems, a higher prevalence of these viruses was observed during the growing phase, with a significant association with other bacterial agents such as Escherichia coli and Clostridium spiroforme. Overall, these results highlight the importance of both viruses in the aetiology of enteric disease and support their inclusion in the diagnostic enteric profile for rabbits.

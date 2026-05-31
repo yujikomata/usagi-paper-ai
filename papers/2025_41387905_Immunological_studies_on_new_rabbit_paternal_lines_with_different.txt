@@ -1,0 +1,7 @@
+TITLE: Immunological studies on new rabbit paternal lines with different potentials for growth rate and resilience: pathways towards healthier animals.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1186/s13567-025-01664-z
+SOURCE: EuropePMC/MED/41387905
+
+This study evaluated leukocyte and immune parameters in female rabbits and their kits from three genetic lines (R, RF, and RFLP) during their first reproductive cycle. The R line was selected for growth rate over 37 generations, the RF line was derived from elite R animals, and the RFLP was obtained by backcrossing the RF line with a maternal line (LP). In females, the total lymphocyte percentage decreased from the first AI to weaning (-15.8 percentage points; p + /CD8+ ratio increased 53.4% (p + percentages and CD4+ /CD8+ ratios than RLFP females did (-3.4 percentage points and -24.4%; p + T lymphocytes than RF kits did (-8.1 and -6.1 percentage points; p + and phagocytosis of heterophils than RFLP kits did (-0.8 and -1.2 percentage points; p < 0.05; GLM). The results suggest that creating a paternal line via elite animals (RFs) and backcrossing it with a robust line could improve immune status and stayability, offering insights into the impacts of rabbit breeding on immune health and reproductive success.

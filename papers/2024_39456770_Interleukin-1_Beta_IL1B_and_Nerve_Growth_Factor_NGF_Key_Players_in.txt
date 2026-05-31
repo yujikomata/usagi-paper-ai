@@ -1,0 +1,7 @@
+TITLE: Interleukin-1 Beta (IL1B) and Nerve Growth Factor (NGF): Key Players in Rabbit Reproductive Regulation.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/ijms252010986
+SOURCE: EuropePMC/MED/39456770
+
+Several seminal plasma components, besides NGF, are implicated as ovulation-inducing factors in mammals. This study investigated the IL1B and its receptor IL1R1 in the testis (T), male accessory glands, prostate (P) and seminal vesicles (SV), and uterus (U) of adult rabbits using immunohistochemistry (IHC) and quantitative reverse transcription PCR (RT-qPCR). We also assessed the presence of IL1B in seminal plasma through Western blotting (WB) and examined the interaction between IL1B and NGF in vitro by measuring their production with enzyme-linked immunosorbent assay (ELISA) in the presence of NGF and IL1B alone or with their respective receptor antagonists. IHC revealed IL1B system expression in all reproductive organs studied, with IL1B and IL1R1 localized to the germinative epithelium of the T and the epithelial cells of the accessory glands and U. IL1B gene transcript levels were significantly higher (p p p p < 0.05) basal NGF production in the U, whereas NGF had no effect on IL1B production. These findings provide evidence of the expression of the IL1B/IL1R1 system in both male and female rabbit reproductive tracts and suggest that IL1B in seminal plasma may influence uterine endocrine activity. The results propose a potential role for IL1B in ovulation, in conjunction with NGF, supporting that ovulation may involve inflammatory-like processes.

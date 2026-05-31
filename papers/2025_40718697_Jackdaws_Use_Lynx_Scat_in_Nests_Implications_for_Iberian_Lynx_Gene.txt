@@ -1,0 +1,7 @@
+TITLE: Jackdaws Use Lynx Scat in Nests: Implications for Iberian Lynx Genetic Monitoring.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1002/ece3.71859
+SOURCE: EuropePMC/MED/40718697
+
+We present the first documented case of jackdaws (Coloeus monedula) collecting and placing Iberian lynx (Lynx pardinus) scat in their nests in the Montes de Toledo, Spain. This behavior may significantly compromise conservation efforts for species whose monitoring relies on non-invasive genetic sampling-such as the lynx-especially in areas with dense populations of jackdaws or other species exhibiting similar behavior, where this removal may substantially reduce sample availability. Using artificial nest boxes equipped with camera traps, we confirmed that jackdaws actively transport lynx scat to their nests. In a controlled experiment simulating a lynx latrine, all scat was removed in just over an hour. Simulations using spatial capture-recapture (SCR) models showed that this behavior can introduce bias and reduce the accuracy of population estimates based on genetic sampling, a widely used method in wildlife monitoring. These findings highlight the importance of considering interspecific interactions when designing monitoring protocols for threatened species. More broadly, this case illustrates how overlooked ecological behaviors can compromise conservation tools and underscores the need for adaptive monitoring strategies in dynamic ecosystems.

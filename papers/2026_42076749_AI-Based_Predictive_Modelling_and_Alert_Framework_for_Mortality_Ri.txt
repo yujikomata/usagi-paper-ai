@@ -1,0 +1,7 @@
+TITLE: AI-Based Predictive Modelling and Alert Framework for Mortality Risk and Cost-Benefit Analysis in Rabbit Production.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.3390/vetsci13040377
+SOURCE: EuropePMC/MED/42076749
+
+Mortality events in commercial rabbit production can lead to significant economic losses, highlighting the need for earlier identification of elevated mortality risk at the group level using routinely collected production data. This study presents a machine learning-based framework for predicting mortality risk at future observation points using routinely collected production data. Models were developed using group-level variables and evaluated with StratifiedGroupKFold cross-validation to prevent information leakage. The selected XGBoost model achieved a balanced performance, with a recall of 0.78 ± 0.03, precision of 0.59 ± 0.04, and ROC-AUC of 0.72 ± 0.02. Predictions were translated into an alert system based on a predefined threshold, prioritising sensitivity while maintaining a moderate false alert rate. A scenario-based cost-benefit analysis indicated that economic outcomes are highly dependent on intervention effectiveness, with positive returns observed under moderate to optimistic assumptions. Overall, the framework demonstrates the feasibility of integrating predictive modelling with alert-based decision support in rabbit production, although real-world validation under commercial farm conditions is required to confirm its practical effectiveness.

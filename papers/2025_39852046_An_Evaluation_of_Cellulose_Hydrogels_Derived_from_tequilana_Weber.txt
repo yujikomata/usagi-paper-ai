@@ -1,0 +1,7 @@
+TITLE: An Evaluation of Cellulose Hydrogels Derived from tequilana Weber Bagasse for the Regeneration of Gingival Connective Tissue in Lagomorphs.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/gels11010075
+SOURCE: EuropePMC/MED/39852046
+
+Cellulose hydrogels derived from agave bagasse were formulated to promote the regeneration of gingival connective tissue in lagomorphs. Three treatment modalities were randomly implanted in the gingival diastema area in 16 rabbits. The general characteristics were analyzed and histopathological studies were carried out at 4, 8, 12, and 16 weeks. A chi-squared test was performed using IBM-SPSS version 25, indicating that cellulose hydrogels implanted in lagomorph's gingival tissue showed the presence of greater angiogenesis and fibrogenesis at the four evaluation intervals during 16 consecutive weeks. The presence of inflammatory infiltrates had no significant impact. No significant changes were observed in body weight and water and food intake. This suggests that hydrogels contribute to the regeneration and/or repair of oral connective tissue, showing angiogenesis and fibrogenesis in 50 to 100% of rabbits tested with hydrogel cellulose membrane. Regarding angiogenesis, in the specimens where membranes were implanted, its presence predominated in all variants (50%), followed by diffuse angiogenesis (37.5%), and finally the absence of angiogenesis (12.5%).

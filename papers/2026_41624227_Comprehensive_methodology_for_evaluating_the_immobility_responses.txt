@@ -1,0 +1,7 @@
+TITLE: Comprehensive methodology for evaluating the immobility responses in laboratory animals.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1016/j.mex.2026.103788
+SOURCE: EuropePMC/MED/41624227
+
+From an evolutionary perspective, all organisms have two purposes: self-preservation and reproduction, in which immobility responses (IR) are implicated, these are ancestral survival strategies used to avoid serious injury or death. Immobility responses are adaptive reactions present in many species across virtually the entire phylogenetic spectrum, characterized by behavioral arrest and reduced responsiveness, serving evolutionary roles in prey-predator, mating, and offspring-carrying contexts. Several brain structures-including the brainstem, limbic system, striatum, and cortex-modulate IR by integrating fear, motor, and sensory processes; moreover, distinct drugs such as antipsychotics and morphine can induce IR through monoaminergic and endorphinic pathways. Immobility responses have been referred to by various terms, including animal hypnosis, catalepsy, catatonia, cataplexy, death feigning, and dorsal immobility, among others. The most commonly employed laboratory methods for inducing and replicating immobility responses are described herein. Experimental animal models reported in this work (frog, iguana, duck, rabbit, and rat) reproduce IR under controlled conditions, providing valuable insights into motor inhibition, defensive behaviors, and catatonic states.

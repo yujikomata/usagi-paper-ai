@@ -1,0 +1,7 @@
+TITLE: Chromosome-scale genome assembly of Lepus oiostolus (Lepus, Leporidae).
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1038/s41597-024-03024-6
+SOURCE: EuropePMC/MED/38341484
+
+Lepus oiostolus (L. oiostolus) is a species endemic to the Qinghai-Tibet Plateau. However, the absence of a reference genome limits genetic studies. Here, we reported a high-quality L. oiostolus genome assembly, with scaffolds anchored to 24 chromosomes and a total assembled length of 2.80 Gb (contig N50 = 64.25 Mb). Genomic annotation uncovered 22,295 protein-coding genes and identified 49.84% of the sequences as transposable elements. Long interspersed nuclear elements (LINEs) constitute a high proportion of the genome. Our study is at the first time to report the chromosome-scale genome for the species of the L. oiostolus. It provides a valuable genomic resource for future research on the evolution of the Leporidae.

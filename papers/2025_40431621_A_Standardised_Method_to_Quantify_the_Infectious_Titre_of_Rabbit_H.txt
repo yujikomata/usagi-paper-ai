@@ -1,0 +1,7 @@
+TITLE: A Standardised Method to Quantify the Infectious Titre of Rabbit Haemorrhagic Disease Virus.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/v17050609
+SOURCE: EuropePMC/MED/40431621
+
+Quantifying the infectious titre of preparations containing rabbit haemorrhagic disease virus (RHDV) is an essential virological technique during RHDV research. The infectious titre of an RHDV preparation is determined using a bioassay to identify the endpoint dilution at which 50% of rabbits become infected (RID50). Previous publications have briefly described the method for estimating the infectious titre of RHDV preparations by challenging rabbits with 10-fold serial dilutions. However, these descriptions lack the critical considerations for a standardised method to estimate RID50. These details are presented here, along with a comparison between the Reed-Muench, Dragstedt-Behrens, Spearman-Kärber, and probit regression methods for calculating the RID50. All the statistical approaches demonstrated a high level of agreement in calculating the RID50. To help assess the precision of the estimated infectious titre, the improved Spearman-Kärber and probit regression methods provide the 95% confidence intervals. The method outlined improves the accuracy of results when undertaking studies of pathogenicity, host resistance, and the production of vaccines against RHDV.

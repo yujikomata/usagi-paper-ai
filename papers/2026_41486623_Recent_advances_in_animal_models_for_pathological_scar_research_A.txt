@@ -1,0 +1,7 @@
+TITLE: Recent advances in animal models for pathological scar research: A comprehensive review of experimental approaches and translational relevance.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1002/ame2.70115
+SOURCE: EuropePMC/MED/41486623
+
+Pathological scarring, manifested in the form of hypertrophic scars (HTS) and keloid scars (KS), represents a major clinical challenge due to its aesthetic and functional implications for patients. Understanding the molecular mechanisms involved in these types of scars and developing effective treatments requires the use of controlled experimental models, especially animals, to overcome the limitations of clinical studies. The aim of this sistematic review is to critically analyze the animal models used in the last five years (2020-2025) for the study of pathological scars, highlighting their advantages, limitations and applicability in the development of new therapeutic strategies. Murine, rabbit and porcine models, as well as alternative models, offer varied perspectives on the formation and treatment of HTS and KS, with an emphasis on histological and molecular correlations with human pathology. By synthesizing recent data, the paper highlights the essential role of preclinical research in optimizing antifibrotic treatments and in advancing the translation of data into the clinical sphere. Overall, animal models remain essential for bridging mechanistic insights with clinical translation, supporting the development of more effective and personalized anti-scar therapies.

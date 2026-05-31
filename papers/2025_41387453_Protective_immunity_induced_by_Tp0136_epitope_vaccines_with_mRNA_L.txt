@@ -1,0 +1,7 @@
+TITLE: Protective immunity induced by Tp0136 epitope vaccines with mRNA LNP or protein delivery.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s41541-025-01330-7
+SOURCE: EuropePMC/MED/41387453
+
+Syphilis, caused by Treponema pallidum, remains a major global health burden. Given the key role of T cell-mediated immunity in T. pallidum clearance, this study evaluates a Tp0136-derived T-cell epitope (Tp0136T1) delivered via two platforms: lipid nanoparticle-encapsulated nucleoside-modified mRNA (LNP-mRNA) and Pyrococcus furiosus thioredoxin (PfTrx). In BALB/c mice, both platforms elicited robust Th1-type responses, with increased IL-2 and IFN-γ secretion and activation of Th1 CD4⁺ T cell. Only LNP-mRNA-Tp0136T1 induced strong CD8⁺ cytotoxic responses, marked by elevated perforin⁺ and granzyme B⁺ expression. In New Zealand White rabbits challenged intradermally with T. pallidum, complete ulcer prevention was achieved with the PfTrx-Tp0136T1, while LNP-mRNA-Tp0136T1 significantly reduced ulceration. Both vaccines suppressed RPR titers and lowered treponemal load. These findings demonstrate that epitope-specific T cell-based vaccines elicit potent cellular immunity, control treponemes, prevent ulcers, and may reduce secondary sexually transmitted infections by preserving mucosal integrity.

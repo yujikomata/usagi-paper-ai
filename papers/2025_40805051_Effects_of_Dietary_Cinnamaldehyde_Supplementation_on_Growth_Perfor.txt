@@ -1,0 +1,7 @@
+TITLE: Effects of Dietary Cinnamaldehyde Supplementation on Growth Performance, Serum Antioxidant Capacity, Intestinal Digestive Enzyme Activities, Morphology, and Caecal Microbiota in Meat Rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15152262
+SOURCE: EuropePMC/MED/40805051
+
+Cinnamaldehyde (CA) is a potential substitute for antibiotic growth promoters in animal breeding. In this study, we investigated its effects as a dietary supplement on growth performance, serum antioxidant capacity, intestinal digestive enzyme activities, intestinal morphology, and caecal microbiota in meat rabbits. Weaned meat rabbits (n = 450) were randomly assigned to five groups, Groups A, B, C, D, and E, and fed 0, 50, 100, 150, and 200 mg/kg CA diets, respectively, for 47 days. Biological samples including serum (antioxidants), duodenal/caecal content (enzymes), intestinal tissue (morphology), and caecal digesta (microbiota) were collected at day 47 postweaning for analysis. Groups C and D showed significantly higher final body weights than Group A, with Group D (150 mg/kg CA) demonstrating superior growth performance including 11.73% longer duodenal villi (p p p p < 0.05). Thus, dietary CA supplementation at 150 mg/kg was identified as the optimal CA dose for improving meat rabbit production. These findings highlight CA as a functional feed additive for promoting sustainable rabbit production.

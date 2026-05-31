@@ -1,0 +1,7 @@
+TITLE: Coprophagia in early life tunes expression of immune genes after weaning in rabbit ileum.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1038/s41598-024-59591-6
+SOURCE: EuropePMC/MED/38632468
+
+Coprophagia by suckling rabbits, i.e. ingestion of feces from their mother, reduces mortality after weaning. We hypothesized that this beneficial effect of coprophagia is immune-mediated at the intestinal level. Therefore, this study investigated immune development after weaning by analyzing the ileal transcriptome at day 35 and 49 in rabbits with differential access to coprophagia in early life. Rabbit pups had access between day 1 and 15 to (i) no feces (NF) or (ii) feces from unrelated does (Foreign Feces, FF) or (iii) feces from unrelated does treated with antibiotics (FFab). 350 genes were differentially expressed between day 35 and day 49 in suckling rabbits with access to coprophagia. These genes coded for antimicrobial peptides, a mucin, cytokines and chemokines, pattern recognition receptors, proteins involved in immunoglobulin A secretion and in interferon signaling pathway. Strikingly, prevention of coprophagia or access to feces from antibiotic-treated does in early life blunted immune development between day 35 et 49 in the ileum of rabbits. Thus, coprophagia might be crucial for the maturation of intestinal immunity in rabbits and could explain why this behavior improves survival.

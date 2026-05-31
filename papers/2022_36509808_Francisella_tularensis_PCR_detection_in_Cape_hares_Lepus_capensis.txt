@@ -1,0 +1,7 @@
+TITLE: Francisella tularensis PCR detection in Cape hares (Lepus capensis) and wild rabbits (Oryctolagus cuniculus) in Algeria.
+YEAR: 2022
+JOURNAL: 
+DOI: 10.1038/s41598-022-25188-0
+SOURCE: EuropePMC/MED/36509808
+
+Tularemia is a zoonosis caused by the bacterium Francisella tularensis. Leporids are primary sources of human infections in the northern hemisphere. Africa is classically considered free of tularemia, but recent data indicate that this dogma might be wrong. We assessed the presence of this disease in wild leporids in Algeria. Between 2014 and 2018, we collected 74 leporids carcasses from spontaneously dead or hunted animals. Francisella tularensis DNA was detected by specific real-time PCR tests in 7/36 (19.44%) Cape hares (Lepus capensis) and 5/38 (13.15%) wild rabbits (Oryctolagus cuniculus). Known tularemia arthropod vectors infested half of the PCR-positive animals. At necropsy, F. tularensis-infected animals presented with an enlarged spleen (n = 12), enlarged adrenal glands (12), liver discoloration (12), hemorrhages (11), and pneumonia (11). Immunohistological examination of liver tissue from one animal was compatible with the presence of F. tularensis. Our study demonstrates the existence of tularemia in lagomorphs in Algeria. It should encourage investigations to detect this disease among the human population of this country.

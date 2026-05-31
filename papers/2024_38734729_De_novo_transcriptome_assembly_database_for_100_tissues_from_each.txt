@@ -1,0 +1,7 @@
+TITLE: De novo transcriptome assembly database for 100 tissues from each of seven species of domestic herbivore.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1038/s41597-024-03338-5
+SOURCE: EuropePMC/MED/38734729
+
+Domesticated herbivores are an important agricultural resource that play a critical role in global food security, particularly as they can adapt to varied environments, including marginal lands. An understanding of the molecular basis of their biology would contribute to better management and sustainable production. Thus, we conducted transcriptome sequencing of 100 to 105 tissues from two females of each of seven species of herbivore (cattle, sheep, goats, sika deer, horses, donkeys, and rabbits) including two breeds of sheep. The quality of raw and trimmed reads was assessed in terms of base quality, GC content, duplication sequence rate, overrepresented k-mers, and quality score distribution with FastQC. The high-quality filtered RNA-seq raw reads were deposited in a public database which provides approximately 54 billion high-quality paired-end sequencing reads in total, with an average mapping rate of ~93.92%. Transcriptome databases represent valuable resources that can be used to study patterns of gene expression, and pathways that are related to key biological processes, including important economic traits in herbivores.

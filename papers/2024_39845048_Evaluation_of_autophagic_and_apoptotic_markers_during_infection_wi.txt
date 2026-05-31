@@ -1,0 +1,7 @@
+TITLE: Evaluation of autophagic and apoptotic markers during infection with animal virus causing hemorrhagic fever in rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3389/fmicb.2024.1517725
+SOURCE: EuropePMC/MED/39845048
+
+IntroductionLagovirus europaeus/GI.1 and GI.2 cause severe Rabbit Haemorrhagic Disease, and immune processes are among the important pathomechanisms of the disease. Autophagy and apoptosis are two key mechanisms involved in the host antiviral response. Both of these processes have been characterized in infection with GI.1 strains, while data on infection with GI.2 strains still need to be studied. This is particularly important because infection with different strains is associated with a different host immune response profile.MethodsIn this work, we analyzed the expression of selected genes and proteins involved in autophagic flux in the liver, spleen, kidney and peripheral blood, but also apoptotic cell death in the liver and peripheral blood of rabbits infected with the GI.2 strain.ResultsAs a result, we showed that autophagy is strongly activated in the liver, spleen and kidney of infected rabbits, and confirmed the activation of apoptosis in the liver.DiscussionThis study highlights the role of apoptosis and autophagy in the immune response in rabbits infected with Lagovirus europaeus/GI.2.

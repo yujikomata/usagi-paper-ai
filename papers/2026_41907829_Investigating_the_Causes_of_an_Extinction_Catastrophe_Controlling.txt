@@ -1,0 +1,7 @@
+TITLE: Investigating the Causes of an Extinction Catastrophe: Controlling Introduced Predators Remains Essential for Conserving Australia's Mammals.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1093/biosci/biaf204
+SOURCE: EuropePMC/MED/41907829
+
+At least 40 Australian mammal spcies have been driven to extinction since European colonization in 1788. For conservation management to be effective, it is vital that the reasons for historical extinctions and ongoing declines are understood and remedied. A recent article (Wallach and Lundgren 2025) concluded that there was no compelling evidence that two introduced predators (domestic cats and red foxes) were primary causes of these mammal losses. We refute that article, finding substantial flaws in its premises, analyses, data, interpretations, and conclusions. Using multiple lines of evidence, we show that these two predators are strongly implicated in most Australian mammal extinctions and in the ongoing imperilment of numerous extant species. The devastating impact of cats and foxes on Australia's mammals has been widely recognized by conservation managers who have, in response, implemented national programs to control these predators, producing widely recognized benefits for one of the world's most remarkable native mammal faunas.

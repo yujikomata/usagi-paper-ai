@@ -1,0 +1,7 @@
+TITLE: DMRT1 haploinsufficiency leads to secondary infertility in XY male rabbits†.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1093/biolre/ioaf064
+SOURCE: EuropePMC/MED/40169148
+
+DMRT1 is a key factor in testis development, where it is involved in sex determination and fertility. Mutations in DMRT1 have been described in humans, with patients presenting 46,XY Disorders of Sex Development (46,XY DSD) or infertility. In a previous study, we demonstrated that DMRT1 is a testis-determining factor in rabbits, with DMRT1-/- rabbits exhibiting a male to female XY sex reversal. In this study, we show that DMRT1 haploinsufficiency induces secondary infertility, with XY rabbits presenting oligospermia or even azoospermia at 2 years of age. We observed that sperm concentration decreases and sperm anomalies increase in DMRT1+/- rabbits at adulthood. Furthermore, spermatogenesis is impacted as early as 4 months (the earliest stage where spermatozoa are detected), with dysregulation of genes involved in spermatid maturation and oocyte/spermatozoa fusion, as well as overexpression of genes involved in the mitosis/meiosis transition of spermatogonial stem cells. Finally, DMRT1 haploinsufficiency impacts the earliest stages of germ cell differentiation, with persistent proliferation and pluripotency in the postnatal period. In conclusion, our findings underscore DMRT1 as a crucial factor at various stages of testicular development and reinforce its role in the multiple phenotypes observed in humans.

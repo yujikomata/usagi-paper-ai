@@ -1,0 +1,7 @@
+TITLE: Genome-Wide In Silico Analysis of Microsatellite Loci in Rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/ani14243659
+SOURCE: EuropePMC/MED/39765563
+
+This study aimed to characterize microsatellites in the rabbit genome using an in silico approach and to develop and validate microsatellite markers. Blood samples were collected from 15 Baladi rabbits and 18 New Zealand White (NZW rabbits). The GMATA software was used to define SSRs in the extracted sequences. Twelve primer pairs were used to validate the loci identified and the primers developed. The total number of the detected microsatellite loci overall chromosomes was 1,136,253. The di-nucleotide microsatellite repeats dominated and exceeded 88% of the detected microsatellites in all chromosomes. There were no microsatellites detected in mitochondrial DNA. The highest relative microsatellite abundance was obtained for chromosome 19, followed by 13 and 6. The highest estimated SSR density was obtained for chromosome 14, and the lowest was for mitochondrial DNA, followed by chromosome 13. The polymorphism was 81.63% and 75.51% for Baladi and NZW rabbits, respectively. The number of detected alleles ranged between two and seven alleles/loci, and polymorphic information content was from 35% to 71%. The AMOVA analysis showed that the total variance of all levels of population structure was 15.734. The results definitely confirmed higher genetic diversity in Baladi compared with NZW rabbits.

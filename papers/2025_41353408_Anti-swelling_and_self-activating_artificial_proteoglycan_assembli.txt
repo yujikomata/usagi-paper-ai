@@ -1,0 +1,7 @@
+TITLE: Anti-swelling and self-activating artificial proteoglycan assemblies as cartilaginous implant for post-microfracture healing.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s41467-025-67035-6
+SOURCE: EuropePMC/MED/41353408
+
+The poor structural stability and insufficient endogenous activation of cartilaginous implant might be key factors for cartilage regeneration after microfracture. Herein, inspired by the restrictive effect of collagen fibers on proteoglycans, we develop artificial proteoglycan assemblies (DSPG@Pep) through sequential co-assembly of bioactive polysaccharide, protein and peptides via electrostatic interactions and covalent conjugation. The DSPG@Pep presents anti-swelling, compression and degradation resistance properties, and significantly activates endogenous stem cell recruitment and direct chondrogenic differentiation. Specifically, the DSPG@Pep downregulates the calcium signaling pathway (e.g., CACNA1G, AVPR1A, et al.) and ECM-receptor interaction (IBSP and COL4A2), thus reduces ossification (EFEMP1, SCUBE3, and SPARCL1) tendency as evidenced by decreased cytosolic calcium concentration and integrin β1 clustering. Cartilage defects models in male rabbits and pigs confirm the DSPG@Pep can be stably immobilized in the defect sites and facilitate the structural and functional remodeling of neocartilage. These findings provide a promising biomaterial design strategy for endogenous cartilage regeneration.

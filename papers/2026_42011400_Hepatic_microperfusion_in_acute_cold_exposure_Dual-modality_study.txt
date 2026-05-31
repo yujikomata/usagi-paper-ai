@@ -1,0 +1,7 @@
+TITLE: Hepatic microperfusion in acute cold exposure: Dual-modality study using contrast-enhanced ultrasound and CT perfusion imaging.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1016/j.isci.2026.115141
+SOURCE: EuropePMC/MED/42011400
+
+This study aimed to investigate the application of contrast-enhanced ultrasound (CEUS) and CT perfusion imaging (CTPI) in the quantitative assessment of microperfusion changes of the liver in rabbits with acute cold exposure. 49 rabbits were immersed in cold water and divided into a successful rewarming group and a failed rewarming group. The body core temperature, liver function, parameters of the time-intensity curve (TIC), arrival-time parametric imaging (At-PI), and CTPI, cellular ultrastructure, and the expressions of ICAM-1 and VEGF-α of the two groups were compared in 4 stages. Our study identified the key CEUS and CTPI parameters showing a strong correlation with liver function. The more severe liver injury was associated with a smaller hepatic blood perfusion volume, a slower perfusion speed of the liver parenchyma, and a longer perfusion time. Dual-modality imaging can reflect the severity and adverse outcome of acute cold exposure-related liver injury to a certain extent.

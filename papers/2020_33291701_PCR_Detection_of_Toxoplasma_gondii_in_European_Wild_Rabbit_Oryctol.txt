@@ -1,0 +1,7 @@
+TITLE: PCR Detection of Toxoplasma gondii in European Wild Rabbit (Oryctolagus cuniculus) from Portugal.
+YEAR: 2020
+JOURNAL: 
+DOI: 10.3390/microorganisms8121926
+SOURCE: EuropePMC/MED/33291701
+
+Wildlife plays an important role in the epidemiological cycle of Toxoplasma gondii. The European wild rabbit (Oryctolagus cuniculus) can be a source of infection to wild and domestic hosts, including human beings. Additionally, as an herbivorous animal, the European wild rabbit may also be a sentinel of environmental contamination with T. gondii and, consequently, an indicator of the potential transmission of this parasite. The purpose of the present work was to detect T. gondii DNA in European wild rabbit from central Portugal, as well as the possible implications for public health. Heart and diaphragm samples were obtained from 28 rabbits hunted in central Portugal. Nested PCR separately amplified the 5' and 3' ends of the surface antigen 2 (SAG2) gene. T. gondii DNA was detected in 19 out of the 28 sampled animals, resulting in a prevalence of 67.9%. These results show that T. gondii infection occurs in European wild rabbit and therefore may pose a potential risk for humans if consumed as raw or undercooked meat. Measures should be taken in order to prevent infection by this zoonotic parasite and for the conservation of wildlife. To the best of our knowledge, this is the first study performed by means of PCR on T. gondii in European wild rabbit meat samples.

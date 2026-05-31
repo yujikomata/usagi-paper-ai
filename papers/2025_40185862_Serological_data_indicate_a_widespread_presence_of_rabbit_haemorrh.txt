@@ -1,0 +1,7 @@
+TITLE: Serological data indicate a widespread presence of rabbit haemorrhagic disease in rabbit farms in Algeria.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s41598-025-95945-4
+SOURCE: EuropePMC/MED/40185862
+
+The Algerian government has recently supported plans to develop and increase commercial rabbit farming. A necessary condition for their success is to ensure rabbits' health and protect farms from infectious diseases. Among these, Rabbit Haemorrhagic Disease (RHD) is one of the worst, causing high mortality and, thus, severe economic losses. Considering RHD's high diffusibility, accurate surveillance systems and the proper and extensive use of vaccinal prevention are paramount in protecting rabbit populations. A sero-epidemiological survey on RHD was conducted in 19 herds located in different regions of Algeria to obtain a first overview of the monitoring system's ability to detect RHD and estimate its presence and distribution in the country. The results showed that RHD is widespread in Algeria, far more than assumed based on the number of reported and diagnosed disease outbreaks. As in the rest of the world, RHDV2 was by far the prevalent, if not the only, agent of RHD in Algeria. By verifying the outcomes and results of using RHD vaccine in farms, it was shown the need to improve vaccination plans, likely through the strict application of the guidelines for RHD direct prophylaxis provided by the EU Lagmed project.

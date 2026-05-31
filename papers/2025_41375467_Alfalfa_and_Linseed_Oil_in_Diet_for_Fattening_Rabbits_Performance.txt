@@ -1,0 +1,7 @@
+TITLE: Alfalfa and Linseed Oil in Diet for Fattening Rabbits: Performance, Meat Quality, and Nutritional Characteristics.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ani15233409
+SOURCE: EuropePMC/MED/41375467
+
+The research aimed to evaluate the effectiveness of adding linseed oil to an alfalfa-based diet for fattening rabbits. At 30 days, 360 hybrid rabbits were divided into three homogeneous groups and fed: Control feed composed of 15% wheat, 17% alfalfa hay, and 8% dehydrated alfalfa; experimental feed composed of 40% alfalfa hay and 30% dehydrated alfalfa (Alfalfa); another experimental feed composed of 38% alfalfa hay, 30% dehydrated alfalfa, and 2% linseed oil (Alfalfa+Linseed). The alfalfa-based diet showed higher crude fiber, but lower lipid, protein, and digestible energy content. Regarding performance, a reduction in slaughter weight was observed only in the Alfalfa group, while the addition of linseed oil eliminated the gap with the Control group. The lipid content of the meat was significantly lower in the Alfalfa group. Significant changes were observed in the fatty acid composition, with higher levels of n-3 precursors and derivatives of the n-3 series in the Alfalfa+Linseed group, followed by Alfalfa and Control. Furthermore, the addition of linseed oil worsened lipid oxidative stability. In conclusion, the proposed dietary treatment represents a promising strategy for producing rabbit meat with a high nutritional profile, without compromising productive performance.

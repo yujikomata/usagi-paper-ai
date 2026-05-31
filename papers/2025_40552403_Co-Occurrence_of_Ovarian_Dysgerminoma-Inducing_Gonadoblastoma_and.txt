@@ -1,0 +1,7 @@
+TITLE: Co-Occurrence of Ovarian Dysgerminoma-Inducing Gonadoblastoma and Two Distinct Mammary Carcinomas in a Dog: A Case Report and Review of the Literature.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1002/vms3.70470
+SOURCE: EuropePMC/MED/40552403
+
+Gonadoblastoma (GB) is an extremely rare mixed gonadal neoplasm, encountered in animals as well as humans. The tumour is typically reported in dysgenetic gonads of those suffering from disorders of sex development and bearing the Y chromosome. Here we highlight the first report of the co-occurrence of an ovarian dysgerminoma-inducing GB and anaplastic and complex carcinomas of distinct mammary glands in a phenotypically normal 12-year-old intact female Spitz lacking the Y chromosome. Germ cells of GB and dysgerminoma were negative for c-kit but immunolabelled with SALL4, OCT-4, and E-cadherin and aberrantly expressed WT-1. Sex cord-stromal cells were immunoreactive for α-inhibin, cytokeratin AE1/AE3, and WT-1. Diffuse vimentin immunostaining was observed, while all cells were negative for high molecular weight cytokeratins. The Ki67 index was 30%. We describe the histopathological and immunohistochemical features of the index case and the polymerase chain reaction analysis of the amelogenin (AMEL) gene and provide a review of the literature. The mechanism of GB development may vary in patients with normal karyotypes and dysgenetic individuals. The WT-1 gene mutation may also play a role in the development of GB in the present case.

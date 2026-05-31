@@ -1,0 +1,7 @@
+TITLE: The Role of PRLR Gene Polymorphisms in Milk Production in European Wild Rabbit (Oryctolagus cuniculus).
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ani13040671
+SOURCE: EuropePMC/MED/36830458
+
+One of the problematic points of rabbit breeding is that the nutritional requirements of the kits are not fully satisfied by the does' milk production from the third week of lactation onwards. The prolactin receptor gene has a significant effect on reproductive processes, and its polymorphisms have been associated with milk production in several species (cattle, goats, sheep, and buffalo). The European wild rabbit (Oryctolagus cuniculus), has a more diverse genetic background compared to domesticated lines. In the course of our study, sequencing of the 1210 bp long segment of the PRLR gene promoter region was accomplished. We detected four point mutations (SNP1-407G > A, SNP2-496G > C, SNP3-926T> and SNP4-973A > C) and one microsatellite at position 574. In our population, the four SNPs were segregated into four genotypes: AACCCCCC, GGGGTTAA, AAGGTTAC, and GGGGTCAC. Our results show that the genotype in the homozygous form is associated with higher milk production (1564.7 ± 444.7 g) compared to the other three genotypes (AACCCCCC 1399.1 ± 326.8 g; GTGACCTT 1403.8 ± 517.1 g; GGGGTCAC 1220.0 ± 666.2 g), and the short microsatellite repeat (167 bp) also coincides with significantly higher milk production (1623.8 ± 525.1 g). These results make the marker-assisted selection possible also for domesticated lines.

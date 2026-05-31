@@ -1,0 +1,7 @@
+TITLE: Animal modeling in bone research-Should we follow the White Rabbit?
+YEAR: 2019
+JOURNAL: 
+DOI: 10.1002/ame2.12083
+SOURCE: EuropePMC/MED/31773091
+
+Animal models are live subjects applied to translational research. They provide insights into human diseases and enhance biomedical knowledge. Livestock production has favored the pace of human social development over millennia. Today's society is more aware of animal welfare than past generations. The general public has marked objections to animal research and many species are falling into disuse. The search for an ideal methodology to replace animal use is on, but animal modeling still holds great importance to human health. Bone research, in particular, has unmet requirements that in vitro technologies cannot yet fully address. In that sense, standardizing novel models remains necessary and rabbits are gaining in popularity as potential bone models. Our aim here is to provide a broad overview of animal modeling and its ethical implications, followed by a narrower focus on bone research and the role rabbits are playing in the current scenario.

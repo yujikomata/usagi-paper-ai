@@ -1,0 +1,7 @@
+TITLE: 5-ALA photodynamic metabolite-powered zero-waste ferroptosis amplifier for enhanced hypertrophic scar therapy.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s41467-025-63438-7
+SOURCE: EuropePMC/MED/40968167
+
+Hypertrophic scars are a stubborn form of dermal fibrosis that impairs quality of life. Although 5-ALA-mediated photodynamic therapy holds promise, its efficacy is undermined by poor transdermal delivery and rapid metabolism into non-photosensitive heme. Here, we introduce a "zero-waste" strategy that repurposes 5-ALA-derived heme to synergistically amplify ferroptosis. This is achieved by co-encapsulating 5-ALA and baicalin within human H-ferritin, subsequently incorporated into polyvinylpyrrolidone microneedles. The resulting system enables targeted delivery to hypertrophic scar fibroblasts with pH-responsive, programmable drug release. Upon administration, 5-ALA generates protoporphyrin IX to initiate photodynamic therapy. Baicalin is then released to induce ferroptosis and synergize with the reactive oxygen species and heme accumulated during photodynamic therapy, thereby overstimulating the HO-1-heme metabolic axis. This cascade promotes the release of Fe²⁺ and CO, further amplifying ferroptotic responses. Moreover, the ferroptotic stress triggers mitophagy and mitochondrial Fe²⁺ efflux. By harnessing 5-ALA metabolic byproducts, this strategy achieved markedly prolonged anti-scar efficacy in the female rabbit ear HS tissues, surpassing that of conventional therapies.

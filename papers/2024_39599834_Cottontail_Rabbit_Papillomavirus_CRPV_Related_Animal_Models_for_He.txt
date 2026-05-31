@@ -1,0 +1,7 @@
+TITLE: Cottontail Rabbit Papillomavirus (CRPV) Related Animal Models for Head and Neck Cancer Research: A Comprehensive Review of the Literature.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/v16111722
+SOURCE: EuropePMC/MED/39599834
+
+Having suitable animal models is crucial to mimic human disease states and for the successful transfer of experimental data into clinical practice. In the field of papillomavirus research, the domestic rabbit (Oryctolagus cuniculus) has served as an indispensable model organism for almost 100 years. The identification and characterization of the first papillomaviruses in rabbits, their carcinogenic potential and their immunogenicity have contributed significantly to the state of knowledge on the genetics and life cycle of papillomaviruses in general, as well as the development of antiviral strategies such as vaccination procedures. Due to the high species specificity of papillomaviruses, only rabbit papillomaviruses (RPVs) can be used for animal studies on papilloma-based tumor diseases in the rabbit. The major focus of this article is on cottontail rabbit papillomavirus (CRPV)-related rabbit squamous cell carcinoma (RSCC). A brief history outlines the discovery and generation of experimentally used RSCC tumors. A comprehensive overview of the current CRPV-associated VX2 carcinoma-based tumor models with a major focus on human head and neck squamous cell carcinoma (HNSCC) tumor models is provided, and their strengths in terms of transferability to human HNSCC are discussed.

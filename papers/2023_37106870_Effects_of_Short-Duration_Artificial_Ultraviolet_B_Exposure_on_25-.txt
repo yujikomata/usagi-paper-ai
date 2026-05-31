@@ -1,0 +1,7 @@
+TITLE: Effects of Short-Duration Artificial Ultraviolet B Exposure on 25-Hydroxyvitamin D3 Concentrations in Domestic Rabbits (Oryctolagus cuniculus).
+YEAR: 2023
+JOURNAL: 
+DOI: 10.3390/ani13081307
+SOURCE: EuropePMC/MED/37106870
+
+Vitamin D is an important hormone that can be acquired through diet, exposure to ultraviolet B (UVB) radiation, or a combination of these methods. In domestic rabbits (Oryctolagus cuniculus), both methods appear viable, but there is limited research evaluating the effects of UVB on this species. Previous studies found that 12 h of artificial UVB radiation significantly increased 25-hydroxyvitamin D3 (25-OHD3) concentrations over time. While these findings suggest UVB can be beneficial in rabbits, this form of radiation can also be detrimental to vertebrates. The purpose of this study was to determine if shorter-duration UVB could elicit a similar physiological response in rabbits while minimizing potential negative effects. Six rabbits were used for this pilot study. The baseline serum 25-OHD3 was measured for each rabbit and following 14 days of 6 h/day exposure to artificial UVB, a second 25-OHD3 sample was collected. There was a significant increase (p = 0.001) in serum 25-OHD3 over time (Baseline: 27.7 ± 8.1 nmol/L; Day 14: 79.8 ± 9 nmol/L). This study affirmed that 6 h of UVB produced 25-OHD3 concentrations similar to those found in rabbits exposed to 12 h of UVB. Future studies should continue to determine how the duration of UVB exposure affects 25-OHD3 concentrations.

@@ -1,0 +1,7 @@
+TITLE: Corneal dose response from exposure to a <i>Q</i>-switched laser at a central wavelength of 1645 nm using a rabbit model.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1117/1.jbo.31.5.054703
+SOURCE: EuropePMC/MED/41685262
+
+SignificanceLaser safety studies of the eye are well documented for visible wavelength and continuous wave lasers. There are fewer experimental results for infrared wavelengths and pulsed lasers.AimWe aim to fill the gap at 1645 nm for single nanosecond pulse duration exposures of rabbit cornea and determine the threshold radiant exposure to generate lesions 50% of the time (estimated dose ED50 ).ApproachImages of the cornea during exposures were acquired using slit lamp microscopy and optical coherence tomography. A histological analysis helped provide dosimetry relationships with morphology and mechanisms of the damage.ResultsWe measured the energy ED50 value at 3.86±0.085  mJ utilizing the slit lamp biomicroscopy. Incorporating the experimental spot size diameter, this corresponds to a peak radiant exposure of 102  J/cm2 . By contrast, the average radiant exposure ED50 over a 1-mm diameter limiting aperture as per the ANSI Z.136 convention was 0.49  J/cm2 . Additional analysis via optical coherence tomography (OCT) and histology examined the severity and degree of damage.ConclusionThis experimental approach performed well to characterize damage and identify damage thresholds to inform the laser safety standard community of the accuracy of current exposure limits.

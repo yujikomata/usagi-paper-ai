@@ -1,0 +1,7 @@
+TITLE: Rabbit hemorrhagic disease virus type 2 epidemic in a rabbit colony in Japan.
+YEAR: 2021
+JOURNAL: 
+DOI: 10.1292/jvms.21-0007
+SOURCE: EuropePMC/MED/33828005
+
+Twenty-three of 42 European rabbits (Oryctolagus cuniculus), belonging to the same rabbit colony, died in March 2020 (55% mortality) in Chiba prefecture, Japan. The disease course was extremely acute without indicators of death or hemorrhage. Necropsy revealed liver swelling, discoloration, cloudiness and fragility, and pulmonary edema. Histologically, severe hepatocellular necrosis (mainly peripheral) and intra-glomerular capillary hyalin thrombi were observed. On molecular-biological examination, reverse transcription polymerase chain reaction analysis of RNA from tissues detected a rabbit hemorrhagic disease virus, confirmed as a RHDV-2 VP60 fragment, which shared 99.42% nucleotide identity with the homologous fragment of RHDV-2 German isolate by nucleotide sequence analysis. This report shows the outbreak of rabbit hemorrhagic disease caused by RHDV-2, an emerging infectious disease, in Japan.

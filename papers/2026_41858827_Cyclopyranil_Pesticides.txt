@@ -1,0 +1,7 @@
+TITLE: Cyclopyranil (Pesticides).
+YEAR: 2026
+JOURNAL: 
+DOI: 10.14252/foodsafetyfscj.d-26-00002
+SOURCE: EuropePMC/MED/41858827
+
+Food Safety Commission of Japan (FSCJ) conducted a risk assessment of cyclopyranil (CAS No. 1651191-47-7), a pyrazolylpyrazole herbicide, based on results from submitted documents. The data used in the assessment include fate in plants (paddy rice), residues in crops, fate in animals (rats), subacute toxicity (rats, mice and dogs), chronic toxicity (dogs), combined chronic toxicity/carcinogenicity (rats), carcinogenicity (mice), two-generation reproductive toxicity (rats), developmental toxicity (rats and rabbits) and genotoxicity. Major adverse effects of cyclopyranil were observed in body weight (suppressed weight gain), the liver (effects including organ weight increases and hepatocellular vacuolation), the kidney (effects including lipofuscin deposition in renal tubules), and the brain (cerebral neuropil and white matter vacuolation in dogs) (Table 1). Adverse effects were observed on neither fertility, teratogenicity, nor genotoxicity. The lowest NOAEL for potential adverse effects after a single oral administration of cyclopyranil was 60 mg/kg bw per day from the result of a developmental toxicity study in rabbits (Table 2). FSCJ specified an acute reference dose (ARfD) of 0.6 mg/kg bw by applying a safety factor of 100 to this NOAEL.

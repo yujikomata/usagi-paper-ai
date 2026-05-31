@@ -1,0 +1,7 @@
+TITLE: Sympathetic vasomotion as an early marker of hemorrhage.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3389/fphys.2025.1712566
+SOURCE: EuropePMC/MED/41394922
+
+IntroductionEach year, over 1.8 million people die from hemorrhagic shock, and, since the median time from onset to death is only two hours, early recognition is the cornerstone of management. The sympathetic nervous system is the fastest physiological hemodynamic compensatory mechanism, and we have developed a novel measure of sympathetic vascular control called sympathetic vasomotion which could serve as an early marker of hemorrhage.MethodsWe performed unilateral renal denervation on six rabbits and instrumented these rabbits with bilateral renal flow probes and arterial pressure telemeters to allow for measurement of sympathetic vasomotion in paired vascular beds that differed only by sympathetic innervation. After a two-week recovery period, conscious rabbits then underwent controlled blood withdrawal via an auricular arterial catheter to simulate hemorrhage.ResultsVasomotion differences between innervated and denervated kidneys in admittance gain, phase shift, and coherence increased significantly prior to increases in heart rate or decreases in blood pressure.DiscussionThese data suggest that sympathetic vasomotion could be a useful physiologically based biomarker for the early detection of hemorrhage. Further studies are needed to evaluate the utility of monitoring the sympathetic nervous system in clinical settings.

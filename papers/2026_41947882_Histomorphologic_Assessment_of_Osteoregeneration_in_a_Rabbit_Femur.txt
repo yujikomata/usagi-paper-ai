@@ -1,0 +1,7 @@
+TITLE: Histomorphologic Assessment of Osteoregeneration in a Rabbit Femur Model With Xenograft, Bone Morphogenetic Protein-2, Platelet-Rich Plasma, and Denosumab.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1097/gox.0000000000007593
+SOURCE: EuropePMC/MED/41947882
+
+BackgroundThis study investigated whether the combination of thermally processed bone xenograft (XG) and recombinant human bone morphogenetic protein-2 (rhBMP-2) with platelet-rich plasma (PRP) or Prolia (denosumab) can enhance bone regeneration in a rabbit femoral bone defect model.MethodsSeventy-two rabbits with created femoral bone defects (5 mm) were divided into 4 groups: (1) XG + rhBMP-2 + Prolia; (2) XG + rhBMP-2 + PRP; (3) XG + rhBMP-2; and (4) XG. At 14, 30, and 60 days after implantation, samples were prepared for histological and histomorphometric analysis.ResultsHistomorphometrically, on day 30, there were no statistically significant differences between groups regarding the amount of newly formed bone (P = 0.2231), but a reduction in residual graft in the intramedullary space was observed in the PRP group. On day 60, more intense formation of new bone with reduced intragroup variation in the amount of newly formed bone was found in the XG + rhBMP-2 + PRP group (P ConclusionsCombined therapy using thermally processed bone graft, rhBMP-2, and PRP improves bone healing in femoral defects in rabbits.

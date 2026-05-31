@@ -1,0 +1,7 @@
+TITLE: Light-induced analgesia provides a drug-free optical method for pain relief via activation of TRAAK k+ channels.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1038/s41467-025-67819-w
+SOURCE: EuropePMC/MED/41587988
+
+Pain management in animal experimentation is crucial for both ethical and scientific reasons, as unmanaged pain can distort physiological responses compromising data reliability. Current strategies are often invasive and pharmacology-based, introducing variability and confounding effects. Here, we present Light-Induced Analgesia, a drug-free, non-invasive method for pain relief in animals. We show that 365 nm illumination activates the pain-inhibitory TRAAK two-pore domain potassium (K2P) channel. This activation is driven by the oxidation of a native methionine at TRAAK's regulatory fenestration site, triggering a conformational switch from its inactive (down) to active (up) state. We further demonstrate that this mechanism can be transferred to other related K2Ps via a single-point mutation, rendering them light-sensitive. In rodents, gentle skin exposure to 365 nm is sufficient to activate endogenous TRAAK, silence nociceptors, and produce potent, long-lasting analgesia that outperforms standard treatments. Light-Induced Analgesia thus offers an effective, drug-free alternative that can enhance animal welfare and experimental reliability in preclinical research.

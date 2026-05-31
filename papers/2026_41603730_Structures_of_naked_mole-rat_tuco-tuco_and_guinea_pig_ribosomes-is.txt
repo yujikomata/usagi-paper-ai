@@ -1,0 +1,7 @@
+TITLE: Structures of naked mole-rat, tuco-tuco, and guinea pig ribosomes-is rRNA fragmentation linked to translational fidelity?
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1093/nar/gkag006
+SOURCE: EuropePMC/MED/41603730
+
+Ribosomes are central to protein synthesis in all organisms. In mammals, the ribosome functional core is highly conserved. Remarkably, two rodent species, the naked mole-rat (NMR) and tuco-tuco, display fragmented 28S ribosomal RNA (rRNA), coupled with high translational fidelity and long lifespan. The unusual ribosomal architecture in the NMR and tuco-tuco has been speculated to be linked to high translational fidelity. Here, we show, by single-particle cryo-electron microscopy, that despite the fragmentation of their rRNA, NMR and tuco-tuco ribosomes retain their core functional architecture. Compared to ribosomes of the guinea pig, a phylogenetically related rodent without 28S rRNA fragmentation, ribosomes of NMR and tuco-tuco exhibit poorly resolved density for certain expansion segments. In contrast, the structure of the guinea pig ribosome shows high similarity to the human ribosome. Enhanced translational fidelity in the NMR and tuco-tuco may stem from subtle, allosteric effects in dynamics, linked to rRNA fragmentation.

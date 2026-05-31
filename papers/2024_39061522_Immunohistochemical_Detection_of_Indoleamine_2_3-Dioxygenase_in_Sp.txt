@@ -1,0 +1,7 @@
+TITLE: Immunohistochemical Detection of Indoleamine 2,3-Dioxygenase in Spontaneous Mammary Carcinomas of 96 Pet Rabbits.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/ani14142060
+SOURCE: EuropePMC/MED/39061522
+
+For mammary carcinomas in pet rabbits, prognostic biomarkers are poorly defined, and treatment is limited to surgical excision. Additional treatment options are needed for rabbit patients for which surgery is not a suitable option. In human breast cancer, the immunosuppressive enzyme indoleamine 2,3-dioxygenase 1 (IDO1) represents a prognostic biomarker and possible therapeutic target. This retrospective immunohistochemical study examined IDO1 in 96 pet rabbit mammary carcinomas with known mitotic count, hormone receptor status, and percentage of stromal tumor infiltrating lymphocytes (TILs). Tumors were obtained from 96 pet rabbits with an average of 5.5 years. All rabbits with reported sex (n = 88) were female or female-spayed. Of the carcinomas, 94% expressed IDO1, and 86% had sparse TILs consistent with cold tumors. Statistically significant correlations existed between a higher percentage of IDO1-positive tumor cells, lower mitotic counts, and increased estrogen receptor expression. The threshold for significance was IDO1 staining in >10% of tumor cells. These results lead to the assumption that IDO1 expression contributes to tumorigenesis and may represent a prognostic biomarker and possible therapeutic target also in pet rabbit mammary carcinomas. They also support the value of rabbits for breast cancer research.

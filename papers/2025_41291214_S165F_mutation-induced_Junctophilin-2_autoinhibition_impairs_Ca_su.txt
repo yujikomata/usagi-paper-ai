@@ -1,0 +1,7 @@
+TITLE: S165F mutation-induced Junctophilin-2 autoinhibition impairs Ca<sup>2+</sup> signaling in hypertrophic cardiomyopathy.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1038/s42003-025-09244-9
+SOURCE: EuropePMC/MED/41291214
+
+Hypertrophic cardiomyopathy (HCM) is a common inherited cardiac disorder often linked to mutations in various genes, including junctophilin-2 (JPH2), a key non-sarcomeric protein essential for forming junctional membrane complexes between the plasma membrane (PM) and endoplasmic/sarcoplasmic reticulum (ER/SR). Deciphering the molecular mechanisms behind these mutations is crucial for the development of effective therapies. In this study, we investigate the pathological effects of the HCM-associated S165F mutation in JPH2. Through integrated structural and biochemical analyses, we demonstrate that the S165F mutation induces an unintended intramolecular interaction in JPH2, disrupting its normal interaction with CaV1.2. This mutation compromises ER-PM junctions and disrupts Ca2+ signaling, leading to cellular hypertrophy in COS7 and H9c2 cell models. Furthermore, zebrafish overexpressing JPH2_S165F exhibit cardiac dysfunction, including pericardial edema and reduced heart rate. Notably, treatment with the ryanodine receptor agonist PCB-95 ameliorates these phenotypes, underscoring its potential clinical relevance. These findings offer new insights into the molecular mechanisms of JPH2-related HCM and provide a foundation for exploring novel therapeutic interventions.

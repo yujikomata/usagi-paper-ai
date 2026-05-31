@@ -1,0 +1,7 @@
+TITLE: The opportunistic protist, Giardia intestinalis, occurs in gut-healthy humans in a high-income country.
+YEAR: 2023
+JOURNAL: 
+DOI: 10.1080/22221751.2023.2270077
+SOURCE: EuropePMC/MED/37815802
+
+Giardia intestinalis, a cosmopolitan gastrointestinal protist, is detected mainly in patients with clinical giardiasis in high-income countries. In contrast, there is very little information on the presence of Giardia in asymptomatic individuals. Therefore, the aim of this study was to determine the presence and prevalence of Giardia in gut-healthy volunteers in the Czech Republic and to perform a comparative evaluation of different diagnostic methods, since Giardia diagnostics is complicated. Our results confirmed that the qPCR method is the most sensitive method for detecting Giardia and revealed a prevalence of 7% (22/296) in asymptomatic individuals. In most cases, the colonization intensity ranged from 10-1-101. A conventional PCR protocol targeting the TPI gene was used to identify the assemblages. However, this protocol had limited sensitivity for Giardia amplification, effectively detecting colonization above an intensity of 104. In addition, Giardia was detected in 19% of the animals, which were closely associated with the study participants. However, due to methodological limitations, zoonotic transmission could not be clearly confirmed. Notably, contact with animals proved to be the only factor that had a significant impact on the incidence of Giardia in gut-healthy humans.

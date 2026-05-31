@@ -1,0 +1,7 @@
+TITLE: Characterization of Post-Mortem pH Evolution and Rigor Mortis Process in Botucatu Rabbit Carcasses of Different Categories.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/ani14172502
+SOURCE: EuropePMC/MED/39272287
+
+The aim of the present study was to evaluate the characteristics of carcasses, monitor their pH evolution during the first 24 h post-mortem, and determine the time required for the establishment and resolution of rigor mortis in different categories of Botucatu rabbits. Live weight at slaughter, carcass weight, and yield were higher in 12-month-old animals compared to 3-month-old rabbits, regardless of sex. There was an effect of muscle type, age, and sex on the kinetics of muscle acidification, with the Biceps femoris showing a significantly higher pH than the Longissimus lumborum from 4 h post-mortem onward. The establishment of rigor mortis occurred at 5 h post-mortem in young rabbits and bucks and at 6 h post-mortem in does, along with pH stabilization, while the resolution of rigor occurred at 18 h post-mortem for all types of carcasses evaluated. In conclusion, Botucatu rabbit carcasses should be chilled continuously at 4 °C for a minimum of 18 h to ensure efficient rigor mortis progression and muscle-to-meat transformation throughout the carcass.

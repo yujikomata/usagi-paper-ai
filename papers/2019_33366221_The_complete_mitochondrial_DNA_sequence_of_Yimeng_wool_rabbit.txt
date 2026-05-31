@@ -1,0 +1,7 @@
+TITLE: The complete mitochondrial DNA sequence of Yimeng wool rabbit.
+YEAR: 2019
+JOURNAL: 
+DOI: 10.1080/23802359.2019.1687022
+SOURCE: EuropePMC/MED/33366221
+
+Yimeng wool rabbit is a national breed of geographical indication in China. The complete mitochondrial genome sequence of Yimeng wool rabbit was first determined in this study (Accession number MN296708). The mitogenome (16,740 bp) consists of 22 tRNA genes, 2 ribosomal RNA genes, 13 protein-coding genes, and 1 control region (D-loop region). The complete mitochondrial genome sequence of the Yimeng wool rabbit enriches data resource for further study in genetic mechanism and classification.

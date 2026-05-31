@@ -1,0 +1,7 @@
+TITLE: Matrix Metalloproteinase-9 Enhances Osteoclastogenesis: Insights from Transgenic Rabbit Bone Marrow Models and In Vitro Studies.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/ijms26073194
+SOURCE: EuropePMC/MED/40244002
+
+Osteoclastogenesis is tightly regulated by receptor activator of nuclear factor kappa-B ligand (RANKL) signaling, yet the role of matrix metalloproteinase-9 (MMP-9) in this process remains controversial. We established a high-yield osteoclastogenesis system using cryopreserved rabbit bone marrow cells (1 × 109 cells/femur) treated with Macrophage colony-stimulating factor (M-CSF) and RANKL. Bone marrow cells from MMP-9 transgenic rabbits (macrophage-specific overexpression) and MMP-9-transfected RAW264.7 macrophages were compared to wild-type controls. MMP-9 overexpression increased osteoclastogenesis 5.5-fold (20 ng/mL RANKL, * p IL-1β, TNF-α). RAW264.7 macrophages stably transfected with human MMP-9 similarly exhibited reduced inflammatory cytokine levels and enhanced osteoclastogenesis. MMP-9 acts as a dual regulator of osteoclastogenesis and inflammation, suggesting therapeutic potential for osteoporosis management.

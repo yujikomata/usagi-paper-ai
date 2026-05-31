@@ -1,0 +1,7 @@
+TITLE: Physicochemical and Sensorial Profile of Meat from Two Rabbit Breeds with Application of High-Intensity Ultrasound.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.3390/foods14061059
+SOURCE: EuropePMC/MED/40232083
+
+The application high-intensity ultrasound (HIU) in rabbit meat has shown promising results for improving its palatability and commercial value. This study aimed to evaluate the effect of HIU application in meat from two rabbit breeds (Flemish Giant, FG and Azteca Negro, AN) on its physicochemical parameters (PQs) and sensory profile (SEN). Five carcasses of each breed were frozen and dorsally cut into half carcasses. HIU was applied (20 min, 50 kHz, and 200 W) to one randomly selected half carcass of each rabbit. PQs evaluated were pH, color (L*, a*, and b*), chroma (C*), hue angle (HUE), water holding capacity (WHC), collagen content, and shear force (SF). Color, odor, flavor, and texture were evaluated for the SEN. Statistical analysis was performed using ANOVA, adjusting a general mixed model with the fixed effects of treatment, breed, and their interaction. Significant interaction differences (p p a*, b*, C*, and on the descriptors of the sensory attribute color. HIU had an effect (p L*, a*, HUE, C*, and SF, as well as on sensory descriptors like texture and color. HIU increases the physicochemical and sensory perception of the tenderness of the meat of both breeds.

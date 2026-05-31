@@ -1,0 +1,7 @@
+TITLE: Differential contribution of T-type voltage-gated calcium channels to vascular reactivity in the aorta and renal artery of healthy rabbits.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.1113/ep093044
+SOURCE: EuropePMC/MED/41145982
+
+T-type voltage-gated calcium channels (VGCCs) are comparatively understudied in large conduit artery function relative to the well-characterized L-type channel subtype. This study investigates the vascular roles of T-type VGCCs in the aorta and renal artery of healthy rabbits using functional reactivity assays and immunofluorescence and further elucidates the interaction between T-type VGCC activity and the nitric oxide (NO) signalling pathway. T-type VGCCs contributed to contractile responses induced by phenylephrine and angiotensin II in both arteries. Moreover, in the renal artery, the contribution of T-type VGCCs in response to phenylephrine increased in the absence of NO and was associated with endothelium-dependent vasodilation. Immunofluorescence analysis revealed co-localization of CaV3.1 with endothelial nitric oxide synthase in the renal artery, but not in the aorta, suggesting a vasodilatory role in renal circulation. These findings highlight vascular bed-specific functions of T-type VGCCs and their interaction with endothelial pathways in the renal artery.

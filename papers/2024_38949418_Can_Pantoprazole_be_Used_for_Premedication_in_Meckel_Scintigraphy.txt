@@ -1,0 +1,7 @@
+TITLE: Can Pantoprazole be Used for Premedication in Meckel Scintigraphy?
+YEAR: 2024
+JOURNAL: 
+DOI: 10.4274/mirt.galenos.2024.48254
+SOURCE: EuropePMC/MED/38949418
+
+ObjectivesMeckel scintigraphy is used to diagnose Meckel's diverticulum. Previously, premedication with ranitidine was the most frequently used method to increase the accuracy of scintigraphy. However, ranitidine can no longer be used because it is banned by the Food and Drug Administration. The aim of this study was to investigate the usability of pantoprazole as a premedication instead of ranitidine in Meckel scintigraphy.MethodsTwelve New Zealand rabbits were used in this experimental study. Rabbits were divided into two groups: pantoprazole and control. Six rabbits were premedicated with pantoprazole for three days. Meckel scintigraphy was performed on all rabbits. Counts were made and compared by drawing regions of interest from the stomach walls.ResultsAccording to the findings of this experimental study, pantoprazole significantly increased Tc-99m-pertechnetate uptake in the stomach of rabbits on both visual and quantitative evaluation.ConclusionPantoprazole increases the gastric wall uptake of Tc-99m-pertechnetate in rabbits and is a potential drug for premedication in Meckel scintigraphy.

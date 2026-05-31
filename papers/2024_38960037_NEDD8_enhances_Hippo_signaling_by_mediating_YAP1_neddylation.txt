@@ -1,0 +1,7 @@
+TITLE: NEDD8 enhances Hippo signaling by mediating YAP1 neddylation.
+YEAR: 2024
+JOURNAL: 
+DOI: 10.1016/j.jbc.2024.107512
+SOURCE: EuropePMC/MED/38960037
+
+The Hippo-YAP signaling pathway plays a central role in many biological processes such as regulating cell fate, organ size, and tissue growth, and its key components are spatiotemporally expressed and posttranslationally modified during these processes. Neddylation is a posttranslational modification that involves the covalent attachment of NEDD8 to target proteins by NEDD8-specific E1-E2-E3 enzymes. Whether neddylation is involved in Hippo-YAP signaling remains poorly understood. Here, we provide evidence supporting the critical role of NEDD8 in facilitating the Hippo-YAP signaling pathway by mediating neddylation of the transcriptional coactivator yes-associated protein 1 (YAP1). Overexpression of NEDD8 induces YAP1 neddylation and enhances YAP1 transactivity, but inhibition of neddylation suppresses YAP1 transactivity and attenuates YAP1 nuclear accumulation. Furthermore, inhibition of YAP1 signaling promotes MLN4924-induced ovarian granulosa cells apoptosis and disruption of nedd8 in zebrafish results in downregulation of yap1-activated genes and upregulation of yap1-repressed genes. Further assays show that the xiap ligase promotes nedd8 conjugates to yap1 and that yap1 neddylation. In addition, we identify lysine 159 as a major neddylation site on YAP1. These findings reveal a novel mechanism for neddylation in the regulation of Hippo-YAP signaling.

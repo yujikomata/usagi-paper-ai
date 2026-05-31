@@ -1,0 +1,7 @@
+TITLE: Coding-Complete Genome Sequences of Emerging Rabbit Hemorrhagic Disease Virus Type 2 Isolates Detected in 2020 in the United States.
+YEAR: 2021
+JOURNAL: 
+DOI: 10.1128/mra.01064-20
+SOURCE: EuropePMC/MED/33414291
+
+Five rabbit hemorrhagic disease virus type 2 (RHDV2) coding-complete genome sequences were obtained from the livers of domestic and wild rabbits during the 2020 outbreak in the United States. These represent the first available RHDV2 sequences from the United States.

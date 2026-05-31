@@ -1,0 +1,7 @@
+TITLE: A Randomized, Placebo-Controlled, Blinded Clinical Trial Evaluating PCSO-524 as an Adjunctive Therapy for Noninfectious Pododermatitis in Rabbits.
+YEAR: 2025
+JOURNAL: 
+DOI: 10.1155/vmi/4177859
+SOURCE: EuropePMC/MED/41497368
+
+This study evaluated the efficacy and safety of PCSO-524, a natural supplement containing omega-3 fatty acids, as an adjunctive therapy for noninfectious pododermatitis (Grades 1-2) in rabbits. In a randomized, placebo-controlled, blinded trial, 23 rabbits with noninfectious pododermatitis received either PCSO-524 or a placebo along with standard treatments for 56 days. PCSO-524 supplementation led to a statistically significant reduction in the mean lesion size of both hind limbs within the PCSO group compared to baseline (Day 0: 98.55 ± 52.75 mm2, Day 56: 53.18 ± 21.54 mm2; p = 0.002), while the placebo group did not show significant changes (Day 0: 93.98 ± 43.88 mm2, Day 56: 75.61 ± 115.68 mm2; p = 0.58). Both groups exhibited alterations in white blood cell populations (increased monocytes, decreased eosinophils) within normal ranges, and a consistently elevated heterophil-to-lymphocyte ratio (HLR; > 1:1). No adverse events were associated with PCSO-524. This study provides initial evidence for the safety and potential efficacy of a natural supplement containing omega-3 fatty acids as an adjunctive therapy for noninfectious pododermatitis in rabbits.

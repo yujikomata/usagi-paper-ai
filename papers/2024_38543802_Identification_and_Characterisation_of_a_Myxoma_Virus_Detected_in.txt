@@ -1,0 +1,7 @@
+TITLE: Identification and Characterisation of a Myxoma Virus Detected in the Italian Hare (Lepus corsicanus).
+YEAR: 2024
+JOURNAL: 
+DOI: 10.3390/v16030437
+SOURCE: EuropePMC/MED/38543802
+
+Myxoma virus (MYXV) is a Leporipoxvirus (genus) belonging to the family Poxviridae; it is characterised by a genome of approximately 161 kb dsDNA encoding for several proteins that play an essential role in both host spectrum determination and immunomodulation. The healthy reservoir of the virus is Sylvilagus spp. At the same time, in wild and domestic European rabbits (Oryctolagus cuniculus), MYXV is the etiologic agent of myxomatosis, a disease with an extremely high mortality rate. In 2014, an interspecies jump of MYXV was reported in Lepus europaeus in the UK. In 2018, myxomatosis induced by a new recombinant strain called MYXV-To was identified during a large outbreak in Iberian hares (Lepus granatensis) in Spain. Here, we describe the case of myxomatosis in another hare species: an adult male Italian hare (Lepus corsicanus) found dead in 2018 in Sicily with lesions suggestive of myxomatosis and treponema infection. Laboratory tests, e.g., end-point PCR and negative staining electron microscopy, confirmed the presence of both pathogens. MYXV was then isolated from tissue samples in permissive cells and sequenced using NGS technology. Main genomic differences concerning known MYXV strains are discussed.

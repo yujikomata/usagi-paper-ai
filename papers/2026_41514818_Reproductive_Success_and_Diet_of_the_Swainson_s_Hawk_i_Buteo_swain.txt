@@ -1,0 +1,7 @@
+TITLE: Reproductive Success and Diet of the Swainson's Hawk (<i>Buteo swainsoni</i>) in the Grasslands of Janos, Chihuahua, Mexico.
+YEAR: 2026
+JOURNAL: 
+DOI: 10.3390/ani16010131
+SOURCE: EuropePMC/MED/41514818
+
+Understanding the breeding ecology and trophic dynamics of the Swainson's Hawk (Buteo swainsoni) is essential for conserving grassland raptor populations in northern Mexico. We evaluated reproductive success, nest-site characteristics, and diet of the species in the grasslands of Janos, Chihuahua, during the 2006 breeding season. Eighteen nests were monitored to estimate daily survival rates (DSRs) using the Mayfield method. Overall nest success was 44.4%. DSR declined significantly from incubation (0.99 ± 0.00079) to the nestling stage (0.98 ± 0.00087; z = 8.5, p 2 = 23.19, p < 0.001). These results highlight the species' reliance on vertebrate prey and the vulnerability of the nestling stage, underscoring the importance of long-term monitoring in semi-arid grasslands.
