@@ -35,6 +35,36 @@ st.title("🐰 うさぎ論文AI")
 st.caption("世界中のオープンアクセスのうさぎ論文に基づいて回答します / Answers grounded in open-access rabbit research papers")
 
 
+@st.cache_data
+def load_paper_list():
+    import json
+    path = os.path.join(PAPERS_DIR, "index.json")
+    if not os.path.exists(path):
+        return []
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+    return sorted(data, key=lambda x: (str(x.get("year", "")), x.get("title", "")), reverse=True)
+
+
+with st.sidebar:
+    papers = load_paper_list()
+    st.header(f"📚 収録論文一覧（{len(papers)}本）")
+    st.caption("出典: Europe PMC オープンアクセス論文")
+    kw = st.text_input("タイトルで絞り込み", "")
+    shown = [p for p in papers if kw.lower() in p.get("title", "").lower()] if kw else papers
+    st.caption(f"{len(shown)}本を表示")
+    for p in shown[:300]:
+        doi = p.get("doi", "")
+        title = p.get("title", "")
+        year = p.get("year", "")
+        if doi:
+            st.markdown(f"- [{title}](https://doi.org/{doi}) ({year})")
+        else:
+            st.markdown(f"- {title} ({year})")
+    if len(shown) > 300:
+        st.caption(f"…ほか {len(shown) - 300} 本（絞り込み検索をご利用ください）")
+
+
 def _parse_header(text):
     meta, body_start = {}, 0
     lines = text.splitlines()
